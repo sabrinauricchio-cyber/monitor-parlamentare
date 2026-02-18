@@ -138,7 +138,7 @@ function urgenzaMassima(fasi) {
 // URL del JSON prodotto dalla pipeline e pubblicato su GitHub Pages.
 // SOSTITUIRE con l'URL reale del proprio repository GitHub Pages.
 // Formato: https://<username>.github.io/<repository>/atti_estratti.json
-const FEED_URL = "https://TUO_USERNAME.github.io/TUO_REPO/atti_estratti.json";
+const FEED_URL = "https://sabrinauricchio-cyber.github.io/monitor-parlamentare/atti_estratti.json";
 
 // Normalizza un atto proveniente dal JSON della pipeline
 function normalizzaAtto(a) {
