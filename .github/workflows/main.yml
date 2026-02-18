@@ -36,7 +36,7 @@ jobs:
         run: pip install requests beautifulsoup4 lxml
 
       - name: Esegui pipeline
-        run: python src/pipeline.py
+       run: python src/pipeline.py || python pipeline.py
 
       - name: Verifica output
         run: |
