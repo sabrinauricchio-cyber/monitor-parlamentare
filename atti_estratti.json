@@ -1,0 +1,11 @@
+{
+  "pipeline_run": {
+    "timestamp": "in attesa della prima esecuzione",
+    "versione_motore": "1.0.0",
+    "fonti_interrogate": [],
+    "n_atti_estratti": 0,
+    "n_atti_con_segnali": 0,
+    "n_alert": 0
+  },
+  "atti": []
+}
