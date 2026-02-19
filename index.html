@@ -35,6 +35,11 @@
     .session-text { font-family: 'EB Garamond', serif; font-size: 14px; color: var(--navy); font-style: italic; }
     .session-text strong { font-style: normal; font-weight: 600; }
     .session-badge { font-family: 'Roboto Mono', monospace; font-size: 10px; letter-spacing: 2px; color: var(--navy); background: rgba(15,30,60,0.15); padding: 4px 12px; border-radius: 2px; }
+    .refresh-btn { font-family: 'Roboto Mono', monospace; font-size: 10px; letter-spacing: 2px; color: var(--navy); background: white; border: 1px solid var(--navy); padding: 5px 14px; border-radius: 2px; cursor: pointer; transition: all 0.2s; display: flex; align-items: center; gap: 6px; }
+    .refresh-btn:hover { background: var(--navy); color: white; }
+    .refresh-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+    .refresh-spin { display: inline-block; }
+    .refresh-spin.spinning { animation: spin 1s linear infinite; }
 
     .layout { display: grid; grid-template-columns: 300px 1fr; max-width: 1440px; margin: 0 auto; }
 
@@ -196,7 +201,12 @@
   <div class="session-text" id="session-text">
     <strong>Caricamento in corso…</strong>
   </div>
-  <div class="session-badge" id="session-badge">● LIVE</div>
+  <div style="display:flex;align-items:center;gap:10px">
+    <div class="session-badge" id="session-badge">● LIVE</div>
+    <button class="refresh-btn" id="refresh-btn" onclick="aggiornaFeed()">
+      <span class="refresh-spin" id="refresh-icon">↺</span> Aggiorna
+    </button>
+  </div>
 </div>
 
 <div class="layout">
@@ -549,45 +559,59 @@ function toggleSeguito(id) {
 }
 
 // ── FETCH FEED ────────────────────────────────────────────────────────────────
-fetch(FEED_URL)
-  .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
-  .then(json => {
-    ATTI = (json.atti || []).map(normalizzaAtto);
-    const run = json.pipeline_run || {};
+function caricaFeed() {
+  return fetch(FEED_URL + '?t=' + Date.now())
+    .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+    .then(json => {
+      ATTI = (json.atti || []).map(normalizzaAtto);
+      const run = json.pipeline_run || {};
+      const ts = run.timestamp || "";
+      document.getElementById("session-text").innerHTML =
+        `<strong>Assemblea del Senato della Repubblica</strong> — XIX Legislatura` +
+        (ts ? ` &nbsp;·&nbsp; Aggiornato: ${ts.slice(0,16).replace("T"," ")} UTC` : "");
+      const badge = document.getElementById("feed-badge");
+      badge.style.background = "rgba(15,30,60,0.92)";
+      badge.innerHTML = `<div style="color:var(--gold);margin-bottom:2px">✓ Dati aggiornati</div>
+        <div style="opacity:.6">${ts.slice(0,16).replace("T"," ")} UTC</div>
+        ${(run.n_alert||0) > 0 ? `<div style="color:#fcd34d;margin-top:4px">⚠ ${run.n_alert} alert</div>` : ""}`;
+      renderFiltriRamo();
+      renderFiltriFase();
+      renderAtti();
+    });
+}
 
-    // aggiorna session banner
-    const ts = run.timestamp || "";
-    document.getElementById("session-text").innerHTML =
-      `<strong>Assemblea del Senato della Repubblica</strong> — XIX Legislatura` +
-      (ts ? ` &nbsp;·&nbsp; Aggiornato: ${ts.slice(0,16).replace("T"," ")} UTC` : "");
+function aggiornaFeed() {
+  const btn = document.getElementById("refresh-btn");
+  const icon = document.getElementById("refresh-icon");
+  btn.disabled = true;
+  icon.classList.add("spinning");
+  caricaFeed()
+    .catch(err => {
+      console.error(err);
+      document.getElementById("feed-badge").style.background = "#991b1b";
+      document.getElementById("feed-badge").innerHTML = `<div style="font-weight:600">⚠ Feed non disponibile</div>`;
+    })
+    .finally(() => {
+      btn.disabled = false;
+      icon.classList.remove("spinning");
+    });
+}
 
-    // badge feed
-    const badge = document.getElementById("feed-badge");
-    badge.style.background = "rgba(15,30,60,0.92)";
-    badge.innerHTML = `<div style="color:var(--gold);margin-bottom:2px">✓ Dati aggiornati</div>
-      <div style="opacity:.6">${ts.slice(0,16).replace("T"," ")} UTC</div>
-      ${(run.n_alert||0) > 0 ? `<div style="color:#fcd34d;margin-top:4px">⚠ ${run.n_alert} alert</div>` : ""}`;
-
-    renderFiltriRamo();
-    renderFiltriFase();
-    renderAtti();
-  })
-  .catch(err => {
-    console.error(err);
-    document.getElementById("feed-badge").style.background = "#991b1b";
-    document.getElementById("feed-badge").innerHTML =
-      `<div style="font-weight:600;margin-bottom:4px">⚠ Feed non disponibile</div>
-       <div style="opacity:.8;font-size:9px">Verificare la configurazione</div>`;
-    document.getElementById("page-kicker").textContent = "Feed non raggiungibile";
-    document.getElementById("atti-grid").innerHTML =
-      `<div class="empty-state">
-        <div class="empty-icon">⚠</div>
-        <div class="empty-title">Dati non disponibili</div>
-        <div class="empty-sub">La pipeline non ha ancora pubblicato dati. Rieseguire il workflow su GitHub Actions.</div>
-      </div>`;
-    // Init filtri vuoti
-    renderFiltriRamo(); renderFiltriFase();
-  });
+caricaFeed().catch(err => {
+  console.error(err);
+  document.getElementById("feed-badge").style.background = "#991b1b";
+  document.getElementById("feed-badge").innerHTML =
+    `<div style="font-weight:600;margin-bottom:4px">⚠ Feed non disponibile</div>
+     <div style="opacity:.8;font-size:9px">Verificare la configurazione</div>`;
+  document.getElementById("page-kicker").textContent = "Feed non raggiungibile";
+  document.getElementById("atti-grid").innerHTML =
+    `<div class="empty-state">
+      <div class="empty-icon">⚠</div>
+      <div class="empty-title">Dati non disponibili</div>
+      <div class="empty-sub">La pipeline non ha ancora pubblicato dati. Rieseguire il workflow su GitHub Actions.</div>
+    </div>`;
+  renderFiltriRamo(); renderFiltriFase();
+});
 </script>
 </body>
 </html>
