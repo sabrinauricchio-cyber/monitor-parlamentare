@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-11 17:04",
+  "aggiornato_il": "2026-06-11 19:56",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,13 @@
   ],
   "numero_atti": 45,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo in materia di energia nucleare sostenibile",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-11",
+      "link": "http://dati.senato.it/ddl/60187"
+    },
     {
       "ramo": "Senato",
       "titolo": "Modifiche al decreto-legge 22 dicembre 2011, n. 211, convertito, con modificazioni, dalla legge 17 febbraio 2012, n. 9, in materia di residenze per l'esecuzione delle misure di sicurezza",
@@ -46,15 +53,15 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali",
-      "stato": "all'esame assemblea",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali",
+      "stato": "approvato",
       "data": "2026-06-11",
       "link": "http://dati.senato.it/ddl/60111"
     },
     {
       "ramo": "Senato",
       "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all'occupazione e di contrasto del caporalato digitale",
-      "stato": "da assegn. a commis.",
+      "stato": "assegnato (no esame)",
       "data": "2026-06-11",
       "link": "http://dati.senato.it/ddl/60201"
     },
@@ -71,6 +78,27 @@
       "stato": "assegnato (no esame)",
       "data": "2026-06-11",
       "link": "http://dati.senato.it/ddl/60158"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione delle sezioni specializzate in materia digitale e modifiche al decreto legislativo 27 giugno 2003, n. 168",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-11",
+      "link": "http://dati.senato.it/ddl/60202"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disciplina dell'educazione permanente e della formazione degli adulti",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-11",
+      "link": "http://dati.senato.it/ddl/60204"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-11",
+      "link": "http://dati.senato.it/ddl/60205"
     },
     {
       "ramo": "Senato",
@@ -302,34 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-10",
       "link": "http://dati.senato.it/ddl/59476"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge quadro per la salute e la sicurezza nelle piscine",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59489"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti",
-      "stato": "approvato",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59503"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59590"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59779"
     }
   ]
 }
