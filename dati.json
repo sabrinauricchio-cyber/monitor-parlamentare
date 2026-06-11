@@ -1,12 +1,12 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-11 14:16",
+  "aggiornato_il": "2026-06-11 15:58",
   "fonti": [
     {
       "fonte": "Senato",
       "esito": "OK",
-      "dettaglio": "50 atti"
+      "dettaglio": "45 atti (scartate 5 righe con date anomale o duplicate)"
     },
     {
       "fonte": "Camera",
@@ -14,43 +14,8 @@
       "dettaglio": "Fonte non raggiungibile: Expecting value: line 1 column 1 (char 0)"
     }
   ],
-  "numero_atti": 50,
+  "numero_atti": 45,
   "atti": [
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all' articolo 2 del decreto-legge 30 gennaio 1999, n. 15, convertito, con modificazioni, dalla legge 29 marzo 1999, n. 78, in materia di titolarita' dei diritti di trasmissione televisiva dei campionati di calcio",
-      "stato": "concluso l'esame",
-      "data": "2996-11-19",
-      "link": "http://dati.senato.it/ddl/27023"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di titolarita' dei diritti di trasmissione televisiva delle competizioni calcistiche professionistiche",
-      "stato": "concluso l'esame",
-      "data": "2996-11-19",
-      "link": "http://dati.senato.it/ddl/26943"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all' articolo 2 del decreto-legge 30 gennaio 1999, n. 15, convertito, con modificazioni, dalla legge 29 marzo 1999, n. 78, in materia di titolarita'  dei diritti di trasmissione televisiva in forma codificata dei campionati di calcio",
-      "stato": "concluso l'esame",
-      "data": "2996-11-19",
-      "link": "http://dati.senato.it/ddl/25904"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all' articolo 2 del decreto-legge 30 gennaio 1999, n. 15, convertito, con modificazioni, dalla legge 29 marzo 1999, n. 78, in materia di titolarita' dei diritti di trasmissione televisiva in forma codificata dei campionati di calcio",
-      "stato": "concluso l'esame",
-      "data": "2996-11-19",
-      "link": "http://dati.senato.it/ddl/25060"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all' articolo 2 del decreto-legge 30 gennaio 1999, n. 15, convertito, con modificazioni, dalla legge 29 marzo 1999, n. 78, in materia di titolarita' dei diritti di trasmissione televisiva dei campionati di calcio e di destinazione dei relativi proventi",
-      "stato": "concluso l'esame",
-      "data": "2996-11-19",
-      "link": "http://dati.senato.it/ddl/25207"
-    },
     {
       "ramo": "Senato",
       "titolo": "Modifiche al decreto-legge 22 dicembre 2011, n. 211, convertito, con modificazioni, dalla legge 17 febbraio 2012, n. 9, in materia di residenze per l'esecuzione delle misure di sicurezza",
