@@ -1,0 +1,36 @@
+# ============================================================
+#  MONITOR PARLAMENTARE - ELENCO DEI FEED DA SEGUIRE
+# ============================================================
+#
+#  COME SI COMPILA QUESTO FILE
+#
+#  Ogni riga e' un feed, scritta cosi' (etichetta, barra verticale, indirizzo):
+#
+#      Camera - OdG Assemblea | https://indirizzo-del-feed.xml
+#
+#  Le righe che iniziano con # sono commenti e vengono ignorate.
+#
+#  DOVE TROVARE GLI INDIRIZZI (2 minuti, dal tuo browser):
+#
+#  CAMERA  ->  apri  https://www.camera.it/leg19/68
+#              Trovi l'elenco dei feed (Ordine del Giorno dell'Assemblea,
+#              Resoconti, le singole Commissioni, "Oggi in commissione"...).
+#              Su ogni voce: clic con il tasto DESTRO -> "Copia indirizzo link"
+#              e incollalo qui sotto, dopo la barra verticale.
+#
+#  SENATO  ->  apri  https://dati.senato.it/sito/feed_rss
+#              (in alternativa: su senato.it, in fondo alla pagina,
+#              c'e' il collegamento "Feed RSS").
+#              Stessa cosa: tasto destro sul feed -> copia indirizzo -> incolla.
+#
+#  CONSIGLIO: comincia con 3-4 feed (es. OdG Assemblea Camera, comunicati
+#  Aula Senato, e le 1-2 Commissioni che segui di piu'). Potrai sempre
+#  aggiungerne altri modificando questo file direttamente su GitHub
+#  (icona a matita) - al salvataggio, il prossimo aggiornamento li legge.
+#
+#  ESEMPIO (da sostituire con gli indirizzi veri copiati dal browser):
+#
+# Camera - OdG Assemblea | https://INCOLLA-QUI-L-INDIRIZZO
+# Senato - Comunicati Aula | https://INCOLLA-QUI-L-INDIRIZZO
+#
+# ============================================================
