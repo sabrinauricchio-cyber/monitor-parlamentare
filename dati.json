@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-12 12:47",
+  "aggiornato_il": "2026-06-12 16:09",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,10 +18,38 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Delega al Governo in materia di energia nucleare sostenibile",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-11",
+      "link": "http://dati.senato.it/ddl/60187"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
+      "stato": "esame in comm.",
+      "data": "2026-06-11",
+      "link": "http://dati.senato.it/ddl/59875"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche al decreto-legge 22 dicembre 2011, n. 211, convertito, con modificazioni, dalla legge 17 febbraio 2012, n. 9, in materia di residenze per l'esecuzione delle misure di sicurezza",
       "stato": "assegnato (no esame)",
       "data": "2026-06-11",
       "link": "http://dati.senato.it/ddl/59940"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione dell'area marina protetta «Isola di Capri»",
+      "stato": "esame in comm.",
+      "data": "2026-06-11",
+      "link": "http://dati.senato.it/ddl/59855"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 36 della legge 6 dicembre 1991, n. 394, e altre disposizioni in materia di istituzione dell'area marina protetta dell'isola di Capri",
+      "stato": "esame in comm.",
+      "data": "2026-06-11",
+      "link": "http://dati.senato.it/ddl/58541"
     },
     {
       "ramo": "Senato",
@@ -46,15 +74,15 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali",
-      "stato": "all'esame assemblea",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali",
+      "stato": "approvato",
       "data": "2026-06-11",
       "link": "http://dati.senato.it/ddl/60111"
     },
     {
       "ramo": "Senato",
       "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all'occupazione e di contrasto del caporalato digitale",
-      "stato": "da assegn. a commis.",
+      "stato": "esame in comm.",
       "data": "2026-06-11",
       "link": "http://dati.senato.it/ddl/60201"
     },
@@ -71,6 +99,34 @@
       "stato": "assegnato (no esame)",
       "data": "2026-06-11",
       "link": "http://dati.senato.it/ddl/60158"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione delle sezioni specializzate in materia digitale e modifiche al decreto legislativo 27 giugno 2003, n. 168",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-11",
+      "link": "http://dati.senato.it/ddl/60202"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disciplina dell'educazione permanente e della formazione degli adulti",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-11",
+      "link": "http://dati.senato.it/ddl/60204"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali",
+      "stato": "esame in comm.",
+      "data": "2026-06-11",
+      "link": "http://dati.senato.it/ddl/60205"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione della Dichiarazione congiunta relativa all'Accordo di cooperazione nel settore della difesa tra il Governo della Repubblica Italiana e il Governo della Repubblica Algerina Democratica e Popolare, fatto a Roma il 15 maggio 2003, fatta a Roma il 23 luglio 2025",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-11",
+      "link": "http://dati.senato.it/ddl/60207"
     },
     {
       "ramo": "Senato",
@@ -137,13 +193,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Istituzione dell'area marina protetta «Isola di Capri»",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59855"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni in materia di morte volontaria medicalmente assistita",
       "stato": "esame in comm.",
       "data": "2026-06-10",
@@ -155,6 +204,13 @@
       "stato": "esame in comm.",
       "data": "2026-06-10",
       "link": "http://dati.senato.it/ddl/55222"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Abrogazione dell'articolo 323 del codice penale e modifiche agli articoli 322-bis, 323-bis e 346-bis del medesimo codice, in materia di delitti contro la pubblica amministrazione",
+      "stato": "ritirato",
+      "data": "2026-06-10",
+      "link": "http://dati.senato.it/ddl/56392"
     },
     {
       "ramo": "Senato",
@@ -249,13 +305,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 36 della legge 6 dicembre 1991, n. 394, e altre disposizioni in materia di istituzione dell'area marina protetta dell'isola di Capri",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/58541"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Delega al Governo per l'introduzione dell'educazione alla relazione e ai sentimenti nelle istituzioni scolastiche di ogni ordine e grado",
       "stato": "esame in comm.",
       "data": "2026-06-10",
@@ -281,55 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-10",
       "link": "http://dati.senato.it/ddl/59512"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione della formazione del personale docente in materia di educazione al rispetto e alle relazioni",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59592"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Statuto giuridico ed economico del personale docente delle istituzioni di alta formazione artistica e musicale ed equiparazione con il personale docente del sistema universitario",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/58954"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la determinazione dei livelli essenziali delle prestazioni",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59476"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge quadro per la salute e la sicurezza nelle piscine",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59489"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti",
-      "stato": "approvato",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59503"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59590"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59779"
     }
   ]
 }
