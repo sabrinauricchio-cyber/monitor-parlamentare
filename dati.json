@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-12 20:32",
+  "aggiornato_il": "2026-06-13 08:27",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,13 @@
   ],
   "numero_atti": 45,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-12",
+      "link": "http://dati.senato.it/ddl/60214"
+    },
     {
       "ramo": "Senato",
       "titolo": "Delega al Governo in materia di energia nucleare sostenibile",
@@ -323,13 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-10",
       "link": "http://dati.senato.it/ddl/59410"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma delle amministrazioni straordinarie e per la riforma della vigilanza sugli enti cooperativi e mutualistici",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59512"
     }
   ]
 }
