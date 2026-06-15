@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-14 08:45",
+  "aggiornato_il": "2026-06-15 11:19",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,7 +18,7 @@
   "atti": [
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
+      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
       "stato": "da assegn. a commis.",
       "data": "2026-06-12",
       "link": "http://dati.senato.it/ddl/60214"
@@ -109,10 +109,24 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni concernenti la stipulazione di convenzioni tra i comuni e le istituzioni scolastiche per lo svolgimento di attività didattiche extracurricolari presso biblioteche e altri spazi pubblici di proprietà comunale",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-11",
+      "link": "http://dati.senato.it/ddl/60215"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Istituzione delle sezioni specializzate in materia digitale e modifiche al decreto legislativo 27 giugno 2003, n. 168",
       "stato": "da assegn. a commis.",
       "data": "2026-06-11",
       "link": "http://dati.senato.it/ddl/60202"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 28 febbraio 2020, n. 17, in materia di estensione delle aree cedibili a privati nella fascia lagunare di Sottomarina, nel comune di Chioggia, e di sospensione dei procedimenti di ingiunzione, di rilascio o di riscossione dei proventi relativi alle medesime",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-11",
+      "link": "http://dati.senato.it/ddl/60216"
     },
     {
       "ramo": "Senato",
@@ -316,20 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-10",
       "link": "http://dati.senato.it/ddl/58768"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'insegnamento scolastico dell'educazione sentimentale in tutte le scuole di ogni ordine e grado, statali, private e paritarie",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/58916"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di aiuto medico alla morte volontaria",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59410"
     }
   ]
 }
