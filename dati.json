@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-16 10:49",
+  "aggiornato_il": "2026-06-16 15:47",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,10 +18,87 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
+      "stato": "esame in comm.",
+      "data": "2026-06-15",
+      "link": "http://dati.senato.it/ddl/55616"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la semplificazione del procedimento elettorale, per la digitalizzazione delle liste elettorali nonché in materia di propaganda elettorale e di esercizio del diritto di voto da parte dei cittadini che, per motivi di studio, di lavoro o di cura, hanno temporaneo domicilio in un comune diverso da quello di residenza",
+      "stato": "esame in comm.",
+      "data": "2026-06-15",
+      "link": "http://dati.senato.it/ddl/58867"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione di servizi telematici integrativi per le prestazioni di pronto soccorso nonché disposizioni per la semplificazione delle procedure di accesso e di erogazione delle cure e incentivi in favore del personale sanitario operante presso i dipartimenti di emergenza e accettazione",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-15",
+      "link": "http://dati.senato.it/ddl/59879"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 8 del decreto-legge 13 settembre 2012, n. 158, convertito, con modificazioni, dalla legge 8 novembre 2012, n. 189, e altre disposizioni in materia di etichettatura e di sicurezza alimentare dei prodotti caseari a base di latte crudo",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-15",
+      "link": "http://dati.senato.it/ddl/60089"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+      "stato": "esame in comm.",
+      "data": "2026-06-15",
+      "link": "http://dati.senato.it/ddl/59951"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al codice penale, al codice di procedura penale e altre disposizioni concernenti l'introduzione dei reati di omicidio e di lesioni personali gravi o gravissime commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro e delle malattie professionali",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-15",
+      "link": "http://dati.senato.it/ddl/60002"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la promozione e la valorizzazione della tornanza e per la rigenerazione delle aree ad alto potenziale inespresso",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-15",
+      "link": "http://dati.senato.it/ddl/60016"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti",
+      "stato": "all'esame assemblea",
+      "data": "2026-06-15",
+      "link": "http://dati.senato.it/ddl/60181"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-15",
+      "link": "http://dati.senato.it/ddl/60213"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
       "stato": "da assegn. a commis.",
       "data": "2026-06-12",
       "link": "http://dati.senato.it/ddl/60214"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 21 aprile 2011, n. 62",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-12",
+      "link": "http://dati.senato.it/ddl/60217"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di prospetto paga e indicazione del codice identificativo del contratto collettivo nazionale di lavoro applicato",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-12",
+      "link": "http://dati.senato.it/ddl/60218"
     },
     {
       "ramo": "Senato",
@@ -253,83 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-10",
       "link": "http://dati.senato.it/ddl/57112"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di tutela della sanità mentale",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/57701"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'educazione sentimentale, sessuale e affettiva nelle scuole",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/57718"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica alla legge 20 agosto 2019, n. 92, in materia di introduzione dell'educazione all'emotività, all'affettività e alla sessualità nell'ambito dell'insegnamento trasversale dell'educazione civica",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/58061"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni finalizzate all'introduzione di percorsi di educazione all'affettività e di educazione sessuale nell'ambito del sistema nazionale di istruzione",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/57831"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 580 del codice penale e modifiche alla legge 22 dicembre 2017, n. 219, in materia di disposizioni anticipate di trattamento e prestazione delle cure palliative",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/58116"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per lo sviluppo evolutivo del sistema di prevenzione, protezione e tutela della salute mentale dalla preadolescenza all'età geriatrica",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/58323"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di tutela della salute mentale",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/58351"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di legittimo impedimento del difensore",
-      "stato": "concluso l'esame",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/58533"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di morte medicalmente assistita",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/58949"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di legittimo impedimento del difensore",
-      "stato": "concluso l'esame",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/58527"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per l'introduzione dell'educazione alla relazione e ai sentimenti nelle istituzioni scolastiche di ogni ordine e grado",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/58768"
     }
   ]
 }
