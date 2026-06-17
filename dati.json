@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-16 19:25",
+  "aggiornato_il": "2026-06-17 09:56",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,293 @@
   ],
   "numero_atti": 45,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale del riciclo della carta",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/59978"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato",
+      "stato": "concluso l'esame",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/60173"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Nuove norme in materia di diffusione della cultura della salute e sicurezza sul lavoro nelle scuole e nelle aziende, sostegno alle famiglie delle vittime di gravi infortuni sul lavoro e adeguamento dei limiti di età per l'assegno di incollocabilità erogato dall'INAIL, nonché a tutela delle vittime dell'amianto e dei tumori professionali",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58152"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'educazione all'affettività e al rispetto delle differenze nelle attività didattiche delle scuole del sistema nazionale di istruzione",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/56000"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/55338"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per l'efficientamento dell'illuminazione pubblica e degli edifici pubblici attraverso la promozione di sistemi di illuminazione digitalizzati di ultima generazione",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/59670"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Legge quadro per lo sviluppo delle isole minori marine, lagunari e lacustri",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/55339"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di servizio pubblico radiotelevisivo",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/55725"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto legislativo 8 novembre 2021, n. 208, in materia di servizio pubblico radiotelevisivo",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/56879"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208, in materia di servizio pubblico radiofonico, televisivo e multimediale, riduzione e abolizione del canone di abbonamento e disciplina della società concessionaria del servizio pubblico",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/56841"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'insegnamento dell'educazione emotivo-sentimentale nei programmi scolastici del sistema educativo di istruzione e di formazione, al fine di contrastare il fenomeno del femminicidio",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/56738"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Norme per la revisione del servizio pubblico nella comunicazione audiovisiva e radiofonica sui diversi media",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/57380"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'educazione sentimentale, sessuale e affettiva nelle scuole",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/57718"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica alla legge 20 agosto 2019, n. 92, in materia di introduzione dell'educazione all'emotività, all'affettività e alla sessualità nell'ambito dell'insegnamento trasversale dell'educazione civica",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58061"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni finalizzate all'introduzione di percorsi di educazione all'affettività e di educazione sessuale nell'ambito del sistema nazionale di istruzione",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/57831"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di verifica dell'età degli utenti dei servizi di comunicazione elettronica, e altre disposizioni per la tutela dei minori nella fruizione di tali servizi",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58299"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 37 del decreto legislativo 8 novembre 2021, n. 208, in materia di impiego dei minori nell'ambito delle piattaforme digitali per la condivisione di video, audio e immagini, e disposizioni concernenti il diritto del minorenne alla rimozione dei dati e dei contenuti che lo riguardano dalla rete internet e dai motori di ricerca",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58314"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la tutela dei minori nella dimensione digitale",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58233"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 17 ottobre 1967, n. 977, in materia di impiego dei minori nell'ambito delle piattaforme digitali di condivisione di contenuti multimediali, nonché disposizioni sulla diffusione dell'immagine e di contenuti multimediali di minori",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58301"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la costruzione di nuovi impianti di produzione di energia nucleare",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58214"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla disciplina della governance della RAI - Radiotelevisione italiana S.p.a.",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58538"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disciplina e organizzazione del servizio pubblico radiofonico, televisivo e multimediale",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58567"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per l'introduzione dell'educazione alla relazione e ai sentimenti nelle istituzioni scolastiche di ogni ordine e grado",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58768"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Adozione del Piano triennale di prevenzione e promozione della salute nelle scuole nonché istituzione della Giornata nazionale della prevenzione e della promozione della salute e dei corretti stili di vita in memoria di Umberto Veronesi",
+      "stato": "approvato",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58817"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'insegnamento scolastico dell'educazione sentimentale in tutte le scuole di ogni ordine e grado, statali, private e paritarie",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58916"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la promozione della formazione del personale docente in materia di educazione al rispetto e alle relazioni",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/59592"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/59227"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la determinazione dei livelli essenziali delle prestazioni",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/59476"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/59133"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208, in materia di riforma della governance della RAI-Radiotelevisione italiana S.p.A. e valorizzazione delle partecipazioni societarie",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/59338"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208, in materia di servizio pubblico radiofonico, televisivo e multimediale, riduzione e abolizione del canone di abbonamento e disciplina della società concessionaria del servizio pubblico",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/59385"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma della disciplina degli ordinamenti professionali",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/59584"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento della Vespa Piaggio a quattro tempi quale espressione della storia, della cultura e dell'arte italiana riconosciute in tutto il mondo",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/59829"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Proroga del termine per l'esercizio della delega prevista dall'articolo 35 della legge 25 novembre 2024, n. 177",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/59959"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la valorizzazione delle isole minori marine, lagunari e lacustri",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/59988"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di destinazione di proventi derivanti dalla vendita di prodotti",
+      "stato": "appr. def. non pubbl",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/60033"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all'occupazione e di contrasto del caporalato digitale",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/60201"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/60214"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma dell'ordinamento forense",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/60170"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti",
+      "stato": "appr. def. non pubbl",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/60181"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali",
+      "stato": "all'esame assemblea",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/60205"
+    },
     {
       "ramo": "Senato",
       "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
@@ -43,293 +330,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-06-15",
       "link": "http://dati.senato.it/ddl/60089"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-06-15",
-      "link": "http://dati.senato.it/ddl/59951"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al codice penale, al codice di procedura penale e altre disposizioni concernenti l'introduzione dei reati di omicidio e di lesioni personali gravi o gravissime commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro e delle malattie professionali",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-15",
-      "link": "http://dati.senato.it/ddl/60002"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione e la valorizzazione della tornanza e per la rigenerazione delle aree ad alto potenziale inespresso",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-15",
-      "link": "http://dati.senato.it/ddl/60016"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti",
-      "stato": "all'esame assemblea",
-      "data": "2026-06-15",
-      "link": "http://dati.senato.it/ddl/60181"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-15",
-      "link": "http://dati.senato.it/ddl/60213"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-12",
-      "link": "http://dati.senato.it/ddl/60214"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 21 aprile 2011, n. 62",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-12",
-      "link": "http://dati.senato.it/ddl/60217"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di prospetto paga e indicazione del codice identificativo del contratto collettivo nazionale di lavoro applicato",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-12",
-      "link": "http://dati.senato.it/ddl/60218"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo in materia di energia nucleare sostenibile",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/60187"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
-      "stato": "esame in comm.",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/59875"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto-legge 22 dicembre 2011, n. 211, convertito, con modificazioni, dalla legge 17 febbraio 2012, n. 9, in materia di residenze per l'esecuzione delle misure di sicurezza",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/59940"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione dell'area marina protetta «Isola di Capri»",
-      "stato": "esame in comm.",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/59855"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 36 della legge 6 dicembre 1991, n. 394, e altre disposizioni in materia di istituzione dell'area marina protetta dell'isola di Capri",
-      "stato": "esame in comm.",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/58541"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di edilizia residenziale pubblica e sociale, di recupero del patrimonio immobiliare pubblico inutilizzato, di imposizione fiscale sugli immobili, di cedolare secca sulle locazioni, nonché di locazione di immobili a uso abitativo",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/60122"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica dell'articolo 12 della Costituzione in materia di riconoscimento dell'inno nazionale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/60143"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla disciplina del condominio negli edifici",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/60152"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali",
-      "stato": "approvato",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/60111"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all'occupazione e di contrasto del caporalato digitale",
-      "stato": "esame in comm.",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/60201"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme per la salvaguardia e valorizzazione dei locali storici",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/60154"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di riduzione dell'aliquota dell'imposta sul valore aggiunto applicata ai prodotti per l'igiene femminile e inserimento degli stessi nei piani di welfare aziendale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/60158"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni concernenti la stipulazione di convenzioni tra i comuni e le istituzioni scolastiche per lo svolgimento di attività didattiche extracurricolari presso biblioteche e altri spazi pubblici di proprietà comunale",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/60215"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione delle sezioni specializzate in materia digitale e modifiche al decreto legislativo 27 giugno 2003, n. 168",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/60202"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 28 febbraio 2020, n. 17, in materia di estensione delle aree cedibili a privati nella fascia lagunare di Sottomarina, nel comune di Chioggia, e di sospensione dei procedimenti di ingiunzione, di rilascio o di riscossione dei proventi relativi alle medesime",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/60216"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disciplina dell'educazione permanente e della formazione degli adulti",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/60204"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali",
-      "stato": "esame in comm.",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/60205"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione della Dichiarazione congiunta relativa all'Accordo di cooperazione nel settore della difesa tra il Governo della Repubblica Italiana e il Governo della Repubblica Algerina Democratica e Popolare, fatto a Roma il 15 maggio 2003, fatta a Roma il 23 luglio 2025",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-11",
-      "link": "http://dati.senato.it/ddl/60207"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme concernenti la verifica dell'età degli utenti delle piattaforme digitali e delle reti sociali telematiche e altre disposizioni per la tutela dei minori nella fruizione delle medesime",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59906"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/60173"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di terapie digitali",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/60171"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la revisione del sistema di vigilanza sulle cooperative",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/58080"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'educazione all'affettività e al rispetto delle differenze nelle attività didattiche delle scuole del sistema nazionale di istruzione",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/56000"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di suicidio medicalmente assistito e di trattamento eutanasico",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/55303"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 28 giugno 2005, n. 139, concernenti la disciplina delle professioni di dottore commercialista e di esperto contabile e l'organizzazione dell'Ordine dei dottori commercialisti e degli esperti contabili",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/55507"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione e disciplina delle zone del commercio nei centri storici",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/55750"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/59650"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di morte volontaria medicalmente assistita",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/55281"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di terapia del dolore e dignità nella fase finale della vita, nonché modifiche all'articolo 580 del codice penale",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/55222"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Abrogazione dell'articolo 323 del codice penale e modifiche agli articoli 322-bis, 323-bis e 346-bis del medesimo codice, in materia di delitti contro la pubblica amministrazione",
-      "stato": "ritirato",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/56392"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di morte volontaria medicalmente assistita",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/56703"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'insegnamento dell'educazione emotivo-sentimentale nei programmi scolastici del sistema educativo di istruzione e di formazione, al fine di contrastare il fenomeno del femminicidio",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/56738"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di tutela della salute mentale volte all'attuazione e allo sviluppo dei princìpi di cui alla legge 13 maggio 1978, n. 180",
-      "stato": "esame in comm.",
-      "data": "2026-06-10",
-      "link": "http://dati.senato.it/ddl/57112"
     }
   ]
 }
