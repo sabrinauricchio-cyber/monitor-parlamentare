@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-18 09:21",
+  "aggiornato_il": "2026-06-18 10:01",
   "fonti": [
     {
       "fonte": "Senato",
@@ -172,27 +172,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/60220"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di allontanamento del minore",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/59976"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all'occupazione e di contrasto del caporalato digitale",
-      "stato": "esame in comm.",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/60201"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Delega al Governo per la riforma dell'ordinamento forense",
       "stato": "esame in comm.",
       "data": "2026-06-17",
@@ -330,6 +309,27 @@
       "stato": "esame in comm.",
       "data": "2026-06-16",
       "link": "http://dati.senato.it/ddl/58299"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 37 del decreto legislativo 8 novembre 2021, n. 208, in materia di impiego dei minori nell'ambito delle piattaforme digitali per la condivisione di video, audio e immagini, e disposizioni concernenti il diritto del minorenne alla rimozione dei dati e dei contenuti che lo riguardano dalla rete internet e dai motori di ricerca",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58314"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la tutela dei minori nella dimensione digitale",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58233"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 17 ottobre 1967, n. 977, in materia di impiego dei minori nell'ambito delle piattaforme digitali di condivisione di contenuti multimediali, nonché disposizioni sulla diffusione dell'immagine e di contenuti multimediali di minori",
+      "stato": "esame in comm.",
+      "data": "2026-06-16",
+      "link": "http://dati.senato.it/ddl/58301"
     }
   ]
 }
