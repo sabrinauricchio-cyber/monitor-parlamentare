@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-19 10:08",
+  "aggiornato_il": "2026-06-19 13:52",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,6 +18,20 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario",
+      "stato": "all'esame assemblea",
+      "data": "2026-06-19",
+      "link": "http://dati.senato.it/ddl/59779"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
+      "stato": "all'esame assemblea",
+      "data": "2026-06-19",
+      "link": "http://dati.senato.it/ddl/60125"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Stop caccia! Stop uccisioni degli animali per divertimento. Per il divieto di caccia, il diritto alla vita degli animali selvatici e la promozione della convivenza con gli stessi",
       "stato": "all'esame assemblea",
       "data": "2026-06-18",
@@ -32,10 +46,24 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Modifiche alla legge 19 agosto 2016, n. 166, e al comma 652 dell'articolo 1 della legge 27 dicembre 2013, n. 147, in materia di prevenzione della formazione di eccedenze alimentari e di recupero, reimpiego e donazione di alimenti",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-18",
+      "link": "http://dati.senato.it/ddl/60045"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifica al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento",
       "stato": "assegnato (no esame)",
       "data": "2026-06-18",
       "link": "http://dati.senato.it/ddl/60172"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
+      "stato": "esame in comm.",
+      "data": "2026-06-18",
+      "link": "http://dati.senato.it/ddl/55616"
     },
     {
       "ramo": "Senato",
@@ -57,6 +85,13 @@
       "stato": "all'esame assemblea",
       "data": "2026-06-18",
       "link": "http://dati.senato.it/ddl/58687"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la semplificazione del procedimento elettorale, per la digitalizzazione delle liste elettorali nonché in materia di propaganda elettorale e di esercizio del diritto di voto da parte dei cittadini che, per motivi di studio, di lavoro o di cura, hanno temporaneo domicilio in un comune diverso da quello di residenza",
+      "stato": "esame in comm.",
+      "data": "2026-06-18",
+      "link": "http://dati.senato.it/ddl/58867"
     },
     {
       "ramo": "Senato",
@@ -88,6 +123,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Legge quadro per la disciplina della vigilanza ecologica volontaria",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-18",
+      "link": "http://dati.senato.it/ddl/60087"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche alla legge 21 aprile 2011, n. 62",
       "stato": "da assegn. a commis.",
       "data": "2026-06-18",
@@ -95,10 +137,31 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disciplina delle attività di ristorazione domestica nell'ambito dell'economia della condivisione",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-18",
+      "link": "http://dati.senato.it/ddl/60088"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione e valorizzazione dell'Itinerario culturale delle città del Novecento",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-18",
+      "link": "http://dati.senato.it/ddl/60084"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all'occupazione e di contrasto del caporalato digitale",
       "stato": "esame in comm.",
       "data": "2026-06-18",
       "link": "http://dati.senato.it/ddl/60201"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+      "stato": "esame in comm.",
+      "data": "2026-06-18",
+      "link": "http://dati.senato.it/ddl/59951"
     },
     {
       "ramo": "Senato",
@@ -141,13 +204,6 @@
       "stato": "concluso l'esame",
       "data": "2026-06-17",
       "link": "http://dati.senato.it/ddl/58267"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
-      "stato": "esame in comm.",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/55616"
     },
     {
       "ramo": "Senato",
@@ -207,13 +263,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni per la semplificazione del procedimento elettorale, per la digitalizzazione delle liste elettorali nonché in materia di propaganda elettorale e di esercizio del diritto di voto da parte dei cittadini che, per motivi di studio, di lavoro o di cura, hanno temporaneo domicilio in un comune diverso da quello di residenza",
-      "stato": "esame in comm.",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/58867"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Delega al Governo per la determinazione dei livelli essenziali delle prestazioni",
       "stato": "esame in comm.",
       "data": "2026-06-17",
@@ -225,13 +274,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-17",
       "link": "http://dati.senato.it/ddl/59584"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario",
-      "stato": "concluso l'esame",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/59779"
     },
     {
       "ramo": "Senato",
@@ -270,6 +312,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per la regolamentazione delle piattaforme digitali di distribuzione di contenuti audio, video e multimediali mediante la rete internet",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-17",
+      "link": "http://dati.senato.it/ddl/60228"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di allontanamento del minore",
       "stato": "rimesso assemblea",
       "data": "2026-06-17",
@@ -281,55 +330,6 @@
       "stato": "concluso l'esame",
       "data": "2026-06-17",
       "link": "http://dati.senato.it/ddl/60038"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
-      "stato": "esame in comm.",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/60125"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/59951"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia economica, fiscale, nonché in materia di tutela dei consumatori",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/60225"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento dello status di passeggero e della facoltà di trasporto degli animali da compagnia nelle cabine degli aeromobili, su tutti i mezzi di trasporto e per la tutela del benessere animale",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/60226"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali",
-      "stato": "appr. con modificaz",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/60205"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti",
-      "stato": "esame in comm.",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/60213"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale del riciclo della carta",
-      "stato": "esame in comm.",
-      "data": "2026-06-16",
-      "link": "http://dati.senato.it/ddl/59978"
     }
   ]
 }
