@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-23 08:54",
+  "aggiornato_il": "2026-06-23 11:50",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,20 @@
   ],
   "numero_atti": 45,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
+      "stato": "all'esame assemblea",
+      "data": "2026-06-23",
+      "link": "http://dati.senato.it/ddl/60125"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di contenimento delle emissioni fuggitive di gas naturale",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-22",
+      "link": "http://dati.senato.it/ddl/60090"
+    },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni concernenti l'esonero dall'obbligo di assicurazione contro i rischi catastrofali per le imprese che gestiscono beni culturali di proprietà pubblica o sottoposti a tutela e istituzione del Fondo di garanzia per i beni culturali danneggiati da eventi calamitosi",
@@ -60,13 +74,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
-      "stato": "all'esame assemblea",
-      "data": "2026-06-19",
-      "link": "http://dati.senato.it/ddl/60125"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
       "stato": "esame in comm.",
       "data": "2026-06-19",
@@ -78,6 +85,20 @@
       "stato": "assegnato (no esame)",
       "data": "2026-06-19",
       "link": "http://dati.senato.it/ddl/60129"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del servizio civile per persone anziane attive",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-19",
+      "link": "http://dati.senato.it/ddl/60231"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche agli articoli 132-ter e 133 del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, in materia di applicazione del premio medio su base nazionale, ai fini dell¿assicurazione obbligatoria per la responsabilità civile derivante dalla circolazione dei veicoli, in mancanza di sinistri negli ultimi dieci anni",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-19",
+      "link": "http://dati.senato.it/ddl/60232"
     },
     {
       "ramo": "Senato",
@@ -309,27 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-17",
       "link": "http://dati.senato.it/ddl/59584"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
-      "stato": "esame in comm.",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/59955"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 58 del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123",
-      "stato": "esame in comm.",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/60106"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riordino e riorganizzazione del Consiglio universitario nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-06-17",
-      "link": "http://dati.senato.it/ddl/60107"
     }
   ]
 }
