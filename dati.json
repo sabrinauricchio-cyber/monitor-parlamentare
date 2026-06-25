@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-25 16:19",
+  "aggiornato_il": "2026-06-25 18:29",
   "fonti": [
     {
       "fonte": "Senato",
@@ -20,8 +20,15 @@
       "ramo": "Senato",
       "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
       "stato": "esame in comm.",
-      "data": "2026-06-24",
+      "data": "2026-06-25",
       "link": "http://dati.senato.it/ddl/59875"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Registro unico nazionale dei dispositivi medici impiantabili",
+      "stato": "concluso l'esame",
+      "data": "2026-06-25",
+      "link": "http://dati.senato.it/ddl/60055"
     },
     {
       "ramo": "Senato",
@@ -29,6 +36,13 @@
       "stato": "assegnato (no esame)",
       "data": "2026-06-24",
       "link": "http://dati.senato.it/ddl/60040"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
+      "stato": "concluso l'esame",
+      "data": "2026-06-24",
+      "link": "http://dati.senato.it/ddl/55616"
     },
     {
       "ramo": "Senato",
@@ -43,6 +57,13 @@
       "stato": "esame in comm.",
       "data": "2026-06-24",
       "link": "http://dati.senato.it/ddl/57702"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la semplificazione del procedimento elettorale, per la digitalizzazione delle liste elettorali nonché in materia di propaganda elettorale e di esercizio del diritto di voto da parte dei cittadini che, per motivi di studio, di lavoro o di cura, hanno temporaneo domicilio in un comune diverso da quello di residenza",
+      "stato": "concluso l'esame",
+      "data": "2026-06-24",
+      "link": "http://dati.senato.it/ddl/58867"
     },
     {
       "ramo": "Senato",
@@ -88,6 +109,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Istituzione e valorizzazione dell'Itinerario culturale delle città del Novecento",
+      "stato": "esame in comm.",
+      "data": "2026-06-24",
+      "link": "http://dati.senato.it/ddl/60084"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all'occupazione e di contrasto del caporalato digitale",
       "stato": "appr. def. non pubbl",
       "data": "2026-06-24",
@@ -106,6 +134,13 @@
       "stato": "esame in comm.",
       "data": "2026-06-24",
       "link": "http://dati.senato.it/ddl/59909"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+      "stato": "concluso l'esame",
+      "data": "2026-06-24",
+      "link": "http://dati.senato.it/ddl/59951"
     },
     {
       "ramo": "Senato",
@@ -155,13 +190,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-23",
       "link": "http://dati.senato.it/ddl/56180"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
-      "stato": "esame in comm.",
-      "data": "2026-06-23",
-      "link": "http://dati.senato.it/ddl/55616"
     },
     {
       "ramo": "Senato",
@@ -302,34 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-23",
       "link": "http://dati.senato.it/ddl/57831"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la tutela e la salvaguardia dei manufatti e delle macchine per la pesca tradizionali esistenti sul demanio marittimo, lacuale e fluviale italiano",
-      "stato": "esame in comm.",
-      "data": "2026-06-23",
-      "link": "http://dati.senato.it/ddl/57979"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la costruzione di nuovi impianti di produzione di energia nucleare",
-      "stato": "esame in comm.",
-      "data": "2026-06-23",
-      "link": "http://dati.senato.it/ddl/58214"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della banca dati unica audiovisiva degli artisti interpreti o esecutori e della banca dati unica dei fonogrammi",
-      "stato": "esame in comm.",
-      "data": "2026-06-23",
-      "link": "http://dati.senato.it/ddl/58388"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla disciplina della governance della RAI - Radiotelevisione italiana S.p.a.",
-      "stato": "esame in comm.",
-      "data": "2026-06-23",
-      "link": "http://dati.senato.it/ddl/58538"
     }
   ]
 }
