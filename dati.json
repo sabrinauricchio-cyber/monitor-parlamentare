@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-26 18:08",
+  "aggiornato_il": "2026-06-26 20:15",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,6 +18,34 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Istituzione del Registro unico nazionale dei dispositivi medici impiantabili",
+      "stato": "in relazione",
+      "data": "2026-06-26",
+      "link": "http://dati.senato.it/ddl/60055"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
+      "stato": "all'esame assemblea",
+      "data": "2026-06-26",
+      "link": "http://dati.senato.it/ddl/55616"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la semplificazione del procedimento elettorale, per la digitalizzazione delle liste elettorali nonché in materia di propaganda elettorale e di esercizio del diritto di voto da parte dei cittadini che, per motivi di studio, di lavoro o di cura, hanno temporaneo domicilio in un comune diverso da quello di residenza",
+      "stato": "all'esame assemblea",
+      "data": "2026-06-26",
+      "link": "http://dati.senato.it/ddl/58867"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+      "stato": "all'esame assemblea",
+      "data": "2026-06-26",
+      "link": "http://dati.senato.it/ddl/59951"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
       "stato": "esame in comm.",
       "data": "2026-06-25",
@@ -25,24 +53,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Istituzione del Registro unico nazionale dei dispositivi medici impiantabili",
-      "stato": "concluso l'esame",
-      "data": "2026-06-25",
-      "link": "http://dati.senato.it/ddl/60055"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni in materia di localizzazione degli impianti di discarica nelle aree di confine interregionale",
       "stato": "assegnato (no esame)",
       "data": "2026-06-24",
       "link": "http://dati.senato.it/ddl/60040"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
-      "stato": "in relazione",
-      "data": "2026-06-24",
-      "link": "http://dati.senato.it/ddl/55616"
     },
     {
       "ramo": "Senato",
@@ -57,13 +71,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-24",
       "link": "http://dati.senato.it/ddl/57702"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la semplificazione del procedimento elettorale, per la digitalizzazione delle liste elettorali nonché in materia di propaganda elettorale e di esercizio del diritto di voto da parte dei cittadini che, per motivi di studio, di lavoro o di cura, hanno temporaneo domicilio in un comune diverso da quello di residenza",
-      "stato": "in relazione",
-      "data": "2026-06-24",
-      "link": "http://dati.senato.it/ddl/58867"
     },
     {
       "ramo": "Senato",
@@ -109,6 +116,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-24",
+      "link": "http://dati.senato.it/ddl/60236"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Istituzione e valorizzazione dell'Itinerario culturale delle città del Novecento",
       "stato": "esame in comm.",
       "data": "2026-06-24",
@@ -134,13 +148,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-24",
       "link": "http://dati.senato.it/ddl/59909"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
-      "stato": "in relazione",
-      "data": "2026-06-24",
-      "link": "http://dati.senato.it/ddl/59951"
     },
     {
       "ramo": "Senato",
@@ -323,13 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-23",
       "link": "http://dati.senato.it/ddl/58061"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni finalizzate all'introduzione di percorsi di educazione all'affettività e di educazione sessuale nell'ambito del sistema nazionale di istruzione",
-      "stato": "esame in comm.",
-      "data": "2026-06-23",
-      "link": "http://dati.senato.it/ddl/57831"
     }
   ]
 }
