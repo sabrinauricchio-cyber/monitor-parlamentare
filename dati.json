@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-26 08:45",
+  "aggiornato_il": "2026-06-26 11:36",
   "fonti": [
     {
       "fonte": "Senato",
@@ -40,7 +40,7 @@
     {
       "ramo": "Senato",
       "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
-      "stato": "concluso l'esame",
+      "stato": "in relazione",
       "data": "2026-06-24",
       "link": "http://dati.senato.it/ddl/55616"
     },
@@ -61,7 +61,7 @@
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per la semplificazione del procedimento elettorale, per la digitalizzazione delle liste elettorali nonché in materia di propaganda elettorale e di esercizio del diritto di voto da parte dei cittadini che, per motivi di studio, di lavoro o di cura, hanno temporaneo domicilio in un comune diverso da quello di residenza",
-      "stato": "concluso l'esame",
+      "stato": "in relazione",
       "data": "2026-06-24",
       "link": "http://dati.senato.it/ddl/58867"
     },
@@ -138,7 +138,7 @@
     {
       "ramo": "Senato",
       "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
-      "stato": "concluso l'esame",
+      "stato": "in relazione",
       "data": "2026-06-24",
       "link": "http://dati.senato.it/ddl/59951"
     },
