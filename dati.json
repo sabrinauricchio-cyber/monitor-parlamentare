@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-28 08:26",
+  "aggiornato_il": "2026-06-29 09:54",
   "fonti": [
     {
       "fonte": "Senato",
@@ -110,7 +110,7 @@
     {
       "ramo": "Senato",
       "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali",
-      "stato": "appr. def. non pubbl",
+      "stato": "appr. definit. Legge",
       "data": "2026-06-24",
       "link": "http://dati.senato.it/ddl/60220"
     },
@@ -131,7 +131,7 @@
     {
       "ramo": "Senato",
       "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all'occupazione e di contrasto del caporalato digitale",
-      "stato": "appr. def. non pubbl",
+      "stato": "appr. definit. Legge",
       "data": "2026-06-24",
       "link": "http://dati.senato.it/ddl/60201"
     },
