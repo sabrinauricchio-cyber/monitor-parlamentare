@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-06-29 17:26",
+  "aggiornato_il": "2026-06-29 19:19",
   "fonti": [
     {
       "fonte": "Senato",
@@ -32,24 +32,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifica all'articolo 2236 del codice civile e altre disposizioni concernenti la responsabilità civile e l'obbligo di assicurazione dei professionisti iscritti negli albi delle professioni tecniche regolamentate",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-26",
-      "link": "http://dati.senato.it/ddl/60028"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni per la semplificazione del procedimento elettorale, per la digitalizzazione delle liste elettorali nonché in materia di propaganda elettorale e di esercizio del diritto di voto da parte dei cittadini che, per motivi di studio, di lavoro o di cura, hanno temporaneo domicilio in un comune diverso da quello di residenza",
       "stato": "all'esame assemblea",
       "data": "2026-06-26",
       "link": "http://dati.senato.it/ddl/58867"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-26",
-      "link": "http://dati.senato.it/ddl/60236"
     },
     {
       "ramo": "Senato",
@@ -64,20 +50,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-25",
       "link": "http://dati.senato.it/ddl/59875"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale per la prevenzione della ludopatia e delle conseguenze patologiche del gioco d'azzardo",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-25",
-      "link": "http://dati.senato.it/ddl/60245"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione di un fondo nazionale per la sicurezza nei luoghi di lavoro, destinato al sostegno degli investimenti delle imprese per la formazione dei lavoratori, la prevenzione degli infortuni, l'acquisto di dispositivi di protezione e gli interventi di innovazione tecnologica finalizzati alla tutela dei lavoratori",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-25",
-      "link": "http://dati.senato.it/ddl/60244"
     },
     {
       "ramo": "Senato",
@@ -144,17 +116,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni concernenti l'istituzione di presìdi socio-educativi nelle aree urbane caratterizzate da disagio educativo e socio-economico per il potenziamento dell'offerta culturale, sociale, sportiva e ricreativa nei riguardi dei minorenni",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
       "stato": "da assegn. a commis.",
       "data": "2026-06-24",
-      "link": "http://dati.senato.it/ddl/60243"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il finanziamento e la perequazione pubblica dei servizi ecosistemici e ambientali comunali",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-24",
-      "link": "http://dati.senato.it/ddl/60240"
+      "link": "http://dati.senato.it/ddl/60236"
     },
     {
       "ramo": "Senato",
@@ -169,13 +134,6 @@
       "stato": "appr. definit. Legge",
       "data": "2026-06-24",
       "link": "http://dati.senato.it/ddl/60201"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione di un programma nazionale di interventi per il contrasto dell'erosione delle coste e per l'adattamento ai cambiamenti climatici nelle aree costiere",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-24",
-      "link": "http://dati.senato.it/ddl/60242"
     },
     {
       "ramo": "Senato",
@@ -197,13 +155,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-24",
       "link": "http://dati.senato.it/ddl/60233"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione del giuramento dei membri del Parlamento",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-24",
-      "link": "http://dati.senato.it/ddl/60241"
     },
     {
       "ramo": "Senato",
@@ -330,6 +281,55 @@
       "stato": "esame in comm.",
       "data": "2026-06-23",
       "link": "http://dati.senato.it/ddl/56838"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'insegnamento dell'educazione emotivo-sentimentale nei programmi scolastici del sistema educativo di istruzione e di formazione, al fine di contrastare il fenomeno del femminicidio",
+      "stato": "esame in comm.",
+      "data": "2026-06-23",
+      "link": "http://dati.senato.it/ddl/56738"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Norme per la revisione del servizio pubblico nella comunicazione audiovisiva e radiofonica sui diversi media",
+      "stato": "esame in comm.",
+      "data": "2026-06-23",
+      "link": "http://dati.senato.it/ddl/57380"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il sostegno e la valorizzazione dei prodotti agroalimentari tradizionali",
+      "stato": "esame in comm.",
+      "data": "2026-06-23",
+      "link": "http://dati.senato.it/ddl/57666"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la tutela e la salvaguardia dei manufatti e delle macchine per la pesca tradizionali esistenti sul demanio marittimo, lacuale e fluviale",
+      "stato": "esame in comm.",
+      "data": "2026-06-23",
+      "link": "http://dati.senato.it/ddl/57494"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, e al decreto legislativo 18 aprile 2011, n. 59, concernenti l'introduzione della conoscenza delle tecniche di primo soccorso e di utilizzazione dei defibrillatori semiautomatici e automatici tra i requisiti per il conseguimento della patente di guida",
+      "stato": "esame in comm.",
+      "data": "2026-06-23",
+      "link": "http://dati.senato.it/ddl/57667"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'educazione sentimentale, sessuale e affettiva nelle scuole",
+      "stato": "esame in comm.",
+      "data": "2026-06-23",
+      "link": "http://dati.senato.it/ddl/57718"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica alla legge 20 agosto 2019, n. 92, in materia di introduzione dell'educazione all'emotività, all'affettività e alla sessualità nell'ambito dell'insegnamento trasversale dell'educazione civica",
+      "stato": "esame in comm.",
+      "data": "2026-06-23",
+      "link": "http://dati.senato.it/ddl/58061"
     }
   ]
 }
