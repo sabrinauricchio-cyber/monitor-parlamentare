@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-01 15:17",
+  "aggiornato_il": "2026-07-01 17:26",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,6 +18,34 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Introduzione dell'articolo 1857-bis del codice civile e modifica all'articolo 33 del codice di cui al decreto legislativo 6 settembre 2005, n. 206, in materia di obbligo di contrarre e recesso della banca nei rapporti di conto corrente",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59400"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59875"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni e delega al Governo per l'istituzione di Scuole dell'infanzia a indirizzo musicale",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/56494"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica alla legge 27 dicembre 2017, n. 205, in materia di corresponsione della retribuzione su conto corrente intestato al lavoratore",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57194"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Delega al Governo per la riforma della disciplina degli ordinamenti professionali",
       "stato": "in relazione",
       "data": "2026-07-01",
@@ -25,17 +53,38 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
-      "stato": "all'esame assemblea",
+      "titolo": "Modifica all'articolo 58 del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123",
+      "stato": "esame in comm.",
       "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/60233"
+      "link": "http://dati.senato.it/ddl/60106"
     },
     {
       "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
+      "titolo": "Disposizioni per la protezione e l'assistenza dei minorenni e degli adulti di riferimento appartenenti a famiglie inserite in contesti di criminalità organizzata",
+      "stato": "all'esame assemblea",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59709"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e all'articolo 41 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di cambio della denominazione dell'archivio centrale dello Stato in quella di Archivio nazionale",
       "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/59875"
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59909"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma dell'ordinamento forense",
+      "stato": "concluso l'esame",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/60170"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
+      "stato": "appr. def. non pubbl",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/60233"
     },
     {
       "ramo": "Senato",
@@ -71,13 +120,6 @@
       "stato": "esame in comm.",
       "data": "2026-06-30",
       "link": "http://dati.senato.it/ddl/59859"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale del merito pubblico",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/60256"
     },
     {
       "ramo": "Senato",
@@ -235,13 +277,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma dell'ordinamento forense",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/60170"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
       "stato": "esame in comm.",
       "data": "2026-06-30",
@@ -295,41 +330,6 @@
       "stato": "in relazione",
       "data": "2026-06-26",
       "link": "http://dati.senato.it/ddl/60055"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 3 aprile 2006, n. 152, concernenti l'istituzione di un sistema nazionale armonizzato di identificazione ai fini della raccolta differenziata dei rifiuti urbani",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-26",
-      "link": "http://dati.senato.it/ddl/60250"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
-      "stato": "all'esame assemblea",
-      "data": "2026-06-26",
-      "link": "http://dati.senato.it/ddl/55616"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 2236 del codice civile e altre disposizioni concernenti la responsabilità civile e l'obbligo di assicurazione dei professionisti iscritti negli albi delle professioni tecniche regolamentate",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-26",
-      "link": "http://dati.senato.it/ddl/60028"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la semplificazione del procedimento elettorale, per la digitalizzazione delle liste elettorali nonché in materia di propaganda elettorale e di esercizio del diritto di voto da parte dei cittadini che, per motivi di studio, di lavoro o di cura, hanno temporaneo domicilio in un comune diverso da quello di residenza",
-      "stato": "all'esame assemblea",
-      "data": "2026-06-26",
-      "link": "http://dati.senato.it/ddl/58867"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
-      "stato": "all'esame assemblea",
-      "data": "2026-06-26",
-      "link": "http://dati.senato.it/ddl/59951"
     }
   ]
 }
