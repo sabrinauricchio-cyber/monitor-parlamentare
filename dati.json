@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-01 12:18",
+  "aggiornato_il": "2026-07-01 15:17",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,10 +18,66 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma della disciplina degli ordinamenti professionali",
+      "stato": "in relazione",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59584"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
+      "stato": "all'esame assemblea",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/60233"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
+      "stato": "esame in comm.",
+      "data": "2026-06-30",
+      "link": "http://dati.senato.it/ddl/59875"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 36 della legge 6 dicembre 1991, n. 394, in materia di istituzione dell'area marina protetta di Scala dei Turchi, Punta Bianca e Scoglio Patella",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-30",
+      "link": "http://dati.senato.it/ddl/59918"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-30",
+      "link": "http://dati.senato.it/ddl/60249"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
       "stato": "esame in comm.",
       "data": "2026-06-30",
       "link": "http://dati.senato.it/ddl/55338"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 28 giugno 2005, n. 139, concernenti la disciplina delle professioni di dottore commercialista e di esperto contabile e l'organizzazione dell'Ordine dei dottori commercialisti e degli esperti contabili",
+      "stato": "esame in comm.",
+      "data": "2026-06-30",
+      "link": "http://dati.senato.it/ddl/55507"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di protezione civile",
+      "stato": "esame in comm.",
+      "data": "2026-06-30",
+      "link": "http://dati.senato.it/ddl/59859"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale del merito pubblico",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-30",
+      "link": "http://dati.senato.it/ddl/60256"
     },
     {
       "ramo": "Senato",
@@ -57,6 +113,27 @@
       "stato": "esame in comm.",
       "data": "2026-06-30",
       "link": "http://dati.senato.it/ddl/57380"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-06-30",
+      "link": "http://dati.senato.it/ddl/57863"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-06-30",
+      "link": "http://dati.senato.it/ddl/57894"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-06-30",
+      "link": "http://dati.senato.it/ddl/57907"
     },
     {
       "ramo": "Senato",
@@ -102,10 +179,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma della disciplina degli ordinamenti professionali",
-      "stato": "concluso l'esame",
+      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
+      "stato": "esame in comm.",
       "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/59584"
+      "link": "http://dati.senato.it/ddl/59590"
     },
     {
       "ramo": "Senato",
@@ -120,6 +197,27 @@
       "stato": "esame in comm.",
       "data": "2026-06-30",
       "link": "http://dati.senato.it/ddl/59988"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-06-30",
+      "link": "http://dati.senato.it/ddl/60236"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'insegnamento del patrimonio culturale territoriale nei corsi scolastici del primo e del secondo ciclo di istruzione",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-30",
+      "link": "http://dati.senato.it/ddl/60057"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni concernenti lo svolgimento dell'attività di formazione scuola-lavoro degli studenti residenti nei comuni con popolazione fino a 10.000 abitanti presso gli uffici comunali del comune di residenza o dei comuni limitrofi",
+      "stato": "assegnato (no esame)",
+      "data": "2026-06-30",
+      "link": "http://dati.senato.it/ddl/60102"
     },
     {
       "ramo": "Senato",
@@ -144,10 +242,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
+      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
       "stato": "esame in comm.",
       "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/60233"
+      "link": "http://dati.senato.it/ddl/60246"
     },
     {
       "ramo": "Senato",
@@ -155,6 +253,13 @@
       "stato": "esame in comm.",
       "data": "2026-06-30",
       "link": "http://dati.senato.it/ddl/60182"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti",
+      "stato": "esame in comm.",
+      "data": "2026-06-30",
+      "link": "http://dati.senato.it/ddl/60213"
     },
     {
       "ramo": "Senato",
@@ -200,13 +305,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-26",
-      "link": "http://dati.senato.it/ddl/60249"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
       "stato": "all'esame assemblea",
       "data": "2026-06-26",
@@ -228,108 +326,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-26",
-      "link": "http://dati.senato.it/ddl/60236"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
       "stato": "all'esame assemblea",
       "data": "2026-06-26",
       "link": "http://dati.senato.it/ddl/59951"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-26",
-      "link": "http://dati.senato.it/ddl/60246"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 3 aprile 2006, n. 152, concernenti l'introduzione della valutazione del ciclo di vita dei prodotti, servizi e processi nell'ambito dei procedimenti delle amministrazioni pubbliche in materia ambientale",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-26",
-      "link": "http://dati.senato.it/ddl/60251"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Accisa generale sui prodotti da fumo e nicotina per la tutela della salute pubblica e il rafforzamento del Servizio Sanitario Nazionale",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-26",
-      "link": "http://dati.senato.it/ddl/60247"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
-      "stato": "esame in comm.",
-      "data": "2026-06-25",
-      "link": "http://dati.senato.it/ddl/59875"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale per la prevenzione della ludopatia e delle conseguenze patologiche del gioco d'azzardo",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-25",
-      "link": "http://dati.senato.it/ddl/60245"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione di un fondo nazionale per la sicurezza nei luoghi di lavoro, destinato al sostegno degli investimenti delle imprese per la formazione dei lavoratori, la prevenzione degli infortuni, l'acquisto di dispositivi di protezione e gli interventi di innovazione tecnologica finalizzati alla tutela dei lavoratori",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-25",
-      "link": "http://dati.senato.it/ddl/60244"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di riconoscimento della figura professionale di Autista Soccorritore del Servizio di Urgenza Emergenza Sanitaria del 118",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-25",
-      "link": "http://dati.senato.it/ddl/60248"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di localizzazione degli impianti di discarica nelle aree di confine interregionale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-24",
-      "link": "http://dati.senato.it/ddl/60040"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione di una Commissione parlamentare d'inchiesta sull'impiego dei finanziamenti nazionali ed europei nelle regioni dell'Italia meridionale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-24",
-      "link": "http://dati.senato.it/ddl/57292"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la valorizzazione del patrimonio culturale dell'Occidente ed europeo delle abbazie, degli insediamenti benedettini medioevali, dei cammini e dei territori delle province sui quali insistono",
-      "stato": "esame in comm.",
-      "data": "2026-06-24",
-      "link": "http://dati.senato.it/ddl/57702"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la determinazione dei livelli essenziali delle prestazioni",
-      "stato": "esame in comm.",
-      "data": "2026-06-24",
-      "link": "http://dati.senato.it/ddl/59476"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme per l'istituzione della Rete nazionale dei presepi viventi",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-24",
-      "link": "http://dati.senato.it/ddl/59379"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riordino e riorganizzazione del Consiglio universitario nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-06-24",
-      "link": "http://dati.senato.it/ddl/60107"
     }
   ]
 }
