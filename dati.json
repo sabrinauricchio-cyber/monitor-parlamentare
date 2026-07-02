@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-02 08:37",
+  "aggiornato_il": "2026-07-02 11:24",
   "fonti": [
     {
       "fonte": "Senato",
@@ -61,30 +61,9 @@
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per la protezione e l'assistenza dei minorenni e degli adulti di riferimento appartenenti a famiglie inserite in contesti di criminalità organizzata",
-      "stato": "approvato",
+      "stato": "all'esame assemblea",
       "data": "2026-07-01",
       "link": "http://dati.senato.it/ddl/59709"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica dell'intesa tra il Governo della Repubblica italiana e l'Unione Buddhista Italiana, in attuazione dell'articolo 8, terzo comma, della Costituzione",
-      "stato": "approvato",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/59924"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica della legge 22 novembre 1988, n. 517, di approvazione dell'intesa tra il Governo della Repubblica italiana e le Assemblee di Dio in Italia, in attuazione dell'articolo 8, terzo comma, della Costituzione",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/59939"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme per la regolazione dei rapporti tra lo Stato e la Diocesi ortodossa romena d'Italia, in attuazione dell'articolo 8, terzo comma, della Costituzione",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/59901"
     },
     {
       "ramo": "Senato",
@@ -96,7 +75,7 @@
     {
       "ramo": "Senato",
       "titolo": "Delega al Governo per la riforma dell'ordinamento forense",
-      "stato": "in relazione",
+      "stato": "concluso l'esame",
       "data": "2026-07-01",
       "link": "http://dati.senato.it/ddl/60170"
     },
@@ -330,6 +309,27 @@
       "stato": "da assegn. a commis.",
       "data": "2026-06-29",
       "link": "http://dati.senato.it/ddl/60252"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Concessione di agevolazioni previdenziali per la maternità e per la prestazione di assistenza continuativa a familiari disabili",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-29",
+      "link": "http://dati.senato.it/ddl/60253"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione di un Comitato interministeriale per l'approccio integrato, coordinato e interdisciplinare nella definizione delle politiche pubbliche in materia di salute umana e animale, di tutela dell'ambiente, di agricoltura e di sicurezza alimentare",
+      "stato": "da assegn. a commis.",
+      "data": "2026-06-29",
+      "link": "http://dati.senato.it/ddl/60255"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Registro unico nazionale dei dispositivi medici impiantabili",
+      "stato": "in relazione",
+      "data": "2026-06-26",
+      "link": "http://dati.senato.it/ddl/60055"
     }
   ]
 }
