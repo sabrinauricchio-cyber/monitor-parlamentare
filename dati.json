@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-03 13:17",
+  "aggiornato_il": "2026-07-03 15:31",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,27 +18,6 @@
   "atti": [
     {
       "ramo": "Senato",
-      "titolo": "Modifica all'articolo 624 del codice penale in materia di querela della persona offesa",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/59426"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la trasparenza degli assetti e della libertà dei servizi di media audiovisivi e radiofonici",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60054"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 9 della legge 5 febbraio 1992, n. 91, in materia di concessione della cittadinanza italiana ai testimoni di giustizia",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60076"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni per la regolamentazione dell'esposizione ai dispositivi digitali nei bambini e nelle bambine da zero a tre anni a tutela del loro sviluppo neuro cognitivo fisico e relazionale e per la promozione di un graduale accesso al loro utilizzo durante la minore età",
       "stato": "da assegn. a commis.",
       "data": "2026-07-02",
@@ -46,52 +25,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Istituzione di una indennità di insularità in favore dei dipendenti delle amministrazioni pubbliche operanti in Sardegna, in Sicilia e nelle isole minori",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/59220"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 1 del decreto legislativo 14 settembre 2015, n. 151, in materia di accordi territoriali per il collocamento mirato delle persone con disabilità",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60050"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e l'inclusione lavorativa dei caregiver familiari mediante riserve di posti e titoli di preferenza nei concorsi pubblici",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60156"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di sistema calcistico italiano",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60145"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il rafforzamento dell'autonomia amministrativa del comune e della città Metropolitana di Milano, per la semplificazione normativa e per promuoverne e sostenerne il modello di efficienza amministrativa",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60192"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
       "stato": "esame in comm.",
       "data": "2026-07-02",
       "link": "http://dati.senato.it/ddl/60214"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 27 dicembre 2001, n. 459, in materia di esercizio del diritto di voto da parte dei cittadini italiani residenti all'estero",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60155"
     },
     {
       "ramo": "Senato",
@@ -106,13 +43,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-07-02",
       "link": "http://dati.senato.it/ddl/60206"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere»)",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60262"
     },
     {
       "ramo": "Senato",
@@ -330,6 +260,76 @@
       "stato": "esame in comm.",
       "data": "2026-07-01",
       "link": "http://dati.senato.it/ddl/58524"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la valorizzazione della fraternità umana nei luoghi di lavoro",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59458"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 842 del codice civile, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59188"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento della cardiomiopatia quale malattia invalidante e disposizioni per la diagnosi, la cura e l'assistenza delle persone che ne sono affette",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59010"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59176"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma della disciplina degli ordinamenti professionali",
+      "stato": "in relazione",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59584"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59881"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione dei Trattati di estradizione e sul trasferimento di persone condannate tra la Repubblica italiana e la Repubblica kirghisa, fatti a Roma il 3 ottobre 2024",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/60093"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 58 del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/60106"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/60236"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la protezione e l'assistenza dei minorenni e degli adulti di riferimento appartenenti a famiglie inserite in contesti di criminalità organizzata",
+      "stato": "approvato",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59709"
     }
   ]
 }
