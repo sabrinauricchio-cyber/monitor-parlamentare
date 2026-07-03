@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-02 18:53",
+  "aggiornato_il": "2026-07-03 08:15",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,6 +18,55 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per la regolamentazione dell'esposizione ai dispositivi digitali nei bambini e nelle bambine da zero a tre anni a tutela del loro sviluppo neuro cognitivo fisico e relazionale e per la promozione di un graduale accesso al loro utilizzo durante la minore età",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60260"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
+      "stato": "esame in comm.",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60214"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la promozione della comunità educante quale strumento di partecipazione civile, inclusione e socialità dei giovani",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60198"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica alla legge 27 dicembre 2017, n. 205, in materia di corresponsione della retribuzione su conto corrente intestato al lavoratore o alla lavoratrice",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60206"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disciplina dell'educazione permanente e della formazione degli adulti",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60204"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione della Dichiarazione congiunta relativa all'Accordo di cooperazione nel settore della difesa tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare, fatto a Roma il 15 maggio 2003, fatta a Roma il 23 luglio 2025",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60207"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 23 dicembre 2010, n. 240, in materia di controllo a campione sulla regolarità delle procedure di valutazione e reclutamento del personale docente e ricercatore in ambito universitario",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60261"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Introduzione dell'articolo 1857-bis del codice civile e modifica all'articolo 33 del codice di cui al decreto legislativo 6 settembre 2005, n. 206, in materia di obbligo di contrarre e recesso della banca nei rapporti di conto corrente",
       "stato": "esame in comm.",
       "data": "2026-07-01",
@@ -32,10 +81,101 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/60249"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni e delega al Governo per l'istituzione di Scuole dell'infanzia a indirizzo musicale",
       "stato": "esame in comm.",
       "data": "2026-07-01",
       "link": "http://dati.senato.it/ddl/56494"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Norme in materia di caregiver familiare e deleghe al Governo per la piena integrazione della figura del caregiver familiare nell'ordinamento giuridico della Repubblica",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/55733"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni e delega al Governo per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/58456"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di periodi di attività venatoria, di divieto dell'esercizio venatorio con l'accompagnamento di minori e di disciplina del rilascio della licenza di porto di fucile per uso di caccia",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/55479"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/55676"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/55437"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/55595"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni e delega al Governo per la disciplina della figura del caregiver familiare e per la promozione e il sostegno dell'attività di assistenza e di cura da esso svolta",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/55573"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/55618"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura nonché per la conciliazione tra l'attività lavorativa e le attività di cura e assistenza",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/55857"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura svolta dal caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/56806"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per l'integrazione delle norme adottate in attuazione della direttiva 92/43/CEE del Consiglio, del 21 maggio 1992, relativa alla conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche, mediante introduzione di un regime di deroga per la specie canis lupus",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/56939"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Norme in materia di prevenzione dei danni causati dalla fauna selvatica. Modifica alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/56820"
     },
     {
       "ramo": "Senato",
@@ -46,10 +186,129 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57528"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dallo studente caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57637"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57573"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche agli articoli 12, 13 e 22 della legge 11 febbraio 1992, n. 157, in materia di divieto dell'esercizio dell'attività venatoria mediante l'uso dell'arco",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57693"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57863"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in favore degli studenti universitari che svolgono attività di caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57923"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57894"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57907"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica del comma 255 dell'articolo 1 della legge 27 dicembre 2017, n. 205, e altre disposizioni nonché delega al Governo per il riconoscimento e la tutela della figura del caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57933"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 2 della legge 11 febbraio 1992, n. 157, in materia di esclusione del lupo (canis lupus) dall'elenco delle specie particolarmente protette",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/58736"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, e all'articolo 544-ter del codice penale, in materia di divieto di utilizzo dei richiami vivi nell'attività venatoria",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/58524"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la valorizzazione della fraternità umana nei luoghi di lavoro",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59458"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 842 del codice civile, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59188"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento della cardiomiopatia quale malattia invalidante e disposizioni per la diagnosi, la cura e l'assistenza delle persone che ne sono affette",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59010"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59176"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Delega al Governo per la riforma della disciplina degli ordinamenti professionali",
       "stato": "in relazione",
       "data": "2026-07-01",
       "link": "http://dati.senato.it/ddl/59584"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59881"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione dei Trattati di estradizione e sul trasferimento di persone condannate tra la Repubblica italiana e la Repubblica kirghisa, fatti a Roma il 3 ottobre 2024",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/60093"
     },
     {
       "ramo": "Senato",
@@ -60,276 +319,17 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni per la protezione e l'assistenza dei minorenni e degli adulti di riferimento appartenenti a famiglie inserite in contesti di criminalità organizzata",
-      "stato": "approvato",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/59709"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica dell'intesa tra il Governo della Repubblica italiana e l'Unione Buddhista Italiana, in attuazione dell'articolo 8, terzo comma, della Costituzione",
-      "stato": "approvato",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/59924"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica della legge 22 novembre 1988, n. 517, di approvazione dell'intesa tra il Governo della Repubblica italiana e le Assemblee di Dio in Italia, in attuazione dell'articolo 8, terzo comma, della Costituzione",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/59939"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme per la regolazione dei rapporti tra lo Stato e la Diocesi ortodossa romena d'Italia, in attuazione dell'articolo 8, terzo comma, della Costituzione",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/59901"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e all'articolo 41 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di cambio della denominazione dell'archivio centrale dello Stato in quella di Archivio nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/59909"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma dell'ordinamento forense",
-      "stato": "in relazione",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/60170"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/60233"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 36 della legge 6 dicembre 1991, n. 394, in materia di istituzione dell'area marina protetta di Scala dei Turchi, Punta Bianca e Scoglio Patella",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/59918"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/60249"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/55338"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 28 giugno 2005, n. 139, concernenti la disciplina delle professioni di dottore commercialista e di esperto contabile e l'organizzazione dell'Ordine dei dottori commercialisti e degli esperti contabili",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/55507"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di protezione civile",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/59859"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge quadro per lo sviluppo delle isole minori marine, lagunari e lacustri",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/55339"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di servizio pubblico radiotelevisivo",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/55725"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico di cui al decreto legislativo 8 novembre 2021, n. 208, in materia di servizio pubblico radiotelevisivo",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/56879"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208, in materia di servizio pubblico radiofonico, televisivo e multimediale, riduzione e abolizione del canone di abbonamento e disciplina della società concessionaria del servizio pubblico",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/56841"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme per la revisione del servizio pubblico nella comunicazione audiovisiva e radiofonica sui diversi media",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/57380"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
       "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/57863"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/57894"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/57907"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla disciplina della governance della RAI - Radiotelevisione italiana S.p.a.",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/58538"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disciplina e organizzazione del servizio pubblico radiofonico, televisivo e multimediale",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/58567"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/59227"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/59133"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208, in materia di riforma della governance della RAI-Radiotelevisione italiana S.p.A. e valorizzazione delle partecipazioni societarie",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/59338"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208, in materia di servizio pubblico radiofonico, televisivo e multimediale, riduzione e abolizione del canone di abbonamento e disciplina della società concessionaria del servizio pubblico",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/59385"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/59590"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
-      "stato": "all'esame assemblea",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/59955"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la valorizzazione delle isole minori marine, lagunari e lacustri",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/59988"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
+      "data": "2026-07-01",
       "link": "http://dati.senato.it/ddl/60236"
     },
     {
       "ramo": "Senato",
-      "titolo": "Introduzione dell'insegnamento del patrimonio culturale territoriale nei corsi scolastici del primo e del secondo ciclo di istruzione",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/60057"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni concernenti lo svolgimento dell'attività di formazione scuola-lavoro degli studenti residenti nei comuni con popolazione fino a 10.000 abitanti presso gli uffici comunali del comune di residenza o dei comuni limitrofi",
-      "stato": "assegnato (no esame)",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/60102"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/60214"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di sviluppo della carriera dirigenziale e della valutazione della performance del personale dirigenziale e non dirigenziale delle pubbliche amministrazioni",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/59851"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/60246"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dei Trattati di estradizione, di mutua assistenza in materia penale e sul trasferimento delle persone condannate tra la Repubblica Italiana e la Repubblica dell'Uzbekistan, fatti a Roma l'8 giugno 2023",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/60182"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti",
-      "stato": "esame in comm.",
-      "data": "2026-06-30",
-      "link": "http://dati.senato.it/ddl/60213"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni concernenti il concorso statale al finanziamento della spesa per la partecipazione a viaggi di istruzione e la fornitura gratuita dei libri di testo",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-29",
-      "link": "http://dati.senato.it/ddl/60254"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni concernenti l'istituzione di percorsi didattici interdisciplinari nelle scuole secondarie di primo e di secondo grado per promuovere la conoscenza e l'uso consapevole dei sistemi di intelligenza artificiale",
-      "stato": "da assegn. a commis.",
-      "data": "2026-06-29",
-      "link": "http://dati.senato.it/ddl/60252"
+      "titolo": "Disposizioni per la protezione e l'assistenza dei minorenni e degli adulti di riferimento appartenenti a famiglie inserite in contesti di criminalità organizzata",
+      "stato": "approvato",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59709"
     }
   ]
 }
