@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-06 16:46",
+  "aggiornato_il": "2026-07-06 18:49",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,55 @@
   ],
   "numero_atti": 45,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento della condizione di disabilità dei minori affetti da epilessia",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-03",
+      "link": "http://dati.senato.it/ddl/60176"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Norme concernenti l'adozione di percorsi formativi personalizzati per gli studenti iscritti contemporaneamente a corsi di istruzione secondaria superiore e di alta formazione artistica, musicale o coreutica",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-03",
+      "link": "http://dati.senato.it/ddl/60085"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni concernenti la disciplina dell'attività di creatore di contenuti digitali",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-03",
+      "link": "http://dati.senato.it/ddl/60082"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disciplina dell'esercizio dell'attività di truccatore professionista e disposizioni concernenti il suo inserimento nella classificazione delle attività economiche",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-03",
+      "link": "http://dati.senato.it/ddl/60118"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Dichiarazione di monumento nazionale del sistema bastionato della città di Treviso",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-03",
+      "link": "http://dati.senato.it/ddl/60113"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento del carattere usurante del lavoro degli internavigatori ai fini del pensionamento anticipato. Modifica all'articolo 1, comma 1, lettera d), del decreto legislativo 21 aprile 2011, n. 67",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-03",
+      "link": "http://dati.senato.it/ddl/60190"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Adozione del Piano triennale di prevenzione e promozione della salute nelle scuole nonché istituzione della Giornata nazionale della prevenzione e della promozione della salute e dei corretti stili di vita in memoria di Umberto Veronesi",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-03",
+      "link": "http://dati.senato.it/ddl/60230"
+    },
     {
       "ramo": "Senato",
       "titolo": "Modifica all'articolo 624 del codice penale in materia di querela della persona offesa",
@@ -36,6 +85,20 @@
       "stato": "assegnato (no esame)",
       "data": "2026-07-02",
       "link": "http://dati.senato.it/ddl/60076"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica dell'intesa tra il Governo della Repubblica italiana e l'Unione Buddhista Italiana, in attuazione dell'articolo 8, terzo comma, della Costituzione",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60266"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Fondo nazionale per l'accoglienza abitativa delle persone senza dimora",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60265"
     },
     {
       "ramo": "Senato",
@@ -228,6 +291,20 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Istituzione di una Commissione parlamentare di inchiesta sulla strage di Vergarolla del 18 agosto 1946, sulle relative responsabilità e sulle circostanze che impedirono il completo accertamento dei fatti",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/60263"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale in memoria delle vittime degli incidenti ferroviari",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/60264"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura svolta dal caregiver familiare",
       "stato": "esame in comm.",
       "data": "2026-07-01",
@@ -253,83 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-07-01",
       "link": "http://dati.senato.it/ddl/57194"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/57528"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dallo studente caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/57637"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/57573"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche agli articoli 12, 13 e 22 della legge 11 febbraio 1992, n. 157, in materia di divieto dell'esercizio dell'attività venatoria mediante l'uso dell'arco",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/57693"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/57863"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in favore degli studenti universitari che svolgono attività di caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/57923"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/57894"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/57907"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica del comma 255 dell'articolo 1 della legge 27 dicembre 2017, n. 205, e altre disposizioni nonché delega al Governo per il riconoscimento e la tutela della figura del caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/57933"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 2 della legge 11 febbraio 1992, n. 157, in materia di esclusione del lupo (canis lupus) dall'elenco delle specie particolarmente protette",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/58736"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, e all'articolo 544-ter del codice penale, in materia di divieto di utilizzo dei richiami vivi nell'attività venatoria",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/58524"
     }
   ]
 }
