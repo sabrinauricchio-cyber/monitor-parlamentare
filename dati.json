@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-08 17:55",
+  "aggiornato_il": "2026-07-08 19:04",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,80 +18,10 @@
   "atti": [
     {
       "ramo": "Senato",
-      "titolo": "Modifica al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/60172"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di protezione civile",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/59859"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la valorizzazione del patrimonio culturale dell'Occidente ed europeo delle abbazie, degli insediamenti benedettini medioevali, dei cammini e dei territori delle province sui quali insistono",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/57702"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/59694"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
-      "stato": "approvato",
+      "stato": "all'esame assemblea",
       "data": "2026-07-08",
       "link": "http://dati.senato.it/ddl/59955"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riordino e riorganizzazione del Consiglio universitario nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/60107"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di allontanamento del minore",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/59976"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/60214"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e all'articolo 41 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di cambio della denominazione dell'archivio centrale dello Stato in quella di Archivio nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/59909"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di rilascio di immobili",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/60131"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere»)",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/60262"
     },
     {
       "ramo": "Senato",
@@ -169,6 +99,13 @@
       "stato": "esame in comm.",
       "data": "2026-07-07",
       "link": "http://dati.senato.it/ddl/60149"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
+      "stato": "esame in comm.",
+      "data": "2026-07-07",
+      "link": "http://dati.senato.it/ddl/60214"
     },
     {
       "ramo": "Senato",
@@ -330,6 +267,69 @@
       "stato": "assegnato (no esame)",
       "data": "2026-07-02",
       "link": "http://dati.senato.it/ddl/60145"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il rafforzamento dell'autonomia amministrativa del comune e della città Metropolitana di Milano, per la semplificazione normativa e per promuoverne e sostenerne il modello di efficienza amministrativa",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60192"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 27 dicembre 2001, n. 459, in materia di esercizio del diritto di voto da parte dei cittadini italiani residenti all'estero",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60155"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la promozione della comunità educante quale strumento di partecipazione civile, inclusione e socialità dei giovani",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60198"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica alla legge 27 dicembre 2017, n. 205, in materia di corresponsione della retribuzione su conto corrente intestato al lavoratore o alla lavoratrice",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60206"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere»)",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60262"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disciplina dell'educazione permanente e della formazione degli adulti",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60204"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione della Dichiarazione congiunta relativa all'Accordo di cooperazione nel settore della difesa tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare, fatto a Roma il 15 maggio 2003, fatta a Roma il 23 luglio 2025",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60207"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 23 dicembre 2010, n. 240, in materia di controllo a campione sulla regolarità delle procedure di valutazione e reclutamento del personale docente e ricercatore in ambito universitario",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-02",
+      "link": "http://dati.senato.it/ddl/60261"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'articolo 1857-bis del codice civile e modifica all'articolo 33 del codice di cui al decreto legislativo 6 settembre 2005, n. 206, in materia di obbligo di contrarre e recesso della banca nei rapporti di conto corrente",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59400"
     }
   ]
 }
