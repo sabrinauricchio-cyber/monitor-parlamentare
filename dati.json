@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-08 08:03",
+  "aggiornato_il": "2026-07-08 10:32",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,10 +18,80 @@
   "atti": [
     {
       "ramo": "Senato",
-      "titolo": "Riconoscimento della condizione di disabilità dei minori affetti da epilessia",
+      "titolo": "Modifica dell'intesa tra il Governo della Repubblica italiana e l'Unione Buddhista Italiana, in attuazione dell'articolo 8, terzo comma, della Costituzione",
       "stato": "assegnato (no esame)",
+      "data": "2026-07-07",
+      "link": "http://dati.senato.it/ddl/60266"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il coordinamento in materia di politiche integrate per la sicurezza e di polizia locale",
+      "stato": "esame in comm.",
+      "data": "2026-07-07",
+      "link": "http://dati.senato.it/ddl/57064"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al codice penale e alle disposizioni sul processo penale a carico di imputati minorenni, di cui al decreto del Presidente della Repubblica 22 settembre 1988, n. 448, in materia di imputabilità dei minori",
+      "stato": "esame in comm.",
+      "data": "2026-07-07",
+      "link": "http://dati.senato.it/ddl/59749"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario",
+      "stato": "appr. def. non pubbl",
+      "data": "2026-07-07",
+      "link": "http://dati.senato.it/ddl/59779"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica Italiana e il Consiglio dei Ministri della Repubblica di Albania in materia di cooperazione strategica nei settori dell'assistenza sanitaria, dell'energia, dell'ambiente, della sicurezza e dell'industria della difesa, della gestione delle migrazioni, dell'educazione, dell'innovazione, della diaspora, della trasformazione economica e della crescita intelligente, fatto a Roma il 13 novembre 2025",
+      "stato": "all'esame assemblea",
+      "data": "2026-07-07",
+      "link": "http://dati.senato.it/ddl/59880"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'articolo 270.1 del codice penale, concernente i gruppi militanti denominati \"Antifa\" o anarchici che perseguono finalità di sovversione o terrorismo anche internazionale",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-07",
+      "link": "http://dati.senato.it/ddl/60030"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
+      "stato": "esame in comm.",
+      "data": "2026-07-07",
+      "link": "http://dati.senato.it/ddl/60214"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti",
+      "stato": "esame in comm.",
+      "data": "2026-07-07",
+      "link": "http://dati.senato.it/ddl/60213"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2025",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-06",
+      "link": "http://dati.senato.it/ddl/60270"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni concernenti l'istituzione e l'obbligo di possesso della certificazione nazionale per la gestione degli allergeni nelle attività di preparazione, vendita e somministrazione di prodotti alimentari",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-06",
+      "link": "http://dati.senato.it/ddl/60269"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della certificazione di qualità della ristorazione italiana \"Carlo Petrini\"",
+      "stato": "da assegn. a commis.",
       "data": "2026-07-03",
-      "link": "http://dati.senato.it/ddl/60176"
+      "link": "http://dati.senato.it/ddl/60267"
     },
     {
       "ramo": "Senato",
@@ -36,76 +106,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-07-03",
       "link": "http://dati.senato.it/ddl/60082"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disciplina dell'esercizio dell'attività di truccatore professionista e disposizioni concernenti il suo inserimento nella classificazione delle attività economiche",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-03",
-      "link": "http://dati.senato.it/ddl/60118"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Dichiarazione di monumento nazionale del sistema bastionato della città di Treviso",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-03",
-      "link": "http://dati.senato.it/ddl/60113"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riconoscimento del carattere usurante del lavoro degli internavigatori ai fini del pensionamento anticipato. Modifica all'articolo 1, comma 1, lettera d), del decreto legislativo 21 aprile 2011, n. 67",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-03",
-      "link": "http://dati.senato.it/ddl/60190"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Adozione del Piano triennale di prevenzione e promozione della salute nelle scuole nonché istituzione della Giornata nazionale della prevenzione e della promozione della salute e dei corretti stili di vita in memoria di Umberto Veronesi",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-03",
-      "link": "http://dati.senato.it/ddl/60230"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 624 del codice penale in materia di querela della persona offesa",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/59426"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la trasparenza degli assetti e della libertà dei servizi di media audiovisivi e radiofonici",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60054"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 9 della legge 5 febbraio 1992, n. 91, in materia di concessione della cittadinanza italiana ai testimoni di giustizia",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60076"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica dell'intesa tra il Governo della Repubblica italiana e l'Unione Buddhista Italiana, in attuazione dell'articolo 8, terzo comma, della Costituzione",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60266"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del Fondo nazionale per l'accoglienza abitativa delle persone senza dimora",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60265"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la regolamentazione dell'esposizione ai dispositivi digitali nei bambini e nelle bambine da zero a tre anni a tutela del loro sviluppo neuro cognitivo fisico e relazionale e per la promozione di un graduale accesso al loro utilizzo durante la minore età",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60260"
     },
     {
       "ramo": "Senato",
@@ -137,31 +137,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni per il rafforzamento dell'autonomia amministrativa del comune e della città Metropolitana di Milano, per la semplificazione normativa e per promuoverne e sostenerne il modello di efficienza amministrativa",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60192"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
-      "stato": "esame in comm.",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60214"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Modifiche alla legge 27 dicembre 2001, n. 459, in materia di esercizio del diritto di voto da parte dei cittadini italiani residenti all'estero",
       "stato": "assegnato (no esame)",
       "data": "2026-07-02",
       "link": "http://dati.senato.it/ddl/60155"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione della comunità educante quale strumento di partecipazione civile, inclusione e socialità dei giovani",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60198"
     },
     {
       "ramo": "Senato",
@@ -186,20 +165,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione della Dichiarazione congiunta relativa all'Accordo di cooperazione nel settore della difesa tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare, fatto a Roma il 15 maggio 2003, fatta a Roma il 23 luglio 2025",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60207"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 23 dicembre 2010, n. 240, in materia di controllo a campione sulla regolarità delle procedure di valutazione e reclutamento del personale docente e ricercatore in ambito universitario",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60261"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Introduzione dell'articolo 1857-bis del codice civile e modifica all'articolo 33 del codice di cui al decreto legislativo 6 settembre 2005, n. 206, in materia di obbligo di contrarre e recesso della banca nei rapporti di conto corrente",
       "stato": "esame in comm.",
       "data": "2026-07-01",
@@ -214,24 +179,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/60249"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni e delega al Governo per l'istituzione di Scuole dell'infanzia a indirizzo musicale",
       "stato": "esame in comm.",
       "data": "2026-07-01",
       "link": "http://dati.senato.it/ddl/56494"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di caregiver familiare e deleghe al Governo per la piena integrazione della figura del caregiver familiare nell'ordinamento giuridico della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/55733"
     },
     {
       "ramo": "Senato",
@@ -284,24 +235,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura nonché per la conciliazione tra l'attività lavorativa e le attività di cura e assistenza",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/55857"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Istituzione di una Commissione parlamentare di inchiesta sulla strage di Vergarolla del 18 agosto 1946, sulle relative responsabilità e sulle circostanze che impedirono il completo accertamento dei fatti",
       "stato": "da assegn. a commis.",
       "data": "2026-07-01",
       "link": "http://dati.senato.it/ddl/60263"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale in memoria delle vittime degli incidenti ferroviari",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/60264"
     },
     {
       "ramo": "Senato",
@@ -319,17 +256,80 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Norme in materia di prevenzione dei danni causati dalla fauna selvatica. Modifica alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/56820"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Modifica alla legge 27 dicembre 2017, n. 205, in materia di corresponsione della retribuzione su conto corrente intestato al lavoratore",
       "stato": "esame in comm.",
       "data": "2026-07-01",
       "link": "http://dati.senato.it/ddl/57194"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57528"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57573"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57863"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in favore degli studenti universitari che svolgono attività di caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57923"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57894"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica del comma 255 dell'articolo 1 della legge 27 dicembre 2017, n. 205, e altre disposizioni nonché delega al Governo per il riconoscimento e la tutela della figura del caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/57933"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, e all'articolo 544-ter del codice penale, in materia di divieto di utilizzo dei richiami vivi nell'attività venatoria",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/58524"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59176"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma della disciplina degli ordinamenti professionali",
+      "stato": "in relazione",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59584"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
+      "stato": "esame in comm.",
+      "data": "2026-07-01",
+      "link": "http://dati.senato.it/ddl/59881"
     }
   ]
 }
