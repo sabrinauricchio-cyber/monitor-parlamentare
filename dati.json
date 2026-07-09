@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-09 11:57",
+  "aggiornato_il": "2026-07-09 14:44",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,10 +18,171 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/59875"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/60172"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 28 giugno 2005, n. 139, concernenti la disciplina delle professioni di dottore commercialista e di esperto contabile e l'organizzazione dell'Ordine dei dottori commercialisti e degli esperti contabili",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/55507"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale \"Enzo Tortora\" in memoria delle vittime di errori giudiziari",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/55855"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la prevenzione e la cura dell'idrosadenite suppurativa",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/59675"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di protezione civile",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/59859"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di tutela della salute mentale volte all'attuazione e allo sviluppo dei princìpi di cui alla legge 13 maggio 1978, n. 180",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/57112"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di tutela della sanità mentale",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/57701"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la valorizzazione del patrimonio culturale dell'Occidente ed europeo delle abbazie, degli insediamenti benedettini medioevali, dei cammini e dei territori delle province sui quali insistono",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/57702"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale in memoria delle vittime di errori giudiziari",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/57873"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale in memoria delle vittime di errori giudiziari",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/57943"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per lo sviluppo evolutivo del sistema di prevenzione, protezione e tutela della salute mentale dalla preadolescenza all'età geriatrica",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/58323"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di tutela della salute mentale",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/58351"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 5 febbraio 1992, n. 91, in materia di acquisto e di revoca della cittadinanza",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/58659"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/59590"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/59694"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
-      "stato": "all'esame assemblea",
+      "stato": "approvato",
       "data": "2026-07-08",
       "link": "http://dati.senato.it/ddl/59955"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riordino e riorganizzazione del Consiglio universitario nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/60107"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di allontanamento del minore",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/59976"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/60214"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e all'articolo 41 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di cambio della denominazione dell'archivio centrale dello Stato in quella di Archivio nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/59909"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di rilascio di immobili",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/60131"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere»)",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/60262"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione dell'Accordo di partenariato economico interinale tra la Costa D'Avorio, da una parte, e la Comunità europea e i suoi Stati membri, dall'altra, con Allegati, fatto ad Abidjan, il ventisei novembre 2008, e a Bruxelles, il ventidue gennaio 2009, rispettivamente",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/60208"
     },
     {
       "ramo": "Senato",
@@ -102,13 +263,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
-      "stato": "esame in comm.",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/60214"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni in materia di adeguamento delle retribuzioni su base territoriale nonché di determinazione e applicazione dei relativi coefficienti",
       "stato": "assegnato (no esame)",
       "data": "2026-07-07",
@@ -120,6 +274,20 @@
       "stato": "esame in comm.",
       "data": "2026-07-07",
       "link": "http://dati.senato.it/ddl/60213"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36, e al decreto legislativo 3 aprile 2006, n. 152, concernenti la disciplina del dibattito pubblico sui progetti di opere e la presa in considerazione degli esiti di esso nei procedimenti di valutazione ambientale strategica e di valutazione di impatto ambientale",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-07",
+      "link": "http://dati.senato.it/ddl/60273"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 25-quater del decreto-legge 23 ottobre 2018, n. 119, convertito, con modificazioni, dalla legge 17 dicembre 2018, n. 136, in materia di rafforzamento del Tavolo operativo e degli strumenti per il contrasto del caporalato e dello sfruttamento lavorativo nell'agricoltura",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-07",
+      "link": "http://dati.senato.it/ddl/60274"
     },
     {
       "ramo": "Senato",
@@ -144,6 +312,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 25-quater del decreto-legge 23 ottobre 2018, n. 119, convertito con modificazioni dalla legge 17 dicembre 2018, n. 136, in materia di rafforzamento del Tavolo operativo e degli strumenti di contrasto al caporalato e allo sfruttamento lavorativo in agricoltura",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-06",
+      "link": "http://dati.senato.it/ddl/60272"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Riconoscimento della condizione di disabilità dei minori affetti da epilessia",
       "stato": "assegnato (no esame)",
       "data": "2026-07-03",
@@ -155,181 +330,6 @@
       "stato": "da assegn. a commis.",
       "data": "2026-07-03",
       "link": "http://dati.senato.it/ddl/60267"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 4 maggio 1983, n. 184, in materia di adozione dei minori da parte delle persone dello stesso sesso unite in unione civile, delle persone conviventi di fatto e delle persone singole",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-03",
-      "link": "http://dati.senato.it/ddl/60268"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme concernenti l'adozione di percorsi formativi personalizzati per gli studenti iscritti contemporaneamente a corsi di istruzione secondaria superiore e di alta formazione artistica, musicale o coreutica",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-03",
-      "link": "http://dati.senato.it/ddl/60085"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni concernenti la disciplina dell'attività di creatore di contenuti digitali",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-03",
-      "link": "http://dati.senato.it/ddl/60082"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disciplina dell'esercizio dell'attività di truccatore professionista e disposizioni concernenti il suo inserimento nella classificazione delle attività economiche",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-03",
-      "link": "http://dati.senato.it/ddl/60118"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Dichiarazione di monumento nazionale del sistema bastionato della città di Treviso",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-03",
-      "link": "http://dati.senato.it/ddl/60113"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riconoscimento del carattere usurante del lavoro degli internavigatori ai fini del pensionamento anticipato. Modifica all'articolo 1, comma 1, lettera d), del decreto legislativo 21 aprile 2011, n. 67",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-03",
-      "link": "http://dati.senato.it/ddl/60190"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Adozione del Piano triennale di prevenzione e promozione della salute nelle scuole nonché istituzione della Giornata nazionale della prevenzione e della promozione della salute e dei corretti stili di vita in memoria di Umberto Veronesi",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-03",
-      "link": "http://dati.senato.it/ddl/60230"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 624 del codice penale in materia di querela della persona offesa",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/59426"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la trasparenza degli assetti e della libertà dei servizi di media audiovisivi e radiofonici",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60054"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 9 della legge 5 febbraio 1992, n. 91, in materia di concessione della cittadinanza italiana ai testimoni di giustizia",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60076"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del Fondo nazionale per l'accoglienza abitativa delle persone senza dimora",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60265"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la regolamentazione dell'esposizione ai dispositivi digitali nei bambini e nelle bambine da zero a tre anni a tutela del loro sviluppo neuro cognitivo fisico e relazionale e per la promozione di un graduale accesso al loro utilizzo durante la minore età",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60260"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione di una indennità di insularità in favore dei dipendenti delle amministrazioni pubbliche operanti in Sardegna, in Sicilia e nelle isole minori",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/59220"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 1 del decreto legislativo 14 settembre 2015, n. 151, in materia di accordi territoriali per il collocamento mirato delle persone con disabilità",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60050"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e l'inclusione lavorativa dei caregiver familiari mediante riserve di posti e titoli di preferenza nei concorsi pubblici",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60156"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di sistema calcistico italiano",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60145"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il rafforzamento dell'autonomia amministrativa del comune e della città Metropolitana di Milano, per la semplificazione normativa e per promuoverne e sostenerne il modello di efficienza amministrativa",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60192"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 27 dicembre 2001, n. 459, in materia di esercizio del diritto di voto da parte dei cittadini italiani residenti all'estero",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60155"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione della comunità educante quale strumento di partecipazione civile, inclusione e socialità dei giovani",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60198"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica alla legge 27 dicembre 2017, n. 205, in materia di corresponsione della retribuzione su conto corrente intestato al lavoratore o alla lavoratrice",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60206"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere»)",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60262"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disciplina dell'educazione permanente e della formazione degli adulti",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60204"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione della Dichiarazione congiunta relativa all'Accordo di cooperazione nel settore della difesa tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare, fatto a Roma il 15 maggio 2003, fatta a Roma il 23 luglio 2025",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60207"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 23 dicembre 2010, n. 240, in materia di controllo a campione sulla regolarità delle procedure di valutazione e reclutamento del personale docente e ricercatore in ambito universitario",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-02",
-      "link": "http://dati.senato.it/ddl/60261"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'articolo 1857-bis del codice civile e modifica all'articolo 33 del codice di cui al decreto legislativo 6 settembre 2005, n. 206, in materia di obbligo di contrarre e recesso della banca nei rapporti di conto corrente",
-      "stato": "esame in comm.",
-      "data": "2026-07-01",
-      "link": "http://dati.senato.it/ddl/59400"
     }
   ]
 }
