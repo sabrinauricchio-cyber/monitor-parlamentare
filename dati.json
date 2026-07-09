@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-09 14:44",
+  "aggiornato_il": "2026-07-09 17:09",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,10 +18,24 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-09",
+      "link": "http://dati.senato.it/ddl/60275"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
       "stato": "esame in comm.",
       "data": "2026-07-08",
       "link": "http://dati.senato.it/ddl/59875"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Norme in materia di caregiver familiare e deleghe al Governo per la piena integrazione della figura del caregiver familiare nell'ordinamento giuridico della Repubblica",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/55733"
     },
     {
       "ramo": "Senato",
@@ -32,6 +46,20 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni e delega al Governo per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/58456"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/55676"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche al decreto legislativo 28 giugno 2005, n. 139, concernenti la disciplina delle professioni di dottore commercialista e di esperto contabile e l'organizzazione dell'Ordine dei dottori commercialisti e degli esperti contabili",
       "stato": "esame in comm.",
       "data": "2026-07-08",
@@ -39,8 +67,29 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale \"Enzo Tortora\" in memoria delle vittime di errori giudiziari",
+      "titolo": "Disposizioni e delega al Governo per la disciplina della figura del caregiver familiare e per la promozione e il sostegno dell'attività di assistenza e di cura da esso svolta",
       "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/55573"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/55618"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura nonché per la conciliazione tra l'attività lavorativa e le attività di cura e assistenza",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/55857"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale \"Enzo Tortora\" in memoria delle vittime di errori giudiziari",
+      "stato": "concluso l'esame",
       "data": "2026-07-08",
       "link": "http://dati.senato.it/ddl/55855"
     },
@@ -60,10 +109,45 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura svolta dal caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/56806"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 36 della legge 6 dicembre 1991, n. 394, in materia di istituzione dell'area marina protetta del golfo di Capo Zafferano",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/56851"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di tutela della salute mentale volte all'attuazione e allo sviluppo dei princìpi di cui alla legge 13 maggio 1978, n. 180",
       "stato": "esame in comm.",
       "data": "2026-07-08",
       "link": "http://dati.senato.it/ddl/57112"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/57528"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dallo studente caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/57637"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/57573"
     },
     {
       "ramo": "Senato",
@@ -82,14 +166,28 @@
     {
       "ramo": "Senato",
       "titolo": "Istituzione della Giornata nazionale in memoria delle vittime di errori giudiziari",
-      "stato": "esame in comm.",
+      "stato": "concluso l'esame",
       "data": "2026-07-08",
       "link": "http://dati.senato.it/ddl/57873"
     },
     {
       "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale in memoria delle vittime di errori giudiziari",
+      "titolo": "Disposizioni in favore degli studenti universitari che svolgono attività di caregiver familiare",
       "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/57923"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica del comma 255 dell'articolo 1 della legge 27 dicembre 2017, n. 205, e altre disposizioni nonché delega al Governo per il riconoscimento e la tutela della figura del caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/57933"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale in memoria delle vittime di errori giudiziari",
+      "stato": "concluso l'esame",
       "data": "2026-07-08",
       "link": "http://dati.senato.it/ddl/57943"
     },
@@ -109,10 +207,24 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Modifica all'articolo 36 della legge 6 dicembre 1991, n. 394, in materia di istituzione dell'area marina protetta del golfo di Capo Zafferano",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/58629"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche alla legge 5 febbraio 1992, n. 91, in materia di acquisto e di revoca della cittadinanza",
       "stato": "esame in comm.",
       "data": "2026-07-08",
       "link": "http://dati.senato.it/ddl/58659"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 36 della legge 6 dicembre 1991, n. 394, in materia di istituzione dell'area marina protetta del Golfo di Capo Zafferano",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/58979"
     },
     {
       "ramo": "Senato",
@@ -130,6 +242,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/59881"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
       "stato": "approvato",
       "data": "2026-07-08",
@@ -141,6 +260,20 @@
       "stato": "esame in comm.",
       "data": "2026-07-08",
       "link": "http://dati.senato.it/ddl/60107"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica al decreto legislativo 3 aprile 2006, n. 152, in materia di consorzi di gestione e tutela del territorio e delle acque irrigue",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/59725"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 8 aprile 1983, n. 113, in materia di cessione di territori del demanio marittimo al comune di Praia a Mare",
+      "stato": "concluso l'esame",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/59964"
     },
     {
       "ramo": "Senato",
@@ -197,139 +330,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-07-07",
       "link": "http://dati.senato.it/ddl/60266"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge quadro sull'ordinamento della polizia locale",
-      "stato": "esame in comm.",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/56840"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il coordinamento in materia di politiche integrate per la sicurezza e di polizia locale",
-      "stato": "esame in comm.",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/57064"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Nuovo ordinamento della polizia locale",
-      "stato": "esame in comm.",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/57508"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al codice penale e alle disposizioni sul processo penale a carico di imputati minorenni, di cui al decreto del Presidente della Repubblica 22 settembre 1988, n. 448, in materia di imputabilità dei minori",
-      "stato": "esame in comm.",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/59749"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/59779"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica Italiana e il Consiglio dei Ministri della Repubblica di Albania in materia di cooperazione strategica nei settori dell'assistenza sanitaria, dell'energia, dell'ambiente, della sicurezza e dell'industria della difesa, della gestione delle migrazioni, dell'educazione, dell'innovazione, della diaspora, della trasformazione economica e della crescita intelligente, fatto a Roma il 13 novembre 2025",
-      "stato": "all'esame assemblea",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/59880"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'articolo 270.1 del codice penale, concernente i gruppi militanti denominati \"Antifa\" o anarchici che perseguono finalità di sovversione o terrorismo anche internazionale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/60030"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 6 del decreto-legge 10 gennaio 2006, n. 4, convertito, con modificazioni, dalla legge 9 marzo 2006, n. 80, in materia di termini per l'accertamento dell'invalidità civile o della condizione di disabilità per i soggetti affetti da malattie neurodegenerative",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/60127"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per il riordino delle funzioni e dell'ordinamento della polizia locale",
-      "stato": "esame in comm.",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/60149"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di adeguamento delle retribuzioni su base territoriale nonché di determinazione e applicazione dei relativi coefficienti",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/60094"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti",
-      "stato": "esame in comm.",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/60213"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36, e al decreto legislativo 3 aprile 2006, n. 152, concernenti la disciplina del dibattito pubblico sui progetti di opere e la presa in considerazione degli esiti di esso nei procedimenti di valutazione ambientale strategica e di valutazione di impatto ambientale",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/60273"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 25-quater del decreto-legge 23 ottobre 2018, n. 119, convertito, con modificazioni, dalla legge 17 dicembre 2018, n. 136, in materia di rafforzamento del Tavolo operativo e degli strumenti per il contrasto del caporalato e dello sfruttamento lavorativo nell'agricoltura",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/60274"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2025",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-06",
-      "link": "http://dati.senato.it/ddl/60270"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni concernenti l'istituzione e l'obbligo di possesso della certificazione nazionale per la gestione degli allergeni nelle attività di preparazione, vendita e somministrazione di prodotti alimentari",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-06",
-      "link": "http://dati.senato.it/ddl/60269"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-06",
-      "link": "http://dati.senato.it/ddl/60271"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 25-quater del decreto-legge 23 ottobre 2018, n. 119, convertito con modificazioni dalla legge 17 dicembre 2018, n. 136, in materia di rafforzamento del Tavolo operativo e degli strumenti di contrasto al caporalato e allo sfruttamento lavorativo in agricoltura",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-06",
-      "link": "http://dati.senato.it/ddl/60272"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riconoscimento della condizione di disabilità dei minori affetti da epilessia",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-03",
-      "link": "http://dati.senato.it/ddl/60176"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della certificazione di qualità della ristorazione italiana \"Carlo Petrini\"",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-03",
-      "link": "http://dati.senato.it/ddl/60267"
     }
   ]
 }
