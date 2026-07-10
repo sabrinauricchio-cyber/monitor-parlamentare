@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-10 18:05",
+  "aggiornato_il": "2026-07-10 19:55",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,20 @@
   ],
   "numero_atti": 45,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2025",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-10",
+      "link": "http://dati.senato.it/ddl/60270"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-10",
+      "link": "http://dati.senato.it/ddl/60271"
+    },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
@@ -316,20 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-07-08",
       "link": "http://dati.senato.it/ddl/60208"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
-      "stato": "esame in comm.",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/60249"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica dell'intesa tra il Governo della Repubblica italiana e l'Unione Buddhista Italiana, in attuazione dell'articolo 8, terzo comma, della Costituzione",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-07",
-      "link": "http://dati.senato.it/ddl/60266"
     }
   ]
 }
