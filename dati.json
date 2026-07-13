@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-13 18:14",
+  "aggiornato_il": "2026-07-13 19:55",
   "fonti": [
     {
       "fonte": "Senato",
@@ -32,10 +32,59 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Modifiche agli articoli 5 e 119 della Costituzione in materia di tutela della coesione territoriale e di promozione del riequilibrio tra le diverse aree del Paese",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-10",
+      "link": "http://dati.senato.it/ddl/59776"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale dei bambini",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-10",
+      "link": "http://dati.senato.it/ddl/60174"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
       "stato": "da assegn. a commis.",
       "data": "2026-07-09",
       "link": "http://dati.senato.it/ddl/60275"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto legislativo 26 marzo 2001, n. 151, e al decreto legislativo 15 giugno 2015, n. 81, in materia di proroga del termine dei contratti di lavoro a tempo determinato in caso di maternità",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-09",
+      "link": "http://dati.senato.it/ddl/60282"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 26 del testo unico delle disposizioni legislative in materia di tutela e sostegno della maternità e della paternità, di cui al decreto legislativo 26 marzo 2001, n. 151, concernenti il congedo di maternità per le lavoratrici nei casi di adozione, affidamento familiare o preadottivo e collocamento temporaneo di minori",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-09",
+      "link": "http://dati.senato.it/ddl/60280"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il rafforzamento dell'autonomia amministrativa del comune e della città metropolitana di Milano",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-09",
+      "link": "http://dati.senato.it/ddl/60283"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni concernenti la promozione della comunità educante per l'organizzazione di attività extrascolastiche e di partecipazione civica rivolte ai giovani",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-09",
+      "link": "http://dati.senato.it/ddl/60284"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni concernenti il rimpatrio dei cittadini di Stati non appartenenti all'Unione europea condannati in Italia e modifiche alla legge 5 febbraio 1992, n. 91, in materia di revoca della cittadinanza",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-09",
+      "link": "http://dati.senato.it/ddl/60281"
     },
     {
       "ramo": "Senato",
@@ -281,55 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-07-08",
       "link": "http://dati.senato.it/ddl/59725"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 8 aprile 1983, n. 113, in materia di cessione di territori del demanio marittimo al comune di Praia a Mare",
-      "stato": "concluso l'esame",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/59964"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di allontanamento del minore",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/59976"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/60214"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e all'articolo 41 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di cambio della denominazione dell'archivio centrale dello Stato in quella di Archivio nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/59909"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di rilascio di immobili",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/60131"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere»)",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/60262"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dell'Accordo di partenariato economico interinale tra la Costa D'Avorio, da una parte, e la Comunità europea e i suoi Stati membri, dall'altra, con Allegati, fatto ad Abidjan, il ventisei novembre 2008, e a Bruxelles, il ventidue gennaio 2009, rispettivamente",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/60208"
     }
   ]
 }
