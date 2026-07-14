@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-14 14:40",
+  "aggiornato_il": "2026-07-14 16:07",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,48 @@
   ],
   "numero_atti": 45,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di protezione civile",
+      "stato": "esame in comm.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59859"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di temporanea insequestrabilità delle opere d'arte prestate da uno Stato, da un ente pubblico o da un'istituzione di rilevante interesse culturale o scientifico stranieri, durante la permanenza in Italia per l'esposizione al pubblico",
+      "stato": "all'esame assemblea",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/57186"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 132 del codice in materia di protezione dei datipersonali, di cui al decreto legislativo 30 giugno 2003, n. 196, concernenti l'acquisizione di dati relativi al traffico telefonico e telematico per esigenze di tutela della vita e dell'integrità fisica del soggetto interessato, nonché istituzione della Giornata nazionale dedicata alle persone scomparse",
+      "stato": "concluso l'esame",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59383"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Dichiarazione di monumento nazionale della miniera di Montecatini Val di Cecina e disposizioni per il riconoscimento dei siti minerari di interesse storico e identitario",
+      "stato": "approvato",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59791"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di insequestrabilità delle opere d'arte prestate da Stati esteri o da enti o istituzioni culturali stranieri, durante la permanenza in Italia per l'esposizione al pubblico",
+      "stato": "all'esame assemblea",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59915"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale in memoria di 446 italiani internati e deportati dal Regno Unito per causa di guerra, periti nel naufragio del piroscafo britannico Arandora Star, silurato da un'unità della Marina tedesca nell'Oceano Atlantico il 2 luglio 1940",
+      "stato": "appr. def. non pubbl",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59900"
+    },
     {
       "ramo": "Senato",
       "titolo": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2025",
@@ -43,6 +85,13 @@
       "stato": "assegnato (no esame)",
       "data": "2026-07-10",
       "link": "http://dati.senato.it/ddl/60174"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
+      "stato": "esame in comm.",
+      "data": "2026-07-10",
+      "link": "http://dati.senato.it/ddl/60246"
     },
     {
       "ramo": "Senato",
@@ -165,13 +214,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni in materia di protezione civile",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/59859"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura svolta dal caregiver familiare",
       "stato": "esame in comm.",
       "data": "2026-07-08",
@@ -288,48 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-07-08",
       "link": "http://dati.senato.it/ddl/58979"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/59590"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/59694"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/59881"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
-      "stato": "approvato",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/59955"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riordino e riorganizzazione del Consiglio universitario nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/60107"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica al decreto legislativo 3 aprile 2006, n. 152, in materia di consorzi di gestione e tutela del territorio e delle acque irrigue",
-      "stato": "esame in comm.",
-      "data": "2026-07-08",
-      "link": "http://dati.senato.it/ddl/59725"
     }
   ]
 }
