@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-14 07:42",
+  "aggiornato_il": "2026-07-14 09:42",
   "fonti": [
     {
       "fonte": "Senato",
@@ -43,13 +43,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-07-10",
       "link": "http://dati.senato.it/ddl/60174"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
-      "stato": "esame in comm.",
-      "data": "2026-07-10",
-      "link": "http://dati.senato.it/ddl/60246"
     },
     {
       "ramo": "Senato",
@@ -330,6 +323,13 @@
       "stato": "esame in comm.",
       "data": "2026-07-08",
       "link": "http://dati.senato.it/ddl/60107"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica al decreto legislativo 3 aprile 2006, n. 152, in materia di consorzi di gestione e tutela del territorio e delle acque irrigue",
+      "stato": "esame in comm.",
+      "data": "2026-07-08",
+      "link": "http://dati.senato.it/ddl/59725"
     }
   ]
 }
