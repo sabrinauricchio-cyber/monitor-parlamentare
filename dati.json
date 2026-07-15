@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-15 11:18",
+  "aggiornato_il": "2026-07-15 12:47",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,69 +16,6 @@
   ],
   "numero_atti": 45,
   "atti": [
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/60172"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
-      "stato": "all'esame assemblea",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/55616"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la semplificazione del procedimento elettorale, per la digitalizzazione delle liste elettorali nonché in materia di propaganda elettorale e di esercizio del diritto di voto da parte dei cittadini che, per motivi di studio, di lavoro o di cura, hanno temporaneo domicilio in un comune diverso da quello di residenza",
-      "stato": "all'esame assemblea",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/58867"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 132 del codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, concernenti l'acquisizione di dati relativi al traffico telefonico e telematico per esigenze di tutela della vita e dell'integrità fisica del soggetto interessato, nonché istituzione della Giornata nazionale dedicata alle persone scomparse",
-      "stato": "all'esame assemblea",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59383"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59694"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Liberi di scegliere. Misure per la protezione e l'assistenza dei soggetti minorenni e degli adulti di riferimento nei contesti di criminalità organizzata",
-      "stato": "concluso l'esame",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59732"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di allontanamento del minore",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59976"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
-      "stato": "all'esame assemblea",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59951"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere»)",
-      "stato": "concluso l'esame",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/60262"
-    },
     {
       "ramo": "Senato",
       "titolo": "Delega al Governo in materia di energia nucleare sostenibile",
@@ -103,7 +40,7 @@
     {
       "ramo": "Senato",
       "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
-      "stato": "concluso l'esame",
+      "stato": "in relazione",
       "data": "2026-07-14",
       "link": "http://dati.senato.it/ddl/59875"
     },
@@ -116,17 +53,17 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
-      "stato": "esame in comm.",
-      "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/60249"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni e delega al Governo per l'istituzione di Scuole dell'infanzia a indirizzo musicale",
       "stato": "esame in comm.",
       "data": "2026-07-14",
       "link": "http://dati.senato.it/ddl/56494"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
+      "stato": "all'esame assemblea",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/55616"
     },
     {
       "ramo": "Senato",
@@ -242,6 +179,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per la semplificazione del procedimento elettorale, per la digitalizzazione delle liste elettorali nonché in materia di propaganda elettorale e di esercizio del diritto di voto da parte dei cittadini che, per motivi di studio, di lavoro o di cura, hanno temporaneo domicilio in un comune diverso da quello di residenza",
+      "stato": "all'esame assemblea",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/58867"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Istituzione del Parco nazionale dell'Etna",
       "stato": "esame in comm.",
       "data": "2026-07-14",
@@ -270,10 +214,24 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 132 del codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, concernenti l'acquisizione di dati relativi al traffico telefonico e telematico per esigenze di tutela della vita e dell'integrità fisica del soggetto interessato, nonché istituzione della Giornata nazionale dedicata alle persone scomparse",
+      "stato": "in relazione",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59383"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208, in materia di servizio pubblico radiofonico, televisivo e multimediale, riduzione e abolizione del canone di abbonamento e disciplina della società concessionaria del servizio pubblico",
       "stato": "esame in comm.",
       "data": "2026-07-14",
       "link": "http://dati.senato.it/ddl/59385"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Liberi di scegliere. Misure per la protezione e l'assistenza dei soggetti minorenni e degli adulti di riferimento nei contesti di criminalità organizzata",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59732"
     },
     {
       "ramo": "Senato",
@@ -306,30 +264,72 @@
     {
       "ramo": "Senato",
       "titolo": "Disposizioni in materia di insequestrabilità delle opere d'arte prestate da Stati esteri o da enti o istituzioni culturali stranieri, durante la permanenza in Italia per l'esposizione al pubblico",
-      "stato": "appr. def. non pubbl",
+      "stato": "appr. con modificaz",
       "data": "2026-07-14",
       "link": "http://dati.senato.it/ddl/59915"
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni concernenti la copertura delle piante organiche delle amministrazioni dei comuni in stato di dissesto finanziario",
-      "stato": "assegnato (no esame)",
+      "titolo": "Istituzione della Giornata nazionale in memoria di 446 italiani internati e deportati dal Regno Unito per causa di guerra, periti nel naufragio del piroscafo britannico Arandora Star, silurato da un'unità della Marina tedesca nell'Oceano Atlantico il 2 luglio 1940",
+      "stato": "appr. def. non pubbl",
       "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/60126"
+      "link": "http://dati.senato.it/ddl/59900"
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifiche alla legge 22 aprile 1941, n. 633, in materia di diritto di pubblicazione secondaria in ambito scientifico",
-      "stato": "assegnato (no esame)",
+      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+      "stato": "all'esame assemblea",
       "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/60148"
+      "link": "http://dati.senato.it/ddl/59951"
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 8 giugno 2001, n. 231, in materia di responsabilità delle persone giuridiche, delle società e delle associazioni, anche prive di personalità giuridica, per fatti illeciti dipendenti da reato",
-      "stato": "assegnato (no esame)",
+      "titolo": "Delega al Governo per la definizione di un quadro legislativo di riferimento per la filiera carbon capture, utilization and storage (CCUS), nonché disposizioni per la disciplina dello sviluppo dell'idrogeno, dell'assetto regolatorio del settore e delle relative infrastrutture di rete, e del sistema di governo per l'adempimento agli obblighi di riduzione delle emissioni di metano nel settore dell'energia",
+      "stato": "esame in comm.",
       "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/60188"
+      "link": "http://dati.senato.it/ddl/59987"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione dei Trattati di estradizione, di mutua assistenza in materia penale e sul trasferimento delle persone condannate tra la Repubblica Italiana e la Repubblica dell'Uzbekistan, fatti a Roma l'8 giugno 2023",
+      "stato": "concluso l'esame",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/60182"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica alla legge 27 dicembre 2017, n. 205, in materia di corresponsione della retribuzione su conto corrente intestato al lavoratore o alla lavoratrice",
+      "stato": "esame in comm.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/60206"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere»)",
+      "stato": "esame in comm.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/60262"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione della Dichiarazione congiunta relativa all'Accordo di cooperazione nel settore della difesa tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare, fatto a Roma il 15 maggio 2003, fatta a Roma il 23 luglio 2025",
+      "stato": "esame in comm.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/60207"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 270 del codice di procedura penale in materia di utilizzo delle intercettazioni in altri procedimenti",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/60290"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica dell'articolo 81 del codice penale e 438 del codice di procedura penale",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/60288"
     }
   ]
 }
