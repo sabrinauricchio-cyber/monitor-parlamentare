@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-15 14:30",
+  "aggiornato_il": "2026-07-15 16:11",
   "fonti": [
     {
       "fonte": "Senato",
@@ -319,17 +319,17 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2025",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-10",
-      "link": "http://dati.senato.it/ddl/60270"
+      "titolo": "Modifiche all'articolo 270 del codice di procedura penale in materia di utilizzo delle intercettazioni in altri procedimenti",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/60290"
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-10",
-      "link": "http://dati.senato.it/ddl/60271"
+      "titolo": "Modifica dell'articolo 81 del codice penale e 438 del codice di procedura penale",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/60288"
     }
   ]
 }
