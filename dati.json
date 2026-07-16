@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-15 18:50",
+  "aggiornato_il": "2026-07-16 07:26",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,13 +18,6 @@
   "atti": [
     {
       "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale della pace e della non violenza",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/60162"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Modifica al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento",
       "stato": "esame in comm.",
       "data": "2026-07-15",
@@ -39,41 +32,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni in materia di protezione civile",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59859"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Fondo per il sostegno e lo sviluppo della comunità educante",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/55204"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 20 agosto 2019, n. 92, in materia di introduzione dei corsi di primo soccorso di supporto alle funzioni vitali di base e defibrillazione (Basic Life Support - early Defibrillation - BLSD) nonché della manovra di Heimlich nelle scuole secondarie di primo e di secondo grado",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/56696"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Nuove norme in materia di disturbi specifici di apprendimento in ambito scolastico, universitario e lavorativo",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/57432"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la valorizzazione del patrimonio culturale dell'Occidente ed europeo delle abbazie, degli insediamenti benedettini medioevali, dei cammini e dei territori delle province sui quali insistono",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/57702"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni per la semplificazione del procedimento elettorale, per la digitalizzazione delle liste elettorali nonché in materia di propaganda elettorale e di esercizio del diritto di voto da parte dei cittadini che, per motivi di studio, di lavoro o di cura, hanno temporaneo domicilio in un comune diverso da quello di residenza",
       "stato": "all'esame assemblea",
       "data": "2026-07-15",
@@ -81,22 +39,8 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Introduzione del piano didattico personalizzato universitario per studenti con disturbi specifici dell'apprendimento",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59200"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di corsi di primo soccorso",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59292"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Modifiche all'articolo 132 del codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, concernenti l'acquisizione di dati relativi al traffico telefonico e telematico per esigenze di tutela della vita e dell'integrità fisica del soggetto interessato, nonché istituzione della Giornata nazionale dedicata alle persone scomparse",
-      "stato": "appr. con modificaz",
+      "stato": "all'esame assemblea",
       "data": "2026-07-15",
       "link": "http://dati.senato.it/ddl/59383"
     },
@@ -110,7 +54,7 @@
     {
       "ramo": "Senato",
       "titolo": "Liberi di scegliere. Misure per la protezione e l'assistenza dei soggetti minorenni e degli adulti di riferimento nei contesti di criminalità organizzata",
-      "stato": "assorbito",
+      "stato": "concluso l'esame",
       "data": "2026-07-15",
       "link": "http://dati.senato.it/ddl/59732"
     },
@@ -123,13 +67,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifiche al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e all'articolo 41 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di cambio della denominazione dell'archivio centrale dello Stato in quella di Archivio nazionale",
-      "stato": "concluso l'esame",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59909"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
       "stato": "all'esame assemblea",
       "data": "2026-07-15",
@@ -137,24 +74,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione della comunità educante quale strumento di partecipazione civile, inclusione e socialità dei giovani",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/60198"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere»)",
-      "stato": "appr. def. non pubbl",
+      "stato": "concluso l'esame",
       "data": "2026-07-15",
       "link": "http://dati.senato.it/ddl/60262"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/60275"
     },
     {
       "ramo": "Senato",
@@ -207,13 +130,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Delega al Governo per la revisione del sistema di vigilanza sulle cooperative",
-      "stato": "esame in comm.",
-      "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/58080"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
       "stato": "esame in comm.",
       "data": "2026-07-14",
@@ -221,17 +137,17 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Istituzione e disciplina delle zone del commercio nei centri storici",
-      "stato": "esame in comm.",
-      "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/55750"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni per l'efficientamento dell'illuminazione pubblica e degli edifici pubblici attraverso la promozione di sistemi di illuminazione digitalizzati di ultima generazione",
       "stato": "esame in comm.",
       "data": "2026-07-14",
       "link": "http://dati.senato.it/ddl/59670"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di protezione civile",
+      "stato": "esame in comm.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59859"
     },
     {
       "ramo": "Senato",
@@ -326,10 +242,94 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma delle amministrazioni straordinarie e per la riforma della vigilanza sugli enti cooperativi e mutualistici",
+      "titolo": "Istituzione del Parco nazionale dell'Etna",
       "stato": "esame in comm.",
       "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/59512"
+      "link": "http://dati.senato.it/ddl/59659"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
+      "stato": "esame in comm.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59227"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
+      "stato": "esame in comm.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59133"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208, in materia di riforma della governance della RAI-Radiotelevisione italiana S.p.A. e valorizzazione delle partecipazioni societarie",
+      "stato": "esame in comm.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59338"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208, in materia di servizio pubblico radiofonico, televisivo e multimediale, riduzione e abolizione del canone di abbonamento e disciplina della società concessionaria del servizio pubblico",
+      "stato": "esame in comm.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59385"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento della Vespa Piaggio a quattro tempi quale espressione della storia, della cultura e dell'arte italiana riconosciute in tutto il mondo",
+      "stato": "esame in comm.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59829"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la valorizzazione delle isole minori marine, lagunari e lacustri",
+      "stato": "esame in comm.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59988"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riordino e riorganizzazione del Consiglio universitario nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/60107"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Dichiarazione di monumento nazionale della miniera di Montecatini Val di Cecina e disposizioni per il riconoscimento dei siti minerari di interesse storico e identitario",
+      "stato": "approvato",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59791"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di insequestrabilità delle opere d'arte prestate da Stati esteri o da enti o istituzioni culturali stranieri, durante la permanenza in Italia per l'esposizione al pubblico",
+      "stato": "appr. def. non pubbl",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/59915"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni concernenti la copertura delle piante organiche delle amministrazioni dei comuni in stato di dissesto finanziario",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/60126"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 22 aprile 1941, n. 633, in materia di diritto di pubblicazione secondaria in ambito scientifico",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/60148"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 8 giugno 2001, n. 231, in materia di responsabilità delle persone giuridiche, delle società e delle associazioni, anche prive di personalità giuridica, per fatti illeciti dipendenti da reato",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-14",
+      "link": "http://dati.senato.it/ddl/60188"
     }
   ]
 }
