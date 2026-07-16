@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-16 12:56",
+  "aggiornato_il": "2026-07-16 14:52",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,6 +18,34 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
+      "stato": "assorbito",
+      "data": "2026-07-16",
+      "link": "http://dati.senato.it/ddl/55616"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la semplificazione del procedimento elettorale, per la digitalizzazione delle liste elettorali nonché in materia di propaganda elettorale e di esercizio del diritto di voto da parte dei cittadini che, per motivi di studio, di lavoro o di cura, hanno temporaneo domicilio in un comune diverso da quello di residenza",
+      "stato": "assorbito",
+      "data": "2026-07-16",
+      "link": "http://dati.senato.it/ddl/58867"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+      "stato": "approvato",
+      "data": "2026-07-16",
+      "link": "http://dati.senato.it/ddl/59951"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di organizzazione e funzionamento della Commissione centrale per gli esercenti le professioni sanitarie",
+      "stato": "esame in comm.",
+      "data": "2026-07-15",
+      "link": "http://dati.senato.it/ddl/60064"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Istituzione della Giornata nazionale della pace e della non violenza",
       "stato": "assegnato (no esame)",
       "data": "2026-07-15",
@@ -32,10 +60,17 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
-      "stato": "all'esame assemblea",
+      "titolo": "Disposizioni per la promozione e il sostegno delle attività teatrali negli istituti penitenziari",
+      "stato": "esame in comm.",
       "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/55616"
+      "link": "http://dati.senato.it/ddl/55955"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 28 giugno 2005, n. 139, concernenti la disciplina delle professioni di dottore commercialista e di esperto contabile e l'organizzazione dell'Ordine dei dottori commercialisti e degli esperti contabili",
+      "stato": "esame in comm.",
+      "data": "2026-07-15",
+      "link": "http://dati.senato.it/ddl/55507"
     },
     {
       "ramo": "Senato",
@@ -67,17 +102,17 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per la promozione e il sostegno delle attività teatrali negli istituti penitenziari e per la valorizzazione del teatro sociale",
+      "stato": "esame in comm.",
+      "data": "2026-07-15",
+      "link": "http://dati.senato.it/ddl/57455"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni per la valorizzazione del patrimonio culturale dell'Occidente ed europeo delle abbazie, degli insediamenti benedettini medioevali, dei cammini e dei territori delle province sui quali insistono",
       "stato": "esame in comm.",
       "data": "2026-07-15",
       "link": "http://dati.senato.it/ddl/57702"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la semplificazione del procedimento elettorale, per la digitalizzazione delle liste elettorali nonché in materia di propaganda elettorale e di esercizio del diritto di voto da parte dei cittadini che, per motivi di studio, di lavoro o di cura, hanno temporaneo domicilio in un comune diverso da quello di residenza",
-      "stato": "all'esame assemblea",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/58867"
     },
     {
       "ramo": "Senato",
@@ -102,6 +137,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
+      "stato": "esame in comm.",
+      "data": "2026-07-15",
+      "link": "http://dati.senato.it/ddl/59590"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
       "stato": "esame in comm.",
       "data": "2026-07-15",
@@ -116,6 +158,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
+      "stato": "esame in comm.",
+      "data": "2026-07-15",
+      "link": "http://dati.senato.it/ddl/60099"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di allontanamento del minore",
       "stato": "esame in comm.",
       "data": "2026-07-15",
@@ -123,17 +172,17 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
+      "stato": "esame in comm.",
+      "data": "2026-07-15",
+      "link": "http://dati.senato.it/ddl/60214"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e all'articolo 41 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di cambio della denominazione dell'archivio centrale dello Stato in quella di Archivio nazionale",
       "stato": "concluso l'esame",
       "data": "2026-07-15",
       "link": "http://dati.senato.it/ddl/59909"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
-      "stato": "all'esame assemblea",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59951"
     },
     {
       "ramo": "Senato",
@@ -148,6 +197,27 @@
       "stato": "appr. def. non pubbl",
       "data": "2026-07-15",
       "link": "http://dati.senato.it/ddl/60262"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti",
+      "stato": "concluso l'esame",
+      "data": "2026-07-15",
+      "link": "http://dati.senato.it/ddl/60213"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione dei Trattati di estradizione, trasferimento delle persone condannate e assistenza giudiziaria in materia penale tra la Repubblica italiana e la Repubblica Socialista del Vietnam, fatti a Roma il 18 e il 26 luglio 2023",
+      "stato": "esame in comm.",
+      "data": "2026-07-15",
+      "link": "http://dati.senato.it/ddl/60210"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione del Trattato sul trasferimento delle persone condannate tra la Repubblica italiana e la Repubblica del Paraguay, fatto ad Assunzione il 7 luglio 2023",
+      "stato": "esame in comm.",
+      "data": "2026-07-15",
+      "link": "http://dati.senato.it/ddl/60211"
     },
     {
       "ramo": "Senato",
@@ -260,76 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-07-14",
       "link": "http://dati.senato.it/ddl/56841"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di temporanea insequestrabilità delle opere d'arte prestate da uno Stato, da un ente pubblico o da un'istituzione di rilevante interesse culturale o scientifico stranieri, durante la permanenza in Italia per l'esposizione al pubblico",
-      "stato": "assorbito",
-      "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/57186"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica alla legge 27 dicembre 2017, n. 205, in materia di corresponsione della retribuzione su conto corrente intestato al lavoratore",
-      "stato": "esame in comm.",
-      "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/57194"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme per la revisione del servizio pubblico nella comunicazione audiovisiva e radiofonica sui diversi media",
-      "stato": "esame in comm.",
-      "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/57380"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la costruzione di nuovi impianti di produzione di energia nucleare",
-      "stato": "esame in comm.",
-      "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/58214"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della banca dati unica audiovisiva degli artisti interpreti o esecutori e della banca dati unica dei fonogrammi",
-      "stato": "esame in comm.",
-      "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/58388"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla disciplina della governance della RAI - Radiotelevisione italiana S.p.a.",
-      "stato": "esame in comm.",
-      "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/58538"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disciplina e organizzazione del servizio pubblico radiofonico, televisivo e multimediale",
-      "stato": "esame in comm.",
-      "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/58567"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Il nucleare nel mix elettrico nazionale ora",
-      "stato": "esame in comm.",
-      "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/58836"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il rispetto degli obblighi informativi degli utilizzatori in materia di diritti connessi al diritto d'autore",
-      "stato": "esame in comm.",
-      "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/58829"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma delle amministrazioni straordinarie e per la riforma della vigilanza sugli enti cooperativi e mutualistici",
-      "stato": "esame in comm.",
-      "data": "2026-07-14",
-      "link": "http://dati.senato.it/ddl/59512"
     }
   ]
 }
