@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-17 14:22",
+  "aggiornato_il": "2026-07-17 15:51",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,6 +18,13 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-17",
+      "link": "http://dati.senato.it/ddl/60316"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifica all'articolo 18-bis del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di raccolta digitale delle sottoscrizioni per la presentazione delle liste e delle candidature",
       "stato": "assorbito",
       "data": "2026-07-16",
@@ -29,6 +36,13 @@
       "stato": "esame in comm.",
       "data": "2026-07-16",
       "link": "http://dati.senato.it/ddl/59859"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale del merito pubblico",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-16",
+      "link": "http://dati.senato.it/ddl/60256"
     },
     {
       "ramo": "Senato",
@@ -67,10 +81,24 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
+      "stato": "esame in comm.",
+      "data": "2026-07-16",
+      "link": "http://dati.senato.it/ddl/60214"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
       "stato": "approvato",
       "data": "2026-07-16",
       "link": "http://dati.senato.it/ddl/59951"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 12 settembre 2025, n. 131, in materia di classificazione e individuazione dei comuni montani nonché di rifinanziamento del Fondo per lo sviluppo delle montagne italiane",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-16",
+      "link": "http://dati.senato.it/ddl/60166"
     },
     {
       "ramo": "Senato",
@@ -302,34 +330,6 @@
       "stato": "appr. con modificaz",
       "data": "2026-07-15",
       "link": "http://dati.senato.it/ddl/59383"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59590"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59694"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Liberi di scegliere. Misure per la protezione e l'assistenza dei soggetti minorenni e degli adulti di riferimento nei contesti di criminalità organizzata",
-      "stato": "assorbito",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59732"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59881"
     }
   ]
 }
