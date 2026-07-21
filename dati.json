@@ -1,12 +1,12 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-21 08:03",
+  "aggiornato_il": "2026-07-21 10:35",
   "fonti": [
     {
       "fonte": "Senato",
       "esito": "OK",
-      "dettaglio": "45 atti (scartate 5 righe con date anomale o duplicate)"
+      "dettaglio": "44 atti (scartate 6 righe con date anomale o duplicate)"
     },
     {
       "fonte": "Camera",
@@ -14,8 +14,36 @@
       "dettaglio": "Fonte non raggiungibile: Expecting value: line 1 column 1 (char 0)"
     }
   ],
-  "numero_atti": 45,
+  "numero_atti": 44,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale in memoria delle vittime degli incidenti ferroviari",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-17",
+      "link": "http://dati.senato.it/ddl/60264"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale in memoria delle vittime degli incidenti ferroviari",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-17",
+      "link": "http://dati.senato.it/ddl/60264"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 1 del decreto legislativo 21 aprile 2011, n. 67, concernenti l'accesso anticipato al pensionamento per il personale sanitario e sociosanitario operante presso i servizi psichiatrici e di salute mentale",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-17",
+      "link": "http://dati.senato.it/ddl/60119"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 1 del decreto legislativo 21 aprile 2011, n. 67, concernenti l'accesso anticipato al pensionamento per il personale sanitario e sociosanitario operante presso i servizi psichiatrici e di salute mentale",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-17",
+      "link": "http://dati.senato.it/ddl/60119"
+    },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
@@ -103,9 +131,37 @@
     {
       "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
+      "stato": "in relazione",
+      "data": "2026-07-16",
+      "link": "http://dati.senato.it/ddl/60246"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
       "stato": "concluso l'esame",
       "data": "2026-07-16",
       "link": "http://dati.senato.it/ddl/60246"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni concernenti l'impiego di materiali ambientalmente sostenibili e aventi proprietà di riduzione degli inquinanti atmosferici per la costruzione e la ristrutturazione degli edifici pubblici statali",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-16",
+      "link": "http://dati.senato.it/ddl/60318"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 13 luglio 1967, n. 584, in materia di benefìci fiscali sostitutivi in favore dei donatori di sangue titolari di redditi di lavoro autonomo che non fruiscono delle agevolazioni previste dalla medesima legge",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-16",
+      "link": "http://dati.senato.it/ddl/60319"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Abrogazione del comma 3 dell'articolo 8 della legge 23 marzo 2001, n. 93, concernente l'istituzione del Parco nazionale \"Costa dei Trabocchi e Teatina\"",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-16",
+      "link": "http://dati.senato.it/ddl/60320"
     },
     {
       "ramo": "Senato",
@@ -208,6 +264,13 @@
     {
       "ramo": "Senato",
       "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
+      "stato": "in relazione",
+      "data": "2026-07-15",
+      "link": "http://dati.senato.it/ddl/59650"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
       "stato": "concluso l'esame",
       "data": "2026-07-15",
       "link": "http://dati.senato.it/ddl/59650"
@@ -260,76 +323,6 @@
       "stato": "esame in comm.",
       "data": "2026-07-15",
       "link": "http://dati.senato.it/ddl/57455"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/57573"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la valorizzazione del patrimonio culturale dell'Occidente ed europeo delle abbazie, degli insediamenti benedettini medioevali, dei cammini e dei territori delle province sui quali insistono",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/57702"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in favore degli studenti universitari che svolgono attività di caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/57923"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica del comma 255 dell'articolo 1 della legge 27 dicembre 2017, n. 205, e altre disposizioni nonché delega al Governo per il riconoscimento e la tutela della figura del caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/57933"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione della ricerca sulla disprassia, sulla disprassia oculare e sui disturbi dello sviluppo della coordinazione nonché per la tutela delle persone con tali condizioni",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/58342"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione del piano didattico personalizzato universitario per studenti con disturbi specifici dell'apprendimento",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59200"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Deleghe al Governo per la riforma, il riordino e il coordinamento della normativa in materia di cinema e audiovisivo",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59506"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione di un sistema di deposito cauzionale per i contenitori monouso per bevande e delega al Governo per la disciplina della filiera di recupero",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59576"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione dell'Agenzia per il cinema e l'audiovisivo",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59090"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di corsi di primo soccorso",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/59292"
     }
   ]
 }
