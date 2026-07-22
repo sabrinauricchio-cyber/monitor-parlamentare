@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-21 18:59",
+  "aggiornato_il": "2026-07-22 07:37",
   "fonti": [
     {
       "fonte": "Senato",
@@ -25,6 +25,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Modifica all'articolo 1 del decreto legislativo 14 settembre 2015, n. 151, in materia di accordi territoriali per il collocamento mirato delle persone con disabilità",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-20",
+      "link": "http://dati.senato.it/ddl/60065"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
       "stato": "all'esame assemblea",
       "data": "2026-07-20",
@@ -43,6 +50,13 @@
       "stato": "assegnato (no esame)",
       "data": "2026-07-17",
       "link": "http://dati.senato.it/ddl/60119"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione di un fondo per l'indennizzo delle vittime dei fatti accaduti presso la comunità \"Il Forteto\"",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-17",
+      "link": "http://dati.senato.it/ddl/60321"
     },
     {
       "ramo": "Senato",
@@ -316,20 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-07-15",
       "link": "http://dati.senato.it/ddl/57923"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica del comma 255 dell'articolo 1 della legge 27 dicembre 2017, n. 205, e altre disposizioni nonché delega al Governo per il riconoscimento e la tutela della figura del caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/57933"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione della ricerca sulla disprassia, sulla disprassia oculare e sui disturbi dello sviluppo della coordinazione nonché per la tutela delle persone con tali condizioni",
-      "stato": "esame in comm.",
-      "data": "2026-07-15",
-      "link": "http://dati.senato.it/ddl/58342"
     }
   ]
 }
