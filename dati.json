@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-23 08:06",
+  "aggiornato_il": "2026-07-23 10:37",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,17 +18,143 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Delega al Governo in materia di energia nucleare sostenibile",
+      "stato": "concluso l'esame",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/60187"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di protezione civile",
+      "stato": "concluso l'esame",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/59859"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di soppressione dei collegi uninominali e delega al Governo per la determinazione dei collegi elettorali plurinominali",
+      "stato": "esame in comm.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/55212"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Legge quadro sull'ordinamento della polizia locale",
+      "stato": "esame in comm.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/56840"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il coordinamento in materia di politiche integrate per la sicurezza e di polizia locale",
+      "stato": "esame in comm.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/57064"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Nuove norme in materia di disturbi specifici di apprendimento in ambito scolastico, universitario e lavorativo",
+      "stato": "esame in comm.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/57432"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Nuovo ordinamento della polizia locale",
+      "stato": "esame in comm.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/57508"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la costruzione di nuovi impianti di produzione di energia nucleare",
+      "stato": "concluso l'esame",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/58214"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Il nucleare nel mix elettrico nazionale ora",
+      "stato": "concluso l'esame",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/58836"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione del piano didattico personalizzato universitario per studenti con disturbi specifici dell'apprendimento",
+      "stato": "esame in comm.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/59200"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
+      "stato": "esame in comm.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/59694"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Proroga del termine per l'esercizio della delega prevista dall'articolo 35 della legge 25 novembre 2024, n. 177",
+      "stato": "appr. con modificaz",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/59959"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+      "stato": "esame in comm.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/59945"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di allontanamento del minore",
+      "stato": "esame in comm.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/59976"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di sistema calcistico italiano",
+      "stato": "esame in comm.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/60145"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per il riordino delle funzioni e dell'ordinamento della polizia locale",
+      "stato": "esame in comm.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/60149"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Delega al Governo per la riforma dell'ordinamento forense",
-      "stato": "all'esame assemblea",
+      "stato": "appr. def. non pubbl",
       "data": "2026-07-22",
       "link": "http://dati.senato.it/ddl/60170"
     },
     {
       "ramo": "Senato",
-      "titolo": "Delega al Governo in materia di energia nucleare sostenibile",
+      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
+      "stato": "all'esame assemblea",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/60246"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure per il riordino delle specializzazioni, in rete \"università, IRCCS, strutture ospedaliere e territoriali di formazione\", in linea con il PNRR Missione 6 e il principio di Salute Unica",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/60327"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
       "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/60187"
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/60317"
     },
     {
       "ramo": "Senato",
@@ -92,13 +218,6 @@
       "stato": "esame in comm.",
       "data": "2026-07-21",
       "link": "http://dati.senato.it/ddl/60271"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di soppressione dei collegi uninominali e delega al Governo per la determinazione dei collegi elettorali plurinominali",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/55212"
     },
     {
       "ramo": "Senato",
@@ -172,13 +291,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni per la costruzione di nuovi impianti di produzione di energia nucleare",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/58214"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Istituzione della banca dati unica audiovisiva degli artisti interpreti o esecutori e della banca dati unica dei fonogrammi",
       "stato": "esame in comm.",
       "data": "2026-07-21",
@@ -200,13 +312,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Il nucleare nel mix elettrico nazionale ora",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/58836"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni per il rispetto degli obblighi informativi degli utilizzatori in materia di diritti connessi al diritto d'autore",
       "stato": "esame in comm.",
       "data": "2026-07-21",
@@ -225,111 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-07-21",
       "link": "http://dati.senato.it/ddl/58916"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Definizione della nozione di \"antisemitismo\" e disposizioni per il contrasto degli atti di antisemitismo",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/59118"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione della formazione del personale docente in materia di educazione al rispetto e alle relazioni",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/59592"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Definizione della nozione di \"antisemitismo\" e disposizioni per il contrasto degli atti di antisemitismo",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/59131"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione e la valorizzazione delle Grotte d'Italia",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/59189"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/59227"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge quadro per la salute e la sicurezza nelle piscine",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/59489"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/59133"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208, in materia di riforma della governance della RAI-Radiotelevisione italiana S.p.A. e valorizzazione delle partecipazioni societarie",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/59338"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208, in materia di servizio pubblico radiofonico, televisivo e multimediale, riduzione e abolizione del canone di abbonamento e disciplina della società concessionaria del servizio pubblico",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/59385"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/59590"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento della Vespa Piaggio a quattro tempi quale espressione della storia, della cultura e dell'arte italiana riconosciute in tutto il mondo",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/59829"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la valorizzazione delle isole minori marine, lagunari e lacustri",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/59988"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riordino e riorganizzazione del Consiglio universitario nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/60107"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per il sostegno delle attività educative e ricreative non formali",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/59838"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/59945"
     }
   ]
 }
