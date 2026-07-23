@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-22 18:53",
+  "aggiornato_il": "2026-07-23 07:38",
   "fonti": [
     {
       "fonte": "Senato",
@@ -26,7 +26,7 @@
     {
       "ramo": "Senato",
       "titolo": "Disposizioni in materia di protezione civile",
-      "stato": "concluso l'esame",
+      "stato": "in relazione",
       "data": "2026-07-22",
       "link": "http://dati.senato.it/ddl/59859"
     },
@@ -99,6 +99,13 @@
       "stato": "appr. con modificaz",
       "data": "2026-07-22",
       "link": "http://dati.senato.it/ddl/59959"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riordino e riorganizzazione del Consiglio universitario nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/60107"
     },
     {
       "ramo": "Senato",
@@ -323,13 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-07-21",
       "link": "http://dati.senato.it/ddl/58768"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'insegnamento scolastico dell'educazione sentimentale in tutte le scuole di ogni ordine e grado, statali, private e paritarie",
-      "stato": "esame in comm.",
-      "data": "2026-07-21",
-      "link": "http://dati.senato.it/ddl/58916"
     }
   ]
 }
