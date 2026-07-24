@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-24 14:18",
+  "aggiornato_il": "2026-07-24 15:50",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,6 +18,13 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Istituzione dell'Autorità garante dei diritti delle persone anziane",
+      "stato": "esame in comm.",
+      "data": "2026-07-23",
+      "link": "http://dati.senato.it/ddl/55804"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Istituzione della Giornata nazionale per il diritto al divertimento in sicurezza",
       "stato": "assegnato (no esame)",
       "data": "2026-07-23",
@@ -32,6 +39,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Legge quadro per la salute e la sicurezza nelle piscine",
+      "stato": "esame in comm.",
+      "data": "2026-07-23",
+      "link": "http://dati.senato.it/ddl/59489"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
       "stato": "esame in comm.",
       "data": "2026-07-23",
@@ -39,7 +53,7 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
+      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
       "stato": "approvato",
       "data": "2026-07-23",
       "link": "http://dati.senato.it/ddl/60246"
@@ -316,20 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-07-22",
       "link": "http://dati.senato.it/ddl/59118"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione del piano didattico personalizzato universitario per studenti con disturbi specifici dell'apprendimento",
-      "stato": "esame in comm.",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/59200"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale per il contrasto dell'inattività giovanile, al fine di promuovere l'inclusione sociale, formativa e lavorativa dei giovani che non frequentano la scuola né svolgono attività lavorative, di tirocinio o di apprendistato",
-      "stato": "esame in comm.",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/59369"
     }
   ]
 }
