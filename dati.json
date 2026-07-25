@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-24 18:52",
+  "aggiornato_il": "2026-07-25 07:22",
   "fonti": [
     {
       "fonte": "Senato",
@@ -53,6 +53,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione dell'Accordo economico e commerciale globale tra il Canada, da una parte, e l'Unione europea e i suoi Stati membri, dall'altra, con Allegati e Protocolli, fatto a Bruxelles il 30 ottobre 2016, e del relativo strumento interpretativo comune",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-23",
+      "link": "http://dati.senato.it/ddl/60234"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
       "stato": "approvato",
       "data": "2026-07-23",
@@ -92,6 +99,20 @@
       "stato": "da assegn. a commis.",
       "data": "2026-07-23",
       "link": "http://dati.senato.it/ddl/60334"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Proroga del termine per l'esercizio della delega prevista dall'articolo 35 della legge 25 novembre 2024, n. 177",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-23",
+      "link": "http://dati.senato.it/ddl/60342"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 23 luglio 2026, n. 127, recante misure urgenti e indifferibili per lo svolgimento dei procedimenti civili e penali a seguito del crollo dell'immobile degli uffici giudiziari di Bolzano",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-23",
+      "link": "http://dati.senato.it/ddl/60341"
     },
     {
       "ramo": "Senato",
@@ -309,27 +330,6 @@
       "stato": "concluso l'esame",
       "data": "2026-07-22",
       "link": "http://dati.senato.it/ddl/58214"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Il nucleare nel mix elettrico nazionale ora",
-      "stato": "concluso l'esame",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/58836"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 36 della legge 6 dicembre 1991, n. 394, e altre disposizioni in materia di istituzione dell'area marina protetta dell'isola di Capri",
-      "stato": "concluso l'esame",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/58541"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Definizione della nozione di \"antisemitismo\" e disposizioni per il contrasto degli atti di antisemitismo",
-      "stato": "esame in comm.",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/59118"
     }
   ]
 }
