@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-27 09:22",
+  "aggiornato_il": "2026-07-27 12:40",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,41 @@
   ],
   "numero_atti": 45,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni concernenti il tesseramento dei minori stranieri nati in Italia presso le società e associazioni sportive e i casi di concessione della cittadinanza",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-24",
+      "link": "http://dati.senato.it/ddl/58472"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per promuovere la partecipazione popolare alla titolarità di azioni e quote delle societàsportive e delega al Governo per la riforma della disciplina del settore del calcio",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-24",
+      "link": "http://dati.senato.it/ddl/60128"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni generali in materia di provvedimenti limitativi della circolazione veicolare, per la tutela del diritto alla mobilità",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-24",
+      "link": "http://dati.senato.it/ddl/60175"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 79 del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di comunicazione delle variazioni di reddito rilevanti ai fini dell'ammissione al patrocinio a spese dello Stato",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-24",
+      "link": "http://dati.senato.it/ddl/60339"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Proroga del termine per l'esercizio della delega prevista dall'articolo 35 della legge 25 novembre 2024, n. 177",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-24",
+      "link": "http://dati.senato.it/ddl/60342"
+    },
     {
       "ramo": "Senato",
       "titolo": "Istituzione dell'Autorità garante dei diritti delle persone anziane",
@@ -99,13 +134,6 @@
       "stato": "da assegn. a commis.",
       "data": "2026-07-23",
       "link": "http://dati.senato.it/ddl/60334"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Proroga del termine per l'esercizio della delega prevista dall'articolo 35 della legge 25 novembre 2024, n. 177",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-23",
-      "link": "http://dati.senato.it/ddl/60342"
     },
     {
       "ramo": "Senato",
@@ -302,34 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-07-22",
       "link": "http://dati.senato.it/ddl/57707"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in favore degli studenti universitari che svolgono attività di caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/57923"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica del comma 255 dell'articolo 1 della legge 27 dicembre 2017, n. 205, e altre disposizioni nonché delega al Governo per il riconoscimento e la tutela della figura del caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/57933"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione della ricerca sulla disprassia, sulla disprassia oculare e sui disturbi dello sviluppo della coordinazione nonché per la tutela delle persone con tali condizioni",
-      "stato": "esame in comm.",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/58342"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la costruzione di nuovi impianti di produzione di energia nucleare",
-      "stato": "concluso l'esame",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/58214"
     }
   ]
 }
