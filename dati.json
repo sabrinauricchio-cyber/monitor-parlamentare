@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-28 10:55",
+  "aggiornato_il": "2026-07-28 12:28",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,13 +16,6 @@
   ],
   "numero_atti": 45,
   "atti": [
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
-      "stato": "concluso l'esame",
-      "data": "2026-07-27",
-      "link": "http://dati.senato.it/ddl/60249"
-    },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni concernenti il tesseramento dei minori stranieri nati in Italia presso le società e associazioni sportive e i casi di concessione della cittadinanza",
@@ -57,13 +50,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-07-24",
       "link": "http://dati.senato.it/ddl/60342"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione di percorsi didattici di educazione al mare presso le scuole del primo e del secondo ciclo di istruzione situate nei comuni costieri e istituzione della patente del mare per studenti delle scuole secondarie di primo e di secondo grado",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-24",
-      "link": "http://dati.senato.it/ddl/60343"
     },
     {
       "ramo": "Senato",
@@ -176,6 +162,13 @@
       "stato": "esame in comm.",
       "data": "2026-07-22",
       "link": "http://dati.senato.it/ddl/59891"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
+      "stato": "esame in comm.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/60249"
     },
     {
       "ramo": "Senato",
@@ -330,6 +323,13 @@
       "stato": "esame in comm.",
       "data": "2026-07-22",
       "link": "http://dati.senato.it/ddl/57508"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento della disprassia come disabilità ai fini dell'inclusione scolastica e universitaria, dell'integrazione sociale e dell'inserimento professionale nonché del conseguimento della patente di guida",
+      "stato": "esame in comm.",
+      "data": "2026-07-22",
+      "link": "http://dati.senato.it/ddl/57707"
     }
   ]
 }
