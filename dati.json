@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-07-29 12:58",
+  "aggiornato_il": "2026-07-29 15:06",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,48 @@
   ],
   "numero_atti": 45,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 4 gennaio 1990, n. 1, e alla legge 17 agosto 2005, n. 174, in materia di disciplina dell'attività di acconciatore, nonché misure per la prevenzione dell'abusivismo",
+      "stato": "esame in comm.",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/59463"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disciplina delle attività di estetista, di onicotecnico e di truccatore e tecnico di trattamenti di ciglia e sopracciglia, nonché dell'attività di acconciatore",
+      "stato": "esame in comm.",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/59914"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
+      "stato": "all'esame assemblea",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/60249"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione dell'Autorità garante dei diritti delle persone anziane",
+      "stato": "esame in comm.",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/56583"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento",
+      "stato": "esame in comm.",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/60172"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Nuove norme in materia di diffusione della cultura della salute e sicurezza sul lavoro nelle scuole e nelle aziende, sostegno alle famiglie delle vittime di gravi infortuni sul lavoro e adeguamento dei limiti di età per l'assegno di incollocabilità erogato dall'INAIL, nonché a tutela delle vittime dell'amianto e dei tumori professionali",
+      "stato": "esame in comm.",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/58152"
+    },
     {
       "ramo": "Senato",
       "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
@@ -88,6 +130,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per la promozione e la valorizzazione delle Grotte d'Italia",
+      "stato": "esame in comm.",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/59189"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
       "stato": "esame in comm.",
       "data": "2026-07-28",
@@ -116,10 +165,31 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Delega al Governo in materia di congedo parentale di cui al capo V del testo unico delle disposizioni legislative in materia di tutela e sostegno della maternità e della paternità, di cui al decreto legislativo 26 marzo 2001, n. 151",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/60021"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifica dell'articolo 12 della Costituzione in materia di riconoscimento dell'inno nazionale",
       "stato": "esame in comm.",
       "data": "2026-07-28",
       "link": "http://dati.senato.it/ddl/60143"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di accesso ai corsi di laurea magistrale a ciclo unico in medicina e chirurgia, in odontoiatria e protesi dentaria e in medicina veterinaria presso le università non statali legalmente riconosciute",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/59928"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'articolo 148-bis del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, concernente l'obbligo di predisposizione del bilancio di sostenibilità urbana per l'esecuzione di grandi interventi di trasformazione urbanistica",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/60191"
     },
     {
       "ramo": "Senato",
@@ -130,6 +200,48 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Divieto di importazione e di pubblicità di beni e servizi provenienti da insediamenti israeliani nelterritorio palestinese occupato",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/60115"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di rilascio di immobili",
+      "stato": "esame in comm.",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/60131"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica dell'articolo 9 della legge 23 dicembre 1993, n. 559, in materia di Riserva Fondo Lire UNRRA",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/60142"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di scindibilità del cumulo delle pene",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/60140"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 3 aprile 2006, n. 152, concernenti l'introduzione della valutazione del ciclo di vita dei prodotti, servizi e processi nell'ambito dei procedimenti delle amministrazioni pubbliche in materia ambientale",
+      "stato": "assegnato (no esame)",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/60251"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
+      "stato": "concluso l'esame",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/60332"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti",
       "stato": "all'esame assemblea",
       "data": "2026-07-28",
@@ -137,10 +249,38 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
-      "stato": "concluso l'esame",
+      "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
+      "stato": "esame in comm.",
+      "data": "2026-07-28",
+      "link": "http://dati.senato.it/ddl/60275"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria",
+      "stato": "da assegn. a commis.",
       "data": "2026-07-27",
-      "link": "http://dati.senato.it/ddl/60249"
+      "link": "http://dati.senato.it/ddl/60346"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 13 luglio 1967, n. 584, in materia di benefìci fiscali sostitutivi in favore dei donatori di sangue titolari di redditi di lavoro autonomo che non fruiscono delle agevolazioni previste dalla medesima legge",
+      "stato": "ritirato",
+      "data": "2026-07-27",
+      "link": "http://dati.senato.it/ddl/60319"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione degli articoli 613-quater e 613-quinquies del codice penale, concernenti il delitto di terrorismo tramite la piazza, e modifica all'articolo 382-bis del codice di procedura penale, in materia di arresto in flagranza differita",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-27",
+      "link": "http://dati.senato.it/ddl/60345"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione del divieto di erogazione di benefìci, agevolazioni o altre utilità mediante l'impiego di risorse pubbliche in favore di soggetti responsabili di gravi violazioni del diritto internazionale o ad essi direttamente collegati",
+      "stato": "da assegn. a commis.",
+      "data": "2026-07-27",
+      "link": "http://dati.senato.it/ddl/60344"
     },
     {
       "ramo": "Senato",
@@ -190,146 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-07-23",
       "link": "http://dati.senato.it/ddl/55804"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale per il diritto al divertimento in sicurezza",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-23",
-      "link": "http://dati.senato.it/ddl/57310"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di usi e disposizioni per la raccolta, redazione e aggiornamento degli usi generali e locali",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-23",
-      "link": "http://dati.senato.it/ddl/60330"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge quadro per la salute e la sicurezza nelle piscine",
-      "stato": "esame in comm.",
-      "data": "2026-07-23",
-      "link": "http://dati.senato.it/ddl/59489"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dell'Accordo economico e commerciale globale tra il Canada, da una parte, e l'Unione europea e i suoi Stati membri, dall'altra, con Allegati e Protocolli, fatto a Bruxelles il 30 ottobre 2016, e del relativo strumento interpretativo comune",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-23",
-      "link": "http://dati.senato.it/ddl/60234"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
-      "stato": "approvato",
-      "data": "2026-07-23",
-      "link": "http://dati.senato.it/ddl/60246"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la protezione dai rischi derivanti dall'uso dei social media, per la prevenzione della dipendenza digitale e algoritmica, della manipolazione selettiva e per la diffusione della consapevolezza digitale",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-23",
-      "link": "http://dati.senato.it/ddl/60335"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di accesso ai corsi di laurea magistrale a ciclo unico in Medicina e Chirurgia, in Odontoiatria e Protesi Dentaria e Medicina veterinaria presso le Università non statali legalmente riconosciute",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-23",
-      "link": "http://dati.senato.it/ddl/60333"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2026, n. 108, recante disposizioni urgenti in materia di sport, per lo svolgimento di grandi eventi e l'efficacia del documento di identità",
-      "stato": "esame in comm.",
-      "data": "2026-07-23",
-      "link": "http://dati.senato.it/ddl/60332"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di riforma del calcio italiano e delega al Governo per il riordino normativo di settore",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-23",
-      "link": "http://dati.senato.it/ddl/60334"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 23 luglio 2026, n. 127, recante misure urgenti e indifferibili per lo svolgimento dei procedimenti civili e penali a seguito del crollo dell'immobile degli uffici giudiziari di Bolzano",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-23",
-      "link": "http://dati.senato.it/ddl/60341"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alle leggi 4 aprile 1956, n. 212, e 10 dicembre 1993, n. 515, in materia di impiego della lingua italiana nella propaganda e nelle campagne elettorali",
-      "stato": "assegnato (no esame)",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/60177"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo in materia di energia nucleare sostenibile",
-      "stato": "concluso l'esame",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/60187"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disciplina del settore del cinema e dell'audiovisivo",
-      "stato": "esame in comm.",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/59891"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di caregiver familiare e deleghe al Governo per la piena integrazione della figura del caregiver familiare nell'ordinamento giuridico della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/55733"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni e delega al Governo per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/58456"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/55676"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione e il sostegno delle attività teatrali negli istituti penitenziari",
-      "stato": "esame in comm.",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/55955"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 28 giugno 2005, n. 139, concernenti la disciplina delle professioni di dottore commercialista e di esperto contabile e l'organizzazione dell'Ordine dei dottori commercialisti e degli esperti contabili",
-      "stato": "esame in comm.",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/55507"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni e delega al Governo per la disciplina della figura del caregiver familiare e per la promozione e il sostegno dell'attività di assistenza e di cura da esso svolta",
-      "stato": "esame in comm.",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/55573"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-07-22",
-      "link": "http://dati.senato.it/ddl/55618"
     }
   ]
 }
