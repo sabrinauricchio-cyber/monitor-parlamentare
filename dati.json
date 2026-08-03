@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-08-03 08:56",
+  "aggiornato_il": "2026-08-03 12:11",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,34 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2025",
+      "stato": "all'esame assemblea",
+      "data": "2026-08-03",
+      "link": "http://dati.senato.it/ddl/60270"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2025",
+      "stato": "in relazione",
+      "data": "2026-08-03",
+      "link": "http://dati.senato.it/ddl/60270"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
+      "stato": "all'esame assemblea",
+      "data": "2026-08-03",
+      "link": "http://dati.senato.it/ddl/60271"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
+      "stato": "in relazione",
+      "data": "2026-08-03",
+      "link": "http://dati.senato.it/ddl/60271"
+    },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per l'istituzione di spazi adibiti all'allattamento e alla cura dei neonati presso istituti e luoghi della cultura",
@@ -50,6 +78,13 @@
       "stato": "da assegn. a commis.",
       "data": "2026-07-30",
       "link": "http://dati.senato.it/ddl/60360"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disciplina del settore del cinema e dell'audiovisivo",
+      "stato": "in relazione",
+      "data": "2026-07-30",
+      "link": "http://dati.senato.it/ddl/59891"
     },
     {
       "ramo": "Senato",
@@ -194,6 +229,13 @@
     {
       "ramo": "Senato",
       "titolo": "Deleghe al Governo per la riforma, il riordino e il coordinamento della normativa in materia di cinema e audiovisivo",
+      "stato": "in relazione",
+      "data": "2026-07-30",
+      "link": "http://dati.senato.it/ddl/59506"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Deleghe al Governo per la riforma, il riordino e il coordinamento della normativa in materia di cinema e audiovisivo",
       "stato": "concluso l'esame",
       "data": "2026-07-30",
       "link": "http://dati.senato.it/ddl/59506"
@@ -211,6 +253,13 @@
       "stato": "esame in comm.",
       "data": "2026-07-30",
       "link": "http://dati.senato.it/ddl/59610"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione dell'Agenzia per il cinema e l'audiovisivo",
+      "stato": "in relazione",
+      "data": "2026-07-30",
+      "link": "http://dati.senato.it/ddl/59090"
     },
     {
       "ramo": "Senato",
@@ -243,9 +292,23 @@
     {
       "ramo": "Senato",
       "titolo": "Introduzione dell'articolo 10-bis della legge 14 novembre 2016, n. 220, in materia di istituzione dell'Agenzia per il cinema e l'audiovisivo",
+      "stato": "in relazione",
+      "data": "2026-07-30",
+      "link": "http://dati.senato.it/ddl/59772"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'articolo 10-bis della legge 14 novembre 2016, n. 220, in materia di istituzione dell'Agenzia per il cinema e l'audiovisivo",
       "stato": "concluso l'esame",
       "data": "2026-07-30",
       "link": "http://dati.senato.it/ddl/59772"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la revisione e il riordino della disciplina del settore cinematografico e audiovisivo",
+      "stato": "in relazione",
+      "data": "2026-07-30",
+      "link": "http://dati.senato.it/ddl/60222"
     },
     {
       "ramo": "Senato",
@@ -267,34 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-07-30",
       "link": "http://dati.senato.it/ddl/60317"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di sicurezza e per la prevenzione del disagio giovanile, nonché di ordinamento, organizzazione e funzionamento delle Forze di polizia e del Ministero dell'interno",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-30",
-      "link": "http://dati.senato.it/ddl/60357"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al codice penale in materia di vincolo associativo coordinato",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-30",
-      "link": "http://dati.senato.it/ddl/60354"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Piattaforma nazionale delle competenze delle persone sottoposte a misura penale e disposizioni in materia di interoperabilità e gestione dei dati",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-30",
-      "link": "http://dati.senato.it/ddl/60361"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica del Senegal sulla cooperazione in materia di sicurezza, fatto a Dakar il 29 ottobre 2025",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-30",
-      "link": "http://dati.senato.it/ddl/60356"
     },
     {
       "ramo": "Camera",
@@ -358,41 +393,6 @@
       "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
       "data": "2026-07-30",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2731"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria",
-      "stato": "esame in comm.",
-      "data": "2026-07-29",
-      "link": "http://dati.senato.it/ddl/60346"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'art. 20, comma 13, della legge 26 luglio 1975, n. 354",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-29",
-      "link": "http://dati.senato.it/ddl/60359"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 4 agosto 2021, n. 116, in materia di formazione obbligatoria di primo soccorso",
-      "stato": "da assegn. a commis.",
-      "data": "2026-07-29",
-      "link": "http://dati.senato.it/ddl/60352"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
-      "stato": "all'esame assemblea",
-      "data": "2026-07-29",
-      "link": "http://dati.senato.it/ddl/60249"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di caregiver familiare e deleghe al Governo per la piena integrazione della figura del caregiver familiare nell'ordinamento giuridico della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-07-29",
-      "link": "http://dati.senato.it/ddl/55733"
     },
     {
       "ramo": "Camera",
