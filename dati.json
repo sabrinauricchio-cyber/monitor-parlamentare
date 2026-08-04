@@ -1,7 +1,7 @@
 {
-  "stato": "OK",
-  "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-08-04 17:26",
+  "stato": "PARZIALE",
+  "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
+  "aggiornato_il": "2026-08-04 19:04",
   "fonti": [
     {
       "fonte": "Senato",
@@ -10,25 +10,53 @@
     },
     {
       "fonte": "Camera",
-      "esito": "OK",
-      "dettaglio": "50 atti"
+      "esito": "ERRORE",
+      "dettaglio": "Fonte raggiungibile ma la query degli aggiornamenti fallisce (forse e' cambiato il nome di un campo): 503 Server Error: Service Unavailable for url: https://dati.camera.it/sparql?query=%0APREFIX+ocd%3A+%3Chttp%3A%2F%2Fdati.camera.it%2Focd%2F%3E%0APREFIX+dc%3A++%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Felements%2F1.1%2F%3E%0ASELECT+DISTINCT+%3Fatto+%3Ftitolo+%3Fstato+%3Fdata+WHERE+%7B%0A++%3Fatto+a+ocd%3Aatto+%3B%0A++++++++ocd%3Arif_leg+%3Chttp%3A%2F%2Fdati.camera.it%2Focd%2Flegislatura.rdf%2Frepubblica_19%3E+%3B%0A++++++++ocd%3Arif_statoIter+%3FstatoIter+.%0A++%3FstatoIter+dc%3Adate+%3Fdata+.%0A++OPTIONAL+%7B+%3FstatoIter+dc%3Atitle+%3Fstato+.+%7D%0A++OPTIONAL+%7B+%3Fatto+dc%3Atitle+%3Ftitolo+.+%7D%0A%7D%0AORDER+BY+DESC%28%3Fdata%29%0ALIMIT+50%0A&format=application%2Fsparql-results%2Bjson"
     }
   ],
-  "numero_atti": 95,
+  "numero_atti": 45,
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per il sostegno alle microimprese, alle piccole imprese e alle imprese artigiane nella transizione verso il salario minimo legale",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/60180"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
+      "stato": "all'esame assemblea",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/60355"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
-      "stato": "esame in comm.",
+      "stato": "all'esame assemblea",
       "data": "2026-08-04",
       "link": "http://dati.senato.it/ddl/60372"
     },
     {
       "ramo": "Senato",
       "titolo": "Istituzione della Giornata nazionale \"Enzo Tortora\" in memoria delle vittime di errori giudiziari",
-      "stato": "all'esame assemblea",
+      "stato": "approvato",
       "data": "2026-08-04",
       "link": "http://dati.senato.it/ddl/55855"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
+      "stato": "all'esame assemblea",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/59650"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche ai decreti legislativi 5 aprile 2006, n. 160, e 30 gennaio 2006, n. 26, concernenti l'integrazione delle procedure di ammissione e tirocinio dei magistrati ordinari mediante cognizioni teoriche e pratiche in materia di esecuzione delle pene detentive",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/59674"
     },
     {
       "ramo": "Senato",
@@ -46,17 +74,45 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Legge quadro per lo sviluppo delle isole minori marine, lagunari e lacustri",
+      "stato": "esame in comm.",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/55339"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Istituzione della Giornata nazionale in memoria delle vittime di errori giudiziari",
-      "stato": "all'esame assemblea",
+      "stato": "assorbito",
       "data": "2026-08-04",
       "link": "http://dati.senato.it/ddl/57873"
     },
     {
       "ramo": "Senato",
       "titolo": "Istituzione della Giornata nazionale in memoria delle vittime di errori giudiziari",
-      "stato": "all'esame assemblea",
+      "stato": "assorbito",
       "data": "2026-08-04",
       "link": "http://dati.senato.it/ddl/57943"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di partecipazione popolare alla titolarità di azioni e quote delle società sportive",
+      "stato": "esame in comm.",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/58192"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure per l'attribuzione alla società Acquirente unico S.p.a. di funzioni a tutela dei clienti domestici vulnerabili",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/58651"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la valorizzazione delle isole minori marine, lagunari e lacustri",
+      "stato": "esame in comm.",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/59988"
     },
     {
       "ramo": "Senato",
@@ -67,6 +123,41 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni in materia di sistema calcistico italiano",
+      "stato": "esame in comm.",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/60145"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la definizione di un quadro legislativo di riferimento per la filiera carbon capture, utilization and storage (CCUS), nonché disposizioni per la disciplina dello sviluppo dell'idrogeno, dell'assetto regolatorio del settore e delle relative infrastrutture di rete, e del sistema di governo per l'adempimento agli obblighi di riduzione delle emissioni di metano nel settore dell'energia",
+      "stato": "esame in comm.",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/59987"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per l'istituzione di spazi adibiti all'allattamento e alla cura dei neonati presso istituti e luoghi della cultura",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/60368"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il rilancio del sistema sportivo italiano",
+      "stato": "esame in comm.",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/60323"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di riforma del calcio italiano e delega al Governo per il riordino normativo di settore",
+      "stato": "esame in comm.",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/60334"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
       "stato": "esame in comm.",
       "data": "2026-08-04",
@@ -74,10 +165,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
-      "stato": "esame in comm.",
-      "data": "2026-08-03",
-      "link": "http://dati.senato.it/ddl/60355"
+      "titolo": "Disposizioni per il riconoscimento del diritto alla cittadinanza economica e per il rafforzamento dell'accesso ai servizi bancari essenziali",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/60301"
     },
     {
       "ramo": "Senato",
@@ -239,447 +330,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-08-03",
       "link": "http://dati.senato.it/ddl/58303"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 gennaio 2018, n. 2, e altre disposizioni per lo sviluppo della mobilità ciclistica nonché delega al Governo per l'adozione di disposizioni in materia di turismo ciclistico e sostenibile",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-03",
-      "link": "http://dati.senato.it/ddl/58638"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 2 della legge 11 febbraio 1992, n. 157, in materia di esclusione del lupo (canis lupus) dall'elenco delle specie particolarmente protette",
-      "stato": "esame in comm.",
-      "data": "2026-08-03",
-      "link": "http://dati.senato.it/ddl/58736"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, e all'articolo 544-ter del codice penale, in materia di divieto di utilizzo dei richiami vivi nell'attività venatoria",
-      "stato": "esame in comm.",
-      "data": "2026-08-03",
-      "link": "http://dati.senato.it/ddl/58524"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 36 della legge 6 dicembre 1991, n. 394, e altre disposizioni in materia di istituzione dell'area marina protetta dell'isola di Capri",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-03",
-      "link": "http://dati.senato.it/ddl/58541"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Deleghe al Governo per la riforma, il riordino e il coordinamento della normativa in materia di cinema e audiovisivo",
-      "stato": "all'esame assemblea",
-      "data": "2026-08-03",
-      "link": "http://dati.senato.it/ddl/59506"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'insegnamento della storia del crimine della schiavitù, della deportazione, della colonizzazione e del genocidio dei popoli africani nelle scuole secondarie di secondo grado",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-03",
-      "link": "http://dati.senato.it/ddl/59127"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 842 del codice civile, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-      "stato": "esame in comm.",
-      "data": "2026-08-03",
-      "link": "http://dati.senato.it/ddl/59188"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione dell'Agenzia per il cinema e l'audiovisivo",
-      "stato": "all'esame assemblea",
-      "data": "2026-08-03",
-      "link": "http://dati.senato.it/ddl/59090"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-      "stato": "esame in comm.",
-      "data": "2026-08-03",
-      "link": "http://dati.senato.it/ddl/59176"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma della disciplina degli ordinamenti professionali",
-      "stato": "approvato",
-      "data": "2026-08-03",
-      "link": "http://dati.senato.it/ddl/59584"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica Italiana e il Consiglio dei Ministri della Repubblica di Albania in materia di cooperazione strategica nei settori dell'assistenza sanitaria, dell'energia, dell'ambiente, della sicurezza e dell'industria della difesa, della gestione delle migrazioni, dell'educazione, dell'innovazione, della diaspora, della trasformazione economica e della crescita intelligente, fatto a Roma il 13 novembre 2025",
-      "stato": "approvato",
-      "data": "2026-08-03",
-      "link": "http://dati.senato.it/ddl/59880"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di promozione della partecipazione popolare alle attività delle associazioni e delle società sportive dilettantistiche, nonché delega al Governo per l'introduzione di agevolazioni per la gestione di strutture sportive a vocazione sociale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-03",
-      "link": "http://dati.senato.it/ddl/59973"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Dichiarazione di monumento nazionale della piazza Caduti di Marcinelle e della cappella delle Vittime di Marcinelle a Manoppello, in provincia di Pescara",
-      "stato": "approvato",
-      "data": "2026-08-03",
-      "link": "http://dati.senato.it/ddl/60068"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ZARATTI: &quot;Disposizioni in materia di identificazione del personale delle Forze di polizia in servizio di ordine pubblico e di applicazione di microtelecamere alle uniformi&quot; (1907)",
-      "stato": "Assegnato",
-      "data": "2026-08-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1907"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SOUMAHORO: \"Introduzione dell&rsquo;insegnamento della storia del crimine della schiavit&ugrave;, della deportazione, della colonizzazione e del genocidio dei popoli africani nelle scuole secondarie di secondo grado\" (2379)",
-      "stato": "Assegnato",
-      "data": "2026-08-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2379"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ZARATTI: \"Modifiche alla legge 11 gennaio 2018, n. 2, e altre disposizioni per lo sviluppo della mobilit&agrave; ciclistica nonch&eacute; delega al Governo per l&rsquo;adozione di disposizioni in materia di turismo ciclistico e sostenibile\" (2115)",
-      "stato": "Assegnato",
-      "data": "2026-08-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2115"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SCHLEIN ed altri: \"Istituzione dell&rsquo;Agenzia per il cinema e l&rsquo;audiovisivo\" (2360)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-07-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2360"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MOLLICONE ed altri: \"Deleghe al Governo per la riforma, il riordino e il coordinamento della normativa in materia di cinema e audiovisivo\" (2578)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-07-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2578"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1878. - &quot;Ratifica ed esecuzione dell&rsquo;Accordo tra il Governo della Repubblica italiana e il Governo dello Stato del Kuwait sulla cooperazione nel settore della difesa, fatto a Roma il 13 gennaio 2026&quot; &lt;em&gt;(approvato dal Senato)&lt;/em&gt; (2957)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-07-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2957"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "LATINI: \"Delega al Governo per la revisione e il riordino della disciplina del settore cinematografico e audiovisivo\" (2969)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-07-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2969"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "DARA ed altri: \"Disposizioni per garantire l&rsquo;accesso universale ai servizi erogati dalle pubbliche amministrazioni assicurandone la disponibilit&agrave; in forma sia fisica sia digitale\" (2939)",
-      "stato": "Assegnato",
-      "data": "2026-07-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2939"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "GRIPPO: \"Disciplina del settore del cinema e dell&rsquo;audiovisivo\" (2794)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-07-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2794"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1939. - \"Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt;&nbsp;(3053)",
-      "stato": "Da assegnare",
-      "data": "2026-07-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3053"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1939. - \"Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt;&nbsp;(3053)",
-      "stato": "Assegnato",
-      "data": "2026-07-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3053"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "AMATO ed altri: \"Introduzione dell&rsquo;articolo 10-&lt;em&gt;bis&lt;/em&gt; della legge 14 novembre 2016, n. 220, in materia di istituzione dell&rsquo;Agenzia per il cinema e l&rsquo;audiovisivo\" (2731)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-07-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2731"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CAVANDOLI ed altri: \"Istituzione della Giornata nazionale per la prevenzione della ludopatia e delle conseguenze patologiche del gioco d&rsquo;azzardo\" (2986)",
-      "stato": "Assegnato",
-      "data": "2026-07-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2986"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ORRICO ed altri: \"Istituzione di un fondo per l&rsquo;organizzazione, da parte delle scuole secondarie di primo e di secondo grado, di viaggi di istruzione nei luoghi della Resistenza e della liberazione dall&rsquo;occupazione nazista e dal fascismo\" (2967)",
-      "stato": "Assegnato",
-      "data": "2026-07-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2967"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ANDREUZZA ed altri: \"Modifiche alla legge 28 febbraio 2020, n. 17, in materia di estensione delle aree cedibili a privati nella fascia lagunare di Sottomarina, nel comune di Chioggia, e di sospensione dei procedimenti di ingiunzione, di rilascio o di riscossione dei proventi relativi alle medesime\" (2964)",
-      "stato": "Assegnato",
-      "data": "2026-07-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2964"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1635. - &quot;Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti&quot; &lt;em&gt;(approvato dal Senato)&lt;/em&gt; (2961)",
-      "stato": "Approvato definitivamente, non ancora pubblicato",
-      "data": "2026-07-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2961"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MATTEONI ed altri: \"Disposizioni per l&rsquo;istituzione di spazi adibiti all&rsquo;allattamento dei neonati presso istituti e luoghi della cultura\" (2637)",
-      "stato": "Approvato. Trasmesso al Senato",
-      "data": "2026-07-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2637"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BERRUTO ed altri: \"Disposizioni per il rilancio del sistema italiano del calcio\" (3049)",
-      "stato": "Da assegnare",
-      "data": "2026-07-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3049"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MATTIA: \"Disposizioni per la celebrazione del quindicesimo centenario della fondazione dell&rsquo;abbazia di Montecassino\" (3052)",
-      "stato": "Da assegnare",
-      "data": "2026-07-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3052"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BERRUTO: \"Disposizioni concernenti l&rsquo;introduzione dell&rsquo;insegnamento dell&rsquo;educazione motoria nella scuola dell&rsquo;infanzia e nei primi tre anni dei corsi della scuola primaria, l&rsquo;istituzione di un fondo nazionale per i gruppi sportivi scolastici e la realizzazione di strutture sportive leggere nelle pertinenze esterne degli edifici scolastici\" (3050)",
-      "stato": "Da assegnare",
-      "data": "2026-07-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3050"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "&quot;Disposizioni per l&rsquo;assestamento del bilancio dello Stato per l&rsquo;anno finanziario 2026&quot; (3006)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-07-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3006"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "L'ABBATE: \"Modifiche all&rsquo;articolo 14 del decreto legislativo 13 gennaio 2003, n. 36, in materia di garanzie finanziarie per la gestione operativa e post-operativa delle discariche\" (3051)",
-      "stato": "Da assegnare",
-      "data": "2026-07-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3051"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PRESTIPINO ed altri: \"Abrogazione dell&rsquo;articolo 70 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, e altre disposizioni concernenti il divieto dell&rsquo;utilizzazione di animali per la trazione di veicoli per il servizio di piazza, il trasporto pubblico non di linea nonché per fini turistici, ricreativi e di rappresentanza\" (3036)",
-      "stato": "Assegnato",
-      "data": "2026-07-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3036"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria\" (3045)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-07-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3045"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 23 luglio 2026, n. 127, recante misure urgenti e indifferibili per lo svolgimento dei procedimenti civili e penali a seguito del crollo dell&rsquo;immobile degli uffici giudiziari di Bolzano\" (3043)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-07-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3043"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "&quot;Rendiconto generale dell&rsquo;Amministrazione dello Stato per l&rsquo;esercizio finanziario 2025&quot; (3005)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-07-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3005"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PADOVANI ed altri: \"Modifica all&rsquo;articolo 7 del decreto legislativo 24 giugno 2003, n. 209, in materia di destinazione di veicoli fuori uso alle scuole di indirizzo tecnico e agli istituti tecnici superiori per l&rsquo;utilizzazione a fini didattici\" (1786)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-07-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1786"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "L'ABBATE: \"Modifica all&rsquo;articolo 7 del decreto legislativo 24 giugno 2003, n. 209, in materia di utilizzazione didattica dei veicoli fuori uso e dei loro componenti presso le scuole di indirizzo tecnico e gli istituti tecnici superiori per promuovere l&rsquo;educazione alla sostenibilit&agrave; ambientale, all&rsquo;economia circolare e alla transizione ecologica\" (2209)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-07-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2209"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "COMAROLI ed altri: &quot;Disposizioni in materia di insequestrabilit&agrave; delle opere d&#39;arte prestate da Stati esteri o da enti o istituzioni culturali stranieri, durante la permanenza in Italia per l&#39;esposizione al pubblico&quot; (182)",
-      "stato": "Approvato definitivamente dal Senato. Legge",
-      "data": "2026-07-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_182"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1878. - &quot;Ratifica ed esecuzione dell&rsquo;Accordo tra il Governo della Repubblica italiana e il Governo dello Stato del Kuwait sulla cooperazione nel settore della difesa, fatto a Roma il 13 gennaio 2026&quot; &lt;em&gt;(approvato dal Senato)&lt;/em&gt; (2957)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-07-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2957"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l&rsquo;attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonch&eacute; ulteriori disposizioni finanziarie urgenti\" (2987)",
-      "stato": "In discussione",
-      "data": "2026-07-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2987"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "L'ABBATE: \"Modifiche al decreto legislativo 3 aprile 2006, n. 152, concernenti l&rsquo;introduzione della valutazione del ciclo di vita dei prodotti, servizi e processi nell&rsquo;ambito dei procedimenti delle amministrazioni pubbliche in materia ambientale\" (2991)",
-      "stato": "Assegnato",
-      "data": "2026-07-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2991"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "L'ABBATE: \"Introduzione dell&rsquo;articolo 148-&lt;em&gt;bis &lt;/em&gt;del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, concernente l&rsquo;obbligo di predisposizione del bilancio di sostenibilit&agrave; urbana per l&rsquo;esecuzione di grandi interventi di trasformazione urbanistica\" (2954)",
-      "stato": "Assegnato",
-      "data": "2026-07-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2954"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO NAZIONALE DELL&#39;ECONOMIA E DEL LAVORO: &quot;Disposizioni in materia di scindibilit&agrave; del cumulo delle pene&quot; (2930)",
-      "stato": "Assegnato",
-      "data": "2026-07-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2930"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO NAZIONALE DELL'ECONOMIA E DEL LAVORO: \"Modifica dell&rsquo;articolo 9 della legge 23 dicembre 1993, n. 559, in materia di Riserva Fondo Lire UNRRA\" (2932)",
-      "stato": "Assegnato",
-      "data": "2026-07-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2932"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO NAZIONALE DELL&#39;ECONOMIA E DEL LAVORO: &quot;Delega al Governo in materia di congedo parentale di cui al capo V del testo unico delle disposizioni legislative in materia di tutela e sostegno della maternit&agrave; e della paternit&agrave;, di cui al decreto legislativo 26 marzo 2001, n. 151&quot; (2857)",
-      "stato": "Assegnato",
-      "data": "2026-07-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2857"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "TASSINARI ed altri: \"Disposizioni in materia di accesso ai corsi di laurea magistrale a ciclo unico in medicina e chirurgia, in odontoiatria e protesi dentaria e in medicina veterinaria presso le universit&agrave; non statali legalmente riconosciute\" (2810)",
-      "stato": "Assegnato",
-      "data": "2026-07-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2810"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1826. - \"Proroga del termine per l&rsquo;esercizio della delega prevista dall&rsquo;articolo 35 della legge 25 novembre 2024, n. 177\" &lt;i&gt;(approvato dalla Camera e modificato dal Senato) &lt;/i&gt;(2713-B)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-07-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2713-B"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "GALLO: \"Modifica all&rsquo;articolo 948 del codice civile in materia di ripartizione dell&rsquo;onere della prova nell&rsquo;azione di rivendicazione\" (3048)",
-      "stato": "Da assegnare",
-      "data": "2026-07-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3048"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BONELLI ed altri: \"Divieto di importazione e di pubblicit&agrave; di beni e servizi provenienti da insediamenti israeliani nel territorio palestinese occupato\" (2916)",
-      "stato": "Assegnato",
-      "data": "2026-07-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2916"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l&rsquo;attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonch&eacute; ulteriori disposizioni finanziarie urgenti\" (2987)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-07-27",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2987"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CECCHETTI: \"Modifiche alla legge 13 luglio 1967, n. 584, in materia di benefìci fiscali sostitutivi in favore dei donatori di sangue titolari di redditi di lavoro autonomo che non fruiscono delle agevolazioni previste dalla medesima legge\" (3032)",
-      "stato": "Ritirato",
-      "data": "2026-07-27",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3032"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "IEZZI: \"Introduzione degli articoli 613-&lt;i&gt;quater&lt;/i&gt; e 613-&lt;i&gt;quinquies &lt;/i&gt;del codice penale, concernenti il delitto di terrorismo tramite la piazza, e modifica all&rsquo;articolo 382-&lt;i&gt;bis&lt;/i&gt; del codice di procedura penale, in materia di arresto in flagranza differita\" (3047)",
-      "stato": "Da assegnare",
-      "data": "2026-07-27",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3047"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ZARATTI: \"Introduzione del divieto di erogazione di benefìci, agevolazioni o altre utilità mediante l&rsquo;impiego di risorse pubbliche in favore di soggetti responsabili di gravi violazioni del diritto internazionale o ad essi direttamente collegati\" (3046)",
-      "stato": "Da assegnare",
-      "data": "2026-07-27",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3046"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria\" (3045)",
-      "stato": "Da assegnare",
-      "data": "2026-07-27",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3045"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria\" (3045)",
-      "stato": "Assegnato",
-      "data": "2026-07-27",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3045"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BERRUTO e BAKKALI: &quot;Disposizioni concernenti il tesseramento dei minori stranieri nati in Italia presso le societ&agrave; e associazioni sportive e i casi di concessione della cittadinanza&quot; (2014)",
-      "stato": "Assegnato",
-      "data": "2026-07-24",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2014"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1826. - \"Proroga del termine per l&rsquo;esercizio della delega prevista dall&rsquo;articolo 35 della legge 25 novembre 2024, n. 177\" &lt;i&gt;(approvato dalla Camera e modificato dal Senato) &lt;/i&gt;(2713-B)",
-      "stato": "Assegnato",
-      "data": "2026-07-24",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2713-B"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ZARATTI ed altri: \"Disposizioni per promuovere la partecipazione popolare alla titolarit&agrave; di azioni e quote delle societ&agrave; sportive e delega al Governo per la riforma della disciplina del settore del calcio\" (2923)",
-      "stato": "Assegnato",
-      "data": "2026-07-24",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2923"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 775. - POTENTI ed altri: \"Modifica all&rsquo;articolo 79 del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di comunicazione delle variazioni di reddito rilevanti ai fini dell&rsquo;ammissione al patrocinio a spese dello Stato\" &lt;i&gt;(approvata dal Senato) &lt;/i&gt;(3042)",
-      "stato": "Assegnato",
-      "data": "2026-07-24",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3042"
     }
   ]
 }
