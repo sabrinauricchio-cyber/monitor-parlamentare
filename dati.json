@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-08-06 08:10",
+  "aggiornato_il": "2026-08-06 10:58",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,13 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
+      "stato": "all'esame assemblea",
+      "data": "2026-08-05",
+      "link": "http://dati.senato.it/ddl/60372"
+    },
     {
       "ramo": "Senato",
       "titolo": "Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
@@ -60,10 +67,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizoni in materia di cartolarizzazione sociale dei crediti deteriorati, a tutela dell'abitazione principale del debitore sovraindebitato e per la prevenzione del disagio abitativo",
-      "stato": "da assegn. a commis.",
+      "titolo": "Norme per l'istituzione della Rete nazionale dei presepi viventi",
+      "stato": "assegnato (no esame)",
       "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60401"
+      "link": "http://dati.senato.it/ddl/59379"
     },
     {
       "ramo": "Senato",
@@ -88,13 +95,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale della memoria dei militari italiani prigionieri di guerra delle Forze alleate durante la Seconda guerra mondiale e disposizioni per la tutela della memoria storica",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60402"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni per il sostegno alle microimprese, alle piccole imprese e alle imprese artigiane nella transizione verso il salario minimo legale",
       "stato": "assegnato (no esame)",
       "data": "2026-08-04",
@@ -113,6 +113,20 @@
       "stato": "all'esame assemblea",
       "data": "2026-08-04",
       "link": "http://dati.senato.it/ddl/60355"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
+      "stato": "all'esame assemblea",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/60372"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
+      "stato": "appr. def. non pubbl",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/60372"
     },
     {
       "ramo": "Senato",
@@ -200,6 +214,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Istituzione della Procura nazionale della Repubblica per i reati commessi con violazione delle norme in materia di tutela della salute e della sicurezza sul lavoro nonché modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato per le persone offese da tali reati",
+      "stato": "da assegn. a commis.",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/59666"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche ai decreti legislativi 5 aprile 2006, n. 160, e 30 gennaio 2006, n. 26, concernenti l'integrazione delle procedure di ammissione e tirocinio dei magistrati ordinari mediante cognizioni teoriche e pratiche in materia di esecuzione delle pene detentive",
       "stato": "assegnato (no esame)",
       "data": "2026-08-04",
@@ -214,10 +235,31 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2025",
+      "stato": "all'esame assemblea",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/60270"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
       "stato": "approvato",
       "data": "2026-08-04",
       "link": "http://dati.senato.it/ddl/60271"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
+      "stato": "all'esame assemblea",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/60271"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione dell'area marina protetta «Isola di Capri»",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/59855"
     },
     {
       "ramo": "Senato",
@@ -232,6 +274,13 @@
       "stato": "approvato",
       "data": "2026-08-04",
       "link": "http://dati.senato.it/ddl/59859"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di soppressione dei collegi uninominali e delega al Governo per la determinazione dei collegi elettorali plurinominali",
+      "stato": "esame in comm.",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/55212"
     },
     {
       "ramo": "Senato",
@@ -270,66 +319,17 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale per il diritto al divertimento in sicurezza",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/57310"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
       "stato": "esame in comm.",
       "data": "2026-08-04",
       "link": "http://dati.senato.it/ddl/57528"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dallo studente caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/57637"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/57573"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche agli articoli 12, 13 e 22 della legge 11 febbraio 1992, n. 157, in materia di divieto dell'esercizio dell'attività venatoria mediante l'uso dell'arco",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/57693"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale in memoria delle vittime di errori giudiziari",
-      "stato": "assorbito",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/57873"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/57863"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in favore degli studenti universitari che svolgono attività di caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/57923"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/57894"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/57907"
     },
     {
       "ramo": "Camera",
