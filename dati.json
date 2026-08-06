@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-08-06 07:44",
+  "aggiornato_il": "2026-08-06 08:10",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,31 +18,10 @@
   "atti": [
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
-      "stato": "all'esame assemblea",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60355"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
       "stato": "appr. def. non pubbl",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/60372"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2025",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60403"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'educazione alla legalità digitale nell'ambito del piano triennale dell'offerta formativa",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60405"
     },
     {
       "ramo": "Senato",
@@ -109,31 +88,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 23 luglio 2026, n. 127, recante misure urgenti e indifferibili per lo svolgimento dei procedimenti civili e penali a seguito del crollo dell'immobile degli uffici giudiziari di Bolzano",
-      "stato": "in relazione",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60341"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Istituzione della Giornata nazionale della memoria dei militari italiani prigionieri di guerra delle Forze alleate durante la Seconda guerra mondiale e disposizioni per la tutela della memoria storica",
       "stato": "da assegn. a commis.",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/60402"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60404"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il contrasto del fenomeno dei reati di atti persecutori in ambito condominiale e di vicinato",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60406"
     },
     {
       "ramo": "Senato",
@@ -148,6 +106,13 @@
       "stato": "esame in comm.",
       "data": "2026-08-04",
       "link": "http://dati.senato.it/ddl/60346"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
+      "stato": "all'esame assemblea",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/60355"
     },
     {
       "ramo": "Senato",
@@ -330,6 +295,41 @@
       "stato": "esame in comm.",
       "data": "2026-08-04",
       "link": "http://dati.senato.it/ddl/57693"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale in memoria delle vittime di errori giudiziari",
+      "stato": "assorbito",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/57873"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/57863"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in favore degli studenti universitari che svolgono attività di caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/57923"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/57894"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-08-04",
+      "link": "http://dati.senato.it/ddl/57907"
     },
     {
       "ramo": "Camera",
