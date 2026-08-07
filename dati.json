@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-08-07 14:43",
+  "aggiornato_il": "2026-08-07 15:41",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,10 +18,150 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per la tutela del mercato immobiliare",
+      "stato": "da assegn. a commis.",
+      "data": "2026-08-07",
+      "link": "http://dati.senato.it/ddl/60420"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di successioni",
+      "stato": "da assegn. a commis.",
+      "data": "2026-08-07",
+      "link": "http://dati.senato.it/ddl/60419"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la promozione dell'occupazione e dell'imprenditoria giovanile nonché in materia di politiche abitative e di mobilità, per contrastare l'emigrazione e favorire la permanenza e il rientro dei giovani in Italia",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/60184"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di riscatto, ai fini previdenziali, del periodo di mandato elettivo dei sindaci",
+      "stato": "da assegn. a commis.",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/60414"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 253 del codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, concernente la delimitazione della zona monumentale di guerra del monte Pasubio, e dichiarazione di monumento nazionale della Strada delle 52 gallerie del monte Pasubio o Strada della Prima Armata",
+      "stato": "da assegn. a commis.",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/60413"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale per il diritto al divertimento in sicurezza",
+      "stato": "da assegn. a commis.",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/60416"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 15 marzo 2024, n. 29, in materia di cura e assistenza domiciliare a favore delle persone anziane non autosufficienti",
+      "stato": "da assegn. a commis.",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/60418"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in favore dei tirocinanti di inclusione sociale",
+      "stato": "da assegn. a commis.",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/60417"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al codice di procedura penale e alle norme di attuazione, di coordinamento e transitorie del medesimo codice, in materia di provvedimenti in favore delle persone sottoposte a ingiusta detenzione",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/60001"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
       "stato": "approvato",
       "data": "2026-08-06",
       "link": "http://dati.senato.it/ddl/59650"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 41 del decreto legislativo 9 aprile 2008, n. 81, in materia di sorveglianza sanitaria e di giudizio di idoneità del lavoratore alla mansione specifica",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/58843"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la tutela dei lavoratori dipendenti, pubblici e privati, e dei lavoratori autonomi in condizione di disabilità",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/58818"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 131-bis del codice penale, al decreto legislativo 3 aprile 2006, n. 152, e al codice delle leggi antimafia e delle misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159, in materia di tutela dell'ambiente e della salute umana e animale nonché di prevenzione e repressione dei reati contro l'ambiente",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/58998"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni concernenti l'istituzione di presìdi socio-educativi nelle aree urbane caratterizzate da disagio educativo e socio-economico per il potenziamento dell'offerta culturale, sociale, sportiva e ricreativa nei riguardi dei minorenni",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/60243"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la promozione della somministrazione di alimenti vegetali caratteristici della dieta mediterranea nei servizi di ristorazione collettiva forniti dalle amministrazioni pubbliche",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/60035"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la disciplina dell'accredito contributivo e del conseguimento del trattamento pensionistico in favore dei lavoratori impiegati in progetti o attività socialmente utili o di pubblica utilità",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/59950"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione della valutazione di impatto occupazionale dei sistemi di intelligenza artificiale incidenti sull'organizzazione e sullo svolgimento di prestazioni lavorative nonché disposizioni per la tutela del lavoro umano e dell'occupazione",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/60151"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche agli articoli 132-ter e 133 del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, in materia di applicazione del premio medio su base nazionale, ai fini dell'assicurazione obbligatoria per la responsabilità civile derivante dalla circolazione dei veicoli, in mancanza di sinistri negli ultimi dieci anni",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/60232"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Concessione di agevolazioni previdenziali per la maternità e per la prestazione di assistenza continuativa a familiari con disabilità",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/60253"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di protezione civile",
+      "stato": "esame in comm.",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/60400"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
+      "stato": "da assegn. a commis.",
+      "data": "2026-08-06",
+      "link": "http://dati.senato.it/ddl/60415"
     },
     {
       "ramo": "Camera",
@@ -165,6 +305,20 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per la promozione della salute digitale dei minori e la prevenzione della dipendenza da strumenti e piattaforme digitali",
+      "stato": "da assegn. a commis.",
+      "data": "2026-08-05",
+      "link": "http://dati.senato.it/ddl/60411"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche in materia di imputabilità del minore",
+      "stato": "da assegn. a commis.",
+      "data": "2026-08-05",
+      "link": "http://dati.senato.it/ddl/60412"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche alla legge 4 gennaio 1990, n. 1, e alla legge 17 agosto 2005, n. 174, in materia di disciplina dell'attività di acconciatore, nonché misure per la prevenzione dell'abusivismo",
       "stato": "esame in comm.",
       "data": "2026-08-05",
@@ -179,10 +333,24 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
+      "stato": "approvato",
+      "data": "2026-08-05",
+      "link": "http://dati.senato.it/ddl/60271"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di soppressione dei collegi uninominali e delega al Governo per la determinazione dei collegi elettorali plurinominali",
       "stato": "esame in comm.",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/55212"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Registro nazionale dei paesaggi rurali di interesse storico, delle pratiche agricole e delle conoscenze tradizionali",
+      "stato": "ritirato",
+      "data": "2026-08-05",
+      "link": "http://dati.senato.it/ddl/58094"
     },
     {
       "ramo": "Senato",
@@ -260,34 +428,6 @@
       "stato": "concluso l'esame",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/60341"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di protezione civile",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60400"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale della memoria dei militari italiani prigionieri di guerra delle Forze alleate durante la Seconda guerra mondiale e disposizioni per la tutela della memoria storica",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60402"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60404"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il contrasto del fenomeno dei reati di atti persecutori in ambito condominiale e di vicinato",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60406"
     },
     {
       "ramo": "Camera",
@@ -379,146 +519,6 @@
       "stato": "Approvato. Trasmesso al Senato",
       "data": "2026-08-05",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3006"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il sostegno alle microimprese, alle piccole imprese e alle imprese artigiane nella transizione verso il salario minimo legale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/60180"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni concernenti l'obbligo di verifica dell'età degli utenti delle piattaforme di reti sociali telematiche e altre disposizioni per la tutela dei minori nella fruizione dei servizi digitali",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/60409"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di caregiver familiare e deleghe al Governo per la piena integrazione della figura del caregiver familiare nell'ordinamento giuridico della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/55733"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni e delega al Governo per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/58456"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di periodi di attività venatoria, di divieto dell'esercizio venatorio con l'accompagnamento di minori e di disciplina del rilascio della licenza di porto di fucile per uso di caccia",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/55479"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/55676"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/55437"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/55595"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni e delega al Governo per la disciplina della figura del caregiver familiare e per la promozione e il sostegno dell'attività di assistenza e di cura da esso svolta",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/55573"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/55618"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura nonché per la conciliazione tra l'attività lavorativa e le attività di cura e assistenza",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/55857"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale \"Enzo Tortora e vittime di errori giudiziari\"",
-      "stato": "approvato",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/55855"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Procura nazionale della Repubblica per i reati commessi con violazione delle norme in materia di tutela della salute e della sicurezza sul lavoro nonché modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato per le persone offese da tali reati",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/59666"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche ai decreti legislativi 5 aprile 2006, n. 160, e 30 gennaio 2006, n. 26, concernenti l'integrazione delle procedure di ammissione e tirocinio dei magistrati ordinari mediante cognizioni teoriche e pratiche in materia di esecuzione delle pene detentive",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/59674"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2025",
-      "stato": "approvato",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/60270"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
-      "stato": "approvato",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/60271"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione dell'area marina protetta «Isola di Capri»",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/59855"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di protezione civile",
-      "stato": "approvato",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/59859"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge quadro per lo sviluppo delle isole minori marine, lagunari e lacustri",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/55339"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura svolta dal caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-08-04",
-      "link": "http://dati.senato.it/ddl/56806"
     },
     {
       "ramo": "Camera",
