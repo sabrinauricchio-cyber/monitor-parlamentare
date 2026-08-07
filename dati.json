@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-08-07 17:37",
+  "aggiornato_il": "2026-08-07 18:35",
   "fonti": [
     {
       "fonte": "Senato",
@@ -25,10 +25,24 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 7 agosto 2026, n. 143, recante disposizioni urgenti in materia di obbligo di compostabilità di determinate tipologie di imballaggi",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-07",
+      "link": "http://dati.senato.it/ddl/60421"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di successioni",
       "stato": "da assegn. a commis.",
       "data": "2026-08-07",
       "link": "http://dati.senato.it/ddl/60419"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
+      "stato": "restit. al Governo",
+      "data": "2026-08-07",
+      "link": "http://dati.senato.it/ddl/60422"
     },
     {
       "ramo": "Senato",
@@ -414,20 +428,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/60257"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60317"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 23 luglio 2026, n. 127, recante misure urgenti e indifferibili per lo svolgimento dei procedimenti civili e penali a seguito del crollo dell'immobile degli uffici giudiziari di Bolzano",
-      "stato": "concluso l'esame",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60341"
     },
     {
       "ramo": "Camera",
