@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-08-10 08:54",
+  "aggiornato_il": "2026-08-10 10:06",
   "fonti": [
     {
       "fonte": "Senato",
@@ -25,7 +25,7 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 07 agosto 2026, n. 143, recante disposizioni urgenti in materia di obbligo di compostabilità di determinate tipologie di imballaggi",
+      "titolo": "Conversione in legge del decreto-legge 7 agosto 2026, n. 143, recante disposizioni urgenti in materia di obbligo di compostabilità di determinate tipologie di imballaggi",
       "stato": "assegnato (no esame)",
       "data": "2026-08-07",
       "link": "http://dati.senato.it/ddl/60421"
@@ -39,7 +39,7 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 07 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
+      "titolo": "Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
       "stato": "restit. al Governo",
       "data": "2026-08-07",
       "link": "http://dati.senato.it/ddl/60422"
@@ -299,7 +299,7 @@
     {
       "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
-      "stato": "appr. definit. Legge",
+      "stato": "appr. def. non pubbl",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/60355"
     },
