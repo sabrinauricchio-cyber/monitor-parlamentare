@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-08-10 16:39",
+  "aggiornato_il": "2026-08-10 17:41",
   "fonti": [
     {
       "fonte": "Senato",
@@ -43,13 +43,6 @@
       "stato": "restit. al Governo",
       "data": "2026-08-07",
       "link": "http://dati.senato.it/ddl/60422"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 07 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-07",
-      "link": "http://dati.senato.it/ddl/60423"
     },
     {
       "ramo": "Camera",
@@ -306,7 +299,7 @@
     {
       "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
-      "stato": "appr. definit. Legge",
+      "stato": "appr. def. non pubbl",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/60355"
     },
@@ -442,6 +435,13 @@
       "stato": "assegnato (no esame)",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/60252"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione del capo III-bis del decreto-legge 19 settembre 2023, n. 124, convertito, con modificazioni, dalla legge 13 novembre 2023, n. 162, concernente l'istituzione della Zona economica speciale per le aree transfrontaliere dell'Italia settentrionale - ZES Nord",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-05",
+      "link": "http://dati.senato.it/ddl/60257"
     },
     {
       "ramo": "Camera",
