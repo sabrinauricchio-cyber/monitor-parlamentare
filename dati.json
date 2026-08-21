@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-08-21 07:13",
+  "aggiornato_il": "2026-08-21 08:02",
   "fonti": [
     {
       "fonte": "Senato",
@@ -313,7 +313,7 @@
     {
       "ramo": "Senato",
       "titolo": "Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
-      "stato": "appr. def. non pubbl",
+      "stato": "appr. definit. Legge",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/60372"
     },
