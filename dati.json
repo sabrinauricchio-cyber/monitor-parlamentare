@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-08-24 05:43",
+  "aggiornato_il": "2026-08-24 06:31",
   "fonti": [
     {
       "fonte": "Senato",
@@ -11,7 +11,7 @@
     {
       "fonte": "Camera",
       "esito": "ERRORE",
-      "dettaglio": "Fonte raggiungibile ma la query degli aggiornamenti fallisce (forse e' cambiato il nome di un campo): 503 Server Error: Service Unavailable for url: https://dati.camera.it/sparql?query=%0APREFIX+ocd%3A+%3Chttp%3A%2F%2Fdati.camera.it%2Focd%2F%3E%0APREFIX+dc%3A++%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Felements%2F1.1%2F%3E%0ASELECT+DISTINCT+%3Fatto+%3Ftitolo+%3Fstato+%3Fdata+WHERE+%7B%0A++%3Fatto+a+ocd%3Aatto+%3B%0A++++++++ocd%3Arif_leg+%3Chttp%3A%2F%2Fdati.camera.it%2Focd%2Flegislatura.rdf%2Frepubblica_19%3E+%3B%0A++++++++ocd%3Arif_statoIter+%3FstatoIter+.%0A++%3FstatoIter+dc%3Adate+%3Fdata+.%0A++OPTIONAL+%7B+%3FstatoIter+dc%3Atitle+%3Fstato+.+%7D%0A++OPTIONAL+%7B+%3Fatto+dc%3Atitle+%3Ftitolo+.+%7D%0A%7D%0AORDER+BY+DESC%28%3Fdata%29%0ALIMIT+50%0A&format=application%2Fsparql-results%2Bjson"
+      "dettaglio": "Fonte non raggiungibile: 503 Server Error: Service Unavailable for url: https://dati.camera.it/sparql?query=PREFIX+ocd%3A+%3Chttp%3A%2F%2Fdati.camera.it%2Focd%2F%3E+SELECT+%3Fa+WHERE+%7B+%3Fa+a+ocd%3Aatto+.+%7D+LIMIT+1&format=application%2Fsparql-results%2Bjson"
     }
   ],
   "numero_atti": 45,
