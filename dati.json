@@ -1,7 +1,7 @@
 {
-  "stato": "OK",
-  "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-08-24 17:53",
+  "stato": "PARZIALE",
+  "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
+  "aggiornato_il": "2026-08-24 18:20",
   "fonti": [
     {
       "fonte": "Senato",
@@ -10,11 +10,11 @@
     },
     {
       "fonte": "Camera",
-      "esito": "OK",
-      "dettaglio": "50 atti"
+      "esito": "ERRORE",
+      "dettaglio": "Fonte non raggiungibile: 503 Server Error: Service Unavailable for url: https://dati.camera.it/sparql?query=PREFIX+ocd%3A+%3Chttp%3A%2F%2Fdati.camera.it%2Focd%2F%3E+SELECT+%3Fa+WHERE+%7B+%3Fa+a+ocd%3Aatto+.+%7D+LIMIT+1&format=application%2Fsparql-results%2Bjson"
     }
   ],
-  "numero_atti": 95,
+  "numero_atti": 45,
   "atti": [
     {
       "ramo": "Senato",
@@ -50,20 +50,6 @@
       "stato": "da assegn. a commis.",
       "data": "2026-08-07",
       "link": "http://dati.senato.it/ddl/60423"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile\" (3083)",
-      "stato": "Assegnato",
-      "data": "2026-08-07",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3083"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile\" (3083)",
-      "stato": "Da assegnare",
-      "data": "2026-08-07",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3083"
     },
     {
       "ramo": "Senato",
@@ -197,104 +183,6 @@
       "stato": "da assegn. a commis.",
       "data": "2026-08-06",
       "link": "http://dati.senato.it/ddl/60415"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "FARAONE: &quot;Disposizioni per la tutela dei lavoratori dipendenti, pubblici e privati, e dei lavoratori autonomi in condizione di disabilit&agrave;&quot; (2207)",
-      "stato": "Assegnato",
-      "data": "2026-08-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2207"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "FARAONE: &quot;Modifiche all&rsquo;articolo 41 del decreto legislativo 9 aprile 2008, n. 81, in materia di sorveglianza sanitaria e di giudizio di idoneit&agrave; del lavoratore alla mansione specifica&quot; (2219)",
-      "stato": "Assegnato",
-      "data": "2026-08-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2219"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ZARATTI: &quot;Modifiche all&rsquo;articolo 131-&lt;em&gt;bis &lt;/em&gt;del codice penale, al decreto legislativo 3 aprile 2006, n. 152, e al codice delle leggi antimafia e delle misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159, in materia di tutela dell&rsquo;ambiente e della salute umana e animale nonch&eacute; di prevenzione e repressione dei reati contro l&rsquo;ambiente&quot; (2312)",
-      "stato": "Assegnato",
-      "data": "2026-08-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2312"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PITTALIS ed altri: \"Modifiche al codice di procedura penale e alle norme di attuazione, di coordinamento e transitorie del medesimo codice, in materia di provvedimenti in favore delle persone sottoposte a ingiusta detenzione\" (2846)",
-      "stato": "Assegnato",
-      "data": "2026-08-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2846"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "L'ABBATE: \"Concessione di agevolazioni previdenziali per la maternità e per la prestazione di assistenza continuativa a familiari con disabilità\" (2993)",
-      "stato": "Assegnato",
-      "data": "2026-08-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2993"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1878. - &quot;Ratifica ed esecuzione dell&rsquo;Accordo tra il Governo della Repubblica italiana e il Governo dello Stato del Kuwait sulla cooperazione nel settore della difesa, fatto a Roma il 13 gennaio 2026&quot; &lt;em&gt;(approvato dal Senato)&lt;/em&gt; (2957)",
-      "stato": "Approvato definitivamente, non ancora pubblicato",
-      "data": "2026-08-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2957"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BATTILOCCHIO ed altri: \"Disposizioni concernenti l&rsquo;istituzione di pres&igrave;di socio-educativi nelle aree urbane caratterizzate da disagio educativo e socio-economico per il potenziamento dell&rsquo;offerta culturale, sociale, sportiva e ricreativa nei riguardi dei minorenni\" (2983)",
-      "stato": "Assegnato",
-      "data": "2026-08-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2983"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BORRELLI: \"Modifiche agli articoli 132-&lt;em&gt;ter&lt;/em&gt; e 133 del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, in materia di applicazione del premio medio su base nazionale, ai fini dell&rsquo;assicurazione obbligatoria per la responsabilit&agrave; civile derivante dalla circolazione dei veicoli, in mancanza di sinistri negli ultimi dieci anni\" (2975)",
-      "stato": "Assegnato",
-      "data": "2026-08-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2975"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PRETTO: \"Modifica all&rsquo;articolo 253 del codice dell&rsquo;ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, concernente la delimitazione della zona monumentale di guerra del monte Pasubio, e dichiarazione di monumento nazionale della Strada delle 52 gallerie del monte Pasubio o Strada della Prima Armata\" (3081)",
-      "stato": "Da assegnare",
-      "data": "2026-08-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3081"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PRETTO: \"Disposizioni in materia di riscatto, ai fini previdenziali, del periodo di mandato elettivo dei sindaci&nbsp;\" (3082)",
-      "stato": "Da assegnare",
-      "data": "2026-08-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3082"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "EVI: &quot;Disposizioni per la promozione della somministrazione di alimenti vegetali caratteristici della dieta mediterranea nei servizi di ristorazione collettiva forniti dalle amministrazioni pubbliche&quot; (2862)",
-      "stato": "Assegnato",
-      "data": "2026-08-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2862"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CECCHETTI ed altri: \"Introduzione della valutazione di impatto occupazionale dei sistemi di intelligenza artificiale incidenti sull&rsquo;organizzazione e sullo svolgimento di prestazioni lavorative nonch&eacute; disposizioni per la tutela del lavoro umano e dell&rsquo;occupazione\" (2936)",
-      "stato": "Assegnato",
-      "data": "2026-08-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2936"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "FARAONE: &quot;Delega al Governo per la disciplina dell&rsquo;accredito contributivo e del conseguimento del trattamento pensionistico in favore dei lavoratori impiegati in progetti o attivit&agrave; socialmente utili o di pubblica utilit&agrave;&quot; (2821)",
-      "stato": "Assegnato",
-      "data": "2026-08-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2821"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SARRACINO ed altri: \"Disposizioni per la promozione dell&rsquo;occupazione e dell&rsquo;imprenditoria giovanile nonch&eacute; in materia di politiche abitative e di mobilit&agrave;, per contrastare l&rsquo;emigrazione e favorire la permanenza e il rientro dei giovani in Italia\" (2949)",
-      "stato": "Assegnato",
-      "data": "2026-08-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2949"
     },
     {
       "ramo": "Senato",
@@ -442,244 +330,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/60252"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BICCHIELLI: \"Istituzione del Registro nazionale dei paesaggi rurali di interesse storico, delle pratiche agricole e delle conoscenze tradizionali\" (1789)",
-      "stato": "Ritirato",
-      "data": "2026-08-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1789"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "GUSMEROLI: \"Disposizioni per la diffusione dell&rsquo;autoproduzione domestica di energia elettrica con impianti fotovoltaici e per il contenimento del consumo di suolo nonché istituzione del Fondo nazionale per l&rsquo;autonomia energetica delle famiglie\" (3078)",
-      "stato": "Da assegnare",
-      "data": "2026-08-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3078"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Modifiche in materia di imputabilità del minore&nbsp;\" (3080)",
-      "stato": "Da assegnare",
-      "data": "2026-08-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3080"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "GIRELLI: \"Disposizioni per la promozione della salute digitale dei minori e la prevenzione della dipendenza da strumenti e piattaforme digitali&nbsp;\" (3079)",
-      "stato": "Da assegnare",
-      "data": "2026-08-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3079"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MOLINARI ed altri: \"Introduzione del capo III-&lt;em&gt;bis&lt;/em&gt; del decreto-legge 19 settembre 2023, n. 124, convertito, con modificazioni, dalla legge 13 novembre 2023, n. 162, concernente l&rsquo;istituzione della Zona economica speciale per le aree transfrontaliere dell&rsquo;Italia settentrionale &ndash; ZES Nord\" (2996)",
-      "stato": "Assegnato",
-      "data": "2026-08-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2996"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "L'ABBATE: \"Disposizioni concernenti l&rsquo;istituzione di percorsi didattici interdisciplinari nelle scuole secondarie di primo e di secondo grado per promuovere la conoscenza e l&rsquo;uso consapevole dei sistemi di intelligenza artificiale\" (2992)",
-      "stato": "Assegnato",
-      "data": "2026-08-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2992"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1779. - \"Disposizioni in materia di protezione civile\"&lt;i&gt;(approvato dal Senato)&lt;/i&gt; (3076)",
-      "stato": "Assegnato",
-      "data": "2026-08-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3076"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 5 agosto 2026, n. 139, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali\" (3077)",
-      "stato": "Assegnato",
-      "data": "2026-08-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3077"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 5 agosto 2026, n. 139, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali\" (3077)",
-      "stato": "Da assegnare",
-      "data": "2026-08-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3077"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CARMINA ed altri: \"Istituzione di una Commissione parlamentare di inchiesta sulla gestione del servizio sanitario regionale e delle risorse a esso destinate nella Regione siciliana\" (2968)",
-      "stato": "Assegnato",
-      "data": "2026-08-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2968"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 23 luglio 2026, n. 127, recante misure urgenti e indifferibili per lo svolgimento dei procedimenti civili e penali a seguito del crollo dell&rsquo;immobile degli uffici giudiziari di Bolzano\" (3043)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-08-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3043"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1939. - \"Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt;&nbsp;(3053)",
-      "stato": "Approvato definitivamente, non ancora pubblicato",
-      "data": "2026-08-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3053"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "&quot;Disposizioni per l&rsquo;assestamento del bilancio dello Stato per l&rsquo;anno finanziario 2026&quot; (3006)",
-      "stato": "Approvato. Trasmesso al Senato",
-      "data": "2026-08-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3006"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "FARAONE ed altri: \"Istituzione della Giornata nazionale &ldquo;Enzo Tortora&rdquo; in memoria delle vittime di errori giudiziari\" (441)",
-      "stato": "Approvato. Trasmesso al Senato",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_441"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BISA ed altri: &quot;Istituzione della Giornata nazionale in memoria delle vittime di errori giudiziari&quot; (1657)",
-      "stato": "Assorbito dall'approvazione di pdl abbinato",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1657"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PITTALIS ed altri: &quot;Istituzione della Giornata nazionale in memoria delle vittime di errori giudiziari&quot; (1694)",
-      "stato": "Assorbito dall'approvazione di pdl abbinato",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1694"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ZARATTI: &quot;Modifiche al testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773, alla legge 6 marzo 1987, n. 89, e altre disposizioni in materia di acquisto e detenzione di armi da fuoco e di rilascio della licenza di porto d&rsquo;armi&quot; (2251)",
-      "stato": "Assegnato",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2251"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SERGIO COSTA ed altri: \"Modifiche all&rsquo;articolo 36 della legge 6 dicembre 1991, n. 394, e altre disposizioni in materia di istituzione dell&rsquo;area marina protetta dell&rsquo;isola di Capri\" (2057)",
-      "stato": "Assorbito dall'approvazione di pdl abbinato",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2057"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 282. - Senatori CROATTI ed altri: &quot;Istituzione della Giornata nazionale per il diritto al divertimento in sicurezza&quot; &lt;em&gt;(approvata dal Senato)&lt;/em&gt; (1296)",
-      "stato": "Approvato con modificazioni. Trasmesso al Senato",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1296"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 282. - Senatori CROATTI ed altri: &quot;Istituzione della Giornata nazionale per il diritto al divertimento in sicurezza&quot; &lt;em&gt;(approvata dal Senato)&lt;/em&gt; (1296)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1296"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 282. - Senatori CROATTI ed altri: &quot;Istituzione della Giornata nazionale per il diritto al divertimento in sicurezza&quot; &lt;em&gt;(approvata dal Senato)&lt;/em&gt; (1296)",
-      "stato": "Approvato definitivamente, non ancora pubblicato",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1296"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ZARATTI: \"Istituzione della Procura nazionale della Repubblica per i reati commessi con violazione delle norme in materia di tutela della salute e della sicurezza sul lavoro nonch&eacute; modifica all&rsquo;articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato per le persone offese da tali reati\" (2672)",
-      "stato": "Assegnato",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2672"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1311&lt;em&gt;.&lt;/em&gt; &ndash; Senatori MENNUNI ed altri: &laquo;Istituzione dell&rsquo;area marina protetta &ldquo;Isola di Capri&rdquo;&raquo; &lt;em&gt;(approvata dal Senato)&lt;/em&gt; (2772)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2772"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1311&lt;em&gt;.&lt;/em&gt; &ndash; Senatori MENNUNI ed altri: &laquo;Istituzione dell&rsquo;area marina protetta &ldquo;Isola di Capri&rdquo;&raquo; &lt;em&gt;(approvata dal Senato)&lt;/em&gt; (2772)",
-      "stato": "Approvato definitivamente, non ancora pubblicato",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2772"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ROSSELLO ed altri: \"Disposizioni concernenti l&rsquo;obbligo di verifica dell&rsquo;età degli utenti delle piattaforme di reti sociali telematiche e altre disposizioni per la tutela dei minori nella fruizione dei servizi digitali\" (3075)",
-      "stato": "Da assegnare",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3075"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1779. - \"Disposizioni in materia di protezione civile\"&lt;i&gt;(approvato dal Senato)&lt;/i&gt; (3076)",
-      "stato": "Da assegnare",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3076"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SOUMAHORO: \"Disposizioni concernenti l&rsquo;introduzione di tariffe agevolate per i servizi di trasporto pubblico locale, regionale e interregionale in favore dei lavoratori agricoli\" (3074)",
-      "stato": "Da assegnare",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3074"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ASCANI ed altri: \"Disposizioni per la tutela dell&rsquo;identit&agrave; personale contro la diffusione di immagini e contenuti audio o video prodotti o modificati mediante programmi informatici, applicazioni digitali o sistemi di intelligenza artificiale\" (2927)",
-      "stato": "Assegnato",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2927"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1939. - \"Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt;&nbsp;(3053)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3053"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1939. - \"Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt;&nbsp;(3053)",
-      "stato": "In discussione",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3053"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "&quot;Rendiconto generale dell&rsquo;Amministrazione dello Stato per l&rsquo;esercizio finanziario 2025&quot; (3005)",
-      "stato": "Approvato. Trasmesso al Senato",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3005"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1826. - \"Proroga del termine per l&rsquo;esercizio della delega prevista dall&rsquo;articolo 35 della legge 25 novembre 2024, n. 177\" &lt;i&gt;(approvato dalla Camera e modificato dal Senato) &lt;/i&gt;(2713-B)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-08-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2713-B"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ZARATTI: &quot;Disposizioni in materia di identificazione del personale delle Forze di polizia in servizio di ordine pubblico e di applicazione di microtelecamere alle uniformi&quot; (1907)",
-      "stato": "Assegnato",
-      "data": "2026-08-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1907"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SOUMAHORO: \"Introduzione dell&rsquo;insegnamento della storia del crimine della schiavit&ugrave;, della deportazione, della colonizzazione e del genocidio dei popoli africani nelle scuole secondarie di secondo grado\" (2379)",
-      "stato": "Assegnato",
-      "data": "2026-08-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2379"
     }
   ]
 }
