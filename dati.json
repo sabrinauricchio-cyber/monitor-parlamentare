@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-08-30 10:25",
+  "aggiornato_il": "2026-08-31 11:30",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,13 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
+      "stato": "da assegn. a commis.",
+      "data": "2026-08-28",
+      "link": "http://dati.senato.it/ddl/60425"
+    },
     {
       "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 26 agosto 2026, n. 153, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali",
@@ -435,13 +442,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/60221"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo dello Stato del Kuwait sulla cooperazione nel settore della difesa, fatto a Roma il 13 gennaio 2026",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60209"
     },
     {
       "ramo": "Camera",
