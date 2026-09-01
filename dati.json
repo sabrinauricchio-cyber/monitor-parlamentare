@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-09-01 09:53",
+  "aggiornato_il": "2026-09-01 10:37",
   "fonti": [
     {
       "fonte": "Senato",
@@ -19,9 +19,30 @@
     {
       "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-28",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-31",
       "link": "http://dati.senato.it/ddl/60425"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo in materia di semplificazione amministrativa e burocratica in favore delle micro, piccole e medie imprese",
+      "stato": "da assegn. a commis.",
+      "data": "2026-08-31",
+      "link": "http://dati.senato.it/ddl/60426"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica Italiana e il Consiglio dei Ministri della Repubblica di Albania in materia di cooperazione strategica nei settori dell'assistenza sanitaria, dell'energia, dell'ambiente, della sicurezza e dell'industria della difesa, della gestione delle migrazioni, dell'educazione, dell'innovazione, della diaspora, della trasformazione economica e della crescita intelligente, fatto a Roma il 13 novembre 2025",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-31",
+      "link": "http://dati.senato.it/ddl/60383"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
+      "stato": "assegnato (no esame)",
+      "data": "2026-08-31",
+      "link": "http://dati.senato.it/ddl/60415"
     },
     {
       "ramo": "Senato",
@@ -204,13 +225,6 @@
       "stato": "esame in comm.",
       "data": "2026-08-06",
       "link": "http://dati.senato.it/ddl/60400"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-06",
-      "link": "http://dati.senato.it/ddl/60415"
     },
     {
       "ramo": "Camera",
@@ -428,20 +442,6 @@
       "stato": "esame in comm.",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/59945"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 3 febbraio 1989, n. 39, in materia di attività di agente di affari in mediazione e al regolamento di cui al decreto del Ministro dell'industria, del commercio e dell'artigianato 21 dicembre 1990, n. 452, in materia di attività degli agenti immobiliari",
-      "stato": "esame in comm.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60121"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione di una Commissione parlamentare di inchiesta sulla gestione del servizio sanitario regionale e delle risorse a esso destinate nella Regione siciliana",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60221"
     },
     {
       "ramo": "Camera",
