@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-09-01 18:39",
+  "aggiornato_il": "2026-09-02 09:24",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,34 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di soppressione dei collegi uninominali e delega al Governo per la determinazione dei collegi elettorali plurinominali",
+      "stato": "esame in comm.",
+      "data": "2026-09-01",
+      "link": "http://dati.senato.it/ddl/55212"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+      "stato": "esame in comm.",
+      "data": "2026-09-01",
+      "link": "http://dati.senato.it/ddl/59945"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
+      "stato": "esame in comm.",
+      "data": "2026-09-01",
+      "link": "http://dati.senato.it/ddl/60317"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 26 agosto 2026, n. 153, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali",
+      "stato": "restit. al Governo",
+      "data": "2026-09-01",
+      "link": "http://dati.senato.it/ddl/60424"
+    },
     {
       "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
@@ -43,13 +71,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-08-31",
       "link": "http://dati.senato.it/ddl/60415"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 agosto 2026, n. 153, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-26",
-      "link": "http://dati.senato.it/ddl/60424"
     },
     {
       "ramo": "Senato",
@@ -403,13 +424,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di soppressione dei collegi uninominali e delega al Governo per la determinazione dei collegi elettorali plurinominali",
-      "stato": "esame in comm.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/55212"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Istituzione del Registro nazionale dei paesaggi rurali di interesse storico, delle pratiche agricole e delle conoscenze tradizionali",
       "stato": "ritirato",
       "data": "2026-08-05",
@@ -428,20 +442,6 @@
       "stato": "esame in comm.",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/59379"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di cartolarizzazione sociale dei crediti deteriorati, a tutela dell'abitazione principale del debitore sovraindebitato e per la prevenzione del disagio abitativo",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60401"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/59945"
     },
     {
       "ramo": "Camera",
