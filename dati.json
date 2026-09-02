@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-09-02 10:03",
+  "aggiornato_il": "2026-09-02 14:34",
   "fonti": [
     {
       "fonte": "Senato",
@@ -43,6 +43,20 @@
       "stato": "restit. al Governo",
       "data": "2026-09-01",
       "link": "http://dati.senato.it/ddl/60424"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 26 agosto 2026. n.153, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali\" (3086)",
+      "stato": "Da assegnare",
+      "data": "2026-09-01",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3086"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 26 agosto 2026. n.153, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali\" (3086)",
+      "stato": "Assegnato",
+      "data": "2026-09-01",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3086"
     },
     {
       "ramo": "Senato",
@@ -666,20 +680,6 @@
       "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
       "data": "2026-08-04",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2713-B"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ZARATTI: &quot;Disposizioni in materia di identificazione del personale delle Forze di polizia in servizio di ordine pubblico e di applicazione di microtelecamere alle uniformi&quot; (1907)",
-      "stato": "Assegnato",
-      "data": "2026-08-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1907"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SOUMAHORO: \"Introduzione dell&rsquo;insegnamento della storia del crimine della schiavit&ugrave;, della deportazione, della colonizzazione e del genocidio dei popoli africani nelle scuole secondarie di secondo grado\" (2379)",
-      "stato": "Assegnato",
-      "data": "2026-08-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2379"
     }
   ]
 }
