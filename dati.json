@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-09-03 09:34",
+  "aggiornato_il": "2026-09-03 10:13",
   "fonti": [
     {
       "fonte": "Senato",
@@ -20,22 +20,29 @@
       "ramo": "Senato",
       "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di soppressione dei collegi uninominali e delega al Governo per la determinazione dei collegi elettorali plurinominali",
       "stato": "esame in comm.",
-      "data": "2026-09-01",
+      "data": "2026-09-02",
       "link": "http://dati.senato.it/ddl/55212"
     },
     {
       "ramo": "Senato",
       "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
       "stato": "esame in comm.",
-      "data": "2026-09-01",
+      "data": "2026-09-02",
       "link": "http://dati.senato.it/ddl/59945"
     },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
       "stato": "esame in comm.",
-      "data": "2026-09-01",
+      "data": "2026-09-02",
       "link": "http://dati.senato.it/ddl/60317"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2026",
+      "stato": "da assegn. a commis.",
+      "data": "2026-09-02",
+      "link": "http://dati.senato.it/ddl/60427"
     },
     {
       "ramo": "Senato",
@@ -449,13 +456,6 @@
       "stato": "esame in comm.",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/59189"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme per l'istituzione della Rete nazionale dei presepi viventi",
-      "stato": "esame in comm.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/59379"
     },
     {
       "ramo": "Camera",
