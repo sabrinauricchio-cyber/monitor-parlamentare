@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-09-09 10:13",
+  "aggiornato_il": "2026-09-09 14:40",
   "fonti": [
     {
       "fonte": "Senato",
@@ -20,36 +20,113 @@
       "ramo": "Senato",
       "titolo": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2025",
       "stato": "esame in comm.",
-      "data": "2026-09-08",
+      "data": "2026-09-09",
       "link": "http://dati.senato.it/ddl/60403"
     },
     {
       "ramo": "Senato",
+      "titolo": "Integrazione all'articolo 43 della legge costituzionale 26 febbraio 1948, n. 3 (Statuto speciale per la Sardegna), in materia di elezione diretta degli organi di governo degli enti di area vasta",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/60161"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di soppressione dei collegi uninominali e delega al Governo per la determinazione dei collegi elettorali plurinominali",
-      "stato": "esame in comm.",
-      "data": "2026-09-08",
+      "stato": "all'esame assemblea",
+      "data": "2026-09-09",
       "link": "http://dati.senato.it/ddl/55212"
     },
     {
       "ramo": "Senato",
       "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-09-08",
+      "stato": "all'esame assemblea",
+      "data": "2026-09-09",
       "link": "http://dati.senato.it/ddl/59945"
     },
     {
       "ramo": "Senato",
+      "titolo": "Riconoscimento del carattere usurante del lavoro degli internavigatori ai fini del pensionamento anticipato. Modifica all'articolo 1, comma 1, lettera d), del decreto legislativo 21 aprile 2011, n. 67 \"Accesso anticipato al pensionamento per gli addetti alle lavorazioni particolarmente faticose e pesanti, a norma dell'articolo 1 della legge 4 novembre 2010, n. 183\".",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/60193"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-09-08",
+      "stato": "all'esame assemblea",
+      "data": "2026-09-09",
       "link": "http://dati.senato.it/ddl/60317"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 81 del codice penale e all'articolo 438 del codice di procedura penale",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/60288"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di sicurezza e per la prevenzione del disagio giovanile, nonché di ordinamento, organizzazione e funzionamento delle Forze di polizia e del Ministero dell'interno",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/60357"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica Italiana e il Consiglio dei Ministri della Repubblica di Albania in materia di cooperazione strategica nei settori dell'assistenza sanitaria, dell'energia, dell'ambiente, della sicurezza e dell'industria della difesa, della gestione delle migrazioni, dell'educazione, dell'innovazione, della diaspora, della trasformazione economica e della crescita intelligente, fatto a Roma il 13 novembre 2025",
+      "stato": "esame in comm.",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/60383"
     },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
       "stato": "esame in comm.",
-      "data": "2026-09-08",
+      "data": "2026-09-09",
       "link": "http://dati.senato.it/ddl/60404"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il rafforzamento della sicurezza penitenziaria e per la prevenzione del ripristino dei collegamenti con la criminalità organizzata durante l'esecuzione della pena",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/60287"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria",
+      "stato": "esame in comm.",
+      "data": "2026-09-08",
+      "link": "http://dati.senato.it/ddl/60346"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 05 agosto 2026, n. 139, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali",
+      "stato": "esame in comm.",
+      "data": "2026-09-08",
+      "link": "http://dati.senato.it/ddl/60407"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riordino della legge 28 gennaio 1994, n. 84, in materia di governance portuale e rilancio degli investimenti in infrastrutture strategiche di trasporto marittimo di interesse generale",
+      "stato": "esame in comm.",
+      "data": "2026-09-08",
+      "link": "http://dati.senato.it/ddl/60130"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
+      "stato": "esame in comm.",
+      "data": "2026-09-08",
+      "link": "http://dati.senato.it/ddl/60423"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 26 agosto 2026, n. 153, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali",
+      "stato": "esame in comm.",
+      "data": "2026-09-08",
+      "link": "http://dati.senato.it/ddl/60428"
     },
     {
       "ramo": "Senato",
@@ -71,13 +148,6 @@
       "stato": "restit. al Governo",
       "data": "2026-09-01",
       "link": "http://dati.senato.it/ddl/60424"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 agosto 2026, n. 153, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali",
-      "stato": "da assegn. a commis.",
-      "data": "2026-09-01",
-      "link": "http://dati.senato.it/ddl/60428"
     },
     {
       "ramo": "Camera",
@@ -106,13 +176,6 @@
       "stato": "da assegn. a commis.",
       "data": "2026-08-31",
       "link": "http://dati.senato.it/ddl/60426"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica Italiana e il Consiglio dei Ministri della Repubblica di Albania in materia di cooperazione strategica nei settori dell'assistenza sanitaria, dell'energia, dell'ambiente, della sicurezza e dell'industria della difesa, della gestione delle migrazioni, dell'educazione, dell'innovazione, della diaspora, della trasformazione economica e della crescita intelligente, fatto a Roma il 13 novembre 2025",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-31",
-      "link": "http://dati.senato.it/ddl/60383"
     },
     {
       "ramo": "Senato",
@@ -148,13 +211,6 @@
       "stato": "restit. al Governo",
       "data": "2026-08-07",
       "link": "http://dati.senato.it/ddl/60422"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-07",
-      "link": "http://dati.senato.it/ddl/60423"
     },
     {
       "ramo": "Camera",
@@ -396,66 +452,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria",
-      "stato": "esame in comm.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60346"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 12 giugno 2026, n. 100, recante misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024",
       "stato": "appr. definit. Legge",
       "data": "2026-08-05",
       "link": "http://dati.senato.it/ddl/60355"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2026, n. 107, recante disposizioni urgenti per interventi infrastrutturali e per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR), nonché ulteriori disposizioni finanziarie urgenti",
-      "stato": "appr. definit. Legge",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60372"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'educazione alla legalità digitale nell'ambito del piano triennale dell'offerta formativa",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60405"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 05 agosto 2026, n. 139, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60407"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione della salute digitale dei minori e la prevenzione della dipendenza da strumenti e piattaforme digitali",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60411"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche in materia di imputabilità del minore",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/60412"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 4 gennaio 1990, n. 1, e alla legge 17 agosto 2005, n. 174, in materia di disciplina dell'attività di acconciatore, nonché misure per la prevenzione dell'abusivismo",
-      "stato": "esame in comm.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/59463"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disciplina delle attività di estetista, di onicotecnico e di truccatore e tecnico di trattamenti di ciglia e sopracciglia, nonché dell'attività di acconciatore",
-      "stato": "esame in comm.",
-      "data": "2026-08-05",
-      "link": "http://dati.senato.it/ddl/59914"
     },
     {
       "ramo": "Camera",
