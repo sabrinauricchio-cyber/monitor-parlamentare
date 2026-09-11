@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-09-10 20:11",
+  "aggiornato_il": "2026-09-11 09:29",
   "fonti": [
     {
       "fonte": "Senato",
@@ -20,8 +20,155 @@
       "ramo": "Senato",
       "titolo": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2025",
       "stato": "esame in comm.",
-      "data": "2026-09-09",
+      "data": "2026-09-10",
       "link": "http://dati.senato.it/ddl/60403"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'articolo 1857-bis del codice civile e modifica all'articolo 33 del codice di cui al decreto legislativo 6 settembre 2005, n. 206, in materia di obbligo di contrarre e recesso della banca nei rapporti di conto corrente",
+      "stato": "esame in comm.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/59400"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disciplina del settore del cinema e dell'audiovisivo",
+      "stato": "appr. in t.u.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/59891"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di soppressione dei collegi uninominali e delega al Governo per la determinazione dei collegi elettorali plurinominali",
+      "stato": "all'esame assemblea",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/55212"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica alla legge 27 dicembre 2017, n. 205, in materia di corresponsione della retribuzione su conto corrente intestato al lavoratore",
+      "stato": "esame in comm.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/57194"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di partecipazione popolare alla titolarità di azioni e quote delle società sportive",
+      "stato": "esame in comm.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/58192"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Deleghe al Governo per la riforma, il riordino e il coordinamento della normativa in materia di cinema e audiovisivo",
+      "stato": "appr. in t.u.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/59506"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di cinema",
+      "stato": "appr. in t.u.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/59090"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+      "stato": "all'esame assemblea",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/59945"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'articolo 10-bis della legge 14 novembre 2016, n. 220, in materia di istituzione dell'Agenzia per il cinema e l'audiovisivo",
+      "stato": "appr. in t.u.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/59772"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la revisione e il riordino della disciplina del settore cinematografico e audiovisivo",
+      "stato": "appr. in t.u.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/60222"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia economica, fiscale, nonché in materia di tutela dei consumatori",
+      "stato": "esame in comm.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/60225"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica alla legge 27 dicembre 2017, n. 205, in materia di corresponsione della retribuzione su conto corrente intestato al lavoratore o alla lavoratrice",
+      "stato": "esame in comm.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/60206"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
+      "stato": "all'esame assemblea",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/60317"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/60425"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
+      "stato": "esame in comm.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/60404"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
+      "stato": "esame in comm.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/60415"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il rafforzamento e l'adeguamento della capacità di difesa nazionale",
+      "stato": "da assegn. a commis.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/60441"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
+      "stato": "da assegn. a commis.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/60442"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 23 luglio 2026, n. 127, recante misure urgenti e indifferibili per lo svolgimento dei procedimenti civili e penali a seguito del crollo dell'immobile degli uffici giudiziari di Bolzano",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/60440"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria",
+      "stato": "concluso l'esame",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/60346"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche in materia di imputabilità del minore",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/60412"
     },
     {
       "ramo": "Senato",
@@ -39,17 +186,17 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di soppressione dei collegi uninominali e delega al Governo per la determinazione dei collegi elettorali plurinominali",
-      "stato": "all'esame assemblea",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/55212"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni in materia di servizio pubblico radiotelevisivo",
       "stato": "esame in comm.",
       "data": "2026-09-09",
       "link": "http://dati.senato.it/ddl/55725"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 36 della legge 6 dicembre 1991, n. 394, in materia di istituzione dell'area marina protetta del golfo di Capo Zafferano",
+      "stato": "esame in comm.",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/56851"
     },
     {
       "ramo": "Senato",
@@ -88,6 +235,41 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione dell'Accordo concernente l'interpretazione e l'applicazione del Trattato sulla Carta dell'energia, fatto a Bruxelles il 18 febbraio 2026",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/60331"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 36 della legge 6 dicembre 1991, n. 394, in materia di istituzione dell'area marina protetta del golfo di Capo Zafferano",
+      "stato": "esame in comm.",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/58629"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Definizione della nozione di \"antisemitismo\" e disposizioni per il contrasto degli atti di antisemitismo",
+      "stato": "esame in comm.",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/59118"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 36 della legge 6 dicembre 1991, n. 394, in materia di istituzione dell'area marina protetta del Golfo di Capo Zafferano",
+      "stato": "esame in comm.",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/58979"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Definizione della nozione di \"antisemitismo\" e disposizioni per il contrasto degli atti di antisemitismo",
+      "stato": "esame in comm.",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/59131"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208",
       "stato": "esame in comm.",
       "data": "2026-09-09",
@@ -123,10 +305,24 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
-      "stato": "all'esame assemblea",
+      "titolo": "Introduzione dell'articolo 1-bis della legge 23 novembre 1998, n. 407, concernente l'estensione dei benefìci ai figli delle vittime del reato di femminicidio di cui all'articolo 577-bis del codice penale",
+      "stato": "assegnato (no esame)",
       "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/59945"
+      "link": "http://dati.senato.it/ddl/60147"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il contrasto all'antisemitismo e per l'adozione della definizione operativa di antisemitismo",
+      "stato": "esame in comm.",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/59963"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per l'adozione di disposizioni sulle strutture ricettive per gatti e per l'istituzione di codici ATECO specifici per le attività e le professioni del settore felino e di un ente nazionale di certificazione delle strutture e delle professionalità operanti nel medesimo settore",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-09",
+      "link": "http://dati.senato.it/ddl/60036"
     },
     {
       "ramo": "Senato",
@@ -134,111 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-09-09",
       "link": "http://dati.senato.it/ddl/60145"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la definizione di un quadro legislativo di riferimento per la filiera carbon capture, utilization and storage (CCUS), nonché disposizioni per la disciplina dello sviluppo dell'idrogeno, dell'assetto regolatorio del settore e delle relative infrastrutture di rete, e del sistema di governo per l'adempimento agli obblighi di riduzione delle emissioni di metano nel settore dell'energia",
-      "stato": "esame in comm.",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/59987"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riconoscimento del carattere usurante del lavoro degli internavigatori ai fini del pensionamento anticipato. Modifica all'articolo 1, comma 1, lettera d), del decreto legislativo 21 aprile 2011, n. 67 \"Accesso anticipato al pensionamento per gli addetti alle lavorazioni particolarmente faticose e pesanti, a norma dell'articolo 1 della legge 4 novembre 2010, n. 183\".",
-      "stato": "assegnato (no esame)",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/60193"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il rilancio del sistema sportivo italiano",
-      "stato": "esame in comm.",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/60323"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di riforma del calcio italiano e delega al Governo per il riordino normativo di settore",
-      "stato": "esame in comm.",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/60334"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
-      "stato": "all'esame assemblea",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/60317"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/60425"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 23 luglio 2026, n. 127, recante misure urgenti e indifferibili per lo svolgimento dei procedimenti civili e penali a seguito del crollo dell'immobile degli uffici giudiziari di Bolzano",
-      "stato": "approvato",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/60341"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 81 del codice penale e all'articolo 438 del codice di procedura penale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/60288"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di sicurezza e per la prevenzione del disagio giovanile, nonché di ordinamento, organizzazione e funzionamento delle Forze di polizia e del Ministero dell'interno",
-      "stato": "assegnato (no esame)",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/60357"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica Italiana e il Consiglio dei Ministri della Repubblica di Albania in materia di cooperazione strategica nei settori dell'assistenza sanitaria, dell'energia, dell'ambiente, della sicurezza e dell'industria della difesa, della gestione delle migrazioni, dell'educazione, dell'innovazione, della diaspora, della trasformazione economica e della crescita intelligente, fatto a Roma il 13 novembre 2025",
-      "stato": "esame in comm.",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/60383"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
-      "stato": "esame in comm.",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/60404"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
-      "stato": "esame in comm.",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/60415"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 7 agosto 2026, n. 143, recante disposizioni urgenti in materia di obbligo di compostabilità di determinate tipologie di imballaggi",
-      "stato": "esame in comm.",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/60421"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il rilancio del sistema calcio italiano",
-      "stato": "esame in comm.",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/60347"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il rafforzamento della sicurezza penitenziaria e per la prevenzione del ripristino dei collegamenti con la criminalità organizzata durante l'esecuzione della pena",
-      "stato": "assegnato (no esame)",
-      "data": "2026-09-09",
-      "link": "http://dati.senato.it/ddl/60287"
     },
     {
       "ramo": "Camera",
@@ -288,41 +379,6 @@
       "stato": "Assegnato",
       "data": "2026-09-09",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3068"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria",
-      "stato": "esame in comm.",
-      "data": "2026-09-08",
-      "link": "http://dati.senato.it/ddl/60346"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 05 agosto 2026, n. 139, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali",
-      "stato": "esame in comm.",
-      "data": "2026-09-08",
-      "link": "http://dati.senato.it/ddl/60407"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riordino della legge 28 gennaio 1994, n. 84, in materia di governance portuale e rilancio degli investimenti in infrastrutture strategiche di trasporto marittimo di interesse generale",
-      "stato": "esame in comm.",
-      "data": "2026-09-08",
-      "link": "http://dati.senato.it/ddl/60130"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
-      "stato": "esame in comm.",
-      "data": "2026-09-08",
-      "link": "http://dati.senato.it/ddl/60423"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 agosto 2026, n. 153, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali",
-      "stato": "esame in comm.",
-      "data": "2026-09-08",
-      "link": "http://dati.senato.it/ddl/60428"
     },
     {
       "ramo": "Camera",
@@ -388,32 +444,11 @@
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3090"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di livelli minimi d'invaso dei laghi della provincia di Belluno",
-      "stato": "da assegn. a commis.",
-      "data": "2026-09-02",
-      "link": "http://dati.senato.it/ddl/60429"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2026",
-      "stato": "da assegn. a commis.",
-      "data": "2026-09-02",
-      "link": "http://dati.senato.it/ddl/60427"
-    },
-    {
       "ramo": "Camera",
       "titolo": "AMATO ed altri: \"Disposizioni per la riforma del reclutamento e per la valorizzazione dell&rsquo;esperienza professionale del personale docente nonché per la riduzione del precariato\" (3088)",
       "stato": "Da assegnare",
       "data": "2026-09-02",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3088"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 26 agosto 2026, n. 153, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali",
-      "stato": "restit. al Governo",
-      "data": "2026-09-01",
-      "link": "http://dati.senato.it/ddl/60424"
     },
     {
       "ramo": "Camera",
@@ -437,13 +472,6 @@
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3086"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo in materia di semplificazione amministrativa e burocratica in favore delle micro, piccole e medie imprese",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-31",
-      "link": "http://dati.senato.it/ddl/60426"
-    },
-    {
       "ramo": "Camera",
       "titolo": "CARMINA: \"Istituzione della Giornata nazionale dell&rsquo;artrogriposi multipla congenita\" (3085)",
       "stato": "Da assegnare",
@@ -456,27 +484,6 @@
       "stato": "Da assegnare",
       "data": "2026-08-14",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3084"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la tutela del mercato immobiliare",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-07",
-      "link": "http://dati.senato.it/ddl/60420"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di successioni",
-      "stato": "da assegn. a commis.",
-      "data": "2026-08-07",
-      "link": "http://dati.senato.it/ddl/60419"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
-      "stato": "restit. al Governo",
-      "data": "2026-08-07",
-      "link": "http://dati.senato.it/ddl/60422"
     },
     {
       "ramo": "Camera",
@@ -505,13 +512,6 @@
       "stato": "Approvato definitivamente. Legge",
       "data": "2026-08-07",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3053"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione dell'occupazione e dell'imprenditoria giovanile nonché in materia di politiche abitative e di mobilità, per contrastare l'emigrazione e favorire la permanenza e il rientro dei giovani in Italia",
-      "stato": "assegnato (no esame)",
-      "data": "2026-08-06",
-      "link": "http://dati.senato.it/ddl/60184"
     },
     {
       "ramo": "Camera",
