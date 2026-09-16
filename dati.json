@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-09-16 10:22",
+  "aggiornato_il": "2026-09-16 15:03",
   "fonti": [
     {
       "fonte": "Senato",
@@ -26,7 +26,7 @@
     {
       "ramo": "Senato",
       "titolo": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2025",
-      "stato": "appr. def. non pubbl",
+      "stato": "all'esame assemblea",
       "data": "2026-09-15",
       "link": "http://dati.senato.it/ddl/60403"
     },
@@ -158,15 +158,8 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni in materia di cinema",
-      "stato": "da assegn. a commis.",
-      "data": "2026-09-15",
-      "link": "http://dati.senato.it/ddl/60453"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2026",
-      "stato": "appr. def. non pubbl",
+      "stato": "all'esame assemblea",
       "data": "2026-09-15",
       "link": "http://dati.senato.it/ddl/60404"
     },
@@ -291,6 +284,27 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "SIMIANI ed altri: \"Istituzione del Museo per la memoria del disastro ferroviario di Viareggio\" (1253)",
+      "stato": "In discussione",
+      "data": "2026-09-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1253"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "DEBORAH BERGAMINI ed altri: \"Istituzione del Museo per la memoria del disastro ferroviario di Viareggio\" (2225)",
+      "stato": "In discussione",
+      "data": "2026-09-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2225"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "KELANY: &quot;Modifica all&rsquo;articolo 9 della legge 5 febbraio 1992, n. 91, in materia di concessione della cittadinanza allo straniero entrato nel territorio nazionale prima della maggiore et&agrave;, legalmente residente da almeno dieci anni e che ha assolto l&rsquo;obbligo scolastico&quot; (2340)",
+      "stato": "Ritirato",
+      "data": "2026-09-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2340"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "L'ABBATE: \"Istituzione di un Comitato interministeriale per l&rsquo;approccio integrato, coordinato e interdisciplinare nella definizione delle politiche pubbliche in materia di salute umana e animale, di tutela dell&rsquo;ambiente, di agricoltura e di sicurezza alimentare\" (2995)",
       "stato": "Assegnato",
       "data": "2026-09-14",
@@ -305,10 +319,66 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "MONTEMAGNI: &quot;Istituzione del Museo per la memoria del disastro ferroviario di Viareggio&quot; (2712)",
+      "stato": "In discussione",
+      "data": "2026-09-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2712"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "MALAVASI: \"Disposizioni concernenti l&rsquo;istituzione e l&rsquo;organizzazione delle reti pediatriche regionali nonch&eacute; la continuit&agrave; assistenziale in materia pediatrica\" (2843)",
       "stato": "Assegnato",
       "data": "2026-09-14",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2843"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "L'ABBATE: \"Modifica all&rsquo;articolo 35 della legge 22 ottobre 1971, n. 865, e introduzione dell&rsquo;articolo 18-&lt;i&gt;bis&lt;/i&gt; del testo unico di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, in materia di riserva di quote delle aree destinate all&rsquo;edilizia residenziale convenzionata in favore delle cooperative edilizie, e altre disposizioni per favorire l&rsquo;accesso alla prima casa di abitazione\" (3102)",
+      "stato": "Da assegnare",
+      "data": "2026-09-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3102"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "L'ABBATE: \"Disposizioni per favorire l&rsquo;occupazione giovanile, la trasmissione intergenerazionale delle competenze e la salvaguardia dei negozi, delle botteghe artigiane e degli esercizi pubblici storici\" (3103)",
+      "stato": "Da assegnare",
+      "data": "2026-09-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3103"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "L'ABBATE: \"Agevolazione fiscale per il recupero e la valorizzazione delle architetture rurali tradizionali da adibire ad abitazione principale\" (3104)",
+      "stato": "Da assegnare",
+      "data": "2026-09-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3104"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria\" (3045)",
+      "stato": "In discussione",
+      "data": "2026-09-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3045"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "L'ABBATE: \"Deleghe al Governo per la semplificazione degli adempimenti fiscali e amministrativi in favore dei piccoli birrifici indipendenti nonché disposizioni in materia di riduzione dell&rsquo;aliquota di accisa sulla birra\" (3100)",
+      "stato": "Da assegnare",
+      "data": "2026-09-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3100"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BILLI: \"Modifica agli articoli 6-&lt;i&gt;ter&lt;/i&gt; del decreto-legge 27 giugno 2003, n. 151, convertito, con modificazioni, dalla legge 1° agosto 2003, n. 214, e 126-&lt;i&gt;bis&lt;/i&gt; del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, in materia di recupero dei punti della patente di guida rilasciata da uno Stato estero\" (3101)",
+      "stato": "Da assegnare",
+      "data": "2026-09-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3101"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 1826. - \"Proroga del termine per l&rsquo;esercizio della delega prevista dall&rsquo;articolo 35 della legge 25 novembre 2024, n. 177\" &lt;i&gt;(approvato dalla Camera e modificato dal Senato) &lt;/i&gt;(2713-B)",
+      "stato": "In discussione",
+      "data": "2026-09-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2713-B"
     },
     {
       "ramo": "Camera",
@@ -365,6 +435,13 @@
       "stato": "appr. in t.u.",
       "data": "2026-09-10",
       "link": "http://dati.senato.it/ddl/59891"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di partecipazione popolare alla titolarità di azioni e quote delle società sportive",
+      "stato": "esame in comm.",
+      "data": "2026-09-10",
+      "link": "http://dati.senato.it/ddl/58192"
     },
     {
       "ramo": "Camera",
@@ -603,83 +680,6 @@
       "stato": "Da assegnare",
       "data": "2026-09-08",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3094"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CALDERONE: \"Istituzione della Giornata nazionale degli orfani a causa di femminicidio\" (3092)",
-      "stato": "Da assegnare",
-      "data": "2026-09-07",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3092"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MORFINO: \"Disposizioni in materia di reclutamento e stabilizzazione del personale docente\" (3091)",
-      "stato": "Da assegnare",
-      "data": "2026-09-07",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3091"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ZARATTI: \"Disposizioni per favorire la tornanza, la rigenerazione ambientale e il ripopolamento delle zone montane\" (3089)",
-      "stato": "Da assegnare",
-      "data": "2026-09-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3089"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PITTALIS: \"Modifica all&rsquo;articolo 57 del codice di procedura penale, in materia di conferimento delle qualifiche di ufficiale o agente di polizia giudiziaria ai componenti delle compagnie barracellari nella regione Sardegna\" (3090)",
-      "stato": "Da assegnare",
-      "data": "2026-09-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3090"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "AMATO ed altri: \"Disposizioni per la riforma del reclutamento e per la valorizzazione dell&rsquo;esperienza professionale del personale docente nonché per la riduzione del precariato\" (3088)",
-      "stato": "Da assegnare",
-      "data": "2026-09-02",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3088"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BRAGA ed altri: \"Disposizioni per l&rsquo;adattamento delle città ai cambiamenti climatici e per la protezione della popolazione dagli effetti delle ondate di calore\" (3087)",
-      "stato": "Da assegnare",
-      "data": "2026-09-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3087"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 26 agosto 2026, n. 153, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali\" (3086)",
-      "stato": "Da assegnare",
-      "data": "2026-09-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3086"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 26 agosto 2026, n. 153, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali\" (3086)",
-      "stato": "Assegnato",
-      "data": "2026-09-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3086"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CARMINA: \"Istituzione della Giornata nazionale dell&rsquo;artrogriposi multipla congenita\" (3085)",
-      "stato": "Da assegnare",
-      "data": "2026-08-31",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3085"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "FOSSI: \"Disposizioni per la promozione dell&rsquo;accesso alle tecniche di preservazione della fertilità per fini sociali\" (3084)",
-      "stato": "Da assegnare",
-      "data": "2026-08-14",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3084"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile\" (3083)",
-      "stato": "Assegnato",
-      "data": "2026-08-07",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3083"
     }
   ]
 }
