@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-09-16 18:57",
+  "aggiornato_il": "2026-09-17 09:54",
   "fonti": [
     {
       "fonte": "Senato",
@@ -11,7 +11,7 @@
     {
       "fonte": "Camera",
       "esito": "ERRORE",
-      "dettaglio": "Fonte non raggiungibile: Expecting value: line 1 column 1 (char 0)"
+      "dettaglio": "Fonte non raggiungibile: 503 Server Error: Service Unavailable for url: https://dati.camera.it/sparql?query=PREFIX+ocd%3A+%3Chttp%3A%2F%2Fdati.camera.it%2Focd%2F%3E+SELECT+%3Fa+WHERE+%7B+%3Fa+a+ocd%3Aatto+.+%7D+LIMIT+1&format=application%2Fsparql-results%2Bjson"
     }
   ],
   "numero_atti": 45,
