@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-09-18 10:08",
+  "aggiornato_il": "2026-09-18 14:33",
   "fonti": [
     {
       "fonte": "Senato",
@@ -333,10 +333,31 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "PITTALIS: \"Modifiche al decreto legislativo 28 giugno 2005, n. 139, concernenti la disciplina delle professioni di dottore commercialista e di esperto contabile e l&#39;organizzazione dell&rsquo;Ordine dei dottori commercialisti e degli esperti contabili\" (233)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-09-16",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_233"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 1971. - BIGNAMI ed altri: \"Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica\" &lt;i&gt;(approvata dalla Camera e modificata dal Senato) &lt;/i&gt;(2822-B)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-09-16",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2822-B"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "S. 1971. - BIGNAMI ed altri: \"Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica\" &lt;i&gt;(approvata dalla Camera e modificata dal Senato) &lt;/i&gt;(2822-B)",
       "stato": "Assegnato",
       "data": "2026-09-16",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2822-B"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 1884. - &quot;Ratifica ed esecuzione dello Scambio di Note Verbali, fatto al Cairo il 3 agosto ed il 10 settembre 2025, concernenti la proroga di validit&agrave; del Memorandum d&rsquo;intesa tra il Ministero della difesa della Repubblica italiana ed il Ministero della difesa della Repubblica Araba d&rsquo;Egitto sulla cooperazione nel settore della difesa, fatto a Roma il 23 marzo 1998&quot; &lt;em&gt;(approvato dal Senato)&lt;/em&gt; (2960)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-09-16",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2960"
     },
     {
       "ramo": "Camera",
@@ -354,10 +375,38 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "BONELLI ed altri: \"Divieto di importazione e di pubblicit&agrave; di beni e servizi provenienti da insediamenti israeliani nel territorio palestinese occupato\" (2916)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-09-16",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2916"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria\" (3045)",
+      "stato": "Approvato. Trasmesso al Senato",
+      "data": "2026-09-16",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3045"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "CAFIERO DE RAHO ed altri: \"Modifica all&rsquo;articolo 270 del codice di procedura penale in materia di utilizzo dei risultati delle intercettazioni in altri procedimenti\" (3025)",
       "stato": "Assegnato",
       "data": "2026-09-16",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3025"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 1826. - \"Proroga del termine per l&rsquo;esercizio della delega prevista dall&rsquo;articolo 35 della legge 25 novembre 2024, n. 177\" &lt;i&gt;(approvato dalla Camera e modificato dal Senato) &lt;/i&gt;(2713-B)",
+      "stato": "Approvato definitivamente, non ancora pubblicato",
+      "data": "2026-09-16",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2713-B"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Delega al Governo per la riforma della disciplina dell&rsquo;ordinamento della professione di dottore commercialista e di esperto contabile\" (2628)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-09-16",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2628"
     },
     {
       "ramo": "Camera",
@@ -631,55 +680,6 @@
       "stato": "Da assegnare",
       "data": "2026-09-09",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3096"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ROSATO: \"Modifiche all'ordinamento penitenziario in materia di detenzione domiciliare\" (3095)",
-      "stato": "Da assegnare",
-      "data": "2026-09-09",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3095"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1877. - SIGISMONDI ed altri: \"Dichiarazione di monumento nazionale della piazza Caduti di Marcinelle e della cappella delle Vittime di Marcinelle a Manoppello, in provincia di Pescara\" &lt;i&gt;(approvata dal Senato)&lt;/i&gt;&nbsp;(3069)",
-      "stato": "Assegnato",
-      "data": "2026-09-09",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3069"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1663. - \"Delega al Governo per la riforma della disciplina degli ordinamenti professionali\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt; (3068)",
-      "stato": "Assegnato",
-      "data": "2026-09-09",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3068"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria\" (3045)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-09-09",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3045"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 23 luglio 2026, n. 127, recante misure urgenti e indifferibili per lo svolgimento dei procedimenti civili e penali a seguito del crollo dell&rsquo;immobile degli uffici giudiziari di Bolzano\" (3043)",
-      "stato": "Approvato. Trasmesso al Senato",
-      "data": "2026-09-09",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3043"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 23 luglio 2026, n. 127, recante misure urgenti e indifferibili per lo svolgimento dei procedimenti civili e penali a seguito del crollo dell&rsquo;immobile degli uffici giudiziari di Bolzano\" (3043)",
-      "stato": "In discussione",
-      "data": "2026-09-09",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3043"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BRUZZONE: \"Modifiche agli articoli 415 e 595 del codice penale in materia di istigazione a disobbedire alle leggi e di diffamazione\" (3099)",
-      "stato": "Da assegnare",
-      "data": "2026-09-09",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3099"
     }
   ]
 }
