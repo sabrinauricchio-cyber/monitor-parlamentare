@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-09-18 14:33",
+  "aggiornato_il": "2026-09-18 17:55",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,13 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-18",
+      "link": "http://dati.senato.it/ddl/60464"
+    },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per la tutela dei minori nell'ambiente digitale",
@@ -180,7 +187,7 @@
     {
       "ramo": "Senato",
       "titolo": "Modifiche al decreto legislativo 28 giugno 2005, n. 139, concernenti la disciplina delle professioni di dottore commercialista e di esperto contabile e l'organizzazione dell'Ordine dei dottori commercialisti e degli esperti contabili",
-      "stato": "concluso l'esame",
+      "stato": "in relazione",
       "data": "2026-09-16",
       "link": "http://dati.senato.it/ddl/55507"
     },
@@ -323,13 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-09-16",
       "link": "http://dati.senato.it/ddl/57907"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica del comma 255 dell'articolo 1 della legge 27 dicembre 2017, n. 205, e altre disposizioni nonché delega al Governo per il riconoscimento e la tutela della figura del caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-09-16",
-      "link": "http://dati.senato.it/ddl/57933"
     },
     {
       "ramo": "Camera",
