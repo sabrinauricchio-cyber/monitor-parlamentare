@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-09-22 15:04",
+  "aggiornato_il": "2026-09-22 19:00",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,146 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Legge quadro per lo sviluppo delle isole minori marine, lagunari e lacustri",
+      "stato": "esame in comm.",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/55339"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Legge quadro sull'ordinamento della polizia locale",
+      "stato": "concluso l'esame",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/56840"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il coordinamento in materia di politiche integrate per la sicurezza e di polizia locale",
+      "stato": "concluso l'esame",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/57064"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Nuovo ordinamento della polizia locale",
+      "stato": "concluso l'esame",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/57508"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la valorizzazione del patrimonio culturale dell'Occidente ed europeo delle abbazie, degli insediamenti benedettini medioevali, dei cammini e dei territori delle province sui quali insistono",
+      "stato": "esame in comm.",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/57702"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Norme per l'istituzione della Rete nazionale dei presepi viventi",
+      "stato": "esame in comm.",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/59379"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
+      "stato": "esame in comm.",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/59694"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la valorizzazione delle isole minori marine, lagunari e lacustri",
+      "stato": "esame in comm.",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/59988"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica dell'articolo 12 della Costituzione in materia di riconoscimento dell'inno nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/60143"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di allontanamento del minore",
+      "stato": "esame in comm.",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/59976"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per il riordino delle funzioni e dell'ordinamento della polizia locale",
+      "stato": "concluso l'esame",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/60149"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la protezione dai rischi derivanti dall'uso dei social media, per la prevenzione della dipendenza digitale e algoritmica, della manipolazione selettiva e per la diffusione della consapevolezza digitale",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/60335"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/60425"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
+      "stato": "concluso l'esame",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/60275"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2026",
+      "stato": "esame in comm.",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/60427"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la promozione della resilienza idrica e l'istituzione del Sistema Nazionale dei Crediti Idrici",
+      "stato": "da assegn. a commis.",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/60478"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 7 agosto 2026, n. 143, recante disposizioni urgenti in materia di obbligo di compostabilità di determinate tipologie di imballaggi",
+      "stato": "esame in comm.",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/60421"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Medaglia nazionale al valore e al servizio degli animali",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/60297"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria",
+      "stato": "all'esame assemblea",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/60460"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di sicurezza degli impianti ludici negli spazi pubblici",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-22",
+      "link": "http://dati.senato.it/ddl/60462"
+    },
     {
       "ramo": "Senato",
       "titolo": "Modifiche al decreto legislativo 28 giugno 2005, n. 139, concernenti la disciplina delle professioni di dottore commercialista e di esperto contabile e l'organizzazione dell'Ordine dei dottori commercialisti e degli esperti contabili",
@@ -36,6 +176,13 @@
       "stato": "esame in comm.",
       "data": "2026-09-21",
       "link": "http://dati.senato.it/ddl/60459"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni volte al rafforzamento dei servizi territoriali di salute mentale e valorizzazione del personale sanitario nel circuito penale",
+      "stato": "da assegn. a commis.",
+      "data": "2026-09-21",
+      "link": "http://dati.senato.it/ddl/60477"
     },
     {
       "ramo": "Senato",
@@ -95,6 +242,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per la responsabilizzazione genitoriale e per la disciplina dei benefici comunali nei casi di condotte penalmente rilevanti poste in essere da minorenni",
+      "stato": "da assegn. a commis.",
+      "data": "2026-09-18",
+      "link": "http://dati.senato.it/ddl/60475"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche alla legge 22 aprile 1941, n. 633, e altre disposizioni concernenti la protezione del diritto all'immagine e all'identità personale nonché del diritto all'utilizzo della voce e della prestazione artistica degli artisti interpreti ed esecutori e la riconoscibilità dei contenuti prodotti o modificati mediante sistemi di intelligenza artificiale",
       "stato": "da assegn. a commis.",
       "data": "2026-09-18",
@@ -102,10 +256,31 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento delle funzioni di pubblico servizio degli assistenti bagnanti e per il rafforzamento della tutela della sicurezza della balneazione",
+      "stato": "da assegn. a commis.",
+      "data": "2026-09-18",
+      "link": "http://dati.senato.it/ddl/60474"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
       "stato": "assegnato (no esame)",
       "data": "2026-09-18",
       "link": "http://dati.senato.it/ddl/60464"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per l'accesso alle cure palliative e alla terapia del dolore nei luoghi di vita e di cura",
+      "stato": "da assegn. a commis.",
+      "data": "2026-09-18",
+      "link": "http://dati.senato.it/ddl/60476"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free",
+      "stato": "da assegn. a commis.",
+      "data": "2026-09-18",
+      "link": "http://dati.senato.it/ddl/60473"
     },
     {
       "ramo": "Camera",
@@ -227,111 +402,6 @@
       "link": "http://dati.senato.it/ddl/60453"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2026",
-      "stato": "assegnato (no esame)",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60427"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 270 del codice di procedura penale in materia di utilizzo delle intercettazioni in altri procedimenti",
-      "stato": "assegnato (no esame)",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60290"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale per l'informazione sulla demenza frontotemporale nonché disposizioni per promuovere la diagnosi della malattia, l'assistenza delle persone che ne sono affette e il sostegno dei familiari che ne prendono cura",
-      "stato": "da assegn. a commis.",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60465"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 1 della legge 13 luglio 2015, n. 107, e altre disposizioni in materia di formazione sulle tecniche di primo soccorso per gli studenti e il personale delle scuole secondarie di primo e di secondo grado",
-      "stato": "da assegn. a commis.",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60467"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione dell'ente territoriale Milano Metropolitana e dei comuni cittadini nonché delega al Governo per la loro attuazione e per il riassetto delle funzioni nell'area metropolitana milanese",
-      "stato": "assegnato (no esame)",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60295"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica Italiana e il Governo della Repubblica del Senegal sulla cooperazione in materia di sicurezza, fatto a Dakar il 29 ottobre 2025",
-      "stato": "assegnato (no esame)",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60356"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione dell'infrastruttura di interoperabilità telematica per il rafforzamento del sistema di condizionalità e la tutela della Nuova Assicurazione Sociale per l'Impiego (NASpI)",
-      "stato": "assegnato (no esame)",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60371"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale \"Enzo Tortora e vittime di errori giudiziari\"",
-      "stato": "assegnato (no esame)",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60384"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche agli articoli 42 e 47 della Costituzione in materia di diritto all'abitazione",
-      "stato": "da assegn. a commis.",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60469"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione della Dichiarazione congiunta relativa all'Accordo di cooperazione nel settore della difesa tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare, fatto a Roma il 15 maggio 2003, fatta a Roma il 23 luglio 2025",
-      "stato": "da assegn. a commis.",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60471"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la gestione e l'utilizzazione sostenibili delle risorse idriche",
-      "stato": "assegnato (no esame)",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60285"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 3 aprile 2006, n. 152, in materia di procedure di pronto intervento in caso di eventi comportanti rischio ambientale, e delega al Governo per il coordinamento normativo",
-      "stato": "da assegn. a commis.",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60468"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dei Trattati di estradizione, di mutua assistenza in materia penale e sul trasferimento delle persone condannate tra la Repubblica Italiana e la Repubblica dell'Uzbekistan, fatti a Roma l'8 giugno 2023",
-      "stato": "da assegn. a commis.",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60470"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 19 del decreto legislativo 5 aprile 2006, n. 160, in materia di permanenza presso il medesimo ufficio dei magistrati addetti alla trattazione delle controversie concernenti la proprietà industriale",
-      "stato": "da assegn. a commis.",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60466"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria",
-      "stato": "esame in comm.",
-      "data": "2026-09-17",
-      "link": "http://dati.senato.it/ddl/60460"
-    },
-    {
       "ramo": "Camera",
       "titolo": "\"Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale\" (3106)",
       "stato": "Da assegnare",
@@ -386,76 +456,6 @@
       "stato": "Da assegnare",
       "data": "2026-09-17",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3113"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo in materia di energia nucleare sostenibile",
-      "stato": "all'esame assemblea",
-      "data": "2026-09-16",
-      "link": "http://dati.senato.it/ddl/60187"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria",
-      "stato": "approvato",
-      "data": "2026-09-16",
-      "link": "http://dati.senato.it/ddl/60346"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di caregiver familiare e deleghe al Governo per la piena integrazione della figura del caregiver familiare nell'ordinamento giuridico della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-09-16",
-      "link": "http://dati.senato.it/ddl/55733"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni e delega al Governo per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-09-16",
-      "link": "http://dati.senato.it/ddl/58456"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di periodi di attività venatoria, di divieto dell'esercizio venatorio con l'accompagnamento di minori e di disciplina del rilascio della licenza di porto di fucile per uso di caccia",
-      "stato": "esame in comm.",
-      "data": "2026-09-16",
-      "link": "http://dati.senato.it/ddl/55479"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-09-16",
-      "link": "http://dati.senato.it/ddl/55676"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione e il sostegno delle attività teatrali negli istituti penitenziari",
-      "stato": "esame in comm.",
-      "data": "2026-09-16",
-      "link": "http://dati.senato.it/ddl/55955"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-      "stato": "esame in comm.",
-      "data": "2026-09-16",
-      "link": "http://dati.senato.it/ddl/55437"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica",
-      "stato": "esame in comm.",
-      "data": "2026-09-16",
-      "link": "http://dati.senato.it/ddl/55595"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni e delega al Governo per la disciplina della figura del caregiver familiare e per la promozione e il sostegno dell'attività di assistenza e di cura da esso svolta",
-      "stato": "esame in comm.",
-      "data": "2026-09-16",
-      "link": "http://dati.senato.it/ddl/55573"
     },
     {
       "ramo": "Camera",
