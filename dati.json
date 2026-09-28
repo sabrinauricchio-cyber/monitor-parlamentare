@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-09-28 12:09",
+  "aggiornato_il": "2026-09-28 19:44",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,10 +18,24 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Istituzione del percorso formativo nazionale per i caregiver di cani e disposizioni per la prevenzione delle morsicature canine e la promozione del possesso responsabile degli animali d'affezione",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-28",
+      "link": "http://dati.senato.it/ddl/60353"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
       "stato": "all'esame assemblea",
       "data": "2026-09-28",
       "link": "http://dati.senato.it/ddl/60423"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure per la promozione della finanza etica",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-28",
+      "link": "http://dati.senato.it/ddl/60302"
     },
     {
       "ramo": "Senato",
@@ -43,13 +57,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-09-24",
       "link": "http://dati.senato.it/ddl/60441"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
-      "stato": "all'esame assemblea",
-      "data": "2026-09-24",
-      "link": "http://dati.senato.it/ddl/60423"
     },
     {
       "ramo": "Senato",
@@ -351,13 +358,6 @@
       "stato": "esame in comm.",
       "data": "2026-09-23",
       "link": "http://dati.senato.it/ddl/59338"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico dei servizi di media audiovisivi, di cui al decreto legislativo 8 novembre 2021, n. 208, in materia di servizio pubblico radiofonico, televisivo e multimediale, riduzione e abolizione del canone di abbonamento e disciplina della società concessionaria del servizio pubblico",
-      "stato": "esame in comm.",
-      "data": "2026-09-23",
-      "link": "http://dati.senato.it/ddl/59385"
     },
     {
       "ramo": "Camera",
