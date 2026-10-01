@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-01 11:29",
+  "aggiornato_il": "2026-10-01 11:55",
   "fonti": [
     {
       "fonte": "Senato",
@@ -333,6 +333,48 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "BIGNAMI ed altri: \"Disposizioni concernenti il rimpatrio dei cittadini di Stati non appartenenti all&rsquo;Unione europea condannati in Italia e modifiche alla legge 5 febbraio 1992, n. 91, in materia di revoca della cittadinanza\" (3012)",
+      "stato": "Assegnato",
+      "data": "2026-09-30",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3012"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "L'ABBATE: \"Modifiche all&rsquo;articolo 14 del decreto legislativo 13 gennaio 2003, n. 36, in materia di garanzie finanziarie per la gestione operativa e post-operativa delle discariche\" (3051)",
+      "stato": "Assegnato",
+      "data": "2026-09-30",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3051"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "L'ABBATE: \"Disposizioni per il riconoscimento automatico delle prestazioni assistenziali di invalidità civile e disabilità in favore delle persone affette da mesotelioma maligno\" (3017)",
+      "stato": "Assegnato",
+      "data": "2026-09-30",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3017"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalità del Ministero dell&rsquo;interno e di impianti di interesse strategico nazionale\" (3121)",
+      "stato": "Da assegnare",
+      "data": "2026-09-29",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3121"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ZIELLO ed altri: \"Disposizioni per la prevenzione e la repressione delle attività organizzate volte all&rsquo;eversione dell&rsquo;ordinamento costituzionale mediante l&rsquo;applicazione di princìpi dell&rsquo;islam politico, nonché modifica dell&rsquo;articolo 5 della legge 22 maggio 1975, n. 152, in materia di divieto di travisamento nei luoghi pubblici e di salvaguardia della libertà individuale\" (3122)",
+      "stato": "Da assegnare",
+      "data": "2026-09-29",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3122"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalità del Ministero dell&rsquo;interno e di impianti di interesse strategico nazionale\" (3121)",
+      "stato": "Assegnato",
+      "data": "2026-09-29",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3121"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "GIANASSI ed altri: \"Modifiche all&rsquo;articolo 9 della legge 5 febbraio 1992, n. 91, in materia di concessione della cittadinanza allo straniero che assuma la qualità di testimone di giustizia&lt;strong&gt;, &lt;/strong&gt;nonché all&rsquo;articolo 15 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, in materia di protezione dei testimoni di giustizia\" (2889)",
       "stato": "Assegnato",
       "data": "2026-09-28",
@@ -393,6 +435,13 @@
       "stato": "Da assegnare",
       "data": "2026-09-28",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3119"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+      "stato": "Da assegnare",
+      "data": "2026-09-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3120"
     },
     {
       "ramo": "Camera",
@@ -571,7 +620,7 @@
     },
     {
       "ramo": "Camera",
-      "titolo": "MARIANNA RICCIARDI: \"Disposizioni per la promozione della ricerca sui disturbi del neurosviluppo, la diagnosi e cura di essi e l&rsquo;assistenza delle persone che ne sono affette, nonché riconoscimento della disprassia quale disturbo del neurosviluppo\" (3115)",
+      "titolo": "MARIANNA RICCIARDI e FERRARA: \"Disposizioni per la promozione della ricerca sui disturbi del neurosviluppo, la diagnosi e cura di essi e l&rsquo;assistenza delle persone che ne sono affette, nonché riconoscimento della disprassia quale disturbo del neurosviluppo\" (3115)",
       "stato": "Da assegnare",
       "data": "2026-09-21",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3115"
@@ -631,55 +680,6 @@
       "stato": "Assegnato",
       "data": "2026-09-18",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3011"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MOLLICONE ed altri: \"Modifiche alla legge 22 aprile 1941, n. 633, e altre disposizioni concernenti la protezione del diritto all&rsquo;immagine e all&rsquo;identità personale nonché del diritto all&rsquo;utilizzo della voce e della prestazione artistica degli artisti interpreti ed esecutori e la riconoscibilità dei contenuti prodotti o modificati mediante sistemi di intelligenza artificiale\" (3114)",
-      "stato": "Da assegnare",
-      "data": "2026-09-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3114"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PRETTO ed altri: \"Istituzione di una Commissione parlamentare di inchiesta sulla strage di Vergarolla del 18 agosto 1946, sulle relative responsabilit&agrave; e sulle circostanze che impedirono il completo accertamento dei fatti\" (2998)",
-      "stato": "Assegnato",
-      "data": "2026-09-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2998"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "L'ABBATE: \"Disposizioni concernenti l&rsquo;istituzione e l&rsquo;obbligo di possesso della certificazione nazionale per la gestione degli allergeni nelle attivit&agrave; di preparazione, vendita e somministrazione di prodotti alimentari\" (3004)",
-      "stato": "Assegnato",
-      "data": "2026-09-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3004"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "&quot;Rendiconto generale dell&rsquo;Amministrazione dello Stato per l&rsquo;esercizio finanziario 2025&quot; (3005)",
-      "stato": "Approvato definitivamente dal Senato. Legge",
-      "data": "2026-09-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3005"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "&quot;Disposizioni per l&rsquo;assestamento del bilancio dello Stato per l&rsquo;anno finanziario 2026&quot; (3006)",
-      "stato": "Approvato definitivamente dal Senato. Legge",
-      "data": "2026-09-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3006"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 23 luglio 2026, n. 127, recante misure urgenti e indifferibili per lo svolgimento dei procedimenti civili e penali a seguito del crollo dell&rsquo;immobile degli uffici giudiziari di Bolzano\" (3043)",
-      "stato": "Approvato definitivamente dal Senato. Legge",
-      "data": "2026-09-17",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3043"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale\" (3106)",
-      "stato": "Da assegnare",
-      "data": "2026-09-17",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3106"
     }
   ]
 }
