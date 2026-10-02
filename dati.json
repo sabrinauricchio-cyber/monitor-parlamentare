@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-01 22:03",
+  "aggiornato_il": "2026-10-02 10:58",
   "fonti": [
     {
       "fonte": "Senato",
@@ -19,23 +19,9 @@
     {
       "ramo": "Senato",
       "titolo": "Istituzione della Giornata nazionale della meraviglia, al fine di sensibilizzare sulle sofferenze e far conoscere le fatiche dei bambini che vivono in guerra, per riflettere sul valore fondamentale del diritto alla meraviglia nella vita dei bambini e degli adulti",
-      "stato": "concluso l'esame",
-      "data": "2026-10-01",
-      "link": "http://dati.senato.it/ddl/58267"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale della meraviglia, al fine di sensibilizzare sulle sofferenze e far conoscere le fatiche dei bambini che vivono in guerra, per riflettere sul valore fondamentale del diritto alla meraviglia nella vita dei bambini e degli adulti",
       "stato": "assegnato (no esame)",
       "data": "2026-10-01",
       "link": "http://dati.senato.it/ddl/58267"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Dichiarazione di monumento nazionale del Palazzo Fortunato in Rionero in Vulture, nella provincia di Potenza",
-      "stato": "esame in comm.",
-      "data": "2026-10-01",
-      "link": "http://dati.senato.it/ddl/58012"
     },
     {
       "ramo": "Senato",
@@ -47,16 +33,16 @@
     {
       "ramo": "Senato",
       "titolo": "Dichiarazione di monumento nazionale di Palazzo Fortunato in Rionero in Vulture",
-      "stato": "esame in comm.",
+      "stato": "assegnato (no esame)",
       "data": "2026-10-01",
       "link": "http://dati.senato.it/ddl/58871"
     },
     {
       "ramo": "Senato",
-      "titolo": "Dichiarazione di monumento nazionale di Palazzo Fortunato in Rionero in Vulture",
+      "titolo": "Disposizioni per la responsabilizzazione genitoriale e per la disciplina dei benefici comunali nei casi di condotte penalmente rilevanti poste in essere da minorenni",
       "stato": "assegnato (no esame)",
       "data": "2026-10-01",
-      "link": "http://dati.senato.it/ddl/58871"
+      "link": "http://dati.senato.it/ddl/60475"
     },
     {
       "ramo": "Senato",
@@ -67,17 +53,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-01",
-      "link": "http://dati.senato.it/ddl/60495"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 7 agosto 2026, n. 143, recante disposizioni urgenti in materia di obbligo di compostabilità di determinate tipologie di imballaggi",
+      "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
       "stato": "all'esame assemblea",
       "data": "2026-10-01",
-      "link": "http://dati.senato.it/ddl/60480"
+      "link": "http://dati.senato.it/ddl/60459"
     },
     {
       "ramo": "Senato",
@@ -85,6 +64,13 @@
       "stato": "appr. def. non pubbl",
       "data": "2026-10-01",
       "link": "http://dati.senato.it/ddl/60480"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
+      "stato": "esame in comm.",
+      "data": "2026-10-01",
+      "link": "http://dati.senato.it/ddl/60481"
     },
     {
       "ramo": "Senato",
@@ -159,23 +145,9 @@
     {
       "ramo": "Senato",
       "titolo": "Definizione della nozione di \"antisemitismo\" e disposizioni per il contrasto degli atti di antisemitismo",
-      "stato": "esame in comm.",
-      "data": "2026-09-30",
-      "link": "http://dati.senato.it/ddl/59118"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Definizione della nozione di \"antisemitismo\" e disposizioni per il contrasto degli atti di antisemitismo",
       "stato": "concluso l'esame",
       "data": "2026-09-30",
       "link": "http://dati.senato.it/ddl/59118"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Definizione della nozione di \"antisemitismo\" e disposizioni per il contrasto degli atti di antisemitismo",
-      "stato": "esame in comm.",
-      "data": "2026-09-30",
-      "link": "http://dati.senato.it/ddl/59131"
     },
     {
       "ramo": "Senato",
@@ -239,13 +211,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-09-30",
       "link": "http://dati.senato.it/ddl/60401"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il contrasto all'antisemitismo e per l'adozione della definizione operativa di antisemitismo",
-      "stato": "esame in comm.",
-      "data": "2026-09-30",
-      "link": "http://dati.senato.it/ddl/59963"
     },
     {
       "ramo": "Senato",
@@ -330,6 +295,41 @@
       "stato": "esame in comm.",
       "data": "2026-09-30",
       "link": "http://dati.senato.it/ddl/60415"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
+      "stato": "esame in comm.",
+      "data": "2026-09-30",
+      "link": "http://dati.senato.it/ddl/60442"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 4-bis della legge 26 luglio 1975, n. 354, e all'articolo 2 del decreto-legge 13 maggio 1991, n. 152, convertito, con modificazioni, dalla legge 12 luglio 1991, n. 203, in materia di inasprimento dei criteri per la concessione di benefici penitenziari ai condannati non collaboranti per delitti di criminalità organizzata e di prescrizioni territoriali di prevenzione connesse alla concessione dei benefici penitenziari",
+      "stato": "assegnato (no esame)",
+      "data": "2026-09-30",
+      "link": "http://dati.senato.it/ddl/60286"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento del diritto alla cittadinanza economica e per il rafforzamento dell'accesso ai servizi bancari essenziali",
+      "stato": "esame in comm.",
+      "data": "2026-09-30",
+      "link": "http://dati.senato.it/ddl/60301"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Abrogazione dell'istituto della turbatio sanguinis",
+      "stato": "da assegn. a commis.",
+      "data": "2026-09-30",
+      "link": "http://dati.senato.it/ddl/60490"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni recanti l'istituzione del Ministero per le persone con disabilità e i caregiver familiari",
+      "stato": "da assegn. a commis.",
+      "data": "2026-09-30",
+      "link": "http://dati.senato.it/ddl/60496"
     },
     {
       "ramo": "Camera",
