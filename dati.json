@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-05 12:49",
+  "aggiornato_il": "2026-10-05 21:00",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,13 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-05",
+      "link": "http://dati.senato.it/ddl/60459"
+    },
     {
       "ramo": "Senato",
       "titolo": "Norme in materia di caregiver familiare e deleghe al Governo per la piena integrazione della figura del caregiver familiare nell'ordinamento giuridico della Repubblica",
@@ -323,13 +330,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-10-01",
       "link": "http://dati.senato.it/ddl/60242"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'articolo 19.1 e modifica all'articolo 27 della legge 11 febbraio 1992, n. 157, concernenti il diritto all'obiezione di coscienza per il personale addetto al controllo della fauna selvatica e la formazione del personale preposto alla vigilanza venatoria",
-      "stato": "esame in comm.",
-      "data": "2026-10-01",
-      "link": "http://dati.senato.it/ddl/59907"
     },
     {
       "ramo": "Camera",
