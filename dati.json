@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-06 18:29",
+  "aggiornato_il": "2026-10-06 22:44",
   "fonti": [
     {
       "fonte": "Senato",
@@ -19,7 +19,7 @@
     {
       "ramo": "Senato",
       "titolo": "Istituzione della Giornata nazionale del riciclo della carta",
-      "stato": "all'esame assemblea",
+      "stato": "appr. def. non pubbl",
       "data": "2026-10-06",
       "link": "http://dati.senato.it/ddl/59978"
     },
@@ -71,6 +71,13 @@
       "stato": "all'esame assemblea",
       "data": "2026-10-06",
       "link": "http://dati.senato.it/ddl/60425"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di cinema",
+      "stato": "esame in comm.",
+      "data": "2026-10-06",
+      "link": "http://dati.senato.it/ddl/60453"
     },
     {
       "ramo": "Senato",
@@ -477,13 +484,6 @@
       "stato": "esame in comm.",
       "data": "2026-10-01",
       "link": "http://dati.senato.it/ddl/55437"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica",
-      "stato": "esame in comm.",
-      "data": "2026-10-01",
-      "link": "http://dati.senato.it/ddl/55595"
     },
     {
       "ramo": "Camera",
