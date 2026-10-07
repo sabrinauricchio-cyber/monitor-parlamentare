@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-07 11:39",
+  "aggiornato_il": "2026-10-07 12:09",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,92 +18,8 @@
   "atti": [
     {
       "ramo": "Senato",
-      "titolo": "Nuove disposizioni in materia di disciplina del condominio negli edifici",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/59932"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 165 del codice penale e all'articolo 115-bis del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di legittima difesa",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/55347"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 2044 del codice civile e all'articolo 185 del codice penale in materia di responsabilità civile nei casi di eccesso di legittima difesa",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/59262"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla disciplina del condominio negli edifici",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60152"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di rilascio di immobili",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60131"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al codice civile in materia di risarcimento del danno",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60259"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 52 del codice penale in materia di legittima difesa",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60322"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60425"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di disciplina urbanistica e di localizzazione di infrastrutture di calcolo ad alta densità",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60385"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60495"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60459"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60481"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Istituzione della Giornata nazionale del riciclo della carta",
-      "stato": "appr. def. non pubbl",
+      "stato": "all'esame assemblea",
       "data": "2026-10-06",
       "link": "http://dati.senato.it/ddl/59978"
     },
@@ -130,6 +46,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni in materia di rilascio di immobili",
+      "stato": "esame in comm.",
+      "data": "2026-10-06",
+      "link": "http://dati.senato.it/ddl/60131"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia economica, fiscale, nonché in materia di tutela dei consumatori",
       "stato": "esame in comm.",
       "data": "2026-10-06",
@@ -144,10 +67,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni in materia di cinema",
-      "stato": "esame in comm.",
+      "titolo": "Conversione in legge del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
+      "stato": "all'esame assemblea",
       "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/60453"
+      "link": "http://dati.senato.it/ddl/60425"
     },
     {
       "ramo": "Senato",
@@ -180,7 +103,7 @@
     {
       "ramo": "Senato",
       "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica Italiana e il Governo della Repubblica del Senegal sulla cooperazione in materia di sicurezza, fatto a Dakar il 29 ottobre 2025",
-      "stato": "concluso l'esame",
+      "stato": "esame in comm.",
       "data": "2026-10-06",
       "link": "http://dati.senato.it/ddl/60356"
     },
@@ -200,10 +123,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
-      "stato": "esame in comm.",
+      "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
+      "stato": "all'esame assemblea",
       "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/60464"
+      "link": "http://dati.senato.it/ddl/60459"
     },
     {
       "ramo": "Senato",
@@ -360,6 +283,41 @@
       "link": "http://dati.senato.it/ddl/59881"
     },
     {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il contrasto all'antisemitismo e per l'adozione della definizione operativa di antisemitismo",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-02",
+      "link": "http://dati.senato.it/ddl/59963"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni concernenti l'impiego di sistemi di intelligenza artificiale per la prevenzione dei rischi e la tutela della salute e della sicurezza nei luoghi di lavoro",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-02",
+      "link": "http://dati.senato.it/ddl/60499"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Revisione della disciplina della responsabilità amministrativa delle persone giuridiche di cui al decreto legislativo 8 giugno 2001, n. 231",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-02",
+      "link": "http://dati.senato.it/ddl/60501"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 176 del decreto legislativo 9 aprile 2008, n. 81, concernenti l'introduzione dell'obbligo di visita oculistica biennale per i lavoratori addetti ad attività che comportano l'uso di attrezzature munite di videoterminali",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-02",
+      "link": "http://dati.senato.it/ddl/60498"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni concernenti l'istituzione e la gestione di cimiteri per animali da compagnia nonché in materia di inumazione, tumulazione e cremazione dei medesimi animali",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-02",
+      "link": "http://dati.senato.it/ddl/60500"
+    },
+    {
       "ramo": "Camera",
       "titolo": "MALAVASI ed altri: \"Disposizioni per il riconoscimento e il sostegno dell&rsquo;attivit&agrave; di cura e assistenza svolta dal &lt;em&gt;caregiver&lt;/em&gt; familiare\" (1426)",
       "stato": "In discussione",
@@ -491,6 +449,48 @@
       "stato": "In discussione",
       "data": "2026-10-02",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2830"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la revisione del sistema di vigilanza sulle cooperative",
+      "stato": "concluso l'esame",
+      "data": "2026-10-01",
+      "link": "http://dati.senato.it/ddl/58080"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale della meraviglia, al fine di sensibilizzare sulle sofferenze e far conoscere le fatiche dei bambini che vivono in guerra, per riflettere sul valore fondamentale del diritto alla meraviglia nella vita dei bambini e degli adulti",
+      "stato": "appr. def. non pubbl",
+      "data": "2026-10-01",
+      "link": "http://dati.senato.it/ddl/58267"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 64 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e altre disposizioni concernenti la formazione delle classi nelle scuole di ogni ordine e grado",
+      "stato": "esame in comm.",
+      "data": "2026-10-01",
+      "link": "http://dati.senato.it/ddl/55688"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di periodi di attività venatoria, di divieto dell'esercizio venatorio con l'accompagnamento di minori e di disciplina del rilascio della licenza di porto di fucile per uso di caccia",
+      "stato": "esame in comm.",
+      "data": "2026-10-01",
+      "link": "http://dati.senato.it/ddl/55479"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+      "stato": "esame in comm.",
+      "data": "2026-10-01",
+      "link": "http://dati.senato.it/ddl/55437"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica",
+      "stato": "esame in comm.",
+      "data": "2026-10-01",
+      "link": "http://dati.senato.it/ddl/55595"
     },
     {
       "ramo": "Camera",
