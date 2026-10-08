@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-07 18:59",
+  "aggiornato_il": "2026-10-08 11:53",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,8 +18,15 @@
   "atti": [
     {
       "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
+      "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
       "stato": "all'esame assemblea",
+      "data": "2026-10-08",
+      "link": "http://dati.senato.it/ddl/60459"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
+      "stato": "approvato",
       "data": "2026-10-07",
       "link": "http://dati.senato.it/ddl/59875"
     },
@@ -39,10 +46,66 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni in materia di organizzazione e funzionamento della Commissione centrale per gli esercenti le professioni sanitarie",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/60064"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/55782"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Integrazione all'articolo 43 della legge costituzionale 26 febbraio 1948, n. 3, recante Statuto speciale per la Sardegna, in materia di elezione diretta degli organi di governo degli enti di area vasta",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/60168"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche all'articolo 165 del codice penale e all'articolo 115-bis del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di legittima difesa",
       "stato": "esame in comm.",
       "data": "2026-10-07",
       "link": "http://dati.senato.it/ddl/55347"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Norme per la tutela degli equini e loro riconoscimento come animali di affezione",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/55469"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riorganizzazione della distribuzione territoriale degli uffici giudiziari",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/56083"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/56204"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 4 maggio 1983, n. 184, in materia di adozione dei minori da parte delle persone dello stesso sesso unite in unione civile, delle persone conviventi di fatto e delle persone singole",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/60268"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione in Sassari della corte di appello e della procura generale della Repubblica presso la corte di appello",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/59852"
     },
     {
       "ramo": "Senato",
@@ -53,10 +116,73 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/56215"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/56429"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/57089"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/57174"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione in Verona di una sezione distaccata della corte di appello di Venezia",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/56903"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Ratifica ed esecuzione della Convenzione sulla protezione internazionale degli adulti, fatta a L'Aja il 13 gennaio 2000, nonché norme di adeguamento dell'ordinamento interno",
       "stato": "esame in comm.",
       "data": "2026-10-07",
       "link": "http://dati.senato.it/ddl/57278"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/57486"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla tabella A allegata all'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, e altre disposizioni concernenti la rideterminazione dei circondari dei tribunali di Urbino e di Rimini",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/57877"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Dichiarazione di monumento nazionale del Palazzo Fortunato in Rionero in Vulture, nella provincia di Potenza",
+      "stato": "assorbito",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/58012"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della corte di appello di Verona",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/58182"
     },
     {
       "ramo": "Senato",
@@ -67,10 +193,80 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Norme per la tutela degli equidi e loro riconoscimento come animali di affezione",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/58929"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/58910"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 5 febbraio 1992, n. 91, in materia di acquisto e di revoca della cittadinanza",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/58659"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Dichiarazione di monumento nazionale di Palazzo Fortunato in Rionero in Vulture",
+      "stato": "appr. def. non pubbl",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/58871"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche all'articolo 2044 del codice civile e all'articolo 185 del codice penale in materia di responsabilità civile nei casi di eccesso di legittima difesa",
       "stato": "esame in comm.",
       "data": "2026-10-07",
       "link": "http://dati.senato.it/ddl/59262"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento degli equidi come animali di affezione e altre disposizioni per la loro tutela e per la promozione di misure per la riconversione degli allevamenti",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/59520"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/59259"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di circoscrizioni giudiziarie",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/59610"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Registro nazionale degli orfani per crimini domestici",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/59741"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di accesso ai corsi di laurea magistrale a ciclo unico in medicina e chirurgia e in odontoiatria e protesi dentaria presso le università non statali legalmente riconosciute",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/59905"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/60099"
     },
     {
       "ramo": "Senato",
@@ -88,6 +284,41 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Istituzione in Foggia di una sezione distaccata della corte di appello di Bari, di una sezione distaccata della corte di appello di Bari in funzione di corte di assise di appello, di una sezione distaccata del tribunale per i minorenni di Bari e di una sezione distaccata della direzione distrettuale antimafia di Bari, nonché modifiche all'articolo 51 del codice di procedura penale, in materia di competenza degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/59712"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/59713"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di accesso ai corsi di laurea magistrale a ciclo unico in medicina e chirurgia, in odontoiatria e protesi dentaria e in medicina veterinaria presso le università non statali legalmente riconosciute",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/59928"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riordino della legge 28 gennaio 1994, n. 84, in materia di governance portuale e rilancio degli investimenti in infrastrutture strategiche di trasporto marittimo di interesse generale",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/60130"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Dichiarazione di monumento nazionale del sistema bastionato della città di Treviso",
+      "stato": "esame in comm.",
+      "data": "2026-10-07",
+      "link": "http://dati.senato.it/ddl/60113"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di rilascio di immobili",
       "stato": "esame in comm.",
       "data": "2026-10-07",
@@ -95,206 +326,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni in materia economica, fiscale, nonché in materia di tutela dei consumatori",
+      "titolo": "Disposizioni concernenti la stipulazione di convenzioni tra i comuni e le istituzioni scolastiche per lo svolgimento di attività didattiche extracurricolari presso biblioteche e altri spazi pubblici di proprietà comunale",
       "stato": "esame in comm.",
       "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60225"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al codice civile in materia di risarcimento del danno",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60259"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per l'istituzione di spazi adibiti all'allattamento e alla cura dei neonati presso istituti e luoghi della cultura",
-      "stato": "concluso l'esame",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60368"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di sostegno alla cultura e di tutela del patrimonio culturale e artistico nazionale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60452"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 52 del codice penale in materia di legittima difesa",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60322"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
-      "stato": "approvato",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60425"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di disciplina urbanistica e di localizzazione di infrastrutture di calcolo ad alta densità",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60385"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60415"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60495"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60505"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60459"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60473"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60481"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale del riciclo della carta",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/59978"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge quadro per lo sviluppo delle isole minori marine, lagunari e lacustri",
-      "stato": "esame in comm.",
-      "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/55339"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la determinazione dei livelli essenziali delle prestazioni",
-      "stato": "esame in comm.",
-      "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/59476"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la valorizzazione delle isole minori marine, lagunari e lacustri",
-      "stato": "esame in comm.",
-      "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/59988"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 21 aprile 2011, n. 67, in materia di inclusione dei lavoratori marittimi imbarcati a bordo tra i lavoratori addetti a mansioni particolarmente usuranti",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/60328"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di cinema",
-      "stato": "esame in comm.",
-      "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/60453"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione della resilienza idrica e istituzione del Sistema nazionale dei crediti idrici",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/60478"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 27 dicembre 2001, n. 459, recante norme per l'esercizio del diritto di voto dei cittadini italiani residenti all'estero, con riferimento alle modalità di espressione del voto e all'attribuzione dei seggi alle liste",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/60348"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
-      "stato": "esame in comm.",
-      "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/60442"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica Italiana e il Governo della Repubblica del Senegal sulla cooperazione in materia di sicurezza, fatto a Dakar il 29 ottobre 2025",
-      "stato": "concluso l'esame",
-      "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/60356"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del Museo per la memoria del disastro ferroviario di Viareggio",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/60482"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di prevenzione dell'infertilità e di preservazione della fertilità femminile",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/60504"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
-      "stato": "esame in comm.",
-      "data": "2026-10-06",
-      "link": "http://dati.senato.it/ddl/60464"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la tutela e l'assistenza delle vittime dei reati di riduzione in schiavitù, tratta di persone e intermediazione illecita e sfruttamento del lavoro, che ne denunciano gli autori, e per l'emersione dei rapporti di lavoro irregolari",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-05",
-      "link": "http://dati.senato.it/ddl/60138"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione degli articoli 613-quater e 613-quinquies del codice penale, concernenti il delitto di terrorismo tramite la piazza, e modifica all'articolo 382-bis del codice di procedura penale, in materia di arresto in flagranza differita",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-05",
-      "link": "http://dati.senato.it/ddl/60345"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riordino e riorganizzazione del Consiglio universitario nazionale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-05",
-      "link": "http://dati.senato.it/ddl/60497"
+      "link": "http://dati.senato.it/ddl/60215"
     },
     {
       "ramo": "Camera",
@@ -323,41 +358,6 @@
       "stato": "Assegnato",
       "data": "2026-10-05",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3123"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di caregiver familiare e deleghe al Governo per la piena integrazione della figura del caregiver familiare nell'ordinamento giuridico della Repubblica",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-02",
-      "link": "http://dati.senato.it/ddl/55733"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni e delega al Governo per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-02",
-      "link": "http://dati.senato.it/ddl/58456"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-02",
-      "link": "http://dati.senato.it/ddl/55676"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni e delega al Governo per la disciplina della figura del caregiver familiare e per la promozione e il sostegno dell'attività di assistenza e di cura da esso svolta",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-02",
-      "link": "http://dati.senato.it/ddl/55573"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-02",
-      "link": "http://dati.senato.it/ddl/55618"
     },
     {
       "ramo": "Camera",
