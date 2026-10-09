@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-09 11:45",
+  "aggiornato_il": "2026-10-09 12:10",
   "fonti": [
     {
       "fonte": "Senato",
@@ -43,6 +43,20 @@
       "stato": "appr. def. non pubbl",
       "data": "2026-10-08",
       "link": "http://dati.senato.it/ddl/60459"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BENZONI: \"Modifiche al codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206, e altre disposizioni per la tutela dei consumatori dalle variazioni contrattuali unilaterali\" (3010)",
+      "stato": "Assegnato",
+      "data": "2026-10-08",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3010"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "LAUS ed altri: \"Modifica all&rsquo;articolo 51 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in materia di esclusione dal reddito di lavoro dipendente delle prestazioni di servizi di ricarica elettrica dei mezzi di trasporto fornite dal datore di lavoro, nonch&eacute; istituzione di un fondo per la realizzazione di impianti di ricarica presso i luoghi di lavoro\" (2509)",
+      "stato": "Assegnato",
+      "data": "2026-10-08",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2509"
     },
     {
       "ramo": "Senato",
@@ -326,6 +340,69 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "AMENDOLA: \"Dichiarazione di monumento nazionale del Palazzo Fortunato in Rionero in Vulture, nella provincia di Potenza\" (1738)",
+      "stato": "Assorbito dall'approvazione di pdl abbinato",
+      "data": "2026-10-07",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1738"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 983. - Senatori D&#39;ELIA ed altri: &quot;Dichiarazione di monumento nazionale di Palazzo Fortunato in Rionero in Vulture&quot; &lt;em&gt;(approvata dal Senato) &lt;/em&gt;(2239)",
+      "stato": "Approvato definitivamente, non ancora pubblicato",
+      "data": "2026-10-07",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2239"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 983. - Senatori D&#39;ELIA ed altri: &quot;Dichiarazione di monumento nazionale di Palazzo Fortunato in Rionero in Vulture&quot; &lt;em&gt;(approvata dal Senato) &lt;/em&gt;(2239)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-07",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2239"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CANGIANO: \"Disposizioni in materia di accesso ai corsi di laurea magistrale a ciclo unico in medicina e chirurgia e in odontoiatria e protesi dentaria presso le universit&agrave; non statali legalmente riconosciute\" (2797)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-07",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2797"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ANDREUZZA ed altri: \"Modifiche alla legge 28 febbraio 2020, n. 17, in materia di estensione delle aree cedibili a privati nella fascia lagunare di Sottomarina, nel comune di Chioggia, e di sospensione dei procedimenti di ingiunzione, di rilascio o di riscossione dei proventi relativi alle medesime\" (2964)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-07",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2964"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MAFFIOLI ed altri: \"Disposizioni concernenti la stipulazione di convenzioni tra i comuni e le istituzioni scolastiche per lo svolgimento di attivit&agrave; didattiche extracurricolari presso biblioteche e altri spazi pubblici di propriet&agrave; comunale\" (2963)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-07",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2963"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 1923. - \"Ratifica ed esecuzione dei Trattati di estradizione, di mutua assistenza in materia penale e sul trasferimento delle persone condannate tra la Repubblica italiana e la Repubblica dell&rsquo;Uzbekistan, fatti a Roma l&rsquo;8 giugno 2023\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt; (3112)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-07",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3112"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 1938. - \"Ratifica ed esecuzione della Dichiarazione congiunta relativa all&rsquo;Accordo di cooperazione nel settore della difesa tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare, fatto a Roma il 15 maggio 2003, fatta a Roma il 23 luglio 2025\"&lt;i&gt;(approvato dal Senato)&lt;/i&gt; (3113)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-07",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3113"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 28 settembre 2026, n. 167, recante misure urgenti per la circolazione dei veicoli ad alimentazione &lt;i&gt;diesel&lt;/i&gt; appartenenti alla categoria ambientale &ldquo;EURO 5&rdquo;\" (3119)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-07",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3119"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "DEL BARBA: \"Modifiche alla legge 4 maggio 1983, n. 184, in materia di adozione dei minori da parte delle persone dello stesso sesso unite in unione civile, delle persone conviventi di fatto e delle persone singole\" (3003)",
       "stato": "Assegnato",
       "data": "2026-10-07",
@@ -344,6 +421,34 @@
       "stato": "Assegnato",
       "data": "2026-10-07",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3131"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "LUPI: \"Introduzione degli articoli 10-&lt;i&gt;bis &lt;/i&gt;del codice civile e 85-&lt;i&gt;bis.&lt;/i&gt;1 della legge 22 aprile 1941, n. 633, e altre disposizioni concernenti la tutela della voce, dell&rsquo;identità vocale e del marchio vocale della persona nonché la disciplina della produzione e utilizzazione di repliche vocali realizzate mediante sistemi di intelligenza artificiale\" (3132)",
+      "stato": "Da assegnare",
+      "data": "2026-10-07",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3132"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalità del Ministero dell&rsquo;interno e di impianti di interesse strategico nazionale\" (3121)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-07",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3121"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "TASSINARI ed altri: \"Disposizioni in materia di accesso ai corsi di laurea magistrale a ciclo unico in medicina e chirurgia, in odontoiatria e protesi dentaria e in medicina veterinaria presso le universit&agrave; non statali legalmente riconosciute\" (2810)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-07",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2810"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE D&#39;INIZIATIVA DEL CONSIGLIO REGIONALE DELLA SARDEGNA: &quot;Integrazione all&rsquo;articolo 43 della legge costituzionale 26 febbraio 1948, n. 3, recante Statuto speciale per la Sardegna, in materia di elezione diretta degli organi di governo degli enti di area vasta&quot; (2942)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-07",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2942"
     },
     {
       "ramo": "Camera",
@@ -568,111 +673,6 @@
       "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
       "data": "2026-10-01",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_998"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "STEFANI ed altri: \"Disposizioni per il riconoscimento e il sostegno dell&rsquo;attivit&agrave; di cura e assistenza svolta dallo studente &lt;em&gt;caregiver&lt;/em&gt; familiare\" (1507)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1507"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "GUSMEROLI ed altri: \"Delega al Governo per la revisione del sistema di vigilanza sulle cooperative\" (1778)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1778"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CIOCCHETTI ed altri: \"Modifica del comma 255 dell&rsquo;articolo 1 della legge 27 dicembre 2017, n. 205, e altre disposizioni nonch&eacute; delega al Governo per il riconoscimento e la tutela della figura del &lt;em&gt;caregiver&lt;/em&gt; familiare\" (1690)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1690"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "GIORGIANNI ed altri: \"Disposizioni in favore degli studenti universitari che svolgono attivit&agrave; di&nbsp;&lt;em&gt;caregiver&lt;/em&gt;&nbsp;familiare\" (1682)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1682"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 737. - Senatori PIROVANO ed altri: &quot;Istituzione della Giornata nazionale della meraviglia, al fine di sensibilizzare sulle sofferenze e far conoscere le fatiche dei bambini che vivono in guerra, per riflettere sul valore fondamentale del diritto alla meraviglia nella vita dei bambini e degli adulti&quot;&nbsp;&lt;em&gt;(approvata dalla 1&ordf; Commissione permanente del Senato) &lt;/em&gt; (1886)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1886"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ZANELLA ed altri: &quot;Disposizioni e delega al Governo per il riconoscimento e il sostegno dell&rsquo;attivit&agrave; di cura e assistenza svolta dal &lt;em&gt;caregiver&lt;/em&gt; familiare&quot; (2007)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2007"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CANDIANI ed altri: \"Norme in materia di &lt;em&gt;caregiver&lt;/em&gt; familiare e deleghe al Governo per la piena integrazione della figura del &lt;em&gt;caregiver&lt;/em&gt; familiare nell&rsquo;ordinamento giuridico della Repubblica\" (344)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_344"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SERRACCHIANI: &quot;Disposizioni per il riconoscimento e il sostegno dell&rsquo;attivit&agrave; di cura e assistenza svolta dal &lt;em&gt;caregiver&lt;/em&gt; familiare&quot; (159)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_159"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONTE ed altri: \"Disposizioni per il riconoscimento e il sostegno dell&rsquo;attivit&agrave; del &lt;em&gt;caregiver&lt;/em&gt; familiare\" (307)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_307"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ORFINI: &quot;Modifiche all&rsquo;articolo 64 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e altre disposizioni concernenti la formazione delle classi nelle scuole di ogni ordine e grado&quot; (319)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_319"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "&quot;Delega al Governo per la riforma delle amministrazioni straordinarie e per la riforma della vigilanza sugli enti cooperativi e mutualistici&quot; (2577)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2577"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PANIZZUT ed altri: \"Disposizioni e delega al Governo per la disciplina della figura del &lt;em&gt;caregiver&lt;/em&gt; familiare e per la promozione e il sostegno dell&rsquo;attivit&agrave; di assistenza e di cura da esso svolta\" (114)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_114"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "TENERINI: &quot;Disposizioni per il riconoscimento e il sostegno dell&rsquo;attivit&agrave; di cura e assistenza svolta dal &lt;em&gt;caregiver&lt;/em&gt; familiare&quot; (1461)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1461"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CASO ed altri: \"Modifica all&rsquo;articolo 64 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e altre disposizioni in materia di formazione delle classi nelle scuole di ogni ordine e grado e di riorganizzazione della rete scolastica\" (1047)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1047"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "L'ABBATE: \"Istituzione di un programma nazionale di interventi per il contrasto dell&rsquo;erosione delle coste e per l&rsquo;adattamento ai cambiamenti climatici nelle aree costiere\" (2982)",
-      "stato": "Assegnato",
-      "data": "2026-10-01",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2982"
     }
   ]
 }
