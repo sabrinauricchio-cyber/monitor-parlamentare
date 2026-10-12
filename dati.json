@@ -1,12 +1,12 @@
 {
-  "stato": "OK",
-  "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-12 13:40",
+  "stato": "PARZIALE",
+  "messaggio": "Funziona solo la fonte Camera: controlla il dettaglio dell'altra qui sotto.",
+  "aggiornato_il": "2026-10-12 21:54",
   "fonti": [
     {
       "fonte": "Senato",
-      "esito": "OK",
-      "dettaglio": "43 atti (scartate 7 righe con date anomale o duplicate)"
+      "esito": "ERRORE",
+      "dettaglio": "Fonte raggiungibile ma la query degli aggiornamenti fallisce (forse e' cambiato il nome di un campo): 502 Server Error: Bad Gateway for url: https://dati.senato.it/sparql?query=%0APREFIX+osr%3A+%3Chttp%3A%2F%2Fdati.senato.it%2Fosr%2F%3E%0ASELECT+%3Fatto+%3Ftitolo+%3Fstato+%3Fdata+WHERE+%7B%0A++%3Fatto+a+osr%3ADdl+%3B%0A++++++++osr%3AdataStatoDdl+%3Fdata+.%0A++OPTIONAL+%7B+%3Fatto+osr%3Atitolo+%3Ftitolo+.+%7D%0A++OPTIONAL+%7B+%3Fatto+osr%3AstatoDdl+%3Fstato+.+%7D%0A%7D%0AORDER+BY+DESC%28%3Fdata%29%0ALIMIT+50%0A"
     },
     {
       "fonte": "Camera",
@@ -14,29 +14,8 @@
       "dettaglio": "50 atti"
     }
   ],
-  "numero_atti": 93,
+  "numero_atti": 50,
   "atti": [
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'obbligo di rilasciare al paziente un documento riepilogativo della natura e dei costi delle prestazioni sanitarie eseguite",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-09",
-      "link": "http://dati.senato.it/ddl/59827"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'obbligo di rilasciare al paziente un documento riepilogativo della natura e dei costi delle prestazioni sanitarie eseguite",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-09",
-      "link": "http://dati.senato.it/ddl/59827"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 08 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-09",
-      "link": "http://dati.senato.it/ddl/60511"
-    },
     {
       "ramo": "Camera",
       "titolo": "LUPI ed altri: \"Introduzione dell&rsquo;obbligo di rilasciare al paziente un documento riepilogativo della natura e dei costi delle prestazioni sanitarie eseguite\" (2766)",
@@ -50,209 +29,6 @@
       "stato": "Assegnato",
       "data": "2026-10-09",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3133"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/55782"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riorganizzazione della distribuzione territoriale degli uffici giudiziari",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/56083"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/56204"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica dell'intesa tra il Governo della Repubblica italiana e l'Unione Buddhista Italiana, in attuazione dell'articolo 8, terzo comma, della Costituzione",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/60266"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione in Sassari della corte di appello e della procura generale della Repubblica presso la corte di appello",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/59852"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/56215"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/56429"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/57089"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/57174"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione in Verona di una sezione distaccata della corte di appello di Venezia",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/56903"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riduzione dei termini per la liquidazione del trattamento di fine servizio dei dipendenti delle amministrazioni pubbliche e rivalutazione dei limiti di importo per l'erogazione rateale del medesimo trattamento",
-      "stato": "concluso l'esame",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/57243"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla disciplina in materia di termini per la liquidazione e di erogazione rateale dei trattamenti di fine servizio dei dipendenti delle amministrazioni pubbliche",
-      "stato": "concluso l'esame",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/57254"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/57486"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla tabella A allegata all'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, e altre disposizioni concernenti la rideterminazione dei circondari dei tribunali di Urbino e di Rimini",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/57877"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al codice di procedura penale in materia di sequestro di dispositivi, sistemi informatici o telematici o memorie digitali",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/58159"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della corte di appello di Verona",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/58182"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/58910"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 5 febbraio 1992, n. 91, in materia di acquisto e di revoca della cittadinanza",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/58659"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 51 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in materia di esclusione dal reddito di lavoro dipendente delle prestazioni di servizi di ricarica elettrica dei mezzi di trasporto fornite dal datore di lavoro, nonché istituzione di un fondo per la realizzazione di impianti di ricarica presso i luoghi di lavoro",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/59370"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/59259"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di circoscrizioni giudiziarie",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/59610"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione in Foggia di una sezione distaccata della corte di appello di Bari, di una sezione distaccata della corte di appello di Bari in funzione di corte di assise di appello, di una sezione distaccata del tribunale per i minorenni di Bari e di una sezione distaccata della direzione distrettuale antimafia di Bari, nonché modifiche all'articolo 51 del codice di procedura penale, in materia di competenza degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/59712"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206, e altre disposizioni per la tutela dei consumatori dalle variazioni contrattuali unilaterali",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/60279"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di protezione civile",
-      "stato": "concluso l'esame",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/60400"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del Registro unico nazionale dei dispositivi medici impiantabili",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/60512"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica Italiana e il Governo della Repubblica Algerina Democratica e Popolare sulla cooperazione in materia di sicurezza, fatto ad Algeri il 1° febbraio 2024 e dell'Accordo sulla cooperazione in materia di lotta al terrorismo tra il Governo della Repubblica Italiana e il Governo della Repubblica Algerina Democratica e Popolare, fatto a Roma il 23 luglio 2025",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/60509"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/60513"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
-      "stato": "appr. definit. Legge",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/60459"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/60459"
     },
     {
       "ramo": "Camera",
@@ -330,83 +106,6 @@
       "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
       "data": "2026-10-08",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2700"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
-      "stato": "approvato",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/59875"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Nuove disposizioni in materia di disciplina del condominio negli edifici",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/59932"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del Registro unico nazionale dei dispositivi medici impiantabili",
-      "stato": "approvato",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60055"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di organizzazione e funzionamento della Commissione centrale per gli esercenti le professioni sanitarie",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60064"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Integrazione all'articolo 43 della legge costituzionale 26 febbraio 1948, n. 3, recante Statuto speciale per la Sardegna, in materia di elezione diretta degli organi di governo degli enti di area vasta",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60168"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 165 del codice penale e all'articolo 115-bis del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di legittima difesa",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/55347"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme per la tutela degli equini e loro riconoscimento come animali di affezione",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/55469"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 4 maggio 1983, n. 184, in materia di adozione dei minori da parte delle persone dello stesso sesso unite in unione civile, delle persone conviventi di fatto e delle persone singole",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/60268"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 64 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e altre disposizioni concernenti la formazione delle classi nelle scuole di ogni ordine e grado",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/55232"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione della Convenzione sulla protezione internazionale degli adulti, fatta a L'Aja il 13 gennaio 2000, nonché norme di adeguamento dell'ordinamento interno",
-      "stato": "esame in comm.",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/57278"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Dichiarazione di monumento nazionale del Palazzo Fortunato in Rionero in Vulture, nella provincia di Potenza",
-      "stato": "assorbito",
-      "data": "2026-10-07",
-      "link": "http://dati.senato.it/ddl/58012"
     },
     {
       "ramo": "Camera",
