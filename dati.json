@@ -1,12 +1,12 @@
 {
-  "stato": "PARZIALE",
-  "messaggio": "Funziona solo la fonte Camera: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-10-13 19:53",
+  "stato": "OK",
+  "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
+  "aggiornato_il": "2026-10-14 10:01",
   "fonti": [
     {
       "fonte": "Senato",
-      "esito": "ERRORE",
-      "dettaglio": "Fonte non raggiungibile: 503 Server Error: Service Temporarily Unavailable for url: https://dati.senato.it/sparql?query=SELECT+%3Fd+WHERE+%7B+%3Fd+a+%3Chttp%3A%2F%2Fdati.senato.it%2Fosr%2FDdl%3E+.+%7D+LIMIT+1"
+      "esito": "OK",
+      "dettaglio": "45 atti (scartate 5 righe con date anomale o duplicate)"
     },
     {
       "fonte": "Camera",
@@ -14,8 +14,302 @@
       "dettaglio": "50 atti"
     }
   ],
-  "numero_atti": 50,
+  "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Norme in materia di caregiver familiare e deleghe al Governo per la piena integrazione della figura del caregiver familiare nell'ordinamento giuridico della Repubblica",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/55733"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 7 del decreto legislativo 24 giugno 2003, n. 209, in materia di destinazione di veicoli fuori uso alle scuole di indirizzo tecnico e agli istituti tecnici superiori per l'utilizzazione a fini didattici",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/58091"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni e delega al Governo per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/58456"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/55676"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni e delega al Governo per la disciplina della figura del caregiver familiare e per la promozione e il sostegno dell'attività di assistenza e di cura da esso svolta",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/55573"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/55618"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura nonché per la conciliazione tra l'attività lavorativa e le attività di cura e assistenza",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/55857"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura svolta dal caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/56806"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Legge quadro sull'ordinamento della polizia locale",
+      "stato": "assorbito",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/56840"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il coordinamento in materia di politiche integrate per la sicurezza e di polizia locale",
+      "stato": "assorbito",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/57064"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/57528"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dallo studente caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/57637"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/57573"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Nuovo ordinamento della polizia locale",
+      "stato": "assorbito",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/57508"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in favore degli studenti universitari che svolgono attività di caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/57923"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica del comma 255 dell'articolo 1 della legge 27 dicembre 2017, n. 205, e altre disposizioni nonché delega al Governo per il riconoscimento e la tutela della figura del caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/57933"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 7 del decreto legislativo 24 giugno 2003, n. 209, in materia di utilizzazione didattica dei veicoli fuori uso e dei loro componenti presso le scuole di indirizzo tecnico e gli istituti tecnici superiori per promuovere l'educazione alla sostenibilità ambientale, all'economia circolare e alla transizione ecologica",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/58820"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale delle aree interne e dei piccoli comuni montani",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/58937"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Parco nazionale dell'Etna",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/59659"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la determinazione dei livelli essenziali delle prestazioni",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/59476"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/59694"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/59881"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica dell'articolo 12 della Costituzione in materia di riconoscimento dell'inno nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/60143"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per il riordino delle funzioni e dell'ordinamento della polizia locale",
+      "stato": "appr. def. non pubbl",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/60149"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di rilascio di immobili",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/60131"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di cinema",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/60453"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Esenzione delle addizionali comunali e regionali per i pensionati delle pubbliche amministrazioni iscritti all'AIRE",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/60389"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/60415"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il rafforzamento e l'adeguamento della capacità di difesa nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/60441"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/60442"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di diritto degli utenti a interagire con una persona fisica nell'ambito dei servizi di assistenza alla clientela",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/60448"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/60481"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione e disciplina delle zone del commercio nei centri storici",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-12",
+      "link": "http://dati.senato.it/ddl/55750"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-12",
+      "link": "http://dati.senato.it/ddl/59713"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione dei Trattati di estradizione, trasferimento delle persone condannate e assistenza giudiziaria in materia penale tra la Repubblica italiana e la Repubblica Socialista del Vietnam, fatti a Roma il 18 e il 26 luglio 2023",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-12",
+      "link": "http://dati.senato.it/ddl/60210"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di protezione civile",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-12",
+      "link": "http://dati.senato.it/ddl/60400"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Tutela del diritto alla libertà di pagamento in contanti: modifica all'articolo 1277 del codice civile",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-12",
+      "link": "http://dati.senato.it/ddl/60517"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 20 della legge 26 luglio 1975, n. 354, in materia di rapporti di lavoro dei detenuti e degli internati",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-12",
+      "link": "http://dati.senato.it/ddl/60516"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di dichiarazione di equivalenza delle tutele dei contratti collettivi negli appalti pubblici",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-12",
+      "link": "http://dati.senato.it/ddl/60515"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'obbligo di rilasciare al paziente un documento riepilogativo della natura e dei costi delle prestazioni sanitarie eseguite",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-09",
+      "link": "http://dati.senato.it/ddl/59827"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'articolo 572-ter del codice penale in materia di controllo coercitivo nei confronti di familiari e conviventi",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-09",
+      "link": "http://dati.senato.it/ddl/60514"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-09",
+      "link": "http://dati.senato.it/ddl/60511"
+    },
     {
       "ramo": "Camera",
       "titolo": "S. 1971. - BIGNAMI ed altri: \"Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica\" &lt;i&gt;(approvata dalla Camera e modificata dal Senato) &lt;/i&gt;(2822-B)",
@@ -43,6 +337,27 @@
       "stato": "Da assegnare",
       "data": "2026-10-09",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3136"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-08",
+      "link": "http://dati.senato.it/ddl/55782"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riorganizzazione della distribuzione territoriale degli uffici giudiziari",
+      "stato": "esame in comm.",
+      "data": "2026-10-08",
+      "link": "http://dati.senato.it/ddl/56083"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-08",
+      "link": "http://dati.senato.it/ddl/56204"
     },
     {
       "ramo": "Camera",
