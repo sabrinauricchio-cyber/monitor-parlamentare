@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-14 10:44",
+  "aggiornato_il": "2026-10-14 15:35",
   "fonti": [
     {
       "fonte": "Senato",
@@ -20,8 +20,92 @@
       "ramo": "Senato",
       "titolo": "Norme in materia di caregiver familiare e deleghe al Governo per la piena integrazione della figura del caregiver familiare nell'ordinamento giuridico della Repubblica",
       "stato": "all'esame assemblea",
-      "data": "2026-10-13",
+      "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/55733"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni e delega al Governo per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/58456"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/55676"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni e delega al Governo per la disciplina della figura del caregiver familiare e per la promozione e il sostegno dell'attività di assistenza e di cura da esso svolta",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/55573"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/55618"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura nonché per la conciliazione tra l'attività lavorativa e le attività di cura e assistenza",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/55857"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura svolta dal caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/56806"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/57528"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dallo studente caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/57637"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/57573"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in favore degli studenti universitari che svolgono attività di caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/57923"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica del comma 255 dell'articolo 1 della legge 27 dicembre 2017, n. 205, e altre disposizioni nonché delega al Governo per il riconoscimento e la tutela della figura del caregiver familiare",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/57933"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/59881"
     },
     {
       "ramo": "Senato",
@@ -32,45 +116,38 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni e delega al Governo per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "all'esame assemblea",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di periodi di attività venatoria, di divieto dell'esercizio venatorio con l'accompagnamento di minori e di disciplina del rilascio della licenza di porto di fucile per uso di caccia",
+      "stato": "esame in comm.",
       "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/58456"
+      "link": "http://dati.senato.it/ddl/55479"
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
-      "stato": "all'esame assemblea",
+      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+      "stato": "esame in comm.",
       "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/55676"
+      "link": "http://dati.senato.it/ddl/55437"
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni e delega al Governo per la disciplina della figura del caregiver familiare e per la promozione e il sostegno dell'attività di assistenza e di cura da esso svolta",
-      "stato": "all'esame assemblea",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica",
+      "stato": "esame in comm.",
       "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/55573"
+      "link": "http://dati.senato.it/ddl/55595"
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "all'esame assemblea",
+      "titolo": "Norme per la tutela degli equini e loro riconoscimento come animali di affezione",
+      "stato": "esame in comm.",
       "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/55618"
+      "link": "http://dati.senato.it/ddl/55469"
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura nonché per la conciliazione tra l'attività lavorativa e le attività di cura e assistenza",
-      "stato": "all'esame assemblea",
+      "titolo": "Disposizioni per l'integrazione delle norme adottate in attuazione della direttiva 92/43/CEE del Consiglio, del 21 maggio 1992, relativa alla conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche, mediante introduzione di un regime di deroga per la specie canis lupus",
+      "stato": "esame in comm.",
       "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/55857"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura svolta dal caregiver familiare",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/56806"
+      "link": "http://dati.senato.it/ddl/56939"
     },
     {
       "ramo": "Senato",
@@ -81,31 +158,17 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Norme in materia di prevenzione dei danni causati dalla fauna selvatica. Modifica alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/56820"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni per il coordinamento in materia di politiche integrate per la sicurezza e di polizia locale",
       "stato": "assorbito",
       "data": "2026-10-13",
       "link": "http://dati.senato.it/ddl/57064"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/57528"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dallo studente caregiver familiare",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/57637"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/57573"
     },
     {
       "ramo": "Senato",
@@ -116,17 +179,66 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni in favore degli studenti universitari che svolgono attività di caregiver familiare",
-      "stato": "all'esame assemblea",
+      "titolo": "Modifiche agli articoli 12, 13 e 22 della legge 11 febbraio 1992, n. 157, in materia di divieto dell'esercizio dell'attività venatoria mediante l'uso dell'arco",
+      "stato": "esame in comm.",
       "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/57923"
+      "link": "http://dati.senato.it/ddl/57693"
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifica del comma 255 dell'articolo 1 della legge 27 dicembre 2017, n. 205, e altre disposizioni nonché delega al Governo per il riconoscimento e la tutela della figura del caregiver familiare",
-      "stato": "all'esame assemblea",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
       "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/57933"
+      "link": "http://dati.senato.it/ddl/57863"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/57894"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/57907"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Norme per la tutela degli equidi e loro riconoscimento come animali di affezione",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/58929"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 2 della legge 11 febbraio 1992, n. 157, in materia di esclusione del lupo (canis lupus) dall'elenco delle specie particolarmente protette",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/58736"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, e all'articolo 544-ter del codice penale, in materia di divieto di utilizzo dei richiami vivi nell'attività venatoria",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/58524"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 5 febbraio 1992, n. 91, in materia di acquisto e di revoca della cittadinanza",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/58659"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Norme per la tutela degli equidi e loro riconoscimento come animali di affezione",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/58785"
     },
     {
       "ramo": "Senato",
@@ -144,10 +256,24 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Riconoscimento degli equidi come animali di affezione e altre disposizioni per la loro tutela e per la promozione di misure per la riconversione degli allevamenti",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/59520"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Istituzione del Parco nazionale dell'Etna",
       "stato": "esame in comm.",
       "data": "2026-10-13",
       "link": "http://dati.senato.it/ddl/59659"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 842 del codice civile, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/59188"
     },
     {
       "ramo": "Senato",
@@ -158,6 +284,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/59176"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
       "stato": "esame in comm.",
       "data": "2026-10-13",
@@ -165,10 +298,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
-      "stato": "all'esame assemblea",
+      "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
+      "stato": "esame in comm.",
       "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/59881"
+      "link": "http://dati.senato.it/ddl/60099"
     },
     {
       "ramo": "Senato",
@@ -179,6 +312,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+      "stato": "esame in comm.",
+      "data": "2026-10-13",
+      "link": "http://dati.senato.it/ddl/60236"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Delega al Governo per il riordino delle funzioni e dell'ordinamento della polizia locale",
       "stato": "appr. def. non pubbl",
       "data": "2026-10-13",
@@ -186,129 +326,73 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni in materia di rilascio di immobili",
+      "titolo": "Introduzione dell'articolo 19.1 e modifica all'articolo 27 della legge 11 febbraio 1992, n. 157, concernenti il diritto all'obiezione di coscienza per il personale addetto al controllo della fauna selvatica e la formazione del personale preposto alla vigilanza venatoria",
       "stato": "esame in comm.",
       "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/60131"
+      "link": "http://dati.senato.it/ddl/59907"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di cinema",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/60453"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Esenzione delle addizionali comunali e regionali per i pensionati delle pubbliche amministrazioni iscritti all'AIRE",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/60389"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/60415"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il rafforzamento e l'adeguamento della capacità di difesa nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/60441"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/60442"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di diritto degli utenti a interagire con una persona fisica nell'ambito dei servizi di assistenza alla clientela",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/60448"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/60481"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione e disciplina delle zone del commercio nei centri storici",
-      "stato": "all'esame assemblea",
+      "ramo": "Camera",
+      "titolo": "MOLINARI ed altri: &quot;Istituzione e disciplina delle zone del commercio nei centri storici&quot; (362)",
+      "stato": "In discussione",
       "data": "2026-10-12",
-      "link": "http://dati.senato.it/ddl/55750"
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_362"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie",
-      "stato": "all'esame assemblea",
+      "ramo": "Camera",
+      "titolo": "S. 1880. - &quot;Ratifica ed esecuzione dei Trattati di estradizione, trasferimento delle persone condannate e assistenza giudiziaria in materia penale tra la Repubblica italiana e la Repubblica Socialista del Vietnam, fatti a Roma il 18 e il 26 luglio 2023&quot; &lt;em&gt;(approvato dal Senato)&lt;/em&gt; (2958)",
+      "stato": "In discussione",
       "data": "2026-10-12",
-      "link": "http://dati.senato.it/ddl/59713"
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2958"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dei Trattati di estradizione, trasferimento delle persone condannate e assistenza giudiziaria in materia penale tra la Repubblica italiana e la Repubblica Socialista del Vietnam, fatti a Roma il 18 e il 26 luglio 2023",
-      "stato": "all'esame assemblea",
+      "ramo": "Camera",
+      "titolo": "S. 1779. - \"Disposizioni in materia di protezione civile\"&lt;i&gt;(approvato dal Senato)&lt;/i&gt; (3076)",
+      "stato": "In discussione",
       "data": "2026-10-12",
-      "link": "http://dati.senato.it/ddl/60210"
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3076"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di protezione civile",
-      "stato": "all'esame assemblea",
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO NAZIONALE DELL'ECONOMIA E DEL LAVORO: \"Disposizioni in materia di dichiarazione di equivalenza delle tutele dei contratti collettivi negli appalti pubblici\" (3140)",
+      "stato": "Da assegnare",
       "data": "2026-10-12",
-      "link": "http://dati.senato.it/ddl/60400"
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3140"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Tutela del diritto alla libertà di pagamento in contanti: modifica all'articolo 1277 del codice civile",
-      "stato": "da assegn. a commis.",
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO NAZIONALE DELL'ECONOMIA E DEL LAVORO: \"Modifica all&rsquo;articolo 20 della legge 26 luglio 1975, n. 354, in materia di rapporti di lavoro dei detenuti e degli internati\" (3141)",
+      "stato": "Da assegnare",
       "data": "2026-10-12",
-      "link": "http://dati.senato.it/ddl/60517"
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3141"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 20 della legge 26 luglio 1975, n. 354, in materia di rapporti di lavoro dei detenuti e degli internati",
-      "stato": "da assegn. a commis.",
+      "ramo": "Camera",
+      "titolo": "L'ABBATE: \"Disposizioni per la realizzazione di coperture fotovoltaiche, alberature e interventi di adattamento ai cambiamenti climatici nei parcheggi aperti al pubblico\" (3139)",
+      "stato": "Da assegnare",
       "data": "2026-10-12",
-      "link": "http://dati.senato.it/ddl/60516"
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3139"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di dichiarazione di equivalenza delle tutele dei contratti collettivi negli appalti pubblici",
-      "stato": "da assegn. a commis.",
+      "ramo": "Camera",
+      "titolo": "SCERRA: \"Modifiche all&rsquo;articolo 45 della legge 23 luglio 2009, n. 99, e altre disposizioni per la compensazione territoriale, sociale e ambientale e per la riduzione del prezzo dei carburanti nei territori in cui hanno sede impianti di raffinazione e stabilimenti petrolchimici\" (3137)",
+      "stato": "Da assegnare",
       "data": "2026-10-12",
-      "link": "http://dati.senato.it/ddl/60515"
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3137"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'obbligo di rilasciare al paziente un documento riepilogativo della natura e dei costi delle prestazioni sanitarie eseguite",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-09",
-      "link": "http://dati.senato.it/ddl/59827"
+      "ramo": "Camera",
+      "titolo": "GRIPPO: \"Istituzione del Parco archeologico culturale di Tuscolo\" (3138)",
+      "stato": "Da assegnare",
+      "data": "2026-10-12",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3138"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'articolo 572-ter del codice penale in materia di controllo coercitivo nei confronti di familiari e conviventi",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-09",
-      "link": "http://dati.senato.it/ddl/60514"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-09",
-      "link": "http://dati.senato.it/ddl/60511"
+      "ramo": "Camera",
+      "titolo": "\"Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilit&agrave; professionale degli esercenti le professioni sanitarie\" (2700)",
+      "stato": "In discussione",
+      "data": "2026-10-12",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2700"
     },
     {
       "ramo": "Camera",
@@ -337,27 +421,6 @@
       "stato": "Da assegnare",
       "data": "2026-10-09",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3136"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/55782"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riorganizzazione della distribuzione territoriale degli uffici giudiziari",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/56083"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-08",
-      "link": "http://dati.senato.it/ddl/56204"
     },
     {
       "ramo": "Camera",
@@ -617,69 +680,6 @@
       "stato": "In discussione",
       "data": "2026-10-02",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1426"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "FARAONE e GIACHETTI: \"Disposizioni per il riconoscimento e il sostegno dell&rsquo;attivit&agrave; di cura nonch&eacute; per la conciliazione tra l&rsquo;attivit&agrave; lavorativa e le attivit&agrave; di cura e assistenza\" (443)",
-      "stato": "In discussione",
-      "data": "2026-10-02",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_443"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CIANI ed altri: \"Disposizioni per il riconoscimento e il sostegno dell&rsquo;attivit&agrave; di cura svolta dal&nbsp;&lt;em&gt;caregiver&lt;/em&gt;&nbsp;familiare\" (998)",
-      "stato": "In discussione",
-      "data": "2026-10-02",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_998"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "STEFANI ed altri: \"Disposizioni per il riconoscimento e il sostegno dell&rsquo;attivit&agrave; di cura e assistenza svolta dallo studente &lt;em&gt;caregiver&lt;/em&gt; familiare\" (1507)",
-      "stato": "In discussione",
-      "data": "2026-10-02",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1507"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "GIORGIANNI ed altri: \"Disposizioni in favore degli studenti universitari che svolgono attivit&agrave; di&nbsp;&lt;em&gt;caregiver&lt;/em&gt;&nbsp;familiare\" (1682)",
-      "stato": "In discussione",
-      "data": "2026-10-02",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1682"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CIOCCHETTI ed altri: \"Modifica del comma 255 dell&rsquo;articolo 1 della legge 27 dicembre 2017, n. 205, e altre disposizioni nonch&eacute; delega al Governo per il riconoscimento e la tutela della figura del &lt;em&gt;caregiver&lt;/em&gt; familiare\" (1690)",
-      "stato": "In discussione",
-      "data": "2026-10-02",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1690"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MALAGUTI ed altri: \"Definizione della nozione di &ldquo;antisemitismo&rdquo; e disposizioni per il contrasto degli atti di antisemitismo\" (2376)",
-      "stato": "In discussione",
-      "data": "2026-10-02",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2376"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MOLINARI ed altri: \"Definizione della nozione di &ldquo;antisemitismo&rdquo; e disposizioni per il contrasto degli atti di antisemitismo\" (2383)",
-      "stato": "In discussione",
-      "data": "2026-10-02",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2383"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ZANELLA ed altri: &quot;Disposizioni e delega al Governo per il riconoscimento e il sostegno dell&rsquo;attivit&agrave; di cura e assistenza svolta dal &lt;em&gt;caregiver&lt;/em&gt; familiare&quot; (2007)",
-      "stato": "In discussione",
-      "data": "2026-10-02",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2007"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CANDIANI ed altri: \"Norme in materia di &lt;em&gt;caregiver&lt;/em&gt; familiare e deleghe al Governo per la piena integrazione della figura del &lt;em&gt;caregiver&lt;/em&gt; familiare nell&rsquo;ordinamento giuridico della Repubblica\" (344)",
-      "stato": "In discussione",
-      "data": "2026-10-02",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_344"
     }
   ]
 }
