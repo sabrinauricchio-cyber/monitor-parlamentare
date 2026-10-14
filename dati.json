@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-14 15:35",
+  "aggiornato_il": "2026-10-14 19:47",
   "fonti": [
     {
       "fonte": "Senato",
@@ -19,93 +19,170 @@
     {
       "ramo": "Senato",
       "titolo": "Norme in materia di caregiver familiare e deleghe al Governo per la piena integrazione della figura del caregiver familiare nell'ordinamento giuridico della Repubblica",
-      "stato": "all'esame assemblea",
+      "stato": "assorbito",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/55733"
     },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni e delega al Governo per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "all'esame assemblea",
+      "stato": "assorbito",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/58456"
     },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
-      "stato": "all'esame assemblea",
+      "stato": "assorbito",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/55676"
     },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni e delega al Governo per la disciplina della figura del caregiver familiare e per la promozione e il sostegno dell'attività di assistenza e di cura da esso svolta",
-      "stato": "all'esame assemblea",
+      "stato": "assorbito",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/55573"
     },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "all'esame assemblea",
+      "stato": "assorbito",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/55618"
     },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura nonché per la conciliazione tra l'attività lavorativa e le attività di cura e assistenza",
-      "stato": "all'esame assemblea",
+      "stato": "assorbito",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/55857"
     },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura svolta dal caregiver familiare",
-      "stato": "all'esame assemblea",
+      "stato": "assorbito",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/56806"
     },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "all'esame assemblea",
+      "stato": "assorbito",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/57528"
     },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dallo studente caregiver familiare",
-      "stato": "all'esame assemblea",
+      "stato": "assorbito",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/57637"
     },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "all'esame assemblea",
+      "stato": "assorbito",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/57573"
     },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni in favore degli studenti universitari che svolgono attività di caregiver familiare",
-      "stato": "all'esame assemblea",
+      "stato": "assorbito",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/57923"
     },
     {
       "ramo": "Senato",
       "titolo": "Modifica del comma 255 dell'articolo 1 della legge 27 dicembre 2017, n. 205, e altre disposizioni nonché delega al Governo per il riconoscimento e la tutela della figura del caregiver familiare",
-      "stato": "all'esame assemblea",
+      "stato": "assorbito",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/57933"
     },
     {
       "ramo": "Senato",
+      "titolo": "Delega al Governo in materia di organizzazione, potenziamento e sviluppo tecnologico dei centri di elaborazione dati",
+      "stato": "esame in comm.",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/58570"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
-      "stato": "all'esame assemblea",
+      "stato": "approvato",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/59881"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per l'organizzazione, la realizzazione, lo sviluppo e il potenziamento dei centri di elaborazione dati",
+      "stato": "esame in comm.",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/59943"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di rilascio di immobili",
+      "stato": "esame in comm.",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/60131"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di cinema",
+      "stato": "esame in comm.",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/60453"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di sicurezza e per la prevenzione del disagio giovanile, nonché di ordinamento, organizzazione e funzionamento delle Forze di polizia e del Ministero dell'interno",
+      "stato": "esame in comm.",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/60357"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di disciplina urbanistica e di localizzazione di infrastrutture di calcolo ad alta densità",
+      "stato": "esame in comm.",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/60385"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
+      "stato": "concluso l'esame",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/60415"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il rafforzamento e l'adeguamento della capacità di difesa nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/60441"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/60442"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
+      "stato": "esame in comm.",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/60495"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
+      "stato": "esame in comm.",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/60481"
     },
     {
       "ramo": "Senato",
@@ -253,83 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-10-13",
       "link": "http://dati.senato.it/ddl/58937"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riconoscimento degli equidi come animali di affezione e altre disposizioni per la loro tutela e per la promozione di misure per la riconversione degli allevamenti",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/59520"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del Parco nazionale dell'Etna",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/59659"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 842 del codice civile, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/59188"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la determinazione dei livelli essenziali delle prestazioni",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/59476"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/59176"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/59694"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/60099"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica dell'articolo 12 della Costituzione in materia di riconoscimento dell'inno nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/60143"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/60236"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per il riordino delle funzioni e dell'ordinamento della polizia locale",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/60149"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'articolo 19.1 e modifica all'articolo 27 della legge 11 febbraio 1992, n. 157, concernenti il diritto all'obiezione di coscienza per il personale addetto al controllo della fauna selvatica e la formazione del personale preposto alla vigilanza venatoria",
-      "stato": "esame in comm.",
-      "data": "2026-10-13",
-      "link": "http://dati.senato.it/ddl/59907"
     },
     {
       "ramo": "Camera",
