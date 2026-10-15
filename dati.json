@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Camera: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-10-15 10:26",
+  "aggiornato_il": "2026-10-15 15:09",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,90 @@
   ],
   "numero_atti": 50,
   "atti": [
+    {
+      "ramo": "Camera",
+      "titolo": "L'ABBATE: \"Disposizioni per la realizzazione e la riqualificazione dei parchi pubblici secondo criteri di accessibilità universale, inclusione sociale, adattamento ai cambiamenti climatici e tutela della salute\" (3040)",
+      "stato": "Assegnato",
+      "data": "2026-10-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3040"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CAFIERO DE RAHO ed altri: \"Introduzione dell&rsquo;articolo 41-&lt;i&gt;ter&lt;/i&gt; della legge 26 luglio 1975, n. 354, e altre disposizioni per il rafforzamento della sicurezza negli istituti penitenziari e la prevenzione del ripristino di collegamenti con organizzazioni criminali durante l&rsquo;esecuzione della pena\" (3024)",
+      "stato": "Assegnato",
+      "data": "2026-10-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3024"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CAFIERO DE RAHO ed altri: \"Modifiche all&rsquo;articolo 4-&lt;i&gt;bis&lt;/i&gt; della legge 26 luglio 1975, n. 354, e all&rsquo;articolo 2 del decreto-legge 13 maggio 1991, n. 152, convertito, con modificazioni, dalla legge 12 luglio 1991, n. 203, in materia di limiti alla concessione e misure di controllo e prevenzione nell&rsquo;applicazione di benefìci penitenziari ai condannati per delitti di criminalità organizzata non collaboranti con la giustizia\" (3023)",
+      "stato": "Assegnato",
+      "data": "2026-10-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3023"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 1875. - \"Istituzione del Registro unico nazionale dei dispositivi medici impiantabili\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt; (3134)",
+      "stato": "Assegnato",
+      "data": "2026-10-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3134"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CAFIERO DE RAHO ed altri: \"Istituzione dell'Anagrafe informatica centralizzata dei detenuti soggetti a regime di alta sicurezza assegnati al lavoro all&rsquo;esterno o beneficiari di permesso premio o di misure alternative alla detenzione\" (3027)",
+      "stato": "Assegnato",
+      "data": "2026-10-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3027"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 1786. - \"Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt; (3135)",
+      "stato": "Assegnato",
+      "data": "2026-10-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3135"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "GIACHETTI: \"Introduzione dell&rsquo;articolo 47-&lt;i&gt;septies&lt;/i&gt; della legge 26 luglio 1975, n. 354, in materia di detenzione domiciliare allargata nei casi di eccezionale distanza temporale tra la commissione del reato e l&rsquo;esecuzione della pena\" (3144)",
+      "stato": "Da assegnare",
+      "data": "2026-10-13",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3144"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE SPERANZA: \"Modifica all&rsquo;articolo 94 della Costituzione in materia di divieto di apposizione della questione di fiducia su progetti di legge vertenti su materia costituzionale o elettorale\" (3145)",
+      "stato": "Da assegnare",
+      "data": "2026-10-13",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3145"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO REGIONALE DEL VENETO: \"Modifica all&rsquo;articolo 1277 del codice civile in materia di tutela del diritto alla libertà di pagamento in contanti\" (3146)",
+      "stato": "Da assegnare",
+      "data": "2026-10-13",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3146"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "GIACHETTI: \"Introduzione dell&rsquo;articolo 656-&lt;i&gt;bis &lt;/i&gt;del codice di procedura penale e altre disposizioni concernenti una modalità speciale di esecuzione non carceraria della pena detentiva per i condannati ultrasettantacinquenni\" (3143)",
+      "stato": "Da assegnare",
+      "data": "2026-10-13",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3143"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MIELE: \"Disposizioni in materia di percorsi formativi per il sostegno dell&rsquo;esercizio delle competenze genitoriali nell&rsquo;ambito del patto educativo di corresponsabilità tra le istituzioni scolastiche e le famiglie\" (3142)",
+      "stato": "Da assegnare",
+      "data": "2026-10-13",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3142"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 2023. - \"Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt; (3131)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-13",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3131"
+    },
     {
       "ramo": "Camera",
       "titolo": "MOLINARI ed altri: &quot;Istituzione e disciplina delle zone del commercio nei centri storici&quot; (362)",
@@ -228,6 +312,13 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "EVI ed altri: \"Riconoscimento degli equidi come animali di affezione e altre disposizioni per la loro tutela e per la promozione di misure per la riconversione degli allevamenti\" (2585)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-07",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2585"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "S. 1923. - \"Ratifica ed esecuzione dei Trattati di estradizione, di mutua assistenza in materia penale e sul trasferimento delle persone condannate tra la Repubblica italiana e la Repubblica dell&rsquo;Uzbekistan, fatti a Roma l&rsquo;8 giugno 2023\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt; (3112)",
       "stato": "In corso di esame in Commissione",
       "data": "2026-10-07",
@@ -274,97 +365,6 @@
       "stato": "Da assegnare",
       "data": "2026-10-07",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3132"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalità del Ministero dell&rsquo;interno e di impianti di interesse strategico nazionale\" (3121)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-10-07",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3121"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "TASSINARI ed altri: \"Disposizioni in materia di accesso ai corsi di laurea magistrale a ciclo unico in medicina e chirurgia, in odontoiatria e protesi dentaria e in medicina veterinaria presso le universit&agrave; non statali legalmente riconosciute\" (2810)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-10-07",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2810"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE D&#39;INIZIATIVA DEL CONSIGLIO REGIONALE DELLA SARDEGNA: &quot;Integrazione all&rsquo;articolo 43 della legge costituzionale 26 febbraio 1948, n. 3, recante Statuto speciale per la Sardegna, in materia di elezione diretta degli organi di governo degli enti di area vasta&quot; (2942)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-10-07",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2942"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "POLIDORI: \"Disposizioni concernenti l&rsquo;accreditamento di contributi previdenziali figurativi per periodi di interruzione dell&rsquo;attività lavorativa dedicati alla cura e all&rsquo;assistenza di figli minori di sei anni\" (3128)",
-      "stato": "Da assegnare",
-      "data": "2026-10-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3128"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "GIRELLI: \"Disposizioni per la prevenzione, la diagnosi precoce e la cura della malattia renale cronica nella popolazione adulta\" (3129)",
-      "stato": "Da assegnare",
-      "data": "2026-10-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3129"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ROSSELLO: \"Disposizioni concernenti la protezione del diritto all&rsquo;identità vocale personale e la disciplina della realizzazione di manifestazioni vocali ad essa riconducibili mediante sistemi di intelligenza artificiale\" (3130)",
-      "stato": "Da assegnare",
-      "data": "2026-10-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3130"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile\" (3083)",
-      "stato": "Approvato definitivamente dal Senato. Legge",
-      "data": "2026-10-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3083"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "IEZZI ed altri: \"Introduzione degli articoli 613-&lt;i&gt;quater&lt;/i&gt; e 613-&lt;i&gt;quinquies &lt;/i&gt;del codice penale, concernenti il delitto di terrorismo tramite la piazza, e modifica all&rsquo;articolo 382-&lt;i&gt;bis&lt;/i&gt; del codice di procedura penale, in materia di arresto in flagranza differita\" (3047)",
-      "stato": "Assegnato",
-      "data": "2026-10-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3047"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "GRIBAUDO ed altri: \"Disposizioni per la tutela e l&rsquo;assistenza delle vittime dei reati di riduzione in schiavit&ugrave;, tratta di persone e intermediazione illecita e sfruttamento del lavoro, che ne denunciano gli autori, e per l&rsquo;emersione dei rapporti di lavoro irregolari\" (2928)",
-      "stato": "Assegnato",
-      "data": "2026-10-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2928"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MATTIA: \"Disposizioni per la celebrazione del quindicesimo centenario della fondazione dell&rsquo;abbazia di Montecassino\" (3052)",
-      "stato": "Assegnato",
-      "data": "2026-10-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3052"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1890. - \"Riordino e riorganizzazione del Consiglio universitario nazionale\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt;&nbsp;(3123)",
-      "stato": "Assegnato",
-      "data": "2026-10-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3123"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 2020. - \"Conversione in legge, con modificazioni, del decreto-legge 7 agosto 2026, n. 143, recante disposizioni urgenti in materia di obbligo di compostabilità di determinate tipologie di imballaggi\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt; (3118)",
-      "stato": "Approvato definitivamente. Legge",
-      "data": "2026-10-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3118"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MALAVASI ed altri: \"Disposizioni per il riconoscimento e il sostegno dell&rsquo;attivit&agrave; di cura e assistenza svolta dal &lt;em&gt;caregiver&lt;/em&gt; familiare\" (1426)",
-      "stato": "In discussione",
-      "data": "2026-10-02",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1426"
     }
   ]
 }
