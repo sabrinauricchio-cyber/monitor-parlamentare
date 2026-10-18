@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-17 09:08",
+  "aggiornato_il": "2026-10-18 09:25",
   "fonti": [
     {
       "fonte": "Senato",
@@ -29,6 +29,20 @@
       "stato": "da assegn. a commis.",
       "data": "2026-10-16",
       "link": "http://dati.senato.it/ddl/60530"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell&rsquo;ex ILVA e dell&rsquo;indotto e per il rilancio industriale del territorio\" (3151)",
+      "stato": "Da assegnare",
+      "data": "2026-10-16",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3151"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell&rsquo;ex ILVA e dell&rsquo;indotto e per il rilancio industriale del territorio\" (3151)",
+      "stato": "Assegnato",
+      "data": "2026-10-16",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3151"
     },
     {
       "ramo": "Senato",
@@ -666,20 +680,6 @@
       "stato": "Approvato definitivamente. Legge",
       "data": "2026-10-09",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2822-B"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "LUPI ed altri: \"Introduzione dell&rsquo;obbligo di rilasciare al paziente un documento riepilogativo della natura e dei costi delle prestazioni sanitarie eseguite\" (2766)",
-      "stato": "Assegnato",
-      "data": "2026-10-09",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2766"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l&rsquo;economia circolare e le bonifiche\" (3133)",
-      "stato": "Assegnato",
-      "data": "2026-10-09",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3133"
     }
   ]
 }
