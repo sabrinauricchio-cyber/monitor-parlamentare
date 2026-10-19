@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-19 17:35",
+  "aggiornato_il": "2026-10-19 21:47",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,66 +18,10 @@
   "atti": [
     {
       "ramo": "Senato",
-      "titolo": "Riduzione dei termini per la liquidazione del trattamento di fine servizio dei dipendenti delle amministrazioni pubbliche e rivalutazione dei limiti di importo per l'erogazione rateale del medesimo trattamento",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-19",
-      "link": "http://dati.senato.it/ddl/57243"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla disciplina in materia di termini per la liquidazione e di erogazione rateale dei trattamenti di fine servizio dei dipendenti delle amministrazioni pubbliche",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-19",
-      "link": "http://dati.senato.it/ddl/57254"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 5 febbraio 1992, n. 91, in materia di acquisto e di revoca della cittadinanza",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-19",
-      "link": "http://dati.senato.it/ddl/58659"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del Registro nazionale degli orfani per crimini domestici",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-19",
-      "link": "http://dati.senato.it/ddl/59741"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-19",
-      "link": "http://dati.senato.it/ddl/60099"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-19",
-      "link": "http://dati.senato.it/ddl/60532"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-19",
-      "link": "http://dati.senato.it/ddl/60533"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
       "stato": "all'esame assemblea",
       "data": "2026-10-19",
       "link": "http://dati.senato.it/ddl/60505"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-19",
-      "link": "http://dati.senato.it/ddl/60531"
     },
     {
       "ramo": "Senato",
@@ -204,6 +148,13 @@
       "stato": "assegnato (no esame)",
       "data": "2026-10-15",
       "link": "http://dati.senato.it/ddl/60502"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-15",
+      "link": "http://dati.senato.it/ddl/60531"
     },
     {
       "ramo": "Camera",
@@ -358,6 +309,55 @@
       "stato": "esame in comm.",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/56882"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/57089"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/57174"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disciplina dell'attività di relazioni istituzionali per la rappresentanza di interessi",
+      "stato": "esame in comm.",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/56838"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione in Verona di una sezione distaccata della corte di appello di Venezia",
+      "stato": "esame in comm.",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/56903"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
+      "stato": "assorbito",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/57528"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dallo studente caregiver familiare",
+      "stato": "assorbito",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/57637"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-10-14",
+      "link": "http://dati.senato.it/ddl/57486"
     },
     {
       "ramo": "Camera",
