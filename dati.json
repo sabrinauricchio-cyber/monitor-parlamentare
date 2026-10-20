@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-20 10:30",
+  "aggiornato_il": "2026-10-20 15:24",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,10 +18,94 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Riduzione dei termini per la liquidazione del trattamento di fine servizio dei dipendenti delle amministrazioni pubbliche e rivalutazione dei limiti di importo per l'erogazione rateale del medesimo trattamento",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-19",
+      "link": "http://dati.senato.it/ddl/57243"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla disciplina in materia di termini per la liquidazione e di erogazione rateale dei trattamenti di fine servizio dei dipendenti delle amministrazioni pubbliche",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-19",
+      "link": "http://dati.senato.it/ddl/57254"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 5 febbraio 1992, n. 91, in materia di acquisto e di revoca della cittadinanza",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-19",
+      "link": "http://dati.senato.it/ddl/58659"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Registro nazionale degli orfani per crimini domestici",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-19",
+      "link": "http://dati.senato.it/ddl/59741"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-19",
+      "link": "http://dati.senato.it/ddl/60099"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
+      "stato": "restit. al Governo",
+      "data": "2026-10-19",
+      "link": "http://dati.senato.it/ddl/60532"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-19",
+      "link": "http://dati.senato.it/ddl/60533"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
       "stato": "all'esame assemblea",
       "data": "2026-10-19",
       "link": "http://dati.senato.it/ddl/60505"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Parco nazionale dell'Etna",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-19",
+      "link": "http://dati.senato.it/ddl/60534"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-19",
+      "link": "http://dati.senato.it/ddl/60531"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell&rsquo;ex ILVA e dell&rsquo;indotto e per il rilancio industriale del territorio\" (3151)",
+      "stato": "Restituito al Governo per essere ripresentato all'altro ramo",
+      "data": "2026-10-19",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3151"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 13 luglio 2017, n. 116, e altre disposizioni in materia di ordinamento e indennità della magistratura onoraria",
+      "stato": "ritirato",
+      "data": "2026-10-16",
+      "link": "http://dati.senato.it/ddl/55635"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche agli articoli 116, in materia di attribuzione di ulteriori forme e condizioni particolari di autonomia alle regioni a statuto ordinario, e 117 della Costituzione, con l'introduzione di una clausola di supremazia della legge statale e il trasferimento di alcune materie dalla potestà legislativa concorrente alla potestà legislativa esclusiva dello Stato",
+      "stato": "ritirato",
+      "data": "2026-10-16",
+      "link": "http://dati.senato.it/ddl/58110"
     },
     {
       "ramo": "Senato",
@@ -36,6 +120,20 @@
       "stato": "da assegn. a commis.",
       "data": "2026-10-16",
       "link": "http://dati.senato.it/ddl/60530"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE MAGI: \"Modifiche agli articoli 116, in materia di attribuzione di ulteriori forme e condizioni particolari di autonomia alle regioni a statuto ordinario, e 117 della Costituzione, con l&rsquo;introduzione di una clausola di supremazia della legge statale e il trasferimento di alcune materie dalla potest&agrave; legislativa concorrente alla potest&agrave; legislativa esclusiva dello Stato\" (1797)",
+      "stato": "Ritirato",
+      "data": "2026-10-16",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1797"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MORRONE: \"Modifiche al decreto legislativo 13 luglio 2017, n. 116, e altre disposizioni in materia di ordinamento e indennit&agrave; della magistratura onoraria\" (266)",
+      "stato": "Ritirato",
+      "data": "2026-10-16",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_266"
     },
     {
       "ramo": "Camera",
@@ -151,10 +249,31 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
+      "titolo": "Disposizioni in materia di etichettatura dei prodotti alimentari preimballati e di accesso dei consumatori alle informazioni relative alla loro origine, conservazione e scadenza, all¿impronta climatica e idrica e alla presenza di allergeni",
       "stato": "da assegn. a commis.",
       "data": "2026-10-15",
-      "link": "http://dati.senato.it/ddl/60531"
+      "link": "http://dati.senato.it/ddl/60537"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di assistenza veterinaria gratuita per gli animali da compagnia appartenenti a persone in condizioni di vulnerabilità economica e sociale e per gli animali di affezione privi di proprietario",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-15",
+      "link": "http://dati.senato.it/ddl/60536"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "L'ABBATE: \"Disposizioni in materia di assistenza veterinaria gratuita per gli animali da compagnia appartenenti a persone in condizioni di vulnerabilità economica e sociale e per gli animali di affezione privi di proprietario\" (3149)",
+      "stato": "Da assegnare",
+      "data": "2026-10-15",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3149"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "L'ABBATE: \"Disposizioni in materia di etichettatura dei prodotti alimentari preimballati e di accesso dei consumatori alle informazioni relative alla loro origine, conservazione e scadenza, all&rsquo;impronta climatica e idrica e alla presenza di allergeni\" (3150)",
+      "stato": "Da assegnare",
+      "data": "2026-10-15",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3150"
     },
     {
       "ramo": "Camera",
@@ -274,90 +393,6 @@
       "stato": "esame in comm.",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/55231"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disciplina dell'attività di relazioni istituzionali per la rappresentanza di interessi",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/55306"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/56215"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/56429"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura svolta dal caregiver familiare",
-      "stato": "assorbito",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/56806"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 64 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e altre disposizioni in materia di formazione delle classi nelle scuole di ogni ordine e grado e di riorganizzazione della rete scolastica",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/56882"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/57089"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/57174"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disciplina dell'attività di relazioni istituzionali per la rappresentanza di interessi",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/56838"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione in Verona di una sezione distaccata della corte di appello di Venezia",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/56903"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "assorbito",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/57528"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dallo studente caregiver familiare",
-      "stato": "assorbito",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/57637"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/57486"
     },
     {
       "ramo": "Camera",
@@ -557,6 +592,13 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "MASCHIO e KELANY: \"Disposizioni concernenti la sospensione della fruizione di benefìci erogati dai comuni in caso di violazione delle ordinanze comunali in materia di sicurezza e decoro urbano nonché in caso di condanna di un minorenne a pena detentiva di durata non inferiore a un anno\" (3147)",
+      "stato": "Da assegnare",
+      "data": "2026-10-14",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3147"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "S. 1875. - \"Istituzione del Registro unico nazionale dei dispositivi medici impiantabili\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt; (3134)",
       "stato": "Assegnato",
       "data": "2026-10-14",
@@ -638,48 +680,6 @@
       "stato": "Da assegnare",
       "data": "2026-10-12",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3140"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO NAZIONALE DELL'ECONOMIA E DEL LAVORO: \"Modifica all&rsquo;articolo 20 della legge 26 luglio 1975, n. 354, in materia di rapporti di lavoro dei detenuti e degli internati\" (3141)",
-      "stato": "Da assegnare",
-      "data": "2026-10-12",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3141"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilit&agrave; professionale degli esercenti le professioni sanitarie\" (2700)",
-      "stato": "In discussione",
-      "data": "2026-10-12",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2700"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "L'ABBATE: \"Disposizioni per la realizzazione di coperture fotovoltaiche, alberature e interventi di adattamento ai cambiamenti climatici nei parcheggi aperti al pubblico\" (3139)",
-      "stato": "Da assegnare",
-      "data": "2026-10-12",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3139"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SCERRA: \"Modifiche all&rsquo;articolo 45 della legge 23 luglio 2009, n. 99, e altre disposizioni per la compensazione territoriale, sociale e ambientale e per la riduzione del prezzo dei carburanti nei territori in cui hanno sede impianti di raffinazione e stabilimenti petrolchimici\" (3137)",
-      "stato": "Da assegnare",
-      "data": "2026-10-12",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3137"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "GRIPPO: \"Istituzione del Parco archeologico culturale di Tuscolo\" (3138)",
-      "stato": "Da assegnare",
-      "data": "2026-10-12",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3138"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1971. - BIGNAMI ed altri: \"Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica\" &lt;i&gt;(approvata dalla Camera e modificata dal Senato) &lt;/i&gt;(2822-B)",
-      "stato": "Approvato definitivamente. Legge",
-      "data": "2026-10-09",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2822-B"
     }
   ]
 }
