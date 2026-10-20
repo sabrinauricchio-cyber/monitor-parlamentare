@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-20 15:24",
+  "aggiornato_il": "2026-10-20 19:24",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,111 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale per il diritto al divertimento in sicurezza",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/60416"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 4 gennaio 1990, n. 1, e alla legge 17 agosto 2005, n. 174, in materia di disciplina dell'attività di acconciatore, nonché misure per la prevenzione dell'abusivismo",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/59463"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disciplina delle attività di estetista, di onicotecnico e di truccatore e tecnico di trattamenti di ciglia e sopracciglia, nonché dell'attività di acconciatore",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/59914"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni sulla formazione e sull'attività degli imam e istituzione del Consiglio nazionale degli imam",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/57071"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione di uno scudo democratico a difesa delle libertà costituzionali e dell'integrità del processo democratico dalle ingerenze straniere",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/59112"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la determinazione dei livelli essenziali delle prestazioni",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/59476"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la semplificazione delle procedure di trasferimento di beni immobili tra pubbliche amministrazioni",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/59516"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/59694"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di rilascio di immobili",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/60131"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/60533"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2026",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/60427"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il rafforzamento e l'adeguamento della capacità di difesa nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/60441"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/60495"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/60505"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/60481"
+    },
     {
       "ramo": "Senato",
       "titolo": "Riduzione dei termini per la liquidazione del trattamento di fine servizio dei dipendenti delle amministrazioni pubbliche e rivalutazione dei limiti di importo per l'erogazione rateale del medesimo trattamento",
@@ -60,17 +165,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
+      "titolo": "Disposizioni in materia di aggravanti penali, misure cautelari e esecuzione delle espulsioni per gli stranieri in condizione di soggiorno irregolare",
       "stato": "da assegn. a commis.",
       "data": "2026-10-19",
-      "link": "http://dati.senato.it/ddl/60533"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-19",
-      "link": "http://dati.senato.it/ddl/60505"
+      "link": "http://dati.senato.it/ddl/60538"
     },
     {
       "ramo": "Senato",
@@ -235,13 +333,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
-      "stato": "esame in comm.",
-      "data": "2026-10-15",
-      "link": "http://dati.senato.it/ddl/60495"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Modifiche al decreto legislativo 3 aprile 2006, n. 152, per il contrasto all'accumulo illecito di rifiuti e per l'introduzione di sistemi di monitoraggio volumetrico e di adeguamento economico delle garanzie finanziarie negli impianti di stoccaggio anche in caso di incendio",
       "stato": "assegnato (no esame)",
       "data": "2026-10-15",
@@ -302,97 +393,6 @@
       "stato": "assorbito",
       "data": "2026-10-14",
       "link": "http://dati.senato.it/ddl/55733"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/55782"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disciplina dell'attività di rappresentanza degli interessi particolari e istituzione del registro pubblico dei rappresentanti di interessi",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/56180"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 7 del decreto legislativo 24 giugno 2003, n. 209, in materia di destinazione di veicoli fuori uso alle istituzioni scolastiche del sistema nazionale di istruzione e agli istituti tecnologici superiori (ITS Academy) per l'utilizzazione a fini didattici",
-      "stato": "approvato",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/58091"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni e delega al Governo per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "assorbito",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/58456"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 64 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e altre disposizioni concernenti la formazione delle classi nelle scuole di ogni ordine e grado",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/55688"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
-      "stato": "assorbito",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/55676"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni e delega al Governo per la disciplina della figura del caregiver familiare e per la promozione e il sostegno dell'attività di assistenza e di cura da esso svolta",
-      "stato": "assorbito",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/55573"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura e assistenza svolta dal caregiver familiare",
-      "stato": "assorbito",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/55618"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività di cura nonché per la conciliazione tra l'attività lavorativa e le attività di cura e assistenza",
-      "stato": "assorbito",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/55857"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riorganizzazione della distribuzione territoriale degli uffici giudiziari",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/56083"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/56204"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione in Sassari della corte di appello e della procura generale della Repubblica presso la corte di appello",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/59852"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disciplina dell'attività di rappresentanza di interessi particolari nelle relazioni istituzionali e presso i decisori pubblici",
-      "stato": "esame in comm.",
-      "data": "2026-10-14",
-      "link": "http://dati.senato.it/ddl/55231"
     },
     {
       "ramo": "Camera",
