@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-10-21 15:41",
+  "aggiornato_il": "2026-10-21 19:43",
   "fonti": [
     {
       "fonte": "Senato",
@@ -11,17 +11,31 @@
     {
       "fonte": "Camera",
       "esito": "ERRORE",
-      "dettaglio": "Fonte non raggiungibile: 502 Server Error: Bad Gateway for url: https://dati.camera.it/sparql?query=PREFIX+ocd%3A+%3Chttp%3A%2F%2Fdati.camera.it%2Focd%2F%3E+SELECT+%3Fa+WHERE+%7B+%3Fa+a+ocd%3Aatto+.+%7D+LIMIT+1&format=application%2Fsparql-results%2Bjson"
+      "dettaglio": "Fonte non raggiungibile: 403 Client Error: Forbidden for url: https://dati.camera.it/sparql?query=PREFIX+ocd%3A+%3Chttp%3A%2F%2Fdati.camera.it%2Focd%2F%3E+SELECT+%3Fa+WHERE+%7B+%3Fa+a+ocd%3Aatto+.+%7D+LIMIT+1&format=application%2Fsparql-results%2Bjson"
     }
   ],
   "numero_atti": 45,
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Istituzione e disciplina delle zone del commercio nei centri storici",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-21",
+      "link": "http://dati.senato.it/ddl/55750"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
       "stato": "esame in comm.",
       "data": "2026-10-21",
       "link": "http://dati.senato.it/ddl/59694"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Inserimento della chirurgia senologica tra le specializzazioni di area chirurgica, all'interno della classe delle chirurgie cardio-toraco-vascolari",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-21",
+      "link": "http://dati.senato.it/ddl/60487"
     },
     {
       "ramo": "Senato",
@@ -39,10 +53,59 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
+      "stato": "esame in comm.",
+      "data": "2026-10-21",
+      "link": "http://dati.senato.it/ddl/60533"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di sicurezza e per la prevenzione del disagio giovanile, nonché di ordinamento, organizzazione e funzionamento delle Forze di polizia e del Ministero dell'interno",
+      "stato": "esame in comm.",
+      "data": "2026-10-21",
+      "link": "http://dati.senato.it/ddl/60357"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di protezione civile",
-      "stato": "all'esame assemblea",
+      "stato": "appr. def. non pubbl",
       "data": "2026-10-21",
       "link": "http://dati.senato.it/ddl/60400"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al testo unico delle disposizioni legislative in materia di tutela e sostegno della maternità e della paternità, di cui al decreto legislativo 26 marzo 2001, n. 151, in materia di istituzione del congedo straordinario per l'assistenza ai figli ricoverati per il trattamento di patologie acute o per la successiva fase di post-acuzie",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-21",
+      "link": "http://dati.senato.it/ddl/60450"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare sulla cooperazione in materia di sicurezza, fatto ad Algeri il 1° febbraio 2024, e dell'Accordo sulla cooperazione in materia di lotta al terrorismo tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare, fatto a Roma il 23 luglio 2025",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-21",
+      "link": "http://dati.senato.it/ddl/60509"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-21",
+      "link": "http://dati.senato.it/ddl/60529"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 7 del decreto legislativo 24 giugno 2003, n. 209, in materia di destinazione di veicoli fuori uso alle istituzioni scolastiche del sistema nazionale di istruzione e agli istituti tecnologici superiori (ITS Academy) per l'utilizzazione a fini didattici",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-21",
+      "link": "http://dati.senato.it/ddl/60530"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione e modalità di finanziamento del Dipartimento della difesa civile, non armata e nonviolenta",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-21",
+      "link": "http://dati.senato.it/ddl/60489"
     },
     {
       "ramo": "Senato",
@@ -141,13 +204,6 @@
       "stato": "esame in comm.",
       "data": "2026-10-20",
       "link": "http://dati.senato.it/ddl/59516"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-20",
-      "link": "http://dati.senato.it/ddl/60533"
     },
     {
       "ramo": "Senato",
@@ -274,62 +330,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-10-19",
       "link": "http://dati.senato.it/ddl/60531"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 13 luglio 2017, n. 116, e altre disposizioni in materia di ordinamento e indennità della magistratura onoraria",
-      "stato": "ritirato",
-      "data": "2026-10-16",
-      "link": "http://dati.senato.it/ddl/55635"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche agli articoli 116, in materia di attribuzione di ulteriori forme e condizioni particolari di autonomia alle regioni a statuto ordinario, e 117 della Costituzione, con l'introduzione di una clausola di supremazia della legge statale e il trasferimento di alcune materie dalla potestà legislativa concorrente alla potestà legislativa esclusiva dello Stato",
-      "stato": "ritirato",
-      "data": "2026-10-16",
-      "link": "http://dati.senato.it/ddl/58110"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-16",
-      "link": "http://dati.senato.it/ddl/60529"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 7 del decreto legislativo 24 giugno 2003, n. 209, in materia di destinazione di veicoli fuori uso alle istituzioni scolastiche del sistema nazionale di istruzione e agli istituti tecnologici superiori (ITS Academy) per l'utilizzazione a fini didattici",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-16",
-      "link": "http://dati.senato.it/ddl/60530"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del Fondo sovrano di sviluppo per la crescita e gli investimenti",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-15",
-      "link": "http://dati.senato.it/ddl/60349"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 4 agosto 2021, n. 116, in materia di formazione obbligatoria di primo soccorso",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-15",
-      "link": "http://dati.senato.it/ddl/60352"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 15 marzo 2024, n. 29, in materia di cura e assistenza domiciliare a favore delle persone anziane non autosufficienti",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-15",
-      "link": "http://dati.senato.it/ddl/60418"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di usi nonché di redazione e aggiornamento delle raccolte degli usi generali, regionali, interregionali e locali",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-15",
-      "link": "http://dati.senato.it/ddl/60330"
     }
   ]
 }
