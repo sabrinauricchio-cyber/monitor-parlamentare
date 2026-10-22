@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-10-21 19:43",
+  "aggiornato_il": "2026-10-22 09:58",
   "fonti": [
     {
       "fonte": "Senato",
@@ -11,109 +11,11 @@
     {
       "fonte": "Camera",
       "esito": "ERRORE",
-      "dettaglio": "Fonte non raggiungibile: 403 Client Error: Forbidden for url: https://dati.camera.it/sparql?query=PREFIX+ocd%3A+%3Chttp%3A%2F%2Fdati.camera.it%2Focd%2F%3E+SELECT+%3Fa+WHERE+%7B+%3Fa+a+ocd%3Aatto+.+%7D+LIMIT+1&format=application%2Fsparql-results%2Bjson"
+      "dettaglio": "Fonte non raggiungibile: 502 Server Error: Bad Gateway for url: https://dati.camera.it/sparql?query=PREFIX+ocd%3A+%3Chttp%3A%2F%2Fdati.camera.it%2Focd%2F%3E+SELECT+%3Fa+WHERE+%7B+%3Fa+a+ocd%3Aatto+.+%7D+LIMIT+1&format=application%2Fsparql-results%2Bjson"
     }
   ],
   "numero_atti": 45,
   "atti": [
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione e disciplina delle zone del commercio nei centri storici",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/55750"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59694"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Inserimento della chirurgia senologica tra le specializzazioni di area chirurgica, all'interno della classe delle chirurgie cardio-toraco-vascolari",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/60487"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di rilascio di immobili",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/60131"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dei Trattati di estradizione, trasferimento delle persone condannate e assistenza giudiziaria in materia penale tra la Repubblica italiana e la Repubblica Socialista del Vietnam, fatti a Roma il 18 e il 26 luglio 2023",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/60210"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/60533"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di sicurezza e per la prevenzione del disagio giovanile, nonché di ordinamento, organizzazione e funzionamento delle Forze di polizia e del Ministero dell'interno",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/60357"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di protezione civile",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/60400"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al testo unico delle disposizioni legislative in materia di tutela e sostegno della maternità e della paternità, di cui al decreto legislativo 26 marzo 2001, n. 151, in materia di istituzione del congedo straordinario per l'assistenza ai figli ricoverati per il trattamento di patologie acute o per la successiva fase di post-acuzie",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/60450"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare sulla cooperazione in materia di sicurezza, fatto ad Algeri il 1° febbraio 2024, e dell'Accordo sulla cooperazione in materia di lotta al terrorismo tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare, fatto a Roma il 23 luglio 2025",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/60509"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/60529"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 7 del decreto legislativo 24 giugno 2003, n. 209, in materia di destinazione di veicoli fuori uso alle istituzioni scolastiche del sistema nazionale di istruzione e agli istituti tecnologici superiori (ITS Academy) per l'utilizzazione a fini didattici",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/60530"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione e modalità di finanziamento del Dipartimento della difesa civile, non armata e nonviolenta",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/60489"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/60481"
-    },
     {
       "ramo": "Senato",
       "titolo": "Introduzione dell'articolo 416-bis.2 del codice penale in materia di associazione con vincolo operativo coordinato per la commissione di reati di violenza pubblica",
@@ -144,13 +46,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Norme per la tutela degli equini e loro riconoscimento come animali di affezione",
-      "stato": "concluso l'esame",
-      "data": "2026-10-20",
-      "link": "http://dati.senato.it/ddl/55469"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni sulla formazione e sull'attività degli imam e istituzione del Consiglio nazionale degli imam",
       "stato": "esame in comm.",
       "data": "2026-10-20",
@@ -165,31 +60,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Norme per la tutela degli equidi e loro riconoscimento come animali di affezione",
-      "stato": "concluso l'esame",
-      "data": "2026-10-20",
-      "link": "http://dati.senato.it/ddl/58929"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme per la tutela degli equidi e loro riconoscimento come animali di affezione",
-      "stato": "concluso l'esame",
-      "data": "2026-10-20",
-      "link": "http://dati.senato.it/ddl/58785"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Istituzione di uno scudo democratico a difesa delle libertà costituzionali e dell'integrità del processo democratico dalle ingerenze straniere",
       "stato": "esame in comm.",
       "data": "2026-10-20",
       "link": "http://dati.senato.it/ddl/59112"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riconoscimento degli equidi come animali di affezione e altre disposizioni per la loro tutela e per la promozione di misure per la riconversione degli allevamenti",
-      "stato": "concluso l'esame",
-      "data": "2026-10-20",
-      "link": "http://dati.senato.it/ddl/59520"
     },
     {
       "ramo": "Senato",
@@ -204,6 +78,27 @@
       "stato": "esame in comm.",
       "data": "2026-10-20",
       "link": "http://dati.senato.it/ddl/59516"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/59694"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di rilascio di immobili",
+      "stato": "esame in comm.",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/60131"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-20",
+      "link": "http://dati.senato.it/ddl/60533"
     },
     {
       "ramo": "Senato",
@@ -228,13 +123,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma della disciplina degli ordinamenti professionali",
-      "stato": "esame in comm.",
-      "data": "2026-10-20",
-      "link": "http://dati.senato.it/ddl/60394"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni per la promozione della ricerca sui disturbi del neurosviluppo, la diagnosi e cura di essi e l'assistenza delle persone che ne sono affette, nonché riconoscimento della disprassia quale disturbo del neurosviluppo",
       "stato": "assegnato (no esame)",
       "data": "2026-10-20",
@@ -256,10 +144,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalità del Ministero dell'interno e di impianti di interesse strategico nazionale",
+      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
       "stato": "esame in comm.",
       "data": "2026-10-20",
-      "link": "http://dati.senato.it/ddl/60492"
+      "link": "http://dati.senato.it/ddl/60481"
     },
     {
       "ramo": "Senato",
@@ -330,6 +218,118 @@
       "stato": "assegnato (no esame)",
       "data": "2026-10-19",
       "link": "http://dati.senato.it/ddl/60531"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 13 luglio 2017, n. 116, e altre disposizioni in materia di ordinamento e indennità della magistratura onoraria",
+      "stato": "ritirato",
+      "data": "2026-10-16",
+      "link": "http://dati.senato.it/ddl/55635"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche agli articoli 116, in materia di attribuzione di ulteriori forme e condizioni particolari di autonomia alle regioni a statuto ordinario, e 117 della Costituzione, con l'introduzione di una clausola di supremazia della legge statale e il trasferimento di alcune materie dalla potestà legislativa concorrente alla potestà legislativa esclusiva dello Stato",
+      "stato": "ritirato",
+      "data": "2026-10-16",
+      "link": "http://dati.senato.it/ddl/58110"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-16",
+      "link": "http://dati.senato.it/ddl/60529"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 7 del decreto legislativo 24 giugno 2003, n. 209, in materia di destinazione di veicoli fuori uso alle istituzioni scolastiche del sistema nazionale di istruzione e agli istituti tecnologici superiori (ITS Academy) per l'utilizzazione a fini didattici",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-16",
+      "link": "http://dati.senato.it/ddl/60530"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Fondo sovrano di sviluppo per la crescita e gli investimenti",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-15",
+      "link": "http://dati.senato.it/ddl/60349"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 4 agosto 2021, n. 116, in materia di formazione obbligatoria di primo soccorso",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-15",
+      "link": "http://dati.senato.it/ddl/60352"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 15 marzo 2024, n. 29, in materia di cura e assistenza domiciliare a favore delle persone anziane non autosufficienti",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-15",
+      "link": "http://dati.senato.it/ddl/60418"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Norme in materia di usi nonché di redazione e aggiornamento delle raccolte degli usi generali, regionali, interregionali e locali",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-15",
+      "link": "http://dati.senato.it/ddl/60330"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Norme in materia di enfiteusi",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-15",
+      "link": "http://dati.senato.it/ddl/59620"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di disciplina igienica della produzione e del commercio della birra",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-15",
+      "link": "http://dati.senato.it/ddl/60098"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo in materia di semplificazione amministrativa e burocratica in favore delle micro, piccole e medie imprese",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-15",
+      "link": "http://dati.senato.it/ddl/60426"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
+      "stato": "in relazione",
+      "data": "2026-10-15",
+      "link": "http://dati.senato.it/ddl/60415"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
+      "stato": "approvato",
+      "data": "2026-10-15",
+      "link": "http://dati.senato.it/ddl/60442"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al codice penale e al codice di procedura penale per il contrasto del fenomeno dei reati di atti persecutori in ambito condominiale e di vicinato",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-15",
+      "link": "http://dati.senato.it/ddl/60406"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 28 settembre 2026, n. 167, recante misure urgenti per la circolazione dei veicoli ad alimentazione diesel appartenenti alla categoria ambientale «EURO 5»",
+      "stato": "esame in comm.",
+      "data": "2026-10-15",
+      "link": "http://dati.senato.it/ddl/60486"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di raccolta periodica dei dati relativi ai vincitori delle procedure di valutazione di cui alla legge 30 dicembre 2010, n. 240",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-15",
+      "link": "http://dati.senato.it/ddl/60305"
     }
   ]
 }
