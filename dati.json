@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-10-23 15:29",
+  "aggiornato_il": "2026-10-23 19:26",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,27 @@
   ],
   "numero_atti": 45,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la tutela e la valorizzazione delle attività commerciali e artigianali negli ambiti di interesse storico, culturale e paesaggistico dei centri storici",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-23",
+      "link": "http://dati.senato.it/ddl/60551"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-23",
+      "link": "http://dati.senato.it/ddl/60550"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione del Protocollo modificativo tra il Governo della Repubblica italiana e l'Organizzazione Europea di Diritto Pubblico riguardante l'Accordo per lo stabilimento di un Ufficio in Italia, con Allegato, fatto ad Atene il 19 giugno 2025",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-23",
+      "link": "http://dati.senato.it/ddl/60552"
+    },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per l'erogazione di prestazioni integrative a sostegno dell'istruzione scolastica e universitaria degli studenti con disturbi specifici di apprendimento e per il finanziamento di progetti educativi promossi dagli enti del Terzo settore",
@@ -71,6 +92,13 @@
       "stato": "assegnato (no esame)",
       "data": "2026-10-22",
       "link": "http://dati.senato.it/ddl/59946"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-22",
+      "link": "http://dati.senato.it/ddl/60549"
     },
     {
       "ramo": "Senato",
@@ -302,34 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-10-21",
       "link": "http://dati.senato.it/ddl/59188"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59259"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Dichiarazione di monumento nazionale del memoriale di Portella della Ginestra nonché disposizioni per il restauro, la tutela e la valorizzazione di esso",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59442"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la determinazione dei livelli essenziali delle prestazioni",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59476"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge quadro per la salute e la sicurezza nelle piscine",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59489"
     }
   ]
 }
