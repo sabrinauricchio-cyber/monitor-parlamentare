@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-10-24 09:22",
+  "aggiornato_il": "2026-10-25 09:41",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,10 +18,94 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per la tutela e la valorizzazione delle attività commerciali e artigianali negli ambiti di interesse storico, culturale e paesaggistico dei centri storici",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-23",
+      "link": "http://dati.senato.it/ddl/60551"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-23",
+      "link": "http://dati.senato.it/ddl/60550"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione del Protocollo modificativo tra il Governo della Repubblica italiana e l'Organizzazione Europea di Diritto Pubblico riguardante l'Accordo per lo stabilimento di un Ufficio in Italia, con Allegato, fatto ad Atene il 19 giugno 2025",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-23",
+      "link": "http://dati.senato.it/ddl/60552"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per l'erogazione di prestazioni integrative a sostegno dell'istruzione scolastica e universitaria degli studenti con disturbi specifici di apprendimento e per il finanziamento di progetti educativi promossi dagli enti del Terzo settore",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-22",
+      "link": "http://dati.senato.it/ddl/59677"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 22 della legge 24 gennaio 1979, n. 18, in materia di elezione dei candidati delle liste di minoranza linguistica collegate, per la regione Valle d'Aosta, nelle elezioni dei membri del Parlamento europeo spettanti all'Italia",
+      "stato": "esame in comm.",
+      "data": "2026-10-22",
+      "link": "http://dati.senato.it/ddl/57118"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 4 maggio 1983, n. 184, in materia di adozione dei minori da parte di coppie conviventi e di persone singole",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-22",
+      "link": "http://dati.senato.it/ddl/59129"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche agli articoli 12 e 22 della legge 24 gennaio 1979, n. 18, in materia di liste di minoranza linguistica collegate nelle elezioni dei membri del Parlamento europeo spettanti all'Italia",
+      "stato": "esame in comm.",
+      "data": "2026-10-22",
+      "link": "http://dati.senato.it/ddl/59170"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 75 della Costituzione in materia di quorum per la validità del referendum abrogativo",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-22",
+      "link": "http://dati.senato.it/ddl/59256"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
       "stato": "approvato",
       "data": "2026-10-22",
       "link": "http://dati.senato.it/ddl/60099"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 96 del codice di procedura civile in materia di responsabilità aggravata dell'attore nelle controversie per diffamazione commessa con il mezzo della stampa",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-22",
+      "link": "http://dati.senato.it/ddl/59703"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di applicazione agli invalidi civili degli adeguamenti dei requisiti anagrafici e contributivi nonché di accesso dei medesimi al trattamento pensionistico",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-22",
+      "link": "http://dati.senato.it/ddl/59946"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-22",
+      "link": "http://dati.senato.it/ddl/60549"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la protezione del processo elettorale a livello locale, regionale, nazionale e dell'Unione europea",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-22",
+      "link": "http://dati.senato.it/ddl/60546"
     },
     {
       "ramo": "Senato",
@@ -246,90 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-10-21",
       "link": "http://dati.senato.it/ddl/59188"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59259"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Dichiarazione di monumento nazionale del memoriale di Portella della Ginestra nonché disposizioni per il restauro, la tutela e la valorizzazione di esso",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59442"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la determinazione dei livelli essenziali delle prestazioni",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59476"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge quadro per la salute e la sicurezza nelle piscine",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59489"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di circoscrizioni giudiziarie",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59610"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59176"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche agli articoli 226-bis, 226-ter e 261 del decreto legislativo 3 aprile 2006, n. 152, in materia di detenzione e commercializzazione delle borse di plastica",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59564"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59694"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione degli articoli 27-bis, 27-ter e 27-quater della legge 14 novembre 2016, n. 220, concernenti l'istituzione della Commissione per la valutazione delle opere e dei progetti cinematografici e audiovisivi e del Fondo per la crescita del cinema e dell'audiovisivo nonché limiti alla trasmissione e alla diffusione anticipate di opere audiovisive prodotte con finanziamenti pubblici",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/60062"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/60236"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione in Foggia di una sezione distaccata della corte di appello di Bari, di una sezione distaccata della corte di appello di Bari in funzione di corte di assise di appello, di una sezione distaccata del tribunale per i minorenni di Bari e di una sezione distaccata della direzione distrettuale antimafia di Bari, nonché modifiche all'articolo 51 del codice di procedura penale, in materia di competenza degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59712"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la prevenzione dei fenomeni di radicalizzazione e di estremismo violento di matrice jihadista",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/59716"
     }
   ]
 }
