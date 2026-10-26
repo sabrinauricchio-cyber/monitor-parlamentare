@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-10-26 11:40",
+  "aggiornato_il": "2026-10-26 17:44",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,34 @@
   ],
   "numero_atti": 45,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Norme per la tutela degli equini e loro riconoscimento come animali di affezione",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-26",
+      "link": "http://dati.senato.it/ddl/55469"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Norme per la tutela degli equidi e loro riconoscimento come animali di affezione",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-26",
+      "link": "http://dati.senato.it/ddl/58929"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Norme per la tutela degli equidi e loro riconoscimento come animali di affezione",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-26",
+      "link": "http://dati.senato.it/ddl/58785"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento degli equidi come animali di affezione e altre disposizioni per la loro tutela e per la promozione di misure per la riconversione degli allevamenti",
+      "stato": "all'esame assemblea",
+      "data": "2026-10-26",
+      "link": "http://dati.senato.it/ddl/59520"
+    },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per la tutela e la valorizzazione delle attività commerciali e artigianali negli ambiti di interesse storico, culturale e paesaggistico dei centri storici",
@@ -302,34 +330,6 @@
       "stato": "esame in comm.",
       "data": "2026-10-21",
       "link": "http://dati.senato.it/ddl/57863"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla tabella A allegata all'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, e altre disposizioni concernenti la rideterminazione dei circondari dei tribunali di Urbino e di Rimini",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/57877"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/57894"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/57907"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al codice di procedura penale in materia di sequestro di dispositivi, sistemi informatici o telematici o memorie digitali",
-      "stato": "esame in comm.",
-      "data": "2026-10-21",
-      "link": "http://dati.senato.it/ddl/58159"
     }
   ]
 }
