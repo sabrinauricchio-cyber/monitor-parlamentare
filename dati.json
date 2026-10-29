@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-29 17:40",
+  "aggiornato_il": "2026-10-29 22:06",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,10 +18,73 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per la tutela del mercato immobiliare",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-29",
+      "link": "http://dati.senato.it/ddl/60420"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la tutela e la valorizzazione delle attività commerciali e artigianali negli ambiti di interesse storico, culturale e paesaggistico dei centri storici",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-29",
+      "link": "http://dati.senato.it/ddl/60551"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il rafforzamento e l'adeguamento della capacità di difesa nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-10-29",
+      "link": "http://dati.senato.it/ddl/60441"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni sulla sicurezza e salubrità degli impianti aeraulici",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-29",
+      "link": "http://dati.senato.it/ddl/60488"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-29",
+      "link": "http://dati.senato.it/ddl/60550"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, in materia di orari degli esercizi commerciali, e disposizioni per il contrasto delle pratiche elusive degli obblighi fiscali e contributivi mediante cessazione e riapertura di attività d'impresa",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-29",
+      "link": "http://dati.senato.it/ddl/60569"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche agli articoli 56 e 57 della Costituzione, in materia di rappresentanza parlamentare della Sardegna e della Sicilia, in attuazione del principio di insularità",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-29",
+      "link": "http://dati.senato.it/ddl/60570"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-29",
+      "link": "http://dati.senato.it/ddl/60571"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifica all'articolo 38 della Costituzione per il rafforzamento dei princìpi di eguaglianza sostanziale, di non discriminazione e di inclusione delle persone con disabilità",
       "stato": "rinviato ass.->comm.",
       "data": "2026-10-28",
       "link": "http://dati.senato.it/ddl/59464"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Premio \"Dottor Geppino Micheletti\"",
+      "stato": "concluso l'esame",
+      "data": "2026-10-28",
+      "link": "http://dati.senato.it/ddl/59877"
     },
     {
       "ramo": "Senato",
@@ -57,6 +120,13 @@
       "stato": "assegnato (no esame)",
       "data": "2026-10-28",
       "link": "http://dati.senato.it/ddl/55413"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica dell'intesa tra il Governo della Repubblica italiana e l'Unione Buddhista Italiana, in attuazione dell'articolo 8, terzo comma, della Costituzione",
+      "stato": "concluso l'esame",
+      "data": "2026-10-28",
+      "link": "http://dati.senato.it/ddl/60266"
     },
     {
       "ramo": "Senato",
@@ -123,6 +193,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Dichiarazione di monumento nazionale del memoriale di Portella della Ginestra nonché disposizioni per il restauro, la tutela e la valorizzazione di esso",
+      "stato": "esame in comm.",
+      "data": "2026-10-28",
+      "link": "http://dati.senato.it/ddl/59442"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche all'articolo 38 della Costituzione in materia di riconoscimento e tutela delle persone con disabilità",
       "stato": "rinviato ass.->comm.",
       "data": "2026-10-28",
@@ -134,6 +211,13 @@
       "stato": "esame in comm.",
       "data": "2026-10-28",
       "link": "http://dati.senato.it/ddl/59988"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del servizio civile volontario degli anziani",
+      "stato": "esame in comm.",
+      "data": "2026-10-28",
+      "link": "http://dati.senato.it/ddl/60006"
     },
     {
       "ramo": "Senato",
@@ -151,6 +235,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Istituzione del servizio civile per pensionate e pensionati attivi",
+      "stato": "esame in comm.",
+      "data": "2026-10-28",
+      "link": "http://dati.senato.it/ddl/59778"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Modifiche al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e all'articolo 41 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di cambio della denominazione dell'archivio centrale dello Stato in quella di Archivio nazionale",
       "stato": "appr. def. non pubbl",
       "data": "2026-10-28",
@@ -165,10 +256,45 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Istituzione del servizio civile per persone anziane attive",
+      "stato": "esame in comm.",
+      "data": "2026-10-28",
+      "link": "http://dati.senato.it/ddl/60231"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Adozione del Piano triennale di prevenzione e promozione della salute nelle scuole nonché istituzione della Giornata nazionale della prevenzione e della promozione della salute e dei corretti stili di vita in memoria di Umberto Veronesi",
+      "stato": "esame in comm.",
+      "data": "2026-10-28",
+      "link": "http://dati.senato.it/ddl/60230"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di cinema",
       "stato": "esame in comm.",
       "data": "2026-10-28",
       "link": "http://dati.senato.it/ddl/60453"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Attribuzione alla regione Liguria di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-28",
+      "link": "http://dati.senato.it/ddl/60555"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Attribuzione alla regione Piemonte di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-28",
+      "link": "http://dati.senato.it/ddl/60557"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile",
+      "stato": "esame in comm.",
+      "data": "2026-10-28",
+      "link": "http://dati.senato.it/ddl/60549"
     },
     {
       "ramo": "Senato",
@@ -179,6 +305,20 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Delega al Governo e altre disposizioni per il sostegno dell'invecchiamento attivo, la valorizzazione del ruolo sociale e l'istituzione del servizio civile volontario delle persone ultrasessantenni",
+      "stato": "esame in comm.",
+      "data": "2026-10-28",
+      "link": "http://dati.senato.it/ddl/60374"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma della disciplina degli ordinamenti professionali",
+      "stato": "esame in comm.",
+      "data": "2026-10-28",
+      "link": "http://dati.senato.it/ddl/60394"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
       "stato": "esame in comm.",
       "data": "2026-10-28",
@@ -186,150 +326,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 23 ottobre 2026, n. 193, recante disposizioni urgenti e misure di sostegno ai settori dell'autotrasporto, dell'agricoltura e della pesca",
+      "titolo": "Legge annuale per il mercato e la concorrenza 2026",
       "stato": "esame in comm.",
       "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60553"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di assistenza veterinaria gratuita per gli animali da compagnia appartenenti a persone in condizioni di vulnerabilità economica e sociale e per gli animali di affezione privi di proprietario",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60536"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di attività libero-professionale del personale delle professioni sanitarie",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/60380"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di organizzazione e funzionamento della Commissione centrale per gli esercenti le professioni sanitarie",
-      "stato": "esame in comm.",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/60064"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di periodi di attività venatoria, di divieto dell'esercizio venatorio con l'accompagnamento di minori e di disciplina del rilascio della licenza di porto di fucile per uso di caccia",
-      "stato": "esame in comm.",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/55479"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-      "stato": "esame in comm.",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/55437"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica",
-      "stato": "esame in comm.",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/55595"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento ed il sostegno del caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/55200"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/55318"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per l'integrazione delle norme adottate in attuazione della direttiva 92/43/CEE del Consiglio, del 21 maggio 1992, relativa alla conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche, mediante introduzione di un regime di deroga per la specie canis lupus",
-      "stato": "esame in comm.",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/56939"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del Premio biennale Domenico Bassetti",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/56717"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di prevenzione dei danni causati dalla fauna selvatica. Modifica alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/56820"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e la tutela del caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/57491"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la diagnosi e la cura della sindrome di Hikikomori e per l'assistenza delle persone che ne sono affette",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/57674"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche agli articoli 12, 13 e 22 della legge 11 febbraio 1992, n. 157, in materia di divieto dell'esercizio dell'attività venatoria mediante l'uso dell'arco",
-      "stato": "esame in comm.",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/57693"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge quadro per lo sviluppo delle isole minori marine, lagunari e lacustri",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/57895"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 3 del decreto legislativo 4 marzo 2015, n. 22, in materia di erogazione della nuova prestazione di assicurazione sociale per l'impiego ai lavoratori con contratto di lavoro a tempo parziale ciclico verticale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/57782"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/57863"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/57894"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/57907"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del Museo delle tradizioni vitivinicole della regione Campania, per la valorizzazione del patrimonio culturale vitivinicolo, e del Premio annuale «Taurasia dalle vigne opime»",
-      "stato": "esame in comm.",
-      "data": "2026-10-27",
-      "link": "http://dati.senato.it/ddl/58153"
+      "link": "http://dati.senato.it/ddl/60494"
     },
     {
       "ramo": "Camera",
