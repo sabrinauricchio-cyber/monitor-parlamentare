@@ -1,7 +1,7 @@
 {
   "stato": "PARZIALE",
   "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-10-30 17:19",
+  "aggiornato_il": "2026-10-30 21:37",
   "fonti": [
     {
       "fonte": "Senato",
@@ -53,7 +53,7 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifiche al decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, in materia di orari degli esercizi commerciali, e disposizioni per il contrasto delle pratiche elusive degli obblighi fiscali e contributivi mediante cessazione e riapertura di attività d'impresa",
+      "titolo": "Misure per la tutela del commercio di prossimità e per il contrasto alle pratiche elusive realizzate mediante il fenomeno delle partite IVA cosiddette «apri e chiudi»",
       "stato": "da assegn. a commis.",
       "data": "2026-10-29",
       "link": "http://dati.senato.it/ddl/60569"
