@@ -1,7 +1,7 @@
 {
-  "stato": "PARZIALE",
-  "messaggio": "Funziona solo la fonte Senato: controlla il dettaglio dell'altra qui sotto.",
-  "aggiornato_il": "2026-10-30 21:37",
+  "stato": "OK",
+  "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
+  "aggiornato_il": "2026-10-31 10:49",
   "fonti": [
     {
       "fonte": "Senato",
@@ -10,11 +10,11 @@
     },
     {
       "fonte": "Camera",
-      "esito": "ERRORE",
-      "dettaglio": "Fonte non raggiungibile: 502 Server Error: Bad Gateway for url: https://dati.camera.it/sparql?query=PREFIX+ocd%3A+%3Chttp%3A%2F%2Fdati.camera.it%2Focd%2F%3E+SELECT+%3Fa+WHERE+%7B+%3Fa+a+ocd%3Aatto+.+%7D+LIMIT+1&format=application%2Fsparql-results%2Bjson"
+      "esito": "OK",
+      "dettaglio": "50 atti"
     }
   ],
-  "numero_atti": 45,
+  "numero_atti": 95,
   "atti": [
     {
       "ramo": "Senato",
@@ -53,7 +53,7 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Misure per la tutela del commercio di prossimità e per il contrasto alle pratiche elusive realizzate mediante il fenomeno delle partite IVA cosiddette «apri e chiudi»",
+      "titolo": "Modifiche al decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, in materia di orari degli esercizi commerciali, e disposizioni per il contrasto delle pratiche elusive degli obblighi fiscali e contributivi mediante cessazione e riapertura di attività d'impresa",
       "stato": "da assegn. a commis.",
       "data": "2026-10-29",
       "link": "http://dati.senato.it/ddl/60569"
@@ -330,6 +330,356 @@
       "stato": "esame in comm.",
       "data": "2026-10-28",
       "link": "http://dati.senato.it/ddl/60494"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SCHULLIAN e GEBHARD: \"Modifica all&rsquo;articolo 5 del regio decreto 28 marzo 1929, n. 499, in materia di iscrizione di accordi di mediazione che accertano l&rsquo;usucapione nel libro fondiario\" (14)",
+      "stato": "Assegnato",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_14"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "DEBORAH BERGAMINI: \"Modifiche alla legge 24 dicembre 2004, n. 313, e altre disposizioni in materia di apicoltura nonch&eacute; delega al Governo per la semplificazione normativa e la tutela del settore apistico nazionale\" (1378)",
+      "stato": "Assegnato",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1378"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SCHULLIAN e GEBHARD: \"Modifica all&rsquo;articolo 13 della legge 31 dicembre 2012, n. 247, in materia di esercizio dell&rsquo;attivit&agrave; dell&rsquo;avvocato a proprio favore\" (17)",
+      "stato": "Assegnato",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_17"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PASTORINO e BAKKALI: \"Disposizioni in materia di sospensione dell&rsquo;attivit&agrave;, scioglimento e confisca dei beni di gruppi, organizzazioni, movimenti, associazioni e partiti di carattere fascista o che propugnano la discriminazione per motivi razziali, etnici, nazionali o religiosi\" (810)",
+      "stato": "Assegnato",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_810"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SCHULLIAN: \"Modifica all&rsquo;articolo 169 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di sanzioni per opere illecite eseguite su beni culturali\" (18)",
+      "stato": "Assegnato",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_18"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO NAZIONALE DELL&#39;ECONOMIA E DEL LAVORO: &quot;Istituzione del servizio civile volontario degli anziani&quot; (2848)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2848"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 1809. - &quot;Modifica dell&rsquo;intesa tra il Governo della Repubblica italiana e l&rsquo;Unione Buddhista Italiana, in attuazione dell&rsquo;articolo 8, terzo comma, della Costituzione&quot;&lt;em&gt;(approvato dal Senato)&lt;/em&gt;&nbsp;(3001)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3001"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ZARATTI: \"Delega al Governo e altre disposizioni per il sostegno dell&rsquo;invecchiamento attivo, la valorizzazione del ruolo sociale e l&rsquo;istituzione del servizio civile volontario delle persone ultrasessantenni\" (3055)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3055"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MASCARETTI ed altri: \"Istituzione del Premio &ldquo;Dottor Geppino Micheletti&rdquo;\" (2785)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2785"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilit&agrave; professionale degli esercenti le professioni sanitarie\" (2700)",
+      "stato": "Approvato. Trasmesso al Senato",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2700"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale\" (3106)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3106"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt;&nbsp;(3148)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3148"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile\" (3159)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3159"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Attribuzione alla regione Liguria di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3161)",
+      "stato": "Assegnato",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3161"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Attribuzione alla regione Lombardia di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3162)",
+      "stato": "Assegnato",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3162"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Attribuzione alla regione Piemonte di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3163)",
+      "stato": "Assegnato",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3163"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Attribuzione alla regione Veneto di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3164)",
+      "stato": "Assegnato",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3164"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "TASSINARI: &quot;Disposizioni per la diagnosi e la cura della sindrome di Hikikomori e per l&rsquo;assistenza delle persone che ne sono affette&quot; (1529)",
+      "stato": "Assegnato",
+      "data": "2026-10-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1529"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CASO ed altri: \"Modifica all&rsquo;articolo 3 del decreto legislativo 4 marzo 2015, n. 22, in materia di erogazione della nuova prestazione di assicurazione sociale per l&rsquo;impiego ai lavoratori con contratto di lavoro a tempo parziale ciclico verticale\" (1602)",
+      "stato": "Assegnato",
+      "data": "2026-10-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1602"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MAZZETTI: &quot;Legge quadro per lo sviluppo delle isole minori marine, lagunari e lacustri&quot; (1671)",
+      "stato": "Assegnato",
+      "data": "2026-10-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1671"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "AMBROSI: &quot;Istituzione del Premio biennale Domenico Bassetti&quot; (943)",
+      "stato": "Assegnato",
+      "data": "2026-10-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_943"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "GIULIANO: \"Disposizioni concernenti l&rsquo;introduzione di animali da compagnia e l&rsquo;organizzazione di attivit&agrave; di cura e assistenza agli stessi presso gli istituti penitenziari e gli istituti penali per minorenni\" (2779)",
+      "stato": "Assegnato",
+      "data": "2026-10-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2779"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "GIGLIO VIGNA ed altri: \"Modifica all&rsquo;articolo 100 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, in materia di inserimento della bandiera della regione e della sigla della provincia di immatricolazione nelle targhe degli autoveicoli, dei motoveicoli e dei rimorchi\" (3062)",
+      "stato": "Assegnato",
+      "data": "2026-10-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3062"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO REGIONALE DELLA LOMBARDIA: \"Disposizioni in materia di attività libero-professionale del personale delle professioni sanitarie\" (3058)",
+      "stato": "Assegnato",
+      "data": "2026-10-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3058"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PANIZZUT: \"Istituzione della Giornata nazionale del cane guida e del cane di assistenza\" (3165)",
+      "stato": "Da assegnare",
+      "data": "2026-10-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3165"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-10-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3120"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "AMORESE: \"Modifica dell&rsquo;articolo 15 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, in materia di adozione di libri scolastici provvisti di versione digitale\" (3168)",
+      "stato": "Da assegnare",
+      "data": "2026-10-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3168"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MONTEMAGNI: \"Introduzione dell&rsquo;articolo 219-&lt;i&gt;ter&lt;/i&gt; del decreto legislativo 3 aprile 2006, n. 152, e altre disposizioni concernenti il sistema nazionale di deposito cauzionale e restituzione degli imballaggi monouso per bevande, la tutela degli utilizzatori e la verifica indipendente dei dati\" (3167)",
+      "stato": "Da assegnare",
+      "data": "2026-10-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3167"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BERRUTO: \"Istituzione del Servizio nazionale sportivo e disposizioni concernenti la determinazione dei livelli essenziali delle prestazioni volte a garantire il diritto di accesso alla pratica sportiva\" (3169)",
+      "stato": "Da assegnare",
+      "data": "2026-10-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3169"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CARETTA e CIABURRO: \"Concessione di agevolazioni tributarie e contributive per l&rsquo;erogazione di mensilità aggiuntive della retribuzione per ogni figlio nato o adottato, nonché modifica all&rsquo;articolo 18 della legge 22 maggio 2017, n. 81, in materia di esecuzione del rapporto di lavoro in modalità agile da parte delle lavoratrici e dei lavoratori con figli fino a dodici anni di età o disabili\" (3166)",
+      "stato": "Da assegnare",
+      "data": "2026-10-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3166"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SCHULLIAN: \"Modifica all&rsquo;articolo 4 delle norme di attuazione di cui all&rsquo;allegato 2 al decreto legislativo 2 luglio 2010, n. 104, in materia di deposito telematico di atti e documenti\" (15)",
+      "stato": "Assegnato",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_15"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MACCANTI e BENVENUTO: &quot;Istituzione di una zona franca territoriale nei comuni della Valle di Susa&quot; (1879)",
+      "stato": "Assegnato",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1879"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ZANELLA ed altri: \"Norme per la tutela degli equidi e loro riconoscimento come animali di affezione\" (2187)",
+      "stato": "In discussione",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2187"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CHERCHI: \"Norme per la tutela degli equidi e loro riconoscimento come animali di affezione\" (2270)",
+      "stato": "In discussione",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2270"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "GEBHARD: &quot;Modifica all&rsquo;articolo 6 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, concernente la regolamentazione della circolazione fuori dei centri abitati&quot; (2133)",
+      "stato": "Assegnato",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2133"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SCHULLIAN e GEBHARD: \"Modifica all&rsquo;articolo 6 del decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dalla legge 10 novembre 2014, n. 162, in materia di trasferimenti immobiliari mediante convenzione di negoziazione assistita da uno o pi&ugrave; avvocati\" (16)",
+      "stato": "Assegnato",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_16"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE STEGER: &quot;Modifiche all&rsquo;articolo 138 della Costituzione, concernenti la procedura per l&rsquo;approvazione delle leggi costituzionali&quot; (391)",
+      "stato": "Assegnato",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_391"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MORFINO ed altri: \"Modifica alla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, per la riduzione dell&rsquo;aliquota dell&rsquo;imposta sul valore aggiunto relativa ai prodotti alimentari senza glutine e altre disposizioni in favore dei soggetti affetti da celiachia\" (2583)",
+      "stato": "Assegnato",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2583"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MARROCCO e D&#39;ATTIS: &quot;Disposizioni in materia di formazione del personale dei nidi e delle scuole dell&rsquo;infanzia alla prestazione di interventi di primo soccorso pediatrico&quot; (719)",
+      "stato": "Assegnato",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_719"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "GIULIANO: \"Disposizioni per la semplificazione delle procedure di autorizzazione allo svolgimento di spettacoli pirotecnici connessi a manifestazioni tradizionali di rilevante interesse religioso, storico o culturale\" (2768)",
+      "stato": "Assegnato",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2768"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CIANCITTO ed altri: \"Istituzione del Parco nazionale dell&rsquo;Etna\" (2762)",
+      "stato": "Assegnato",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2762"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BRAMBILLA: \"Norme per la tutela degli equini e loro riconoscimento come animali di affezione\" (48)",
+      "stato": "In discussione",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_48"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "EVI ed altri: \"Riconoscimento degli equidi come animali di affezione e altre disposizioni per la loro tutela e per la promozione di misure per la riconversione degli allevamenti\" (2585)",
+      "stato": "In discussione",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2585"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PITTALIS: \"Modifica all&rsquo;articolo 57 del codice di procedura penale, in materia di conferimento delle qualifiche di ufficiale o agente di polizia giudiziaria ai componenti delle compagnie barracellari nella regione Sardegna\" (3090)",
+      "stato": "Assegnato",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3090"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CAFIERO DE RAHO ed altri: \"Modifiche agli articoli 81 del codice penale, in materia di concorso formale di reati e di reato continuato, e 438 del codice di procedura penale, in materia di giudizio abbreviato nei procedimenti per delitti di criminalità organizzata\" (3026)",
+      "stato": "Assegnato",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3026"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MAIORANO ed altri: \"Concessione di una medaglia d&rsquo;onore alla memoria dei militari italiani caduti o dispersi e ai reduci della campagna di Russia tra il 1941 e il 1943\" (2507)",
+      "stato": "Assegnato",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2507"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE ZARATTI: \"Modifiche agli articoli 42 e 47 della Costituzione in materia di diritto all&rsquo;abitazione\" (3111)",
+      "stato": "Assegnato",
+      "data": "2026-10-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3111"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 26 agosto 2026, n. 153, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali\" (3086)",
+      "stato": "Decreto-legge decaduto",
+      "data": "2026-10-25",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3086"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 2023. - \"Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt; (3131)",
+      "stato": "Approvato definitivamente. Legge",
+      "data": "2026-10-23",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3131"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MARROCCO ed altri: \"Modifiche alla legge 4 maggio 1983, n. 184, in materia di adozione dei minori da parte di coppie conviventi e di persone singole\" (2381)",
+      "stato": "Assegnato",
+      "data": "2026-10-22",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2381"
     }
   ]
 }
