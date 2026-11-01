@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-10-31 10:49",
+  "aggiornato_il": "2026-11-01 11:45",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,41 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Camera",
+      "titolo": "SCHULLIAN e GEBHARD: \"Modifica all&rsquo;articolo 201 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, concernente l&rsquo;adozione di criteri e limiti per la determinazione delle spese di accertamento e di notificazione delle violazioni in materia di circolazione stradale\" (22)",
+      "stato": "Assegnato",
+      "data": "2026-10-30",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_22"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SCHULLIAN e GEBHARD: \"Modifica all&rsquo;articolo 45 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, in materia di verifica di funzionalit&agrave; dei dispositivi di controllo della velocit&agrave; dei veicoli\" (21)",
+      "stato": "Assegnato",
+      "data": "2026-10-30",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_21"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SCHULLIAN: \"Modifica all&rsquo;articolo 13 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1&deg; settembre 1993, n. 385, e altre disposizioni in materia di separazione tra le banche commerciali e le banche d&rsquo;affari, nonch&eacute; delega al Governo per la diversificazione del regime tributario di tali enti\" (20)",
+      "stato": "Assegnato",
+      "data": "2026-10-30",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_20"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SCHULLIAN e GEBHARD: \"Ratifica ed esecuzione della Carta europea delle lingue regionali o minoritarie, fatta a Strasburgo il 5 novembre 1992\" (19)",
+      "stato": "Assegnato",
+      "data": "2026-10-30",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_19"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "DE PALMA: &quot;Modifiche all&rsquo;articolo 17-&lt;em&gt;bis&lt;/em&gt; del decreto-legge 14 marzo 2025, n. 25, convertito, con modificazioni, dalla legge 9 maggio 2025, n. 69, in materia di erogazione di prestazioni assistenziali da parte del fondo di previdenza per il personale del Ministero dell&rsquo;economia e delle finanze&quot; (2818)",
+      "stato": "Assegnato",
+      "data": "2026-10-30",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2818"
+    },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per la tutela del mercato immobiliare",
@@ -53,7 +88,7 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifiche al decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, in materia di orari degli esercizi commerciali, e disposizioni per il contrasto delle pratiche elusive degli obblighi fiscali e contributivi mediante cessazione e riapertura di attività d'impresa",
+      "titolo": "Misure per la tutela del commercio di prossimità e per il contrasto alle pratiche elusive realizzate mediante il fenomeno delle partite IVA cosiddette «apri e chiudi»",
       "stato": "da assegn. a commis.",
       "data": "2026-10-29",
       "link": "http://dati.senato.it/ddl/60569"
@@ -71,6 +106,13 @@
       "stato": "da assegn. a commis.",
       "data": "2026-10-29",
       "link": "http://dati.senato.it/ddl/60571"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "FARAONE ed altri: \"Istituzione della Giornata nazionale del cane guida\" (3172)",
+      "stato": "Da assegnare",
+      "data": "2026-10-29",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3172"
     },
     {
       "ramo": "Senato",
@@ -361,6 +403,13 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "S. 427-731-888-891-B. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all&rsquo;articolo 24 della Costituzione in materia di tutela delle vittime di reato\" &lt;i&gt;(approvata, in seconda deliberazione, dal Senato con la maggioranza dei due terzi dei suoi componenti, già approvata, in prima deliberazione, dal Senato, in un testo unificato, e dalla Camera)&lt;/i&gt; (2197-B)",
+      "stato": "Da assegnare",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2197-B"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "SCHULLIAN: \"Modifica all&rsquo;articolo 169 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di sanzioni per opere illecite eseguite su beni culturali\" (18)",
       "stato": "Assegnato",
       "data": "2026-10-28",
@@ -400,6 +449,20 @@
       "stato": "Approvato. Trasmesso al Senato",
       "data": "2026-10-28",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2700"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE DI BIASE ed altri: \"Modifica all&rsquo;articolo 48 della Costituzione in materia di attribuzione del diritto di elettorato attivo ai cittadini che hanno compiuto il sedicesimo anno di età\" (3171)",
+      "stato": "Da assegnare",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3171"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "D'ALFONSO: \"Modifica all&rsquo;articolo 328 del codice penale, in materia di omissione di atti d&rsquo;ufficio, nonché disposizioni concernenti l&rsquo;accertamento delle responsabilità nell&rsquo;ambito dei procedimenti amministrativi e delega al Governo per la razionalizzazione del regime sanzionatorio\" (3170)",
+      "stato": "Da assegnare",
+      "data": "2026-10-28",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3170"
     },
     {
       "ramo": "Camera",
@@ -617,69 +680,6 @@
       "stato": "Assegnato",
       "data": "2026-10-26",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2762"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BRAMBILLA: \"Norme per la tutela degli equini e loro riconoscimento come animali di affezione\" (48)",
-      "stato": "In discussione",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_48"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "EVI ed altri: \"Riconoscimento degli equidi come animali di affezione e altre disposizioni per la loro tutela e per la promozione di misure per la riconversione degli allevamenti\" (2585)",
-      "stato": "In discussione",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2585"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PITTALIS: \"Modifica all&rsquo;articolo 57 del codice di procedura penale, in materia di conferimento delle qualifiche di ufficiale o agente di polizia giudiziaria ai componenti delle compagnie barracellari nella regione Sardegna\" (3090)",
-      "stato": "Assegnato",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3090"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CAFIERO DE RAHO ed altri: \"Modifiche agli articoli 81 del codice penale, in materia di concorso formale di reati e di reato continuato, e 438 del codice di procedura penale, in materia di giudizio abbreviato nei procedimenti per delitti di criminalità organizzata\" (3026)",
-      "stato": "Assegnato",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3026"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MAIORANO ed altri: \"Concessione di una medaglia d&rsquo;onore alla memoria dei militari italiani caduti o dispersi e ai reduci della campagna di Russia tra il 1941 e il 1943\" (2507)",
-      "stato": "Assegnato",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2507"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE ZARATTI: \"Modifiche agli articoli 42 e 47 della Costituzione in materia di diritto all&rsquo;abitazione\" (3111)",
-      "stato": "Assegnato",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3111"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 26 agosto 2026, n. 153, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali\" (3086)",
-      "stato": "Decreto-legge decaduto",
-      "data": "2026-10-25",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3086"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 2023. - \"Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt; (3131)",
-      "stato": "Approvato definitivamente. Legge",
-      "data": "2026-10-23",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3131"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MARROCCO ed altri: \"Modifiche alla legge 4 maggio 1983, n. 184, in materia di adozione dei minori da parte di coppie conviventi e di persone singole\" (2381)",
-      "stato": "Assegnato",
-      "data": "2026-10-22",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2381"
     }
   ]
 }
