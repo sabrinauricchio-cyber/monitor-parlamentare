@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-01 11:45",
+  "aggiornato_il": "2026-11-02 13:18",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,41 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 201 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, concernente l'adozione di criteri e limiti per la determinazione delle spese di accertamento e di notificazione delle violazioni in materia di circolazione stradale",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-30",
+      "link": "http://dati.senato.it/ddl/55427"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 13 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, e altre disposizioni in materia di separazione tra le banche commerciali e le banche d'affari, nonché delega al Governo per la diversificazione del regime tributario di tali enti",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-30",
+      "link": "http://dati.senato.it/ddl/55420"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 45 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, in materia di verifica di funzionalità dei dispositivi di controllo della velocità dei veicoli",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-30",
+      "link": "http://dati.senato.it/ddl/55425"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione della Carta europea delle lingue regionali o minoritarie, fatta a Strasburgo il 5 novembre 1992",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-30",
+      "link": "http://dati.senato.it/ddl/55417"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 17-bis del decreto-legge 14 marzo 2025, n. 25, convertito, con modificazioni, dalla legge 9 maggio 2025, n. 69, in materia di erogazione di prestazioni assistenziali da parte del fondo di previdenza per il personale del Ministero dell'economia e delle finanze",
+      "stato": "assegnato (no esame)",
+      "data": "2026-10-30",
+      "link": "http://dati.senato.it/ddl/59947"
+    },
     {
       "ramo": "Camera",
       "titolo": "SCHULLIAN e GEBHARD: \"Modifica all&rsquo;articolo 201 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, concernente l&rsquo;adozione di criteri e limiti per la determinazione delle spese di accertamento e di notificazione delle violazioni in materia di circolazione stradale\" (22)",
@@ -99,6 +134,13 @@
       "stato": "da assegn. a commis.",
       "data": "2026-10-29",
       "link": "http://dati.senato.it/ddl/60570"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Giornata nazionale del cane guida",
+      "stato": "da assegn. a commis.",
+      "data": "2026-10-29",
+      "link": "http://dati.senato.it/ddl/60574"
     },
     {
       "ramo": "Senato",
@@ -330,48 +372,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-10-28",
       "link": "http://dati.senato.it/ddl/60557"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60549"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di sicurezza e per la prevenzione del disagio giovanile, nonché di ordinamento, organizzazione e funzionamento delle Forze di polizia e del Ministero dell'interno",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60357"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo e altre disposizioni per il sostegno dell'invecchiamento attivo, la valorizzazione del ruolo sociale e l'istituzione del servizio civile volontario delle persone ultrasessantenni",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60374"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riforma della disciplina degli ordinamenti professionali",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60394"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60495"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge annuale per il mercato e la concorrenza 2026",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60494"
     },
     {
       "ramo": "Camera",
