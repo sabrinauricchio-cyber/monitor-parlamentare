@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-03 20:10",
+  "aggiornato_il": "2026-11-04 12:52",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,300 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 38 della Costituzione per il rafforzamento dei princìpi di eguaglianza sostanziale, di non discriminazione e di inclusione delle persone con disabilità",
+      "stato": "all'esame assemblea",
+      "data": "2026-11-04",
+      "link": "http://dati.senato.it/ddl/59464"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 114 della Costituzione, in materia di ordinamento e poteri della Città di Roma, capitale della Repubblica",
+      "stato": "esame in comm.",
+      "data": "2026-11-04",
+      "link": "http://dati.senato.it/ddl/55355"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche agli articoli 3 e 38 della Costituzione in materia di diritti delle persone con disabilità",
+      "stato": "all'esame assemblea",
+      "data": "2026-11-04",
+      "link": "http://dati.senato.it/ddl/58684"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la promozione e la valorizzazione delle Grotte d'Italia",
+      "stato": "esame in comm.",
+      "data": "2026-11-04",
+      "link": "http://dati.senato.it/ddl/59189"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 38 della Costituzione in materia di diritti delle persone con disabilità",
+      "stato": "all'esame assemblea",
+      "data": "2026-11-04",
+      "link": "http://dati.senato.it/ddl/59356"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 38 della Costituzione in materia di riconoscimento e tutela delle persone con disabilità",
+      "stato": "all'esame assemblea",
+      "data": "2026-11-04",
+      "link": "http://dati.senato.it/ddl/59495"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la semplificazione delle procedure di trasferimento di beni immobili tra pubbliche amministrazioni",
+      "stato": "esame in comm.",
+      "data": "2026-11-04",
+      "link": "http://dati.senato.it/ddl/59516"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica dell'articolo 114 della Costituzione in materia di Roma Capitale",
+      "stato": "esame in comm.",
+      "data": "2026-11-04",
+      "link": "http://dati.senato.it/ddl/60105"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di rilascio di immobili",
+      "stato": "esame in comm.",
+      "data": "2026-11-04",
+      "link": "http://dati.senato.it/ddl/60131"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
+      "stato": "appr. def. non pubbl",
+      "data": "2026-11-04",
+      "link": "http://dati.senato.it/ddl/60415"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
+      "stato": "esame in comm.",
+      "data": "2026-11-04",
+      "link": "http://dati.senato.it/ddl/60495"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
+      "stato": "all'esame assemblea",
+      "data": "2026-11-04",
+      "link": "http://dati.senato.it/ddl/60531"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la promozione della salute digitale dei minori e la prevenzione della dipendenza da strumenti e piattaforme digitali",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60411"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Introduzione dell'articolo 1857-bis del codice civile e modifica all'articolo 33 del codice di cui al decreto legislativo 6 settembre 2005, n. 206, in materia di obbligo di contrarre e recesso della banca nei rapporti di conto corrente",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/59400"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il potenziamento e la razionalizzazione delle funzioni e della disciplina in materia di contrasto del dissesto idrogeologico",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/55653"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del programma nazionale diagnostico per la prevenzione e la gestione dell'obesità nell'adolescenza",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/59643"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Legge quadro per lo sviluppo delle isole minori marine, lagunari e lacustri",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/55339"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica alla legge 27 dicembre 2017, n. 205, in materia di corresponsione della retribuzione su conto corrente intestato al lavoratore",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/57194"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disciplina dell'attività di ricerca, prelievo e conservazione, a scopo collezionistico e scientifico, di beni culturali naturalistici inanimati",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/57736"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure per lo sviluppo delle tecnologie quantistiche",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/58089"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 31 luglio 2020, n. 101, in materia di norme fondamentali di sicurezza relative alla protezione contro i pericoli derivanti dall'esposizione alle radiazioni ionizzanti",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/58018"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 14 giugno 2011, n. 101, per la nuova denominazione della Giornata nazionale in memoria delle vittime dei disastri ambientali e industriali causati dall'uomo",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/58368"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Dichiarazione di monumento nazionale di teatri italiani",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/58138"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Parco nazionale dell'Etna",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/59659"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni concernenti il trasferimento del montante contributivo dell'assicurato deceduto alla posizione contributiva del coniuge, della parte dell'unione civile o del convivente di fatto ai fini del conseguimento della pensione minima",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/59805"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la valorizzazione delle isole minori marine, lagunari e lacustri",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/59988"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica alla legge 27 dicembre 2017, n. 205, in materia di corresponsione della retribuzione su conto corrente intestato al lavoratore o alla lavoratrice",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60206"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il miglioramento della qualità dell'aria mediante l'impiego di materiali ambientalmente sostenibili e aventi proprietà di riduzione degli inquinanti atmosferici per la costruzione e la ristrutturazione degli edifici pubblici statali",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60318"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Accisa generale sui prodotti da fumo e nicotina per la tutela della salute pubblica e il rafforzamento del Servizio sanitario nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60247"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di cinema",
+      "stato": "concluso l'esame",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60453"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60533"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile",
+      "stato": "all'esame assemblea",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60549"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2026",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60427"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il rafforzamento e l'adeguamento della capacità di difesa nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60441"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la riforma del reclutamento e per la valorizzazione dell'esperienza professionale del personale docente nonché per la riduzione del precariato",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60433"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento del diritto alla cittadinanza economica e per il rafforzamento dell'accesso ai servizi bancari essenziali",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60301"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalità del Ministero dell'interno e di impianti di interesse strategico nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60492"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 7 del decreto legislativo 24 giugno 2003, n. 209, in materia di destinazione di veicoli fuori uso alle istituzioni scolastiche del sistema nazionale di istruzione e agli istituti tecnologici superiori (ITS Academy) per l'utilizzazione a fini didattici",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60530"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di diritto degli utenti a interagire con una persona fisica nell'ambito dei servizi di assistenza alla clientela",
+      "stato": "esame in comm.",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60448"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
+      "stato": "all'esame assemblea",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60464"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-03",
+      "link": "http://dati.senato.it/ddl/60575"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la prevenzione del burnout e per la tutela del benessere psico-fisico nella professione forense",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-02",
+      "link": "http://dati.senato.it/ddl/60576"
+    },
     {
       "ramo": "Senato",
       "titolo": "Modifica all'articolo 201 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, concernente l'adozione di criteri e limiti per la determinazione delle spese di accertamento e di notificazione delle violazioni in materia di circolazione stradale",
@@ -36,20 +330,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-10-30",
       "link": "http://dati.senato.it/ddl/55425"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione della Carta europea delle lingue regionali o minoritarie, fatta a Strasburgo il 5 novembre 1992",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-30",
-      "link": "http://dati.senato.it/ddl/55417"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 17-bis del decreto-legge 14 marzo 2025, n. 25, convertito, con modificazioni, dalla legge 9 maggio 2025, n. 69, in materia di erogazione di prestazioni assistenziali da parte del fondo di previdenza per il personale del Ministero dell'economia e delle finanze",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-30",
-      "link": "http://dati.senato.it/ddl/59947"
     },
     {
       "ramo": "Camera",
@@ -87,291 +367,11 @@
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2818"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la tutela del mercato immobiliare",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-29",
-      "link": "http://dati.senato.it/ddl/60420"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la tutela e la valorizzazione delle attività commerciali e artigianali negli ambiti di interesse storico, culturale e paesaggistico dei centri storici",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-29",
-      "link": "http://dati.senato.it/ddl/60551"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il rafforzamento e l'adeguamento della capacità di difesa nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-10-29",
-      "link": "http://dati.senato.it/ddl/60441"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni sulla sicurezza e salubrità degli impianti aeraulici",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-29",
-      "link": "http://dati.senato.it/ddl/60488"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-29",
-      "link": "http://dati.senato.it/ddl/60550"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Misure per la tutela del commercio di prossimità e per il contrasto alle pratiche elusive realizzate mediante il fenomeno delle partite IVA cosiddette «apri e chiudi»",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-29",
-      "link": "http://dati.senato.it/ddl/60569"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche agli articoli 56 e 57 della Costituzione, in materia di rappresentanza parlamentare della Sardegna e della Sicilia, in attuazione del principio di insularità",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-29",
-      "link": "http://dati.senato.it/ddl/60570"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Giornata nazionale del cane guida",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-29",
-      "link": "http://dati.senato.it/ddl/60574"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie",
-      "stato": "da assegn. a commis.",
-      "data": "2026-10-29",
-      "link": "http://dati.senato.it/ddl/60571"
-    },
-    {
       "ramo": "Camera",
       "titolo": "FARAONE ed altri: \"Istituzione della Giornata nazionale del cane guida\" (3172)",
       "stato": "Da assegnare",
       "data": "2026-10-29",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3172"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 38 della Costituzione per il rafforzamento dei princìpi di eguaglianza sostanziale, di non discriminazione e di inclusione delle persone con disabilità",
-      "stato": "rinviato ass.->comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/59464"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del Premio \"Dottor Geppino Micheletti\"",
-      "stato": "concluso l'esame",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/59877"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato",
-      "stato": "approvato",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60173"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60172"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 5 del regio decreto 28 marzo 1929, n. 499, in materia di iscrizione di accordi di mediazione che accertano l'usucapione nel libro fondiario",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/55406"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 169 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di sanzioni per opere illecite eseguite su beni culturali",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/55415"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 13 della legge 31 dicembre 2012, n. 247, in materia di esercizio dell'attività dell'avvocato a proprio favore",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/55413"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica dell'intesa tra il Governo della Repubblica italiana e l'Unione Buddhista Italiana, in attuazione dell'articolo 8, terzo comma, della Costituzione",
-      "stato": "concluso l'esame",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60266"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge quadro per lo sviluppo delle isole minori marine, lagunari e lacustri",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/55339"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 114 della Costituzione, in materia di ordinamento e poteri della Città di Roma, capitale della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/55355"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di sospensione dell'attività, scioglimento e confisca dei beni di gruppi, organizzazioni, movimenti, associazioni e partiti di carattere fascista o che propugnano la discriminazione per motivi razziali, etnici, nazionali o religiosi",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/56519"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 24 dicembre 2004, n. 313, e altre disposizioni in materia di apicoltura nonché delega al Governo per la semplificazione normativa e la tutela del settore apistico nazionale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/57448"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 5 febbraio 1992, n. 91, in materia di acquisto e di revoca della cittadinanza",
-      "stato": "all'esame assemblea",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/58659"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche agli articoli 3 e 38 della Costituzione in materia di diritti delle persone con disabilità",
-      "stato": "rinviato ass.->comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/58684"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione di uno scudo democratico a difesa delle libertà costituzionali e dell'integrità del processo democratico dalle ingerenze straniere",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/59112"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione e la valorizzazione delle Grotte d'Italia",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/59189"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 38 della Costituzione in materia di diritti delle persone con disabilità",
-      "stato": "rinviato ass.->comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/59356"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Dichiarazione di monumento nazionale del memoriale di Portella della Ginestra nonché disposizioni per il restauro, la tutela e la valorizzazione di esso",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/59442"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 38 della Costituzione in materia di riconoscimento e tutela delle persone con disabilità",
-      "stato": "rinviato ass.->comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/59495"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la valorizzazione delle isole minori marine, lagunari e lacustri",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/59988"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del servizio civile volontario degli anziani",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60006"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie",
-      "stato": "approvato",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/59713"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica dell'articolo 114 della Costituzione in materia di Roma Capitale",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60105"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del servizio civile per pensionate e pensionati attivi",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/59778"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e all'articolo 41 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di cambio della denominazione dell'archivio centrale dello Stato in quella di Archivio nazionale",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/59909"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di rilascio di immobili",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60131"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del servizio civile per persone anziane attive",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60231"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Adozione del Piano triennale di prevenzione e promozione della salute nelle scuole nonché istituzione della Giornata nazionale della prevenzione e della promozione della salute e dei corretti stili di vita in memoria di Umberto Veronesi",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60230"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di cinema",
-      "stato": "esame in comm.",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60453"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Attribuzione alla regione Liguria di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60555"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Attribuzione alla regione Piemonte di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-      "stato": "assegnato (no esame)",
-      "data": "2026-10-28",
-      "link": "http://dati.senato.it/ddl/60557"
     },
     {
       "ramo": "Camera",
