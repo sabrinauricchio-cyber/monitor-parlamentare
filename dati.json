@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-04 12:52",
+  "aggiornato_il": "2026-11-04 13:22",
   "fonti": [
     {
       "fonte": "Senato",
@@ -304,6 +304,62 @@
       "link": "http://dati.senato.it/ddl/60575"
     },
     {
+      "ramo": "Camera",
+      "titolo": "MAZZETTI: &quot;Disciplina dell&rsquo;attivit&agrave; di ricerca, prelievo e conservazione, a scopo collezionistico e scientifico, di beni culturali naturalistici inanimati&quot; (1567)",
+      "stato": "Assegnato",
+      "data": "2026-11-03",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1567"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 427-731-888-891-B. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all&rsquo;articolo 24 della Costituzione in materia di tutela delle vittime di reato\" &lt;i&gt;(approvata, in seconda deliberazione, dal Senato con la maggioranza dei due terzi dei suoi componenti, già approvata, in prima deliberazione, dal Senato, in un testo unificato, e dalla Camera)&lt;/i&gt; (2197-B)",
+      "stato": "Assegnato",
+      "data": "2026-11-03",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2197-B"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MORASSUT: &quot;Disposizioni per il potenziamento e la razionalizzazione delle funzioni e della disciplina in materia di contrasto del dissesto idrogeologico&quot; (284)",
+      "stato": "Assegnato",
+      "data": "2026-11-03",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_284"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "AMATO ed altri: \"Disposizioni per la riforma del reclutamento e per la valorizzazione dell&rsquo;esperienza professionale del personale docente nonché per la riduzione del precariato\" (3088)",
+      "stato": "Assegnato",
+      "data": "2026-11-03",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3088"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "GIRELLI: \"Disposizioni per la promozione della salute digitale dei minori e la prevenzione della dipendenza da strumenti e piattaforme digitali\" (3079)",
+      "stato": "Assegnato",
+      "data": "2026-11-03",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3079"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MULE': \"Istituzione del programma nazionale diagnostico per la prevenzione e la gestione dell&rsquo;obesit&agrave; nell&rsquo;adolescenza\" (2663)",
+      "stato": "Assegnato",
+      "data": "2026-11-03",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2663"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CECCHETTI ed altri: \"Disposizioni per il miglioramento della qualità dell&rsquo;aria mediante l&rsquo;impiego di materiali ambientalmente sostenibili e aventi proprietà di riduzione degli inquinanti atmosferici per la costruzione e la ristrutturazione degli edifici pubblici statali\" (3031)",
+      "stato": "Assegnato",
+      "data": "2026-11-03",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3031"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "LOMUTI ed altri: \"Disposizioni concernenti il trasferimento del montante contributivo dell&rsquo;assicurato deceduto alla posizione contributiva del coniuge, della parte dell&rsquo;unione civile o del convivente di fatto ai fini del conseguimento della pensione minima\" (2748)",
+      "stato": "Assegnato",
+      "data": "2026-11-03",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2748"
+    },
+    {
       "ramo": "Senato",
       "titolo": "Disposizioni per la prevenzione del burnout e per la tutela del benessere psico-fisico nella professione forense",
       "stato": "da assegn. a commis.",
@@ -365,6 +421,20 @@
       "stato": "Assegnato",
       "data": "2026-10-30",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2818"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Bilancio di previsione dello Stato per l&rsquo;anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" (3174)",
+      "stato": "Da assegnare",
+      "data": "2026-10-30",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "QUARTINI ed altri: \"Istituzione del servizio civile volontario delle persone anziane\" (3173)",
+      "stato": "Da assegnare",
+      "data": "2026-10-30",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3173"
     },
     {
       "ramo": "Camera",
@@ -610,76 +680,6 @@
       "stato": "Assegnato",
       "data": "2026-10-26",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_15"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MACCANTI e BENVENUTO: &quot;Istituzione di una zona franca territoriale nei comuni della Valle di Susa&quot; (1879)",
-      "stato": "Assegnato",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1879"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ZANELLA ed altri: \"Norme per la tutela degli equidi e loro riconoscimento come animali di affezione\" (2187)",
-      "stato": "In discussione",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2187"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CHERCHI: \"Norme per la tutela degli equidi e loro riconoscimento come animali di affezione\" (2270)",
-      "stato": "In discussione",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2270"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "GEBHARD: &quot;Modifica all&rsquo;articolo 6 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, concernente la regolamentazione della circolazione fuori dei centri abitati&quot; (2133)",
-      "stato": "Assegnato",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2133"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SCHULLIAN e GEBHARD: \"Modifica all&rsquo;articolo 6 del decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dalla legge 10 novembre 2014, n. 162, in materia di trasferimenti immobiliari mediante convenzione di negoziazione assistita da uno o pi&ugrave; avvocati\" (16)",
-      "stato": "Assegnato",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_16"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE STEGER: &quot;Modifiche all&rsquo;articolo 138 della Costituzione, concernenti la procedura per l&rsquo;approvazione delle leggi costituzionali&quot; (391)",
-      "stato": "Assegnato",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_391"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MORFINO ed altri: \"Modifica alla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, per la riduzione dell&rsquo;aliquota dell&rsquo;imposta sul valore aggiunto relativa ai prodotti alimentari senza glutine e altre disposizioni in favore dei soggetti affetti da celiachia\" (2583)",
-      "stato": "Assegnato",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2583"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MARROCCO e D&#39;ATTIS: &quot;Disposizioni in materia di formazione del personale dei nidi e delle scuole dell&rsquo;infanzia alla prestazione di interventi di primo soccorso pediatrico&quot; (719)",
-      "stato": "Assegnato",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_719"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "GIULIANO: \"Disposizioni per la semplificazione delle procedure di autorizzazione allo svolgimento di spettacoli pirotecnici connessi a manifestazioni tradizionali di rilevante interesse religioso, storico o culturale\" (2768)",
-      "stato": "Assegnato",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2768"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CIANCITTO ed altri: \"Istituzione del Parco nazionale dell&rsquo;Etna\" (2762)",
-      "stato": "Assegnato",
-      "data": "2026-10-26",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2762"
     }
   ]
 }
