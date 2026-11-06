@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-06 12:48",
+  "aggiornato_il": "2026-11-06 13:19",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,6 +18,20 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e la tutela del caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-11-05",
+      "link": "http://dati.senato.it/ddl/57491"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e l'inclusione lavorativa dei caregiver familiari mediante riserve di posti e titoli di preferenza nei concorsi pubblici",
+      "stato": "esame in comm.",
+      "data": "2026-11-05",
+      "link": "http://dati.senato.it/ddl/60156"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di rilascio di immobili",
       "stato": "esame in comm.",
       "data": "2026-11-05",
@@ -25,10 +39,94 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
-      "stato": "all'esame assemblea",
+      "titolo": "Modifiche al codice della strada in materia di contrasto al fenomeno dei parcheggiatori abusivi",
+      "stato": "ritirato",
+      "data": "2026-11-05",
+      "link": "http://dati.senato.it/ddl/60548"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche",
+      "stato": "esame in comm.",
+      "data": "2026-11-05",
+      "link": "http://dati.senato.it/ddl/60511"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
+      "stato": "esame in comm.",
+      "data": "2026-11-05",
+      "link": "http://dati.senato.it/ddl/60529"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Card del caregiver e disposizioni in materia  di contribuzione figurativa per i caregiver familiari conviventi",
+      "stato": "esame in comm.",
+      "data": "2026-11-05",
+      "link": "http://dati.senato.it/ddl/60491"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
+      "stato": "approvato",
       "data": "2026-11-05",
       "link": "http://dati.senato.it/ddl/60464"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
+      "stato": "in relazione",
+      "data": "2026-11-05",
+      "link": "http://dati.senato.it/ddl/60481"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di documento riepilogativo delle informazioni riguardanti le prestazioni sanitarie eseguite",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-05",
+      "link": "http://dati.senato.it/ddl/60583"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 18 marzo 2025, n. 40, in materia di ricostruzione post-calamità",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-05",
+      "link": "http://dati.senato.it/ddl/60585"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 15 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e altre disposizioni in materia di versione digitale stampabile dei libri di testo scolastici e universitari",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-05",
+      "link": "http://dati.senato.it/ddl/60584"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-05",
+      "link": "http://dati.senato.it/ddl/60580"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Modifiche alla legge 18 marzo 2025, n. 40, in materia di ricostruzione post-calamità\" (&lt;i&gt;Già articolo 115 del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;quinquies&lt;/i&gt;)",
+      "stato": "Assegnato",
+      "data": "2026-11-05",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-quinquies"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Modifiche all&rsquo;articolo 15 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e altre disposizioni in materia di versione digitale stampabile dei libri di testo scolastici e universitari\" (&lt;i&gt;Già articolo 105 del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;quater&lt;/i&gt;)",
+      "stato": "Assegnato",
+      "data": "2026-11-05",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-quater"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Disposizioni in materia di documento riepilogativo delle informazioni riguardanti le prestazioni sanitarie eseguite\" (&lt;i&gt;Già articolo 69, comma 8, del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;ter&lt;/i&gt;)",
+      "stato": "Assegnato",
+      "data": "2026-11-05",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-ter"
     },
     {
       "ramo": "Senato",
@@ -255,88 +353,18 @@
       "link": "http://dati.senato.it/ddl/60555"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Attribuzione alla regione Piemonte di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/60557"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2026",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/60427"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di sicurezza e per la prevenzione del disagio giovanile, nonché di ordinamento, organizzazione e funzionamento delle Forze di polizia e del Ministero dell'interno",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/60357"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/60415"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di attività libero-professionale del personale delle professioni sanitarie",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/60351"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di successioni",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/60419"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 28 settembre 2026, n. 167, recante misure urgenti per la circolazione dei veicoli ad alimentazione diesel appartenenti alla categoria ambientale «EURO 5»",
-      "stato": "concluso l'esame",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/60486"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/60495"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge annuale per il mercato e la concorrenza 2026",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/60494"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'articolo 572-ter del codice penale in materia di controllo coercitivo nei confronti di familiari e conviventi",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/60514"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di iscrizione nei registri dello stato civile dei bambini nati morti e per la dignità del lutto perinatale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/60523"
-    },
-    {
       "ramo": "Camera",
       "titolo": "CARETTA: \"Delega al Governo per il riordino, il coordinamento e la semplificazione della legislazione in materia di agricoltura, foreste, caccia, pesca e acquacoltura mediante l&rsquo;adozione di un codice\" (2494)",
       "stato": "Assegnato",
       "data": "2026-11-04",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2494"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Modifiche alla legge 18 marzo 2025, n. 40, in materia di ricostruzione post-calamità\" (&lt;i&gt;Già articolo 115 del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;quinquies&lt;/i&gt;)",
+      "stato": "Da assegnare",
+      "data": "2026-11-04",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-quinquies"
     },
     {
       "ramo": "Camera",
@@ -368,6 +396,34 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "VOLPI: \"Modifiche alla legge 2 aprile 1958, n. 339, in materia di tutela del lavoro domestico\" (3175)",
+      "stato": "Da assegnare",
+      "data": "2026-11-04",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3175"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 1299. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI GUIDI ed altri: \"Modifica all&rsquo;articolo 38 della Costituzione in materia di diritti delle persone con disabilità\" &lt;i&gt;(approvata, in prima deliberazione, dal Senato) &lt;/i&gt;(3177)",
+      "stato": "Da assegnare",
+      "data": "2026-11-04",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3177"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SCHIANO DI VISCONTI ed altri: \"Riconoscimento dell&rsquo;endometriosi come malattia cronica e invalidante nonché disposizioni per la diagnosi precoce e la cura, la tutela della fertilità e l&rsquo;assistenza integrata delle donne che ne sono affette\" (3176)",
+      "stato": "Da assegnare",
+      "data": "2026-11-04",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3176"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PROPOSTA DI LEGGE D'INIZIATIVA POPOLARE: \"&ldquo;Cieli blu&rdquo;. Divieto di modifica delle condizioni meteorologiche (geoingegneria)»&nbsp;\" (3178)",
+      "stato": "Da assegnare",
+      "data": "2026-11-04",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3178"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "\"Bilancio di previsione dello Stato per l&rsquo;anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" (3174)",
       "stato": "Conclusione anomala per stralcio",
       "data": "2026-11-04",
@@ -393,6 +449,48 @@
       "stato": "Assegnato",
       "data": "2026-11-04",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3136"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt;&nbsp;(3148)",
+      "stato": "Approvato definitivamente, non ancora pubblicato",
+      "data": "2026-11-04",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3148"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 28 settembre 2026, n. 167, recante misure urgenti per la circolazione dei veicoli ad alimentazione &lt;i&gt;diesel&lt;/i&gt; appartenenti alla categoria ambientale &ldquo;EURO 5&rdquo;\" (3119)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-04",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3119"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Attribuzione alla regione Piemonte di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3163)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-11-04",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3163"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Attribuzione alla regione Lombardia di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3162)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-11-04",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3162"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Attribuzione alla regione Veneto di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3164)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-11-04",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3164"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Attribuzione alla regione Liguria di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3161)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-11-04",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3161"
     },
     {
       "ramo": "Camera",
@@ -582,104 +680,6 @@
       "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
       "data": "2026-10-28",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3001"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ZARATTI: \"Delega al Governo e altre disposizioni per il sostegno dell&rsquo;invecchiamento attivo, la valorizzazione del ruolo sociale e l&rsquo;istituzione del servizio civile volontario delle persone ultrasessantenni\" (3055)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3055"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MASCARETTI ed altri: \"Istituzione del Premio &ldquo;Dottor Geppino Micheletti&rdquo;\" (2785)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2785"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilit&agrave; professionale degli esercenti le professioni sanitarie\" (2700)",
-      "stato": "Approvato. Trasmesso al Senato",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2700"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE DI BIASE ed altri: \"Modifica all&rsquo;articolo 48 della Costituzione in materia di attribuzione del diritto di elettorato attivo ai cittadini che hanno compiuto il sedicesimo anno di età\" (3171)",
-      "stato": "Da assegnare",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3171"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "D'ALFONSO: \"Modifica all&rsquo;articolo 328 del codice penale, in materia di omissione di atti d&rsquo;ufficio, nonché disposizioni concernenti l&rsquo;accertamento delle responsabilità nell&rsquo;ambito dei procedimenti amministrativi e delega al Governo per la razionalizzazione del regime sanzionatorio\" (3170)",
-      "stato": "Da assegnare",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3170"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale\" (3106)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3106"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt;&nbsp;(3148)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3148"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile\" (3159)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3159"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Attribuzione alla regione Liguria di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3161)",
-      "stato": "Assegnato",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3161"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Attribuzione alla regione Lombardia di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3162)",
-      "stato": "Assegnato",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3162"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Attribuzione alla regione Piemonte di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3163)",
-      "stato": "Assegnato",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3163"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Attribuzione alla regione Veneto di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3164)",
-      "stato": "Assegnato",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3164"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "TASSINARI: &quot;Disposizioni per la diagnosi e la cura della sindrome di Hikikomori e per l&rsquo;assistenza delle persone che ne sono affette&quot; (1529)",
-      "stato": "Assegnato",
-      "data": "2026-10-27",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1529"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CASO ed altri: \"Modifica all&rsquo;articolo 3 del decreto legislativo 4 marzo 2015, n. 22, in materia di erogazione della nuova prestazione di assicurazione sociale per l&rsquo;impiego ai lavoratori con contratto di lavoro a tempo parziale ciclico verticale\" (1602)",
-      "stato": "Assegnato",
-      "data": "2026-10-27",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1602"
     }
   ]
 }
