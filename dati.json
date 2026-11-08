@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-07 11:36",
+  "aggiornato_il": "2026-11-08 11:49",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,69 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 6 novembre 2026, n. 200, recante misure urgenti per assicurare la continuità delle funzioni dell'Autorità nazionale anticorruzione (ANAC)",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-06",
+      "link": "http://dati.senato.it/ddl/60590"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "IEZZI ed altri: \"Disposizioni concernenti la prescrizione di misure organizzative per prevenire e ridurre il rischio di disordini e di danneggiamenti in occasione di manifestazioni pubbliche nonché la prestazione di garanzie per il risarcimento dei danni eventualmente arrecati\" (3039)",
+      "stato": "Assegnato",
+      "data": "2026-11-06",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3039"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "STEFANAZZI ed altri: \"Disposizioni per la sperimentazione clinica dell&rsquo;ipertermia oncologica locoregionale esterna e per la valutazione del suo inserimento nell&rsquo;ambito dei livelli essenziali di assistenza a carico del Servizio sanitario nazionale\" (2859)",
+      "stato": "Assegnato",
+      "data": "2026-11-06",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2859"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ALFONSO COLUCCI ed altri: \"Disposizioni in materia di tutela dell&rsquo;indipendenza dell&rsquo;informazione e di trasparenza degli assetti proprietari dei fornitori di servizi di media\" (2854)",
+      "stato": "Assegnato",
+      "data": "2026-11-06",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2854"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "GUERINI: \"Disposizioni per il sostegno abitativo dei lavoratori dipendenti e per la promozione degli alloggi aziendali\" (3097)",
+      "stato": "Assegnato",
+      "data": "2026-11-06",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3097"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MORFINO: \"Disposizioni in materia di reclutamento e stabilizzazione del personale docente\" (3091)",
+      "stato": "Assegnato",
+      "data": "2026-11-06",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3091"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MAGI: \"Disposizioni concernenti la sospensione dell&rsquo;esecuzione della pena detentiva, anche residua, non superiore a tre anni\" (3057)",
+      "stato": "Assegnato",
+      "data": "2026-11-06",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3057"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ROSATO: \"Introduzione dell&rsquo;articolo 1084-&lt;i&gt;ter&lt;/i&gt; del codice dell&rsquo;ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, in materia di avanzamento a titolo onorifico degli ufficiali di complemento delle Forze armate\" (3096)",
+      "stato": "Assegnato",
+      "data": "2026-11-06",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3096"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ROSATO: \"Modifiche all'ordinamento penitenziario in materia di detenzione domiciliare\" (3095)",
+      "stato": "Assegnato",
+      "data": "2026-11-06",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3095"
+    },
     {
       "ramo": "Senato",
       "titolo": "Disposizioni per il riconoscimento e la tutela del caregiver familiare",
@@ -109,10 +172,31 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "ENRICO COSTA: \"Modifiche alla legge 13 aprile 1988, n. 117, in materia di responsabilit&agrave; civile dei magistrati\" (650)",
+      "stato": "Ritirato",
+      "data": "2026-11-05",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_650"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ENRICO COSTA: \"Modifiche al decreto legislativo 31 dicembre 2012, n. 235, in materia di esclusione della sospensione di diritto dalle cariche regionali e locali in caso di condanna non definitiva per il reato di abuso d&rsquo;ufficio\" (655)",
+      "stato": "Ritirato",
+      "data": "2026-11-05",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_655"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "\"Modifiche alla legge 18 marzo 2025, n. 40, in materia di ricostruzione post-calamità\" (&lt;i&gt;Già articolo 115 del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;quinquies&lt;/i&gt;)",
       "stato": "Assegnato",
       "data": "2026-11-05",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-quinquies"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale\" (3106)",
+      "stato": "Approvato. Trasmesso al Senato",
+      "data": "2026-11-05",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3106"
     },
     {
       "ramo": "Camera",
@@ -346,13 +430,6 @@
       "link": "http://dati.senato.it/ddl/60453"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Attribuzione alla regione Liguria di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/60555"
-    },
-    {
       "ramo": "Camera",
       "titolo": "CARETTA: \"Delega al Governo per il riordino, il coordinamento e la semplificazione della legislazione in materia di agricoltura, foreste, caccia, pesca e acquacoltura mediante l&rsquo;adozione di un codice\" (2494)",
       "stato": "Assegnato",
@@ -431,20 +508,6 @@
     },
     {
       "ramo": "Camera",
-      "titolo": "\"Disposizioni in materia di documento riepilogativo delle informazioni riguardanti le prestazioni sanitarie eseguite\" (&lt;i&gt;Già articolo 69, comma 8, del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;ter&lt;/i&gt;)",
-      "stato": "Da assegnare",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-ter"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Modifiche all&rsquo;articolo 15 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e altre disposizioni in materia di versione digitale stampabile dei libri di testo scolastici e universitari\" (&lt;i&gt;Già articolo 105 del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;quater&lt;/i&gt;)",
-      "stato": "Da assegnare",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-quater"
-    },
-    {
-      "ramo": "Camera",
       "titolo": "SEMENZATO: \"Introduzione dell&rsquo;articolo 572-&lt;i&gt;ter&lt;/i&gt; del codice penale in materia di controllo coercitivo nei confronti di familiari e conviventi\" (3136)",
       "stato": "Assegnato",
       "data": "2026-11-04",
@@ -494,6 +557,20 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "\"Disposizioni in materia di documento riepilogativo delle informazioni riguardanti le prestazioni sanitarie eseguite\" (&lt;i&gt;Già articolo 69, comma 8, del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;ter&lt;/i&gt;)",
+      "stato": "Da assegnare",
+      "data": "2026-11-04",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-ter"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Modifiche all&rsquo;articolo 15 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e altre disposizioni in materia di versione digitale stampabile dei libri di testo scolastici e universitari\" (&lt;i&gt;Già articolo 105 del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;quater&lt;/i&gt;)",
+      "stato": "Da assegnare",
+      "data": "2026-11-04",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-quater"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "MAZZETTI: &quot;Disciplina dell&rsquo;attivit&agrave; di ricerca, prelievo e conservazione, a scopo collezionistico e scientifico, di beni culturali naturalistici inanimati&quot; (1567)",
       "stato": "Assegnato",
       "data": "2026-11-03",
@@ -522,17 +599,17 @@
     },
     {
       "ramo": "Camera",
-      "titolo": "AMATO ed altri: \"Disposizioni per la riforma del reclutamento e per la valorizzazione dell&rsquo;esperienza professionale del personale docente nonché per la riduzione del precariato\" (3088)",
-      "stato": "Assegnato",
-      "data": "2026-11-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3088"
-    },
-    {
-      "ramo": "Camera",
       "titolo": "GIRELLI: \"Disposizioni per la promozione della salute digitale dei minori e la prevenzione della dipendenza da strumenti e piattaforme digitali\" (3079)",
       "stato": "Assegnato",
       "data": "2026-11-03",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3079"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "AMATO ed altri: \"Disposizioni per la riforma del reclutamento e per la valorizzazione dell&rsquo;esperienza professionale del personale docente nonché per la riduzione del precariato\" (3088)",
+      "stato": "Assegnato",
+      "data": "2026-11-03",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3088"
     },
     {
       "ramo": "Camera",
@@ -603,83 +680,6 @@
       "stato": "Assegnato",
       "data": "2026-10-30",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2818"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Bilancio di previsione dello Stato per l&rsquo;anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" (3174)",
-      "stato": "Da assegnare",
-      "data": "2026-10-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "QUARTINI ed altri: \"Istituzione del servizio civile volontario delle persone anziane\" (3173)",
-      "stato": "Da assegnare",
-      "data": "2026-10-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3173"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "FARAONE ed altri: \"Istituzione della Giornata nazionale del cane guida\" (3172)",
-      "stato": "Da assegnare",
-      "data": "2026-10-29",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3172"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SCHULLIAN e GEBHARD: \"Modifica all&rsquo;articolo 5 del regio decreto 28 marzo 1929, n. 499, in materia di iscrizione di accordi di mediazione che accertano l&rsquo;usucapione nel libro fondiario\" (14)",
-      "stato": "Assegnato",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_14"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "DEBORAH BERGAMINI: \"Modifiche alla legge 24 dicembre 2004, n. 313, e altre disposizioni in materia di apicoltura nonch&eacute; delega al Governo per la semplificazione normativa e la tutela del settore apistico nazionale\" (1378)",
-      "stato": "Assegnato",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1378"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SCHULLIAN e GEBHARD: \"Modifica all&rsquo;articolo 13 della legge 31 dicembre 2012, n. 247, in materia di esercizio dell&rsquo;attivit&agrave; dell&rsquo;avvocato a proprio favore\" (17)",
-      "stato": "Assegnato",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_17"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PASTORINO e BAKKALI: \"Disposizioni in materia di sospensione dell&rsquo;attivit&agrave;, scioglimento e confisca dei beni di gruppi, organizzazioni, movimenti, associazioni e partiti di carattere fascista o che propugnano la discriminazione per motivi razziali, etnici, nazionali o religiosi\" (810)",
-      "stato": "Assegnato",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_810"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 427-731-888-891-B. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all&rsquo;articolo 24 della Costituzione in materia di tutela delle vittime di reato\" &lt;i&gt;(approvata, in seconda deliberazione, dal Senato con la maggioranza dei due terzi dei suoi componenti, già approvata, in prima deliberazione, dal Senato, in un testo unificato, e dalla Camera)&lt;/i&gt; (2197-B)",
-      "stato": "Da assegnare",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2197-B"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SCHULLIAN: \"Modifica all&rsquo;articolo 169 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di sanzioni per opere illecite eseguite su beni culturali\" (18)",
-      "stato": "Assegnato",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_18"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO NAZIONALE DELL&#39;ECONOMIA E DEL LAVORO: &quot;Istituzione del servizio civile volontario degli anziani&quot; (2848)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2848"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1809. - &quot;Modifica dell&rsquo;intesa tra il Governo della Repubblica italiana e l&rsquo;Unione Buddhista Italiana, in attuazione dell&rsquo;articolo 8, terzo comma, della Costituzione&quot;&lt;em&gt;(approvato dal Senato)&lt;/em&gt;&nbsp;(3001)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-10-28",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3001"
     }
   ]
 }
