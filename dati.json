@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-10 13:51",
+  "aggiornato_il": "2026-11-10 20:38",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,10 +18,171 @@
   "atti": [
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e l'inclusione lavorativa dei caregiver familiari mediante riserve di posti e titoli di preferenza nei concorsi pubblici",
+      "titolo": "Istituzione del Parco nazionale dell'Etna",
+      "stato": "esame in comm.",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/59659"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
+      "stato": "esame in comm.",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/59694"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Reddito di cura e tutela previdenziale del caregiver familiare",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/59843"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di rilascio di immobili",
+      "stato": "esame in comm.",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/60131"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2026",
+      "stato": "esame in comm.",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/60427"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il rafforzamento e l'adeguamento della capacità di difesa nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/60441"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 28 settembre 2026, n. 167, recante misure urgenti per la circolazione dei veicoli ad alimentazione diesel appartenenti alla categoria ambientale «EURO 5»",
+      "stato": "all'esame assemblea",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/60486"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
+      "stato": "esame in comm.",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/60495"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 23 ottobre 2026, n. 193, recante disposizioni urgenti e misure di sostegno ai settori dell'autotrasporto, dell'agricoltura e della pesca",
+      "stato": "esame in comm.",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/60553"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione del Protocollo modificativo tra il Governo della Repubblica italiana e l'Organizzazione europea di diritto pubblico riguardante l'Accordo per lo stabilimento di un Ufficio in Italia, con Allegato, fatto ad Atene il 19 giugno 2025",
+      "stato": "esame in comm.",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/60552"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 7 del decreto legislativo 24 giugno 2003, n. 209, in materia di destinazione di veicoli fuori uso alle istituzioni scolastiche del sistema nazionale di istruzione e agli istituti tecnologici superiori (ITS Academy) per l'utilizzazione a fini didattici",
+      "stato": "esame in comm.",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/60530"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Parco nazionale dell'Etna",
+      "stato": "esame in comm.",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/60534"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 6 novembre 2026, n. 200, recante misure urgenti per assicurare la continuità delle funzioni dell'Autorità nazionale anticorruzione (ANAC)",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/60590"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni fiscali in materia di negoziazioni algoritmiche ad alta frequenza (HFT) e riduzione delle imposte su lavoro e imprese",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/60594"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per maggiori tutele economiche e normative a favore dei lavoratori e lavoratrici in appalto e per più salute e sicurezza nei luoghi di lavoro",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/60595"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
+      "stato": "all'esame assemblea",
+      "data": "2026-11-10",
+      "link": "http://dati.senato.it/ddl/60580"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 34 della legge 31 dicembre 2012, n. 247, concernente il Consiglio nazionale forense",
       "stato": "assegnato (no esame)",
       "data": "2026-11-09",
-      "link": "http://dati.senato.it/ddl/60156"
+      "link": "http://dati.senato.it/ddl/55506"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche agli articoli 12 e 14 della legge 27 dicembre 2001, n. 459, in materia di digitalizzazione, in via sperimentale, di alcune procedure per l'esercizio del diritto di voto da parte dei cittadini italiani residenti all'estero",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-09",
+      "link": "http://dati.senato.it/ddl/55501"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche agli articoli 274, 279 e 294 del codice di procedura penale in materia di presupposti e di competenza per l'adozione delle misure cautelari",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-09",
+      "link": "http://dati.senato.it/ddl/56647"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Piano nazionale per la climatizzazione, la ventilazione e la sostenibilità energetica degli edifici scolastici",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-09",
+      "link": "http://dati.senato.it/ddl/60314"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 14 gennaio 2013, n. 10, e altre disposizioni per la tutela e lo sviluppo della vegetazione negli spazi urbani pubblici e privati",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-09",
+      "link": "http://dati.senato.it/ddl/60306"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per l'adattamento delle città ai cambiamenti climatici e per la protezione della popolazione dagli effetti delle ondate di calore",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-09",
+      "link": "http://dati.senato.it/ddl/60432"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per rendere effettivo il diritto alla salute mediante il rafforzamento del Servizio Sanitario Nazionale e la valorizzazione del personale",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-09",
+      "link": "http://dati.senato.it/ddl/60593"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 38 della Costituzione in materia di diritti delle persone con disabilità",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-09",
+      "link": "http://dati.senato.it/ddl/60589"
     },
     {
       "ramo": "Camera",
@@ -102,6 +263,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e l'inclusione lavorativa dei caregiver familiari mediante riserve di posti e titoli di preferenza nei concorsi pubblici",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-06",
+      "link": "http://dati.senato.it/ddl/60156"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni concernenti la prescrizione di misure organizzative per prevenire e ridurre il rischio di disordini e di danneggiamenti in occasione di manifestazioni pubbliche nonché la prestazione di garanzie per il risarcimento dei danni eventualmente arrecati",
       "stato": "assegnato (no esame)",
       "data": "2026-11-06",
@@ -130,7 +298,7 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Istituzione della Card del caregiver e disposizioni in materia  di contribuzione figurativa per i caregiver familiari conviventi",
+      "titolo": "Istituzione della Card del caregiver e disposizioni in materia di contribuzione figurativa per i caregiver familiari conviventi",
       "stato": "assegnato (no esame)",
       "data": "2026-11-06",
       "link": "http://dati.senato.it/ddl/60491"
@@ -151,10 +319,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 6 novembre 2026, n. 200, recante misure urgenti per assicurare la continuità delle funzioni dell'Autorità nazionale anticorruzione (ANAC)",
+      "titolo": "Modifiche al codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, in materia di riequilibrio territoriale dei premi dell'assicurazione obbligatoria per la responsabilità civile derivante dalla circolazione dei veicoli a motore",
       "stato": "da assegn. a commis.",
       "data": "2026-11-06",
-      "link": "http://dati.senato.it/ddl/60590"
+      "link": "http://dati.senato.it/ddl/60591"
     },
     {
       "ramo": "Camera",
@@ -235,13 +403,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Disposizioni in materia di rilascio di immobili",
-      "stato": "esame in comm.",
-      "data": "2026-11-05",
-      "link": "http://dati.senato.it/ddl/60131"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Modifiche al codice della strada in materia di contrasto al fenomeno dei parcheggiatori abusivi",
       "stato": "ritirato",
       "data": "2026-11-05",
@@ -281,20 +442,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-11-05",
       "link": "http://dati.senato.it/ddl/60585"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 15 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e altre disposizioni in materia di versione digitale stampabile dei libri di testo scolastici e universitari",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-05",
-      "link": "http://dati.senato.it/ddl/60584"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-05",
-      "link": "http://dati.senato.it/ddl/60580"
     },
     {
       "ramo": "Camera",
@@ -337,153 +484,6 @@
       "stato": "Assegnato",
       "data": "2026-11-05",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-ter"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 38 della Costituzione per il rafforzamento dei princìpi di eguaglianza sostanziale, di non discriminazione e di inclusione delle persone con disabilità",
-      "stato": "assorbito",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/59464"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di periodi di attività venatoria, di divieto dell'esercizio venatorio con l'accompagnamento di minori e di disciplina del rilascio della licenza di porto di fucile per uso di caccia",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/55479"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/55437"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/55595"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Legge quadro per lo sviluppo delle isole minori marine, lagunari e lacustri",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/55339"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 114 della Costituzione, in materia di ordinamento e poteri della Città di Roma, capitale della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/55355"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per l'integrazione delle norme adottate in attuazione della direttiva 92/43/CEE del Consiglio, del 21 maggio 1992, relativa alla conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche, mediante introduzione di un regime di deroga per la specie canis lupus",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/56939"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di prevenzione dei danni causati dalla fauna selvatica. Modifica alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/56820"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche agli articoli 12, 13 e 22 della legge 11 febbraio 1992, n. 157, in materia di divieto dell'esercizio dell'attività venatoria mediante l'uso dell'arco",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/57693"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/57863"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/57894"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/57907"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 2 della legge 11 febbraio 1992, n. 157, in materia di esclusione del lupo (canis lupus) dall'elenco delle specie particolarmente protette",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/58736"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, e all'articolo 544-ter del codice penale, in materia di divieto di utilizzo dei richiami vivi nell'attività venatoria",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/58524"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 38 della Costituzione in materia di diritti delle persone con disabilità",
-      "stato": "approvato",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/58684"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per il riordino, il coordinamento e la semplificazione della legislazione in materia di agricoltura, foreste, caccia, pesca e acquacoltura mediante l'adozione di un codice",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/59341"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 9 della legge 28 gennaio 1994, n. 84, in materia di composizione e funzionamento del Comitato di gestione delle autorità di sistema portuale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/59673"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la promozione e la valorizzazione delle Grotte d'Italia",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/59189"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 842 del codice civile, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-      "stato": "esame in comm.",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/59188"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 38 della Costituzione in materia di diritti delle persone con disabilità",
-      "stato": "assorbito",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/59356"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 38 della Costituzione in materia di riconoscimento e tutela delle persone con disabilità",
-      "stato": "assorbito",
-      "data": "2026-11-04",
-      "link": "http://dati.senato.it/ddl/59495"
     },
     {
       "ramo": "Camera",
