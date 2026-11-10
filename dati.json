@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-09 23:30",
+  "aggiornato_il": "2026-11-10 13:22",
   "fonti": [
     {
       "fonte": "Senato",
@@ -22,6 +22,55 @@
       "stato": "assegnato (no esame)",
       "data": "2026-11-09",
       "link": "http://dati.senato.it/ddl/60156"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PITTALIS ed altri: \"Modifiche agli articoli 274, 279 e 294 del codice di procedura penale in materia di presupposti e di competenza per l&rsquo;adozione delle misure cautelari\" (890)",
+      "stato": "Assegnato",
+      "data": "2026-11-09",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_890"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PITTALIS: \"Modifica all&rsquo;articolo 34 della legge 31 dicembre 2012, n. 247, concernente il Consiglio nazionale forense\" (232)",
+      "stato": "Assegnato",
+      "data": "2026-11-09",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_232"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PITTALIS: &quot;Modifiche agli articoli 12 e 14 della legge 27 dicembre 2001, n. 459, in materia di digitalizzazione, in via sperimentale, di alcune procedure per l&rsquo;esercizio del diritto di voto da parte dei cittadini italiani residenti all&rsquo;estero&quot; (228)",
+      "stato": "Assegnato",
+      "data": "2026-11-09",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_228"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BRAGA ed altri: \"Disposizioni per l&rsquo;adattamento delle città ai cambiamenti climatici e per la protezione della popolazione dagli effetti delle ondate di calore\" (3087)",
+      "stato": "Assegnato",
+      "data": "2026-11-09",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3087"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "TASSINARI: \"Istituzione del Piano nazionale per la climatizzazione, la ventilazione e la sostenibilità energetica degli edifici scolastici\" (3030)",
+      "stato": "Assegnato",
+      "data": "2026-11-09",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3030"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SERGIO COSTA e ILARIA FONTANA: \"Modifiche alla legge 14 gennaio 2013, n. 10, e altre disposizioni per la tutela e lo sviluppo della vegetazione negli spazi urbani pubblici e privati\" (3022)",
+      "stato": "Assegnato",
+      "data": "2026-11-09",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3022"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 1299. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI GUIDI ed altri: \"Modifica all&rsquo;articolo 38 della Costituzione in materia di diritti delle persone con disabilità\" &lt;i&gt;(approvata, in prima deliberazione, dal Senato) &lt;/i&gt;(3177)",
+      "stato": "Assegnato",
+      "data": "2026-11-09",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3177"
     },
     {
       "ramo": "Senato",
@@ -162,6 +211,13 @@
       "stato": "Assegnato",
       "data": "2026-11-06",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3095"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SARRACINO ed altri: \"Modifiche al codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, in materia di riequilibrio territoriale dei premi dell&rsquo;assicurazione obbligatoria per la responsabilità civile derivante dalla circolazione dei veicoli a motore\" (3179)",
+      "stato": "Da assegnare",
+      "data": "2026-11-06",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3179"
     },
     {
       "ramo": "Senato",
@@ -624,62 +680,6 @@
       "stato": "Assegnato",
       "data": "2026-11-03",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3031"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale\" (3106)",
-      "stato": "In discussione",
-      "data": "2026-11-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3106"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt;&nbsp;(3148)",
-      "stato": "In discussione",
-      "data": "2026-11-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3148"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "LOMUTI ed altri: \"Disposizioni concernenti il trasferimento del montante contributivo dell&rsquo;assicurato deceduto alla posizione contributiva del coniuge, della parte dell&rsquo;unione civile o del convivente di fatto ai fini del conseguimento della pensione minima\" (2748)",
-      "stato": "Assegnato",
-      "data": "2026-11-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2748"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SCHULLIAN e GEBHARD: \"Modifica all&rsquo;articolo 201 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, concernente l&rsquo;adozione di criteri e limiti per la determinazione delle spese di accertamento e di notificazione delle violazioni in materia di circolazione stradale\" (22)",
-      "stato": "Assegnato",
-      "data": "2026-10-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_22"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SCHULLIAN e GEBHARD: \"Modifica all&rsquo;articolo 45 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, in materia di verifica di funzionalit&agrave; dei dispositivi di controllo della velocit&agrave; dei veicoli\" (21)",
-      "stato": "Assegnato",
-      "data": "2026-10-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_21"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SCHULLIAN: \"Modifica all&rsquo;articolo 13 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1&deg; settembre 1993, n. 385, e altre disposizioni in materia di separazione tra le banche commerciali e le banche d&rsquo;affari, nonch&eacute; delega al Governo per la diversificazione del regime tributario di tali enti\" (20)",
-      "stato": "Assegnato",
-      "data": "2026-10-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_20"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SCHULLIAN e GEBHARD: \"Ratifica ed esecuzione della Carta europea delle lingue regionali o minoritarie, fatta a Strasburgo il 5 novembre 1992\" (19)",
-      "stato": "Assegnato",
-      "data": "2026-10-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_19"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "DE PALMA: &quot;Modifiche all&rsquo;articolo 17-&lt;em&gt;bis&lt;/em&gt; del decreto-legge 14 marzo 2025, n. 25, convertito, con modificazioni, dalla legge 9 maggio 2025, n. 69, in materia di erogazione di prestazioni assistenziali da parte del fondo di previdenza per il personale del Ministero dell&rsquo;economia e delle finanze&quot; (2818)",
-      "stato": "Assegnato",
-      "data": "2026-10-30",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2818"
     }
   ]
 }
