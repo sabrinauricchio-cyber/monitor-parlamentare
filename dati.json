@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-11 20:15",
+  "aggiornato_il": "2026-11-12 13:38",
   "fonti": [
     {
       "fonte": "Senato",
@@ -127,6 +127,41 @@
       "stato": "appr. def. non pubbl",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/60580"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SIMIANI ed altri: &quot;Istituzione di un fondo nazionale per la sicurezza nei luoghi di lavoro, destinato al sostegno degli investimenti delle imprese per la formazione dei lavoratori, la prevenzione degli infortuni, l&rsquo;acquisto di dispositivi di protezione e gli interventi di innovazione tecnologica finalizzati alla tutela dei lavoratori&quot; (2985)",
+      "stato": "Assegnato",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2985"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "GRAZIANO: &quot;Disposizioni per la regolamentazione delle piattaforme digitali di distribuzione di contenuti audio, video e multimediali mediante la rete &lt;em&gt;internet&lt;/em&gt;&quot; (2971)",
+      "stato": "Assegnato",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2971"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SOUMAHORO: \"Disposizioni concernenti l&rsquo;introduzione di tariffe agevolate per i servizi di trasporto pubblico locale, regionale e interregionale in favore dei lavoratori agricoli\" (3074)",
+      "stato": "Assegnato",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3074"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ILARIA FONTANA ed altri: \"Disposizioni concernenti la depavimentazione, il ripristino della permeabilità dei suoli e la rinaturalizzazione delle aree urbane\" (3066)",
+      "stato": "Assegnato",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3066"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "GAETANA RUSSO ed altri: \"Disposizioni per la celebrazione, nell&rsquo;anno 2028, del centoventesimo anniversario della nascita e del sessantesimo anniversario della morte di Giovannino Guareschi\" (3157)",
+      "stato": "Assegnato",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3157"
     },
     {
       "ramo": "Senato",
@@ -351,6 +386,27 @@
       "stato": "Assegnato",
       "data": "2026-11-10",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2978"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ALFONSO COLUCCI: \"Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, e al decreto legislativo 1° settembre 2011, n. 150, in materia di termine per l&rsquo;opposizione al decreto di pagamento delle spese di giustizia\" (3180)",
+      "stato": "Da assegnare",
+      "data": "2026-11-10",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3180"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalità del Ministero dell&rsquo;interno e di impianti di interesse strategico nazionale\" (3121)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-10",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3121"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 28 settembre 2026, n. 167, recante misure urgenti per la circolazione dei veicoli ad alimentazione &lt;i&gt;diesel&lt;/i&gt; appartenenti alla categoria ambientale &ldquo;EURO 5&rdquo;\" (3119)",
+      "stato": "Approvato. Trasmesso al Senato",
+      "data": "2026-11-10",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3119"
     },
     {
       "ramo": "Camera",
@@ -624,62 +680,6 @@
       "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
       "data": "2026-11-04",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3119"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Attribuzione alla regione Piemonte di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3163)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3163"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Attribuzione alla regione Lombardia di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3162)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3162"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Attribuzione alla regione Veneto di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3164)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3164"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Attribuzione alla regione Liguria di ulteriori forme e condizioni particolari di autonomia, ai sensi dell&rsquo;articolo 116, terzo comma, della Costituzione\" (3161)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3161"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Disposizioni in materia di documento riepilogativo delle informazioni riguardanti le prestazioni sanitarie eseguite\" (&lt;i&gt;Già articolo 69, comma 8, del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;ter&lt;/i&gt;)",
-      "stato": "Da assegnare",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-ter"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Modifiche all&rsquo;articolo 15 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e altre disposizioni in materia di versione digitale stampabile dei libri di testo scolastici e universitari\" (&lt;i&gt;Già articolo 105 del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;quater&lt;/i&gt;)",
-      "stato": "Da assegnare",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-quater"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MAZZETTI: &quot;Disciplina dell&rsquo;attivit&agrave; di ricerca, prelievo e conservazione, a scopo collezionistico e scientifico, di beni culturali naturalistici inanimati&quot; (1567)",
-      "stato": "Assegnato",
-      "data": "2026-11-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1567"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 451. - Senatori DREOSTO ed altri: &quot;Modifiche alla legge 14 giugno 2011, n. 101, per la nuova denominazione della Giornata nazionale in memoria delle vittime dei disastri ambientali e industriali causati dall&rsquo;uomo&quot; &lt;em&gt;(approvata dalla 1&ordf; Commissione permanente del Senato) &lt;/em&gt;(1948)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-11-03",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1948"
     }
   ]
 }
