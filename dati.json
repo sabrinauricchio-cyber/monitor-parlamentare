@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-12 13:38",
+  "aggiornato_il": "2026-11-12 14:05",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,6 +18,90 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
+      "stato": "esame in comm.",
+      "data": "2026-11-12",
+      "link": "http://dati.senato.it/ddl/59694"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalità del Ministero dell'interno e di impianti di interesse strategico nazionale",
+      "stato": "approvato",
+      "data": "2026-11-12",
+      "link": "http://dati.senato.it/ddl/60492"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 11 novembre 2026, n. 205, recante piano straordinario per i Campi Flegrei nonché ulteriori disposizioni urgenti di protezione civile",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-12",
+      "link": "http://dati.senato.it/ddl/60598"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/55782"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riorganizzazione della distribuzione territoriale degli uffici giudiziari",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/56083"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/56204"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione in Sassari della corte di appello e della procura generale della Repubblica presso la corte di appello",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/59852"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/56215"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/56429"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/57089"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/57174"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione in Verona di una sezione distaccata della corte di appello di Venezia",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/56903"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni per il riconoscimento e la tutela del caregiver familiare",
       "stato": "esame in comm.",
       "data": "2026-11-11",
@@ -25,10 +109,73 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/57486"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla tabella A allegata all'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, e altre disposizioni concernenti la rideterminazione dei circondari dei tribunali di Urbino e di Rimini",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/57877"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al codice di procedura penale in materia di sequestro di dispositivi, sistemi informatici o telematici o memorie digitali",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/58159"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della corte di appello di Verona",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/58182"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/58910"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per l'istituzione del salario minimo",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/58761"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per l'introduzione, in via sperimentale, dell'insegnamento curricolare dell'educazione musicale negli asili nido e nelle scuole di ogni ordine e grado",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/59145"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/59259"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Delega al Governo per la determinazione dei livelli essenziali delle prestazioni",
       "stato": "esame in comm.",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/59476"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di circoscrizioni giudiziarie",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/59610"
     },
     {
       "ramo": "Senato",
@@ -46,6 +193,27 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per la regolamentazione delle piattaforme digitali di distribuzione di contenuti audio, video e multimediali mediante la rete internet",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/60228"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione in Foggia di una sezione distaccata della corte di appello di Bari, di una sezione distaccata della corte di appello di Bari in funzione di corte di assise di appello, di una sezione distaccata del tribunale per i minorenni di Bari e di una sezione distaccata della direzione distrettuale antimafia di Bari, nonché modifiche all'articolo 51 del codice di procedura penale, in materia di competenza degli uffici del pubblico ministero",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/59712"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 22 aprile 1941, n. 633, in materia di diritto di pubblicazione secondaria in ambito scientifico",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/60148"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di rilascio di immobili",
       "stato": "esame in comm.",
       "data": "2026-11-11",
@@ -53,10 +221,24 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Istituzione di un fondo nazionale per la sicurezza nei luoghi di lavoro, destinato al sostegno degli investimenti delle imprese per la formazione dei lavoratori, la prevenzione degli infortuni, l'acquisto di dispositivi di protezione e gli interventi di innovazione tecnologica finalizzati alla tutela dei lavoratori",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/60244"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni per l'istituzione di spazi adibiti all'allattamento e alla cura dei neonati presso istituti e luoghi della cultura",
-      "stato": "all'esame assemblea",
+      "stato": "appr. def. non pubbl",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/60368"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la celebrazione del quindicesimo centenario della fondazione dell'abbazia di Montecassino",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/60367"
     },
     {
       "ramo": "Senato",
@@ -67,10 +249,31 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni concernenti la depavimentazione, il ripristino della permeabilità dei suoli e la rinaturalizzazione delle aree urbane",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/60392"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni concernenti l'introduzione di tariffe agevolate per i servizi di trasporto pubblico locale, regionale e interregionale in favore dei lavoratori agricoli",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/60408"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
       "stato": "esame in comm.",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/60495"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la celebrazione, nell'anno 2028, del centoventesimo anniversario della nascita e del sessantesimo anniversario della morte di Giovannino Guareschi",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/60544"
     },
     {
       "ramo": "Senato",
@@ -81,17 +284,17 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/60511"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
       "stato": "esame in comm.",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/60529"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalità del Ministero dell'interno e di impianti di interesse strategico nazionale",
-      "stato": "all'esame assemblea",
-      "data": "2026-11-11",
-      "link": "http://dati.senato.it/ddl/60492"
     },
     {
       "ramo": "Senato",
@@ -162,209 +365,6 @@
       "stato": "Assegnato",
       "data": "2026-11-11",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3157"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/55782"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'obbligo di indicare, nella lista delle vivande, l'origine delle materie prime impiegate negli esercizi pubblici di somministrazione di cibi e bevande",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/55523"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di periodi di attività venatoria, di divieto dell'esercizio venatorio con l'accompagnamento di minori e di disciplina del rilascio della licenza di porto di fucile per uso di caccia",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/55479"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/55437"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/55595"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Interventi in favore dei lavoratori dello spettacolo e istituzione del registro dei lavoratori del settore dello spettacolo, dell'intrattenimento e dello svago",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/55518"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la riorganizzazione della distribuzione territoriale degli uffici giudiziari",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/56083"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/56204"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione in Sassari della corte di appello e della procura generale della Repubblica presso la corte di appello",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/59852"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme per la promozione dell'equilibrio tra i sessi nelle autorità indipendenti, negli organi delle società a controllo pubblico e delle società quotate e nei comitati di consulenza del Governo",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/55259"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 114 della Costituzione, in materia di ordinamento e poteri della Città di Roma, capitale della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/55355"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento della fibromialgia come malattia invalidante",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/55884"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/56215"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento della fibromialgia come malattia invalidante",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/56289"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/56429"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di diagnosi, assistenza e cura della sindrome fibromialgica",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/56477"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in favore delle persone affette da fibromialgia",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/56799"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento della fibromialgia come malattia invalidante",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/56608"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in favore delle persone affette da fibromialgia o sindrome fibromialgica",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/56789"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento della fibromialgia, dell'encefalomielite mialgica benigna e della sensibilità chimica multipla quali malattie croniche e invalidanti",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/56782"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per l'integrazione delle norme adottate in attuazione della direttiva 92/43/CEE del Consiglio, del 21 maggio 1992, relativa alla conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche, mediante introduzione di un regime di deroga per la specie canis lupus",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/56939"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/57089"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/57174"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di prevenzione dei danni causati dalla fauna selvatica. Modifica alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/56820"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione in Verona di una sezione distaccata della corte di appello di Venezia",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/56903"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/57486"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche agli articoli 12, 13 e 22 della legge 11 febbraio 1992, n. 157, in materia di divieto dell'esercizio dell'attività venatoria mediante l'uso dell'arco",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/57693"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riorganizzazione e potenziamento dei servizi sanitari in ambito reumatologico",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/57723"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento della fibromialgia come malattia cronica e invalidante",
-      "stato": "esame in comm.",
-      "data": "2026-11-10",
-      "link": "http://dati.senato.it/ddl/57959"
     },
     {
       "ramo": "Camera",
