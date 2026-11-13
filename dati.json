@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-13 13:30",
+  "aggiornato_il": "2026-11-13 20:40",
   "fonti": [
     {
       "fonte": "Senato",
@@ -82,23 +82,9 @@
     {
       "ramo": "Senato",
       "titolo": "Divieto di importazione e di pubblicità di beni e servizi provenienti da insediamenti israeliani nelterritorio palestinese occupato",
-      "stato": "concluso l'esame",
+      "stato": "in relazione",
       "data": "2026-11-12",
       "link": "http://dati.senato.it/ddl/60115"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Attribuzione alla regione Liguria di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-      "stato": "esame in comm.",
-      "data": "2026-11-12",
-      "link": "http://dati.senato.it/ddl/60555"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Attribuzione alla regione Piemonte di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-      "stato": "esame in comm.",
-      "data": "2026-11-12",
-      "link": "http://dati.senato.it/ddl/60557"
     },
     {
       "ramo": "Senato",
@@ -123,17 +109,17 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Legge annuale per il mercato e la concorrenza 2026",
+      "stato": "esame in comm.",
+      "data": "2026-11-12",
+      "link": "http://dati.senato.it/ddl/60494"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni in materia di aggravanti penali, misure cautelari ed esecuzione delle espulsioni per gli stranieri in condizione di soggiorno irregolare",
       "stato": "assegnato (no esame)",
       "data": "2026-11-12",
       "link": "http://dati.senato.it/ddl/60538"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Attribuzione alla regione Lombardia di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-      "stato": "esame in comm.",
-      "data": "2026-11-12",
-      "link": "http://dati.senato.it/ddl/60556"
     },
     {
       "ramo": "Senato",
@@ -151,13 +137,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Attribuzione alla regione Veneto di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-      "stato": "esame in comm.",
-      "data": "2026-11-12",
-      "link": "http://dati.senato.it/ddl/60558"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Modifica dell'articolo 110 del testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773, in materia di apparecchi da intrattenimento storici, d'epoca o di interesse culturale",
       "stato": "assegnato (no esame)",
       "data": "2026-11-12",
@@ -169,6 +148,13 @@
       "stato": "assegnato (no esame)",
       "data": "2026-11-12",
       "link": "http://dati.senato.it/ddl/60570"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029",
+      "stato": "esame in comm.",
+      "data": "2026-11-12",
+      "link": "http://dati.senato.it/ddl/60582"
     },
     {
       "ramo": "Senato",
@@ -185,9 +171,44 @@
       "link": "http://dati.senato.it/ddl/60599"
     },
     {
+      "ramo": "Camera",
+      "titolo": "PITTALIS: \"Modifiche alla disciplina in materia di termini per la liquidazione e l'erogazione dei trattamenti di fine servizio dei dipendenti delle amministrazioni pubbliche\" (244)",
+      "stato": "Assegnato",
+      "data": "2026-11-12",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_244"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "LOIZZO ed altri: \"Disciplina della professione di grafologo e istituzione dell&rsquo;albo e dell&rsquo;ordine professionale\" (1918)",
+      "stato": "Assegnato",
+      "data": "2026-11-12",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1918"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CARAMIELLO ed altri: \"Introduzione graduale del divieto dell&rsquo;uso di animali nei circhi, nelle esibizioni e negli spettacoli viaggianti nonch&eacute; disposizioni per la loro riconversione\" (2288)",
+      "stato": "Assegnato",
+      "data": "2026-11-12",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2288"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "FOSSI ed altri: \"Disposizioni per la promozione dell&rsquo;accesso alle tecniche di preservazione della fertilità per fini sociali\" (3084)",
+      "stato": "Assegnato",
+      "data": "2026-11-12",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3084"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Revisione della disciplina della responsabilità amministrativa delle persone giuridiche di cui al decreto legislativo 8 giugno 2001, n. 231\" (3127)",
+      "stato": "Assegnato",
+      "data": "2026-11-12",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3127"
+    },
+    {
       "ramo": "Senato",
       "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
+      "stato": "in relazione",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/55782"
     },
@@ -215,35 +236,35 @@
     {
       "ramo": "Senato",
       "titolo": "Delega al Governo per la riorganizzazione della distribuzione territoriale degli uffici giudiziari",
-      "stato": "esame in comm.",
+      "stato": "in relazione",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/56083"
     },
     {
       "ramo": "Senato",
       "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
+      "stato": "in relazione",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/56204"
     },
     {
       "ramo": "Senato",
       "titolo": "Istituzione in Sassari della corte di appello e della procura generale della Repubblica presso la corte di appello",
-      "stato": "esame in comm.",
+      "stato": "in relazione",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/59852"
     },
     {
       "ramo": "Senato",
       "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
+      "stato": "in relazione",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/56215"
     },
     {
       "ramo": "Senato",
       "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
+      "stato": "in relazione",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/56429"
     },
@@ -257,14 +278,14 @@
     {
       "ramo": "Senato",
       "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
+      "stato": "in relazione",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/57089"
     },
     {
       "ramo": "Senato",
       "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
+      "stato": "in relazione",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/57174"
     },
@@ -278,7 +299,7 @@
     {
       "ramo": "Senato",
       "titolo": "Istituzione in Verona di una sezione distaccata della corte di appello di Venezia",
-      "stato": "esame in comm.",
+      "stato": "in relazione",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/56903"
     },
@@ -292,7 +313,7 @@
     {
       "ramo": "Senato",
       "titolo": "Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero",
-      "stato": "esame in comm.",
+      "stato": "in relazione",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/57486"
     },
@@ -313,7 +334,7 @@
     {
       "ramo": "Senato",
       "titolo": "Modifiche alla tabella A allegata all'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, e altre disposizioni concernenti la rideterminazione dei circondari dei tribunali di Urbino e di Rimini",
-      "stato": "esame in comm.",
+      "stato": "in relazione",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/57877"
     },
@@ -332,6 +353,104 @@
       "link": "http://dati.senato.it/ddl/57907"
     },
     {
+      "ramo": "Senato",
+      "titolo": "Modifiche al codice di procedura penale in materia di sequestro di dispositivi, sistemi informatici o telematici o memorie digitali",
+      "stato": "esame in comm.",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/58159"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della corte di appello di Verona",
+      "stato": "in relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.senato.it/ddl/58182"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO REGIONALE DELL&#39;ABRUZZO: &quot;Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero&quot; (360)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_360"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO REGIONALE DEL VENETO: &quot;Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero&quot; (1404)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1404"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO REGIONALE DELLA LOMBARDIA: \"Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero\" (636)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_636"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO REGIONALE DELLA CAMPANIA: \"Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero\" (766)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_766"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MORRONE: &quot;Modifiche alla tabella A allegata all&rsquo;ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, e altre disposizioni concernenti la rideterminazione dei circondari dei tribunali di Urbino e di Rimini&quot; (1661)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1661"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MASCHIO ed altri: \"Istituzione della corte di appello di Verona\" (1831)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1831"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO REGIONALE DELLE MARCHE: &quot;Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero&quot; (2260)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2260"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ASSEMBLEA REGIONALE SICILIANA: \"Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero\" (2457)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2457"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SCUTELLA' ed altri: \"Delega al Governo per la riorganizzazione della distribuzione territoriale degli uffici giudiziari\" (553)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_553"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO REGIONALE DELL&#39;UMBRIA: &quot;Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero&quot; (1166)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1166"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MASCHIO ed altri: \"Istituzione in Verona di una sezione distaccata della corte di appello di Venezia\" (1065)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1065"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO REGIONALE DELLA PUGLIA: &quot;Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero&quot; (1213)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1213"
+    },
+    {
       "ramo": "Camera",
       "titolo": "SIMIANI ed altri: &quot;Istituzione di un fondo nazionale per la sicurezza nei luoghi di lavoro, destinato al sostegno degli investimenti delle imprese per la formazione dei lavoratori, la prevenzione degli infortuni, l&rsquo;acquisto di dispositivi di protezione e gli interventi di innovazione tecnologica finalizzati alla tutela dei lavoratori&quot; (2985)",
       "stato": "Assegnato",
@@ -347,6 +466,13 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "PERANTONI: \"Istituzione in Sassari della corte di appello e della procura generale della Repubblica presso la corte di appello\" (2770)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2770"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "SOUMAHORO: \"Disposizioni concernenti l&rsquo;introduzione di tariffe agevolate per i servizi di trasporto pubblico locale, regionale e interregionale in favore dei lavoratori agricoli\" (3074)",
       "stato": "Assegnato",
       "data": "2026-11-11",
@@ -354,10 +480,80 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "GRIPPO: &quot;Modifiche alla legge 22 aprile 1941, n. 633, in materia di diritto di pubblicazione secondaria in ambito scientifico&quot; (2934)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2934"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO REGIONALE DELLA CALABRIA: \"Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero\" (642)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_642"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Disposizioni in materia di circoscrizioni giudiziarie\" (2646)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2646"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PELLEGRINI ed altri: \"Istituzione in Foggia di una sezione distaccata della corte di appello di Bari, di una sezione distaccata della corte di appello di Bari in funzione di corte di assise di appello, di una sezione distaccata del tribunale per i minorenni di Bari e di una sezione distaccata della direzione distrettuale antimafia di Bari, nonch&eacute; modifiche all&rsquo;articolo 51 del codice di procedura penale, in materia di competenza degli uffici del pubblico ministero\" (2699)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2699"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 11 novembre 2026, n. 205, recante piano straordinario per i Campi Flegrei nonché ulteriori disposizioni urgenti di protezione civile\" (3181)",
+      "stato": "Da assegnare",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3181"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 11 novembre 2026, n. 205, recante piano straordinario per i Campi Flegrei nonché ulteriori disposizioni urgenti di protezione civile\" (3181)",
+      "stato": "Assegnato",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3181"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MATTIA: \"Disposizioni per la celebrazione del quindicesimo centenario della fondazione dell&rsquo;abbazia di Montecassino\" (3052)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3052"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalità del Ministero dell&rsquo;interno e di impianti di interesse strategico nazionale\" (3121)",
+      "stato": "In discussione",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3121"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "ILARIA FONTANA ed altri: \"Disposizioni concernenti la depavimentazione, il ripristino della permeabilità dei suoli e la rinaturalizzazione delle aree urbane\" (3066)",
       "stato": "Assegnato",
       "data": "2026-11-11",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3066"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO REGIONALE DELLA LOMBARDIA: \"Disposizioni per la bonifica delle valanghe mediante distacco artificiale\" (3183)",
+      "stato": "Da assegnare",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3183"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "DE MARIA e MULE': \"Disposizioni per la celebrazione del trentesimo anniversario della morte di Giuseppe Dossetti\" (3182)",
+      "stato": "Da assegnare",
+      "data": "2026-11-11",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3182"
     },
     {
       "ramo": "Camera",
@@ -484,202 +680,6 @@
       "stato": "Assegnato",
       "data": "2026-11-06",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2859"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ALFONSO COLUCCI ed altri: \"Disposizioni in materia di tutela dell&rsquo;indipendenza dell&rsquo;informazione e di trasparenza degli assetti proprietari dei fornitori di servizi di media\" (2854)",
-      "stato": "Assegnato",
-      "data": "2026-11-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2854"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "GUERINI: \"Disposizioni per il sostegno abitativo dei lavoratori dipendenti e per la promozione degli alloggi aziendali\" (3097)",
-      "stato": "Assegnato",
-      "data": "2026-11-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3097"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MORFINO: \"Disposizioni in materia di reclutamento e stabilizzazione del personale docente\" (3091)",
-      "stato": "Assegnato",
-      "data": "2026-11-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3091"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MAGI: \"Disposizioni concernenti la sospensione dell&rsquo;esecuzione della pena detentiva, anche residua, non superiore a tre anni\" (3057)",
-      "stato": "Assegnato",
-      "data": "2026-11-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3057"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt;&nbsp;(3148)",
-      "stato": "Approvato definitivamente. Legge",
-      "data": "2026-11-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3148"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ROSATO: \"Introduzione dell&rsquo;articolo 1084-&lt;i&gt;ter&lt;/i&gt; del codice dell&rsquo;ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, in materia di avanzamento a titolo onorifico degli ufficiali di complemento delle Forze armate\" (3096)",
-      "stato": "Assegnato",
-      "data": "2026-11-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3096"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ROSATO: \"Modifiche all'ordinamento penitenziario in materia di detenzione domiciliare\" (3095)",
-      "stato": "Assegnato",
-      "data": "2026-11-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3095"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SARRACINO ed altri: \"Modifiche al codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, in materia di riequilibrio territoriale dei premi dell&rsquo;assicurazione obbligatoria per la responsabilità civile derivante dalla circolazione dei veicoli a motore\" (3179)",
-      "stato": "Da assegnare",
-      "data": "2026-11-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3179"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ENRICO COSTA: \"Modifiche alla legge 13 aprile 1988, n. 117, in materia di responsabilit&agrave; civile dei magistrati\" (650)",
-      "stato": "Ritirato",
-      "data": "2026-11-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_650"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ENRICO COSTA: \"Modifiche al decreto legislativo 31 dicembre 2012, n. 235, in materia di esclusione della sospensione di diritto dalle cariche regionali e locali in caso di condanna non definitiva per il reato di abuso d&rsquo;ufficio\" (655)",
-      "stato": "Ritirato",
-      "data": "2026-11-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_655"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Modifiche alla legge 18 marzo 2025, n. 40, in materia di ricostruzione post-calamità\" (&lt;i&gt;Già articolo 115 del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;quinquies&lt;/i&gt;)",
-      "stato": "Assegnato",
-      "data": "2026-11-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-quinquies"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale\" (3106)",
-      "stato": "Approvato. Trasmesso al Senato",
-      "data": "2026-11-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3106"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Modifiche all&rsquo;articolo 15 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e altre disposizioni in materia di versione digitale stampabile dei libri di testo scolastici e universitari\" (&lt;i&gt;Già articolo 105 del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;quater&lt;/i&gt;)",
-      "stato": "Assegnato",
-      "data": "2026-11-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-quater"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Disposizioni in materia di documento riepilogativo delle informazioni riguardanti le prestazioni sanitarie eseguite\" (&lt;i&gt;Già articolo 69, comma 8, del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;ter&lt;/i&gt;)",
-      "stato": "Assegnato",
-      "data": "2026-11-05",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-ter"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CARETTA: \"Delega al Governo per il riordino, il coordinamento e la semplificazione della legislazione in materia di agricoltura, foreste, caccia, pesca e acquacoltura mediante l&rsquo;adozione di un codice\" (2494)",
-      "stato": "Assegnato",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2494"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Modifiche alla legge 18 marzo 2025, n. 40, in materia di ricostruzione post-calamità\" (&lt;i&gt;Già articolo 115 del disegno di legge n. 3174 &ndash; Stralcio disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026&lt;/i&gt;) (3174-&lt;i&gt;quinquies&lt;/i&gt;)",
-      "stato": "Da assegnare",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-quinquies"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Bilancio di previsione dello Stato per l&rsquo;anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" (&lt;i&gt;Testo risultante dallo stralcio, disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026, degli articoli 69, comma 8, 105 e 115 del disegno di legge n. 3174&lt;/i&gt;) (3174-&lt;i&gt;bis&lt;/i&gt;)",
-      "stato": "Assegnato",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-bis"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Bilancio di previsione dello Stato per l&rsquo;anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" (&lt;i&gt;Testo risultante dallo stralcio, disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026, degli articoli 69, comma 8, 105 e 115 del disegno di legge n. 3174&lt;/i&gt;) (3174-&lt;i&gt;bis&lt;/i&gt;)",
-      "stato": "Da assegnare",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-bis"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "LOMUTI ed altri: \"Istituzione dell&rsquo;Autorit&agrave; per la vigilanza sull&rsquo;acquisizione dei sistemi d&rsquo;arma e sulle compensazioni e introduzione del capo II-&lt;em&gt;bis &lt;/em&gt;del titolo II del libro terzo del codice di cui al decreto legislativo 15 marzo 2010, n. 66, concernente il procedimento per la stipulazione dei contratti relativi a sistemi d&rsquo;arma e gli obblighi di compensazione industriale\" (2948)",
-      "stato": "Assegnato",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2948"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SCERRA: \"Modifiche all&rsquo;articolo 9 della legge 28 gennaio 1994, n. 84, in materia di composizione e funzionamento del Comitato di gestione delle autorit&agrave; di sistema portuale\" (2676)",
-      "stato": "Assegnato",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2676"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "VOLPI: \"Modifiche alla legge 2 aprile 1958, n. 339, in materia di tutela del lavoro domestico\" (3175)",
-      "stato": "Da assegnare",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3175"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1299. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI GUIDI ed altri: \"Modifica all&rsquo;articolo 38 della Costituzione in materia di diritti delle persone con disabilità\" &lt;i&gt;(approvata, in prima deliberazione, dal Senato) &lt;/i&gt;(3177)",
-      "stato": "Da assegnare",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3177"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SCHIANO DI VISCONTI ed altri: \"Riconoscimento dell&rsquo;endometriosi come malattia cronica e invalidante nonché disposizioni per la diagnosi precoce e la cura, la tutela della fertilità e l&rsquo;assistenza integrata delle donne che ne sono affette\" (3176)",
-      "stato": "Da assegnare",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3176"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PROPOSTA DI LEGGE D'INIZIATIVA POPOLARE: \"&lsquo;Cieli blu&rsquo;. Divieto di modifica delle condizioni meteorologiche (geoingegneria)\" (3178)",
-      "stato": "Da assegnare",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3178"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Bilancio di previsione dello Stato per l&rsquo;anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" (3174)",
-      "stato": "Conclusione anomala per stralcio",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SEMENZATO: \"Introduzione dell&rsquo;articolo 572-&lt;i&gt;ter&lt;/i&gt; del codice penale in materia di controllo coercitivo nei confronti di familiari e conviventi\" (3136)",
-      "stato": "Assegnato",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3136"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" &lt;i&gt;(approvato dal Senato)&lt;/i&gt;&nbsp;(3148)",
-      "stato": "Approvato definitivamente, non ancora pubblicato",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3148"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 28 settembre 2026, n. 167, recante misure urgenti per la circolazione dei veicoli ad alimentazione &lt;i&gt;diesel&lt;/i&gt; appartenenti alla categoria ambientale &ldquo;EURO 5&rdquo;\" (3119)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-11-04",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3119"
     }
   ]
 }
