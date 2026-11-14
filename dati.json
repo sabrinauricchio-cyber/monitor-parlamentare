@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-13 20:40",
+  "aggiornato_il": "2026-11-14 11:59",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,13 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 13 novembre 2026, n. 207, recante disposizioni urgenti per la riduzione del costo dell'energia elettrica e del gas",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-13",
+      "link": "http://dati.senato.it/ddl/60604"
+    },
     {
       "ramo": "Senato",
       "titolo": "Disciplina della professione di grafologo e istituzione dell'albo e dell'ordine professionale",
@@ -64,13 +71,6 @@
       "stato": "assegnato (no esame)",
       "data": "2026-11-12",
       "link": "http://dati.senato.it/ddl/58961"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
-      "stato": "esame in comm.",
-      "data": "2026-11-12",
-      "link": "http://dati.senato.it/ddl/59694"
     },
     {
       "ramo": "Senato",
