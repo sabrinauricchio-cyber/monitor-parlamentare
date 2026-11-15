@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-14 11:59",
+  "aggiornato_il": "2026-11-15 12:36",
   "fonti": [
     {
       "fonte": "Senato",
@@ -71,6 +71,13 @@
       "stato": "assegnato (no esame)",
       "data": "2026-11-12",
       "link": "http://dati.senato.it/ddl/58961"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
+      "stato": "esame in comm.",
+      "data": "2026-11-12",
+      "link": "http://dati.senato.it/ddl/59694"
     },
     {
       "ramo": "Senato",
@@ -200,10 +207,31 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "\"Bilancio di previsione dello Stato per l&rsquo;anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" (&lt;i&gt;Testo risultante dallo stralcio, disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026, degli articoli 69, comma 8, 105 e 115 del disegno di legge n. 3174&lt;/i&gt;) (3174-&lt;i&gt;bis&lt;/i&gt;)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-11-12",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3174-bis"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BONELLI ed altri: \"Divieto di importazione e di pubblicit&agrave; di beni e servizi provenienti da insediamenti israeliani nel territorio palestinese occupato\" (2916)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-12",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2916"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "\"Revisione della disciplina della responsabilità amministrativa delle persone giuridiche di cui al decreto legislativo 8 giugno 2001, n. 231\" (3127)",
       "stato": "Assegnato",
       "data": "2026-11-12",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3127"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BELLOMO ed altri: \"Modifica all&rsquo;articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali\" (3184)",
+      "stato": "Da assegnare",
+      "data": "2026-11-12",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3184"
     },
     {
       "ramo": "Senato",
@@ -358,13 +386,6 @@
       "stato": "esame in comm.",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/58159"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della corte di appello di Verona",
-      "stato": "in relazione",
-      "data": "2026-11-11",
-      "link": "http://dati.senato.it/ddl/58182"
     },
     {
       "ramo": "Camera",
@@ -659,27 +680,6 @@
       "stato": "In discussione",
       "data": "2026-11-09",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3119"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 1299. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI GUIDI ed altri: \"Modifica all&rsquo;articolo 38 della Costituzione in materia di diritti delle persone con disabilità\" &lt;i&gt;(approvata, in prima deliberazione, dal Senato) &lt;/i&gt;(3177)",
-      "stato": "Assegnato",
-      "data": "2026-11-09",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3177"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "IEZZI ed altri: \"Disposizioni concernenti la prescrizione di misure organizzative per prevenire e ridurre il rischio di disordini e di danneggiamenti in occasione di manifestazioni pubbliche nonché la prestazione di garanzie per il risarcimento dei danni eventualmente arrecati\" (3039)",
-      "stato": "Assegnato",
-      "data": "2026-11-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3039"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "STEFANAZZI ed altri: \"Disposizioni per la sperimentazione clinica dell&rsquo;ipertermia oncologica locoregionale esterna e per la valutazione del suo inserimento nell&rsquo;ambito dei livelli essenziali di assistenza a carico del Servizio sanitario nazionale\" (2859)",
-      "stato": "Assegnato",
-      "data": "2026-11-06",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2859"
     }
   ]
 }
