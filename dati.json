@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-15 12:36",
+  "aggiornato_il": "2026-11-16 13:28",
   "fonti": [
     {
       "fonte": "Senato",
@@ -176,6 +176,13 @@
       "stato": "assegnato (no esame)",
       "data": "2026-11-12",
       "link": "http://dati.senato.it/ddl/60599"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-12",
+      "link": "http://dati.senato.it/ddl/60605"
     },
     {
       "ramo": "Camera",
@@ -379,13 +386,6 @@
       "stato": "esame in comm.",
       "data": "2026-11-11",
       "link": "http://dati.senato.it/ddl/57907"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al codice di procedura penale in materia di sequestro di dispositivi, sistemi informatici o telematici o memorie digitali",
-      "stato": "esame in comm.",
-      "data": "2026-11-11",
-      "link": "http://dati.senato.it/ddl/58159"
     },
     {
       "ramo": "Camera",
