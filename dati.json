@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-18 22:23",
+  "aggiornato_il": "2026-11-19 14:14",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,6 +18,48 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni in materia di rilascio di immobili",
+      "stato": "esame in comm.",
+      "data": "2026-11-19",
+      "link": "http://dati.senato.it/ddl/60131"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il rafforzamento e l'adeguamento della capacità di difesa nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-11-19",
+      "link": "http://dati.senato.it/ddl/60441"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
+      "stato": "all'esame assemblea",
+      "data": "2026-11-19",
+      "link": "http://dati.senato.it/ddl/60495"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche",
+      "stato": "approvato",
+      "data": "2026-11-19",
+      "link": "http://dati.senato.it/ddl/60511"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di terapie digitali",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60171"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 165 del codice penale e all'articolo 115-bis del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di legittima difesa",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/55347"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Disposizioni per la prevenzione e la cura delle patologie oculari cronico-degenerative, in particolare della maculopatia degenerativa miopica e senile",
       "stato": "approvato",
       "data": "2026-11-18",
@@ -25,10 +67,213 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche",
-      "stato": "all'esame assemblea",
+      "titolo": "Modifica all'articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali",
+      "stato": "esame in comm.",
       "data": "2026-11-18",
-      "link": "http://dati.senato.it/ddl/60511"
+      "link": "http://dati.senato.it/ddl/56615"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/57211"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di confessioni religiose che non hanno stipulato intese con lo Stato italiano ai sensi dell'articolo 8, terzo comma, della Costituzione e delega al Governo in materia di statuti",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/57461"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al codice di procedura penale in materia di sequestro di dispositivi, sistemi informatici o telematici o memorie digitali",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/58159"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione dei termini processuali nel periodo feriale",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/58168"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione dell'Agenzia sulla disinformazione e la sicurezza cognitiva",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/58124"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione di uno scudo democratico a difesa delle libertà costituzionali e dell'integrità del processo democratico dalle ingerenze straniere",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/59112"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 2044 del codice civile e all'articolo 185 del codice penale in materia di responsabilità civile nei casi di eccesso di legittima difesa",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/59262"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al codice penale e altre disposizioni in materia di contrasto del fondamentalismo religioso",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/59471"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Settimana nazionale della scrittura a mano",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/59908"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica dell'articolo 12 della Costituzione in materia di riconoscimento dell'inno nazionale",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60143"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la prevenzione dei fenomeni di radicalizzazione e di estremismo violento di matrice jihadista",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/59716"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 1 della legge 7 aprile 2014, n. 56, in materia di istituzione della città metropolitanadi Pescara",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60114"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche al codice civile in materia di risarcimento del danno",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60259"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 52 del codice penale in materia di legittima difesa",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60322"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60533"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2026",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60427"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni in materia di sicurezza e per la prevenzione del disagio giovanile, nonché di ordinamento, organizzazione e funzionamento delle Forze di polizia e del Ministero dell'interno",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60357"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la riforma della disciplina degli ordinamenti professionali",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60394"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60550"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per la protezione del processo elettorale a livello locale, regionale e nazionale nonché per l'elezione dei membri del Parlamento europeo spettanti all'Italia",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60546"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 6 novembre 2026, n. 200, recante misure urgenti per assicurare la continuità delle funzioni dell'Autorità nazionale anticorruzione (ANAC)",
+      "stato": "concluso l'esame",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60590"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalità del Ministero dell'interno e di impianti di interesse strategico nazionale",
+      "stato": "concluso l'esame",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60599"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60606"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60607"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 1277 del codice civile in materia di tutela del diritto alla libertà di pagamento in contanti",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60528"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/60605"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SOTTANELLI: &quot;Modifica all&rsquo;articolo 1 della legge 7 aprile 2014, n. 56, in materia di istituzione della citt&agrave; metropolitana di Pescara&quot; (2915)",
+      "stato": "Assegnato",
+      "data": "2026-11-18",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2915"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO REGIONALE DEL VENETO: \"Modifica all&rsquo;articolo 1277 del codice civile in materia di tutela del diritto alla libertà di pagamento in contanti\" (3146)",
+      "stato": "Assegnato",
+      "data": "2026-11-18",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3146"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BELLOMO ed altri: \"Modifica all&rsquo;articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali\" (3184)",
+      "stato": "Assegnato",
+      "data": "2026-11-18",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3184"
     },
     {
       "ramo": "Senato",
@@ -39,10 +284,31 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 165 del codice penale e all'articolo 115-bis del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di legittima difesa",
+      "titolo": "Integrazione all'articolo 43 della legge costituzionale 26 febbraio 1948, n. 3, recante Statuto speciale per la Sardegna, in materia di elezione diretta degli organi di governo degli enti di area vasta",
       "stato": "esame in comm.",
       "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/55347"
+      "link": "http://dati.senato.it/ddl/60168"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di periodi di attività venatoria, di divieto dell'esercizio venatorio con l'accompagnamento di minori e di disciplina del rilascio della licenza di porto di fucile per uso di caccia",
+      "stato": "esame in comm.",
+      "data": "2026-11-17",
+      "link": "http://dati.senato.it/ddl/55479"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+      "stato": "esame in comm.",
+      "data": "2026-11-17",
+      "link": "http://dati.senato.it/ddl/55437"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica",
+      "stato": "esame in comm.",
+      "data": "2026-11-17",
+      "link": "http://dati.senato.it/ddl/55595"
     },
     {
       "ramo": "Senato",
@@ -87,249 +353,39 @@
       "link": "http://dati.senato.it/ddl/56789"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento della fibromialgia, dell'encefalomielite mialgica benigna e della sensibilità chimica multipla quali malattie croniche e invalidanti",
-      "stato": "concluso l'esame",
+      "ramo": "Camera",
+      "titolo": "MALAGUTI ed altri: \"Definizione della nozione di &ldquo;antisemitismo&rdquo; e disposizioni per il contrasto degli atti di antisemitismo\" (2376)",
+      "stato": "Assorbito dall'approvazione di pdl abbinato",
       "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/56782"
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2376"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Modifica alla legge 27 dicembre 2017, n. 205, in materia di corresponsione della retribuzione su conto corrente intestato al lavoratore",
-      "stato": "esame in comm.",
+      "ramo": "Camera",
+      "titolo": "MOLINARI ed altri: \"Definizione della nozione di &ldquo;antisemitismo&rdquo; e disposizioni per il contrasto degli atti di antisemitismo\" (2383)",
+      "stato": "Assorbito dall'approvazione di pdl abbinato",
       "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/57194"
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2383"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e la tutela del caregiver familiare",
-      "stato": "esame in comm.",
+      "ramo": "Camera",
+      "titolo": "S. 1004. - Senatori ROMEO ed altri: &quot;Disposizioni per il contrasto all&rsquo;antisemitismo e per l&rsquo;adozione della definizione operativa di antisemitismo&quot; &lt;em&gt;(approvata dal Senato) &lt;/em&gt;(2830)",
+      "stato": "Approvato definitivamente, non ancora pubblicato",
       "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/57491"
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2830"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Riorganizzazione e potenziamento dei servizi sanitari in ambito reumatologico",
-      "stato": "concluso l'esame",
+      "ramo": "Camera",
+      "titolo": "GRIBAUDO: \"Introduzione di una maggiorazione retributiva per le prestazioni lavorative svolte con orario giornaliero articolato in frazioni temporali separate da interruzioni di durata prolungata\" (3188)",
+      "stato": "Da assegnare",
       "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/57723"
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3188"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento della fibromialgia come malattia cronica e invalidante",
-      "stato": "concluso l'esame",
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l&rsquo;economia circolare e le bonifiche\" (3133)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
       "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/57959"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di usi nonché di redazione e aggiornamento delle raccolte degli usi generali, regionali, interterritoriali e locali",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60330"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in favore delle persone affette da fibromialgia",
-      "stato": "concluso l'esame",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/58816"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Definizione della nozione di \"antisemitismo\" e disposizioni per il contrasto degli atti di antisemitismo",
-      "stato": "assorbito",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/59118"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 2044 del codice civile e all'articolo 185 del codice penale in materia di responsabilità civile nei casi di eccesso di legittima difesa",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/59262"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riconoscimento della fibromialgia quale malattia cronica e invalidante, nonché disposizioni per la diagnosi e cura e per l'assistenza delle persone che ne sono affette",
-      "stato": "concluso l'esame",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/58994"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Definizione della nozione di \"antisemitismo\" e disposizioni per il contrasto degli atti di antisemitismo",
-      "stato": "assorbito",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/59131"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 15 aprile 2024, n. 55, in materia di disciplina delle professioni pedagogiche ed educative",
-      "stato": "concluso l'esame",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/59694"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del Reddito di cura e tutela previdenziale del caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/59843"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e l'inclusione lavorativa dei caregiver familiari mediante riserve di posti e titoli di preferenza nei concorsi pubblici",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60156"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il contrasto all'antisemitismo e per l'adozione della definizione operativa di antisemitismo",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/59963"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica dell'articolo 114 della Costituzione in materia di Roma Capitale",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60105"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di rilascio di immobili",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60131"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia economica, fiscale, nonché in materia di tutela dei consumatori",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60225"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica alla legge 27 dicembre 2017, n. 205, in materia di corresponsione della retribuzione su conto corrente intestato al lavoratore o alla lavoratrice",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60206"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al codice civile in materia di risarcimento del danno",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60259"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 52 del codice penale in materia di legittima difesa",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60322"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60533"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di sicurezza e per la prevenzione del disagio giovanile, nonché di ordinamento, organizzazione e funzionamento delle Forze di polizia e del Ministero dell'interno",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60357"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il rafforzamento e l'adeguamento della capacità di difesa nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60441"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 35 della legge 22 ottobre 1971, n. 865, e introduzione dell'articolo 18-bis del testo unico di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, in materia di riserva di quote delle aree destinate all'edilizia residenziale convenzionata in favore delle cooperative edilizie, e altre disposizioni per favorire l'accesso alla prima casa di abitazione",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60456"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 1 della legge 13 luglio 2015, n. 107, e altre disposizioni in materia di formazione sulle tecniche di primo soccorso per gli studenti e il personale delle scuole secondarie di primo e di secondo grado",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60467"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento del diritto alla cittadinanza economica e per il rafforzamento dell'accesso ai servizi bancari essenziali",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60301"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
-      "stato": "all'esame assemblea",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60495"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 23 ottobre 2026, n. 193, recante disposizioni urgenti e misure di sostegno ai settori dell'autotrasporto, dell'agricoltura e della pesca",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60553"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60550"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione del Parco archeologico culturale di Tuscolo",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60519"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60529"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Card del caregiver e disposizioni in materia di contribuzione figurativa per i caregiver familiari conviventi",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60491"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 28 settembre 2026, n. 167, recante misure urgenti per la circolazione dei veicoli ad alimentazione diesel appartenenti alla categoria ambientale «EURO 5»",
-      "stato": "appr. def. non pubbl",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60596"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalità del Ministero dell'interno e di impianti di interesse strategico nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-11-17",
-      "link": "http://dati.senato.it/ddl/60599"
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3133"
     },
     {
       "ramo": "Camera",
@@ -606,6 +662,13 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalità del Ministero dell&rsquo;interno e di impianti di interesse strategico nazionale\" (3121)",
+      "stato": "Approvato. Trasmesso al Senato",
+      "data": "2026-11-12",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3121"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "BELLOMO ed altri: \"Modifica all&rsquo;articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali\" (3184)",
       "stato": "Da assegnare",
       "data": "2026-11-12",
@@ -617,69 +680,6 @@
       "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
       "data": "2026-11-11",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_360"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO REGIONALE DEL VENETO: &quot;Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero&quot; (1404)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-11-11",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1404"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO REGIONALE DELLA LOMBARDIA: \"Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero\" (636)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-11-11",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_636"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO REGIONALE DELLA CAMPANIA: \"Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero\" (766)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-11-11",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_766"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MORRONE: &quot;Modifiche alla tabella A allegata all&rsquo;ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, e altre disposizioni concernenti la rideterminazione dei circondari dei tribunali di Urbino e di Rimini&quot; (1661)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-11-11",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1661"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MASCHIO ed altri: \"Istituzione della corte di appello di Verona\" (1831)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-11-11",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1831"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO REGIONALE DELLE MARCHE: &quot;Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero&quot; (2260)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-11-11",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2260"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "ASSEMBLEA REGIONALE SICILIANA: \"Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero\" (2457)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-11-11",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2457"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SCUTELLA' ed altri: \"Delega al Governo per la riorganizzazione della distribuzione territoriale degli uffici giudiziari\" (553)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-11-11",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_553"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO REGIONALE DELL&#39;UMBRIA: &quot;Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero&quot; (1166)",
-      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
-      "data": "2026-11-11",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1166"
     }
   ]
 }
