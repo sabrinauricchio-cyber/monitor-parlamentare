@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-20 21:54",
+  "aggiornato_il": "2026-11-21 13:19",
   "fonti": [
     {
       "fonte": "Senato",
@@ -207,6 +207,13 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l&rsquo;economia circolare e le bonifiche\" (3133)",
+      "stato": "Approvato. Trasmesso al Senato",
+      "data": "2026-11-19",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3133"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "S. 2053. - \"Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell&rsquo;anno scolastico 2026/2027, per l&rsquo;accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell&rsquo;istruzione e del merito, per la promozione dell&rsquo;integrazione degli studenti stranieri nell&rsquo;ambito scolastico, nonché in materia di formazione superiore e ricerca\" &lt;i&gt;(approvato dal Senato) &lt;/i&gt;(3189)",
       "stato": "Da assegnare",
       "data": "2026-11-19",
@@ -246,6 +253,13 @@
       "stato": "Assegnato",
       "data": "2026-11-19",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3126"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 2053. - \"Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell&rsquo;anno scolastico 2026/2027, per l&rsquo;accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell&rsquo;istruzione e del merito, per la promozione dell&rsquo;integrazione degli studenti stranieri nell&rsquo;ambito scolastico, nonché in materia di formazione superiore e ricerca\" &lt;i&gt;(approvato dal Senato) &lt;/i&gt;(3189)",
+      "stato": "In corso di esame in Commissione",
+      "data": "2026-11-19",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3189"
     },
     {
       "ramo": "Senato",
@@ -666,20 +680,6 @@
       "stato": "Assegnato",
       "data": "2026-11-16",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3128"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MULE': \"Modifiche all&rsquo;articolo 176 del decreto legislativo 9 aprile 2008, n. 81, concernenti l&rsquo;introduzione dell&rsquo;obbligo di visita oculistica biennale per i lavoratori addetti ad attività che comportano l&rsquo;uso di attrezzature munite di videoterminali\" (3124)",
-      "stato": "Assegnato",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3124"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PELLEGRINI ed altri: \"Istituzione in Foggia di una sezione distaccata della corte di appello di Bari, di una sezione distaccata della corte di appello di Bari in funzione di corte di assise di appello, di una sezione distaccata del tribunale per i minorenni di Bari e di una sezione distaccata della direzione distrettuale antimafia di Bari, nonch&eacute; modifiche all&rsquo;articolo 51 del codice di procedura penale, in materia di competenza degli uffici del pubblico ministero\" (2699)",
-      "stato": "In discussione",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2699"
     }
   ]
 }
