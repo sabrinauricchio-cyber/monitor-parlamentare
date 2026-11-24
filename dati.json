@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-24 15:40",
+  "aggiornato_il": "2026-11-24 16:35",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,34 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
+      "stato": "all'esame assemblea",
+      "data": "2026-11-24",
+      "link": "http://dati.senato.it/ddl/60612"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del registro pubblico dei dati personali",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-23",
+      "link": "http://dati.senato.it/ddl/59812"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029",
+      "stato": "esame in comm.",
+      "data": "2026-11-23",
+      "link": "http://dati.senato.it/ddl/60582"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "\"Cieli blu\". Divieto di modifica delle condizioni meteorologiche (geoingegneria)",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-23",
+      "link": "http://dati.senato.it/ddl/60588"
+    },
     {
       "ramo": "Camera",
       "titolo": "AURIEMMA ed altri: \"Istituzione del registro pubblico dei dati personali\" (2756)",
@@ -36,6 +64,27 @@
       "stato": "assegnato (no esame)",
       "data": "2026-11-20",
       "link": "http://dati.senato.it/ddl/60613"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per il riordino della disciplina dei servizi e delle politiche sociali mediante l'adozione del testo unico delle disposizioni in materia di sistema integrato di interventi e servizi sociali",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-20",
+      "link": "http://dati.senato.it/ddl/60620"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il contrasto delle diseguaglianze territoriali nell'assistenza pediatrica e per il sostegno delle famiglie nell'ambito delle politiche demografiche e sociali",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-20",
+      "link": "http://dati.senato.it/ddl/60621"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica dell'articolo 111-bis del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-20",
+      "link": "http://dati.senato.it/ddl/60619"
     },
     {
       "ramo": "Camera",
@@ -221,10 +270,31 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
-      "stato": "esame in comm.",
+      "titolo": "Modifica agli articoli 6-ter del decreto-legge 27 giugno 2003, n. 151, convertito, con modificazioni, dalla legge 1° agosto 2003, n. 214, e 126-bis del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, in materia di recupero dei punti della patente di guida rilasciata da uno Stato estero",
+      "stato": "ritirato",
       "data": "2026-11-19",
-      "link": "http://dati.senato.it/ddl/60612"
+      "link": "http://dati.senato.it/ddl/60455"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Misure per la rigenerazione urbana del commercio e dei servizi di prossimità",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-19",
+      "link": "http://dati.senato.it/ddl/60618"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per la prevenzione e la cura delle patologie oculari cronico-degenerative, in particolare della maculopatia degenerativa miopica e senile",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-19",
+      "link": "http://dati.senato.it/ddl/60622"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Imposta grandi patrimoni",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-19",
+      "link": "http://dati.senato.it/ddl/60617"
     },
     {
       "ramo": "Senato",
@@ -379,76 +449,6 @@
       "stato": "esame in comm.",
       "data": "2026-11-18",
       "link": "http://dati.senato.it/ddl/56939"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Norme in materia di prevenzione dei danni causati dalla fauna selvatica. Modifica alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-11-18",
-      "link": "http://dati.senato.it/ddl/56820"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali",
-      "stato": "esame in comm.",
-      "data": "2026-11-18",
-      "link": "http://dati.senato.it/ddl/57211"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di confessioni religiose che non hanno stipulato intese con lo Stato italiano ai sensi dell'articolo 8, terzo comma, della Costituzione e delega al Governo in materia di statuti",
-      "stato": "esame in comm.",
-      "data": "2026-11-18",
-      "link": "http://dati.senato.it/ddl/57461"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche agli articoli 12, 13 e 22 della legge 11 febbraio 1992, n. 157, in materia di divieto dell'esercizio dell'attività venatoria mediante l'uso dell'arco",
-      "stato": "esame in comm.",
-      "data": "2026-11-18",
-      "link": "http://dati.senato.it/ddl/57693"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-11-18",
-      "link": "http://dati.senato.it/ddl/57863"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-11-18",
-      "link": "http://dati.senato.it/ddl/57894"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-11-18",
-      "link": "http://dati.senato.it/ddl/57907"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche al codice di procedura penale in materia di sequestro di dispositivi, sistemi informatici o telematici o memorie digitali",
-      "stato": "esame in comm.",
-      "data": "2026-11-18",
-      "link": "http://dati.senato.it/ddl/58159"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione dei termini processuali nel periodo feriale",
-      "stato": "esame in comm.",
-      "data": "2026-11-18",
-      "link": "http://dati.senato.it/ddl/58168"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione dell'Agenzia sulla disinformazione e la sicurezza cognitiva",
-      "stato": "esame in comm.",
-      "data": "2026-11-18",
-      "link": "http://dati.senato.it/ddl/58124"
     },
     {
       "ramo": "Camera",
