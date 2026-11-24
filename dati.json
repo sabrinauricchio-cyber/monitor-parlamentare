@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-23 16:39",
+  "aggiornato_il": "2026-11-24 03:04",
   "fonti": [
     {
       "fonte": "Senato",
@@ -193,6 +193,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Imposta grandi patrimoni",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-19",
+      "link": "http://dati.senato.it/ddl/60617"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Introduzione dell'articolo 219-ter del decreto legislativo 3 aprile 2006, n. 152, e altre disposizioni concernenti il sistema nazionale di deposito cauzionale e restituzione degli imballaggi monouso per bevande, la tutela degli utilizzatori e la verifica indipendente dei dati",
       "stato": "assegnato (no esame)",
       "data": "2026-11-19",
@@ -379,13 +386,6 @@
       "stato": "esame in comm.",
       "data": "2026-11-18",
       "link": "http://dati.senato.it/ddl/58168"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione dell'Agenzia sulla disinformazione e la sicurezza cognitiva",
-      "stato": "esame in comm.",
-      "data": "2026-11-18",
-      "link": "http://dati.senato.it/ddl/58124"
     },
     {
       "ramo": "Camera",
