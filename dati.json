@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-24 03:04",
+  "aggiornato_il": "2026-11-24 15:40",
   "fonti": [
     {
       "fonte": "Senato",
@@ -17,11 +17,46 @@
   "numero_atti": 95,
   "atti": [
     {
+      "ramo": "Camera",
+      "titolo": "AURIEMMA ed altri: \"Istituzione del registro pubblico dei dati personali\" (2756)",
+      "stato": "Assegnato",
+      "data": "2026-11-23",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2756"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PROPOSTA DI LEGGE D'INIZIATIVA POPOLARE: \"&lsquo;Cieli blu&rsquo;. Divieto di modifica delle condizioni meteorologiche (geoingegneria)\" (3178)",
+      "stato": "Assegnato",
+      "data": "2026-11-23",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3178"
+    },
+    {
       "ramo": "Senato",
       "titolo": "Conversione in legge, con modificazioni, del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche",
       "stato": "assegnato (no esame)",
       "data": "2026-11-20",
       "link": "http://dati.senato.it/ddl/60613"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO NAZIONALE DELL'ECONOMIA E DEL LAVORO: \"Modifica dell&rsquo;articolo&nbsp;111-&lt;i&gt;bis&lt;/i&gt; del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385\" (3192)",
+      "stato": "Da assegnare",
+      "data": "2026-11-20",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3192"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO NAZIONALE DELL'ECONOMIA E DEL LAVORO: \"Delega al Governo per il riordino della disciplina dei servizi e delle politiche sociali mediante l&rsquo;adozione del testo unico delle disposizioni in materia di sistema integrato di interventi e servizi sociali\" (3193)",
+      "stato": "Da assegnare",
+      "data": "2026-11-20",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3193"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO NAZIONALE DELL'ECONOMIA E DEL LAVORO: \"Disposizioni per il contrasto delle diseguaglianze territoriali nell&rsquo;assistenza pediatrica e per il sostegno delle famiglie nell&rsquo;ambito delle politiche demografiche e sociali\" (3194)",
+      "stato": "Da assegnare",
+      "data": "2026-11-20",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3194"
     },
     {
       "ramo": "Senato",
@@ -193,13 +228,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Imposta grandi patrimoni",
-      "stato": "da assegn. a commis.",
-      "data": "2026-11-19",
-      "link": "http://dati.senato.it/ddl/60617"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Introduzione dell'articolo 219-ter del decreto legislativo 3 aprile 2006, n. 152, e altre disposizioni concernenti il sistema nazionale di deposito cauzionale e restituzione degli imballaggi monouso per bevande, la tutela degli utilizzatori e la verifica indipendente dei dati",
       "stato": "assegnato (no esame)",
       "data": "2026-11-19",
@@ -263,10 +291,38 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "BILLI: \"Modifica agli articoli 6-&lt;i&gt;ter&lt;/i&gt; del decreto-legge 27 giugno 2003, n. 151, convertito, con modificazioni, dalla legge 1° agosto 2003, n. 214, e 126-&lt;i&gt;bis&lt;/i&gt; del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, in materia di recupero dei punti della patente di guida rilasciata da uno Stato estero\" (3101)",
+      "stato": "Ritirato",
+      "data": "2026-11-19",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3101"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "S. 2053. - \"Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell&rsquo;anno scolastico 2026/2027, per l&rsquo;accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell&rsquo;istruzione e del merito, per la promozione dell&rsquo;integrazione degli studenti stranieri nell&rsquo;ambito scolastico, nonché in materia di formazione superiore e ricerca\" &lt;i&gt;(approvato dal Senato) &lt;/i&gt;(3189)",
       "stato": "In corso di esame in Commissione",
       "data": "2026-11-19",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3189"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 483. - CANTU' ed altri: \"Disposizioni per la prevenzione e la cura delle patologie oculari cronico-degenerative, in particolare della maculopatia degenerativa miopica e senile\" &lt;i&gt;(approvata dal Senato)&lt;/i&gt;&nbsp;(3191)",
+      "stato": "Da assegnare",
+      "data": "2026-11-19",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3191"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "PROPOSTA DI LEGGE D'INIZIATIVA POPOLARE: \"Misure per la rigenerazione urbana del commercio e dei servizi di prossimità\" (3190)",
+      "stato": "Da assegnare",
+      "data": "2026-11-19",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3190"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 28 settembre 2026, n. 167, recante misure urgenti per la circolazione dei veicoli ad alimentazione &lt;i&gt;diesel&lt;/i&gt; appartenenti alla categoria ambientale &ldquo;EURO 5&rdquo;\" (3119)",
+      "stato": "Approvato definitivamente dal Senato. Legge",
+      "data": "2026-11-19",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3119"
     },
     {
       "ramo": "Senato",
@@ -386,6 +442,13 @@
       "stato": "esame in comm.",
       "data": "2026-11-18",
       "link": "http://dati.senato.it/ddl/58168"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione dell'Agenzia sulla disinformazione e la sicurezza cognitiva",
+      "stato": "esame in comm.",
+      "data": "2026-11-18",
+      "link": "http://dati.senato.it/ddl/58124"
     },
     {
       "ramo": "Camera",
@@ -536,6 +599,13 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "\"Conversione in legge del decreto-legge 28 settembre 2026, n. 167, recante misure urgenti per la circolazione dei veicoli ad alimentazione &lt;i&gt;diesel&lt;/i&gt; appartenenti alla categoria ambientale &ldquo;EURO 5&rdquo;\" (3119)",
+      "stato": "Approvato definitivamente dal Senato, non ancora pubblicato",
+      "data": "2026-11-17",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3119"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "CONSIGLIO REGIONALE DELL&#39;ABRUZZO: &quot;Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero&quot; (360)",
       "stato": "In discussione",
       "data": "2026-11-16",
@@ -610,76 +680,6 @@
       "stato": "In discussione",
       "data": "2026-11-16",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1166"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MASCHIO ed altri: \"Istituzione in Verona di una sezione distaccata della corte di appello di Venezia\" (1065)",
-      "stato": "In discussione",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1065"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO REGIONALE DELLA PUGLIA: &quot;Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero&quot; (1213)",
-      "stato": "In discussione",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1213"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PERANTONI: \"Istituzione in Sassari della corte di appello e della procura generale della Repubblica presso la corte di appello\" (2770)",
-      "stato": "In discussione",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2770"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO REGIONALE DELLA CALABRIA: \"Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero\" (642)",
-      "stato": "In discussione",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_642"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Disposizioni in materia di circoscrizioni giudiziarie\" (2646)",
-      "stato": "In discussione",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2646"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BONELLI ed altri: \"Divieto di importazione e di pubblicit&agrave; di beni e servizi provenienti da insediamenti israeliani nel territorio palestinese occupato\" (2916)",
-      "stato": "In discussione",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2916"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "L'ABBATE: \"Disposizioni per favorire l&rsquo;occupazione giovanile, la trasmissione intergenerazionale delle competenze e la salvaguardia dei negozi, delle botteghe artigiane e degli esercizi pubblici storici\" (3103)",
-      "stato": "Assegnato",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3103"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "L'ABBATE: \"Agevolazione fiscale per il recupero e la valorizzazione delle architetture rurali tradizionali da adibire ad abitazione principale\" (3104)",
-      "stato": "Assegnato",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3104"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "L'ABBATE: \"Disposizioni per la semplificazione e il potenziamento della filiera nazionale di gestione dei moduli fotovoltaici dismessi e per lo sviluppo del riciclo avanzato delle materie prime critiche\" (3041)",
-      "stato": "Assegnato",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3041"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "POLIDORI: \"Disposizioni concernenti l&rsquo;accreditamento di contributi previdenziali figurativi per periodi di interruzione dell&rsquo;attività lavorativa dedicati alla cura e all&rsquo;assistenza di figli minori di sei anni\" (3128)",
-      "stato": "Assegnato",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3128"
     }
   ]
 }
