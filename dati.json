@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-25 16:17",
+  "aggiornato_il": "2026-11-26 00:32",
   "fonti": [
     {
       "fonte": "Senato",
@@ -18,6 +18,27 @@
   "atti": [
     {
       "ramo": "Senato",
+      "titolo": "Norme per la promozione dell'equilibrio tra i sessi nelle autorità indipendenti, negli organi delle società a controllo pubblico e delle società quotate e nei comitati di consulenza del Governo",
+      "stato": "esame in comm.",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/55259"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 114 della Costituzione, in materia di ordinamento e poteri della Città di Roma, capitale della Repubblica",
+      "stato": "concluso l'esame",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/55355"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e la tutela del caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/57491"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Dichiarazione di monumento nazionale di teatri italiani",
       "stato": "esame in comm.",
       "data": "2026-11-25",
@@ -25,10 +46,45 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Istituzione della Settimana nazionale della scrittura a mano",
+      "titolo": "Norme in materia di usi nonché di redazione e aggiornamento delle raccolte degli usi generali, regionali, interterritoriali e locali",
       "stato": "esame in comm.",
       "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60330"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione del Reddito di cura e tutela previdenziale del caregiver familiare",
+      "stato": "esame in comm.",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/59843"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Settimana nazionale della scrittura a mano",
+      "stato": "concluso l'esame",
+      "data": "2026-11-25",
       "link": "http://dati.senato.it/ddl/59908"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica dell'articolo 12 della Costituzione in materia di riconoscimento dell'inno nazionale",
+      "stato": "concluso l'esame",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60143"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento e l'inclusione lavorativa dei caregiver familiari mediante riserve di posti e titoli di preferenza nei concorsi pubblici",
+      "stato": "esame in comm.",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60156"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica dell'articolo 114 della Costituzione in materia di Roma Capitale",
+      "stato": "concluso l'esame",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60105"
     },
     {
       "ramo": "Senato",
@@ -40,16 +96,114 @@
     {
       "ramo": "Senato",
       "titolo": "Disposizioni in materia economica, fiscale, nonché in materia di tutela dei consumatori",
-      "stato": "esame in comm.",
+      "stato": "in relazione",
       "data": "2026-11-25",
       "link": "http://dati.senato.it/ddl/60225"
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche",
+      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
       "stato": "all'esame assemblea",
       "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60533"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il rafforzamento e l'adeguamento della capacità di difesa nazionale",
+      "stato": "concluso l'esame",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60441"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il riconoscimento delle funzioni di pubblico servizio degli assistenti bagnanti e per il rafforzamento della tutela della sicurezza della balneazione",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60474"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 23 ottobre 2026, n. 193, recante disposizioni urgenti e misure di sostegno ai settori dell'autotrasporto, dell'agricoltura e della pesca",
+      "stato": "esame in comm.",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60553"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione del Protocollo modificativo tra il Governo della Repubblica italiana e l'Organizzazione europea di diritto pubblico riguardante l'Accordo per lo stabilimento di un Ufficio in Italia, con Allegato, fatto ad Atene il 19 giugno 2025",
+      "stato": "in relazione",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60552"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare sulla cooperazione in materia di sicurezza, fatto ad Algeri il 1° febbraio 2024, e dell'Accordo sulla cooperazione in materia di lotta al terrorismo tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare, fatto a Roma il 23 luglio 2025",
+      "stato": "in relazione",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60509"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
+      "stato": "esame in comm.",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60529"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Istituzione della Card del caregiver e disposizioni in materia di contribuzione figurativa per i caregiver familiari conviventi",
+      "stato": "esame in comm.",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60491"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni per il rafforzamento dei servizi territoriali di salute mentale e la valorizzazione del personale sanitario nel circuito penale",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60477"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 6 novembre 2026, n. 200, recante misure urgenti per assicurare la continuità delle funzioni dell'Autorità nazionale anticorruzione (ANAC)",
+      "stato": "approvato",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60590"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche",
+      "stato": "appr. def. non pubbl",
+      "data": "2026-11-25",
       "link": "http://dati.senato.it/ddl/60613"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
+      "stato": "all'esame assemblea",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60612"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Riconoscimento e tutela della minoranza linguistica ladino-retica della Val di Non o Anaunia",
+      "stato": "da assegn. a commis.",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60628"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Delega al Governo per l'istituzione del Sistema nazionale per la resilienza democratica e per il contrasto alle manipolazioni informative e alle ingerenze straniere",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60579"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 13 novembre 2026, n. 207, recante disposizioni urgenti per la riduzione del costo dell'energia elettrica e del gas",
+      "stato": "esame in comm.",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60604"
     },
     {
       "ramo": "Senato",
@@ -81,13 +235,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Modifica all'articolo 114 della Costituzione, in materia di ordinamento e poteri della Città di Roma, capitale della Repubblica",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/55355"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Disposizioni per l'integrazione delle norme adottate in attuazione della direttiva 92/43/CEE del Consiglio, del 21 maggio 1992, relativa alla conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche, mediante introduzione di un regime di deroga per la specie canis lupus",
       "stato": "esame in comm.",
       "data": "2026-11-24",
@@ -99,13 +246,6 @@
       "stato": "esame in comm.",
       "data": "2026-11-24",
       "link": "http://dati.senato.it/ddl/56820"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e la tutela del caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/57491"
     },
     {
       "ramo": "Senato",
@@ -186,150 +326,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Istituzione del Reddito di cura e tutela previdenziale del caregiver familiare",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/59843"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il riconoscimento e l'inclusione lavorativa dei caregiver familiari mediante riserve di posti e titoli di preferenza nei concorsi pubblici",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60156"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
       "stato": "esame in comm.",
       "data": "2026-11-24",
       "link": "http://dati.senato.it/ddl/60236"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica dell'articolo 114 della Costituzione in materia di Roma Capitale",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60105"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Introduzione dell'articolo 19.1 e modifica all'articolo 27 della legge 11 febbraio 1992, n. 157, concernenti il diritto all'obiezione di coscienza per il personale addetto al controllo della fauna selvatica e la formazione del personale preposto alla vigilanza venatoria",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/59907"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60533"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Attribuzione alla regione Liguria di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60555"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Attribuzione alla regione Piemonte di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60557"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2026",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60427"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per il rafforzamento e l'adeguamento della capacità di difesa nazionale",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60441"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Attribuzione alla regione Lombardia di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60556"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 23 ottobre 2026, n. 193, recante disposizioni urgenti e misure di sostegno ai settori dell'autotrasporto, dell'agricoltura e della pesca",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60553"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60550"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione del Protocollo modificativo tra il Governo della Repubblica italiana e l'Organizzazione europea di diritto pubblico riguardante l'Accordo per lo stabilimento di un Ufficio in Italia, con Allegato, fatto ad Atene il 19 giugno 2025",
-      "stato": "concluso l'esame",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60552"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare sulla cooperazione in materia di sicurezza, fatto ad Algeri il 1° febbraio 2024, e dell'Accordo sulla cooperazione in materia di lotta al terrorismo tra il Governo della Repubblica italiana e il Governo della Repubblica algerina democratica e popolare, fatto a Roma il 23 luglio 2025",
-      "stato": "concluso l'esame",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60509"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60529"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Delega al Governo per la protezione del processo elettorale a livello locale, regionale e nazionale nonché per l'elezione dei membri del Parlamento europeo spettanti all'Italia",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60546"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Istituzione della Card del caregiver e disposizioni in materia di contribuzione figurativa per i caregiver familiari conviventi",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60491"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Attribuzione alla regione Veneto di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60558"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60582"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni per la bonifica delle valanghe mediante distacco artificiale",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60601"
     },
     {
       "ramo": "Camera",
