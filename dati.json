@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-26 00:32",
+  "aggiornato_il": "2026-11-26 14:54",
   "fonti": [
     {
       "fonte": "Senato",
@@ -16,6 +16,20 @@
   ],
   "numero_atti": 95,
   "atti": [
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
+      "stato": "all'esame assemblea",
+      "data": "2026-11-26",
+      "link": "http://dati.senato.it/ddl/60533"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
+      "stato": "appr. def. non pubbl",
+      "data": "2026-11-26",
+      "link": "http://dati.senato.it/ddl/60612"
+    },
     {
       "ramo": "Senato",
       "titolo": "Norme per la promozione dell'equilibrio tra i sessi nelle autorità indipendenti, negli organi delle società a controllo pubblico e delle società quotate e nei comitati di consulenza del Governo",
@@ -102,10 +116,10 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
-      "stato": "all'esame assemblea",
+      "titolo": "Disposizioni di attuazione dell'articolo 2-septies, paragrafo 1, del regolamento (UE) n. 833/2014 del Consiglio, del 31 luglio 2014, concernente il regime sanzionatorio per il contrasto della diffusione dei contenuti della propaganda russa di guerra e l'individuazione delle autorità competenti per la sua applicazione",
+      "stato": "assegnato (no esame)",
       "data": "2026-11-25",
-      "link": "http://dati.senato.it/ddl/60533"
+      "link": "http://dati.senato.it/ddl/60278"
     },
     {
       "ramo": "Senato",
@@ -113,6 +127,13 @@
       "stato": "concluso l'esame",
       "data": "2026-11-25",
       "link": "http://dati.senato.it/ddl/60441"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Modifica all'articolo 19 del decreto legislativo 5 aprile 2006, n. 160, in materia di permanenza presso il medesimo ufficio dei magistrati addetti alla trattazione delle controversie concernenti la proprietà industriale",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60466"
     },
     {
       "ramo": "Senato",
@@ -144,6 +165,13 @@
     },
     {
       "ramo": "Senato",
+      "titolo": "Disposizioni per la realizzazione di coperture fotovoltaiche, alberature e interventi di adattamento ai cambiamenti climatici nei parcheggi aperti al pubblico",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60520"
+    },
+    {
+      "ramo": "Senato",
       "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
       "stato": "esame in comm.",
       "data": "2026-11-25",
@@ -155,6 +183,20 @@
       "stato": "esame in comm.",
       "data": "2026-11-25",
       "link": "http://dati.senato.it/ddl/60491"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Disposizioni concernenti la sospensione della fruizione di benefìci erogati dai comuni in caso di violazione delle ordinanze comunali in materia di sicurezza e decoro urbano nonché in caso di condanna di un minorenne a pena detentiva di durata non inferiore a un anno",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60535"
+    },
+    {
+      "ramo": "Senato",
+      "titolo": "Deleghe al Governo per la semplificazione degli adempimenti fiscali e amministrativi in favore dei piccoli birrifici indipendenti nonché disposizioni in materia di riduzione dell'aliquota di accisa sulla birra",
+      "stato": "assegnato (no esame)",
+      "data": "2026-11-25",
+      "link": "http://dati.senato.it/ddl/60454"
     },
     {
       "ramo": "Senato",
@@ -179,13 +221,6 @@
     },
     {
       "ramo": "Senato",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
-      "stato": "all'esame assemblea",
-      "data": "2026-11-25",
-      "link": "http://dati.senato.it/ddl/60612"
-    },
-    {
-      "ramo": "Senato",
       "titolo": "Riconoscimento e tutela della minoranza linguistica ladino-retica della Val di Non o Anaunia",
       "stato": "da assegn. a commis.",
       "data": "2026-11-25",
@@ -204,6 +239,41 @@
       "stato": "esame in comm.",
       "data": "2026-11-25",
       "link": "http://dati.senato.it/ddl/60604"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ONORI ed altri: \"Disposizioni di attuazione dell&rsquo;articolo 2-&lt;i&gt;septies&lt;/i&gt;, paragrafo 1, del regolamento (UE) n. 833/2014 del Consiglio, del 31 luglio 2014, concernente il regime sanzionatorio per il contrasto della diffusione dei contenuti della propaganda russa di guerra e l&rsquo;individuazione delle autorità competenti per la sua applicazione\" (3009)",
+      "stato": "Assegnato",
+      "data": "2026-11-25",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3009"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "L'ABBATE: \"Deleghe al Governo per la semplificazione degli adempimenti fiscali e amministrativi in favore dei piccoli birrifici indipendenti nonché disposizioni in materia di riduzione dell&rsquo;aliquota di accisa sulla birra\" (3100)",
+      "stato": "Assegnato",
+      "data": "2026-11-25",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3100"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "MASCHIO e KELANY: \"Disposizioni concernenti la sospensione della fruizione di benefìci erogati dai comuni in caso di violazione delle ordinanze comunali in materia di sicurezza e decoro urbano nonché in caso di condanna di un minorenne a pena detentiva di durata non inferiore a un anno\" (3147)",
+      "stato": "Assegnato",
+      "data": "2026-11-25",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3147"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BILLI e GIGLIO VIGNA: \"Modifica all&rsquo;articolo 19 del decreto legislativo 5 aprile 2006, n. 160, in materia di permanenza presso il medesimo ufficio dei magistrati addetti alla trattazione delle controversie concernenti la proprietà industriale\" (3108)",
+      "stato": "Assegnato",
+      "data": "2026-11-25",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3108"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "L'ABBATE: \"Disposizioni per la realizzazione di coperture fotovoltaiche, alberature e interventi di adattamento ai cambiamenti climatici nei parcheggi aperti al pubblico\" (3139)",
+      "stato": "Assegnato",
+      "data": "2026-11-25",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3139"
     },
     {
       "ramo": "Senato",
@@ -297,46 +367,32 @@
       "link": "http://dati.senato.it/ddl/58524"
     },
     {
-      "ramo": "Senato",
-      "titolo": "Istituzione di uno scudo democratico a difesa delle libertà costituzionali e dell'integrità del processo democratico dalle ingerenze straniere",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/59112"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Disposizioni in materia di individuazione, detenzione e gestione dei cani potenzialmente pericolosi",
-      "stato": "assegnato (no esame)",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/59241"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 842 del codice civile, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/59188"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/59176"
-    },
-    {
-      "ramo": "Senato",
-      "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-      "stato": "esame in comm.",
-      "data": "2026-11-24",
-      "link": "http://dati.senato.it/ddl/60236"
-    },
-    {
       "ramo": "Camera",
       "titolo": "COLOMBO ed altri: \"Disposizioni in materia di individuazione, detenzione e gestione dei cani potenzialmente pericolosi\" (2446)",
       "stato": "Assegnato",
       "data": "2026-11-24",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2446"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 2053. - \"Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell&rsquo;anno scolastico 2026/2027, per l&rsquo;accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell&rsquo;istruzione e del merito, per la promozione dell&rsquo;integrazione degli studenti stranieri nell&rsquo;ambito scolastico, nonché in materia di formazione superiore e ricerca\" &lt;i&gt;(approvato dal Senato) &lt;/i&gt;(3189)",
+      "stato": "In discussione",
+      "data": "2026-11-24",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3189"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "L'ABBATE: \"Disposizioni per il riconoscimento, la salvaguardia e la valorizzazione della Festa delle Fanove di Castellana Grotte quale espressione del patrimonio culturale immateriale nazionale\" (3196)",
+      "stato": "Da assegnare",
+      "data": "2026-11-24",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3196"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "GALLO: \"Modifica all&rsquo;articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali\" (3195)",
+      "stato": "Da assegnare",
+      "data": "2026-11-24",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3195"
     },
     {
       "ramo": "Camera",
@@ -365,6 +421,13 @@
       "stato": "Assegnato",
       "data": "2026-11-23",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2756"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 1004. - Senatori ROMEO ed altri: &quot;Disposizioni per il contrasto all&rsquo;antisemitismo e per l&rsquo;adozione della definizione operativa di antisemitismo&quot; &lt;em&gt;(approvata dal Senato) &lt;/em&gt;(2830)",
+      "stato": "Approvato definitivamente. Legge",
+      "data": "2026-11-23",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2830"
     },
     {
       "ramo": "Camera",
@@ -617,69 +680,6 @@
       "stato": "Assegnato",
       "data": "2026-11-17",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3109"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "GRIPPO: \"Istituzione del Parco archeologico culturale di Tuscolo\" (3138)",
-      "stato": "Assegnato",
-      "data": "2026-11-17",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3138"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "D'ALESSIO: \"Modifica all&rsquo;articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali\" (3185)",
-      "stato": "Assegnato",
-      "data": "2026-11-17",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3185"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "AURIEMMA e D'ORSO: \"Modifica all&rsquo;articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali\" (3186)",
-      "stato": "Assegnato",
-      "data": "2026-11-17",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3186"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 28 settembre 2026, n. 167, recante misure urgenti per la circolazione dei veicoli ad alimentazione &lt;i&gt;diesel&lt;/i&gt; appartenenti alla categoria ambientale &ldquo;EURO 5&rdquo;\" (3119)",
-      "stato": "Approvato definitivamente dal Senato, non ancora pubblicato",
-      "data": "2026-11-17",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3119"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO REGIONALE DELL&#39;ABRUZZO: &quot;Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero&quot; (360)",
-      "stato": "In discussione",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_360"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO REGIONALE DEL VENETO: &quot;Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero&quot; (1404)",
-      "stato": "In discussione",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1404"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO REGIONALE DELLA LOMBARDIA: \"Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero\" (636)",
-      "stato": "In discussione",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_636"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO REGIONALE DELLA CAMPANIA: \"Modifiche al decreto legislativo 7 settembre 2012, n. 155, recante nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero\" (766)",
-      "stato": "In discussione",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_766"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MORRONE: &quot;Modifiche alla tabella A allegata all&rsquo;ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, e altre disposizioni concernenti la rideterminazione dei circondari dei tribunali di Urbino e di Rimini&quot; (1661)",
-      "stato": "In discussione",
-      "data": "2026-11-16",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1661"
     }
   ]
 }
