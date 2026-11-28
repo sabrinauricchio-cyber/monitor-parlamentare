@@ -1,7 +1,7 @@
 {
   "stato": "OK",
   "messaggio": "Entrambe le fonti (Senato e Camera) funzionano.",
-  "aggiornato_il": "2026-11-27 23:47",
+  "aggiornato_il": "2026-11-28 13:59",
   "fonti": [
     {
       "fonte": "Senato",
@@ -141,6 +141,20 @@
       "stato": "in relazione",
       "data": "2026-11-27",
       "link": "http://dati.senato.it/ddl/60441"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "GIACHETTI: \"Introduzione dell&rsquo;articolo 47-&lt;i&gt;septies&lt;/i&gt; della legge 26 luglio 1975, n. 354, in materia di detenzione domiciliare allargata nei casi di eccezionale distanza temporale tra la commissione del reato e l&rsquo;esecuzione della pena\" (3144)",
+      "stato": "Assegnato",
+      "data": "2026-11-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3144"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "GIACHETTI: \"Introduzione dell&rsquo;articolo 656-&lt;i&gt;bis &lt;/i&gt;del codice di procedura penale e altre disposizioni concernenti una modalità speciale di esecuzione non carceraria della pena detentiva per i condannati ultrasettantacinquenni\" (3143)",
+      "stato": "Assegnato",
+      "data": "2026-11-27",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3143"
     },
     {
       "ramo": "Senato",
@@ -291,6 +305,125 @@
     },
     {
       "ramo": "Camera",
+      "titolo": "BRUZZONE ed altri: \"Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica\" (136)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_136"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BOF ed altri: &quot;Disposizioni per l&rsquo;integrazione delle norme adottate in attuazione della direttiva 92/43/CEE del Consiglio, del 21 maggio 1992, relativa alla conservazione degli &lt;em&gt;habitat&lt;/em&gt; naturali e seminaturali e della flora e della fauna selvatiche, mediante introduzione di un regime di deroga per la specie &lt;em&gt;canis lupus&lt;/em&gt;&quot; (1081)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1081"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CONSIGLIO REGIONALE DEL FRIULI VENEZIA GIULIA: \"Norme in materia di prevenzione dei danni causati dalla fauna selvatica. Modifica alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio\" (1002)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1002"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BRAMBILLA: \"Modifiche alla legge 11 febbraio 1992, n. 157, in materia di periodi di attivit&agrave; venatoria, di divieto dell&rsquo;esercizio venatorio con l&rsquo;accompagnamento di minori e di disciplina del rilascio della licenza di porto di fucile per uso di caccia\" (54)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_54"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BRAMBILLA: \"Modifiche agli articoli 12, 13 e 22 della legge 11 febbraio 1992, n. 157, in materia di divieto dell&rsquo;esercizio dell&rsquo;attivit&agrave; venatoria mediante l&rsquo;uso dell&rsquo;arco\" (1541)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1541"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "SERGIO COSTA ed altri: \"Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio\" (1652)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1652"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BRAMBILLA ed altri: &quot;Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio&quot; (1670)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1670"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ZANELLA ed altri: &quot;Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio&quot; (1673)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1673"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BRUZZONE ed altri: \"Modifica all&rsquo;articolo 2 della legge 11 febbraio 1992, n. 157, in materia di esclusione del lupo (&lt;em&gt;canis lupus&lt;/em&gt;) dall&rsquo;elenco delle specie particolarmente protette\" (2162)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2162"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ZANELLA: &quot;Modifiche all&rsquo;articolo 842 del codice civile, in materia di abolizione del diritto di accesso al fondo altrui per l&rsquo;esercizio della caccia&quot; (2422)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2422"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CARAMIELLO ed altri: \"Modifiche all&rsquo;articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l&rsquo;esercizio della caccia\" (2413)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2413"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BRAMBILLA: \"Modifiche all&rsquo;articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l&rsquo;esercizio della caccia\" (27)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_27"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CARAMIELLO ed altri: \"Modifiche alla legge 11 febbraio 1992, n. 157, e all&rsquo;articolo 544-&lt;em&gt;ter &lt;/em&gt;del codice penale, in materia di divieto di utilizzo dei richiami vivi nell&rsquo;attivit&agrave; venatoria\" (2047)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2047"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 1552. - Senatori MALAN ed altri: \"Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio\"&lt;i&gt;(approvata dal Senato)&lt;/i&gt;&nbsp;(2984)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2984"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "BONELLI ed altri: \"Divieto generale dell&rsquo;attività venatoria e disposizioni per la tutela delle specie &lt;i&gt;Canis lupus&lt;/i&gt; e &lt;i&gt;Ursus arctos&lt;/i&gt;\" (3201)",
+      "stato": "Da assegnare",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3201"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "ZANELLA ed altri: \"Introduzione dell&rsquo;articolo 19.1 e modifica all&rsquo;articolo 27 della legge 11 febbraio 1992, n. 157, concernenti il diritto all&rsquo;obiezione di coscienza per il personale addetto al controllo della fauna selvatica e la formazione del personale preposto alla vigilanza venatoria\" (2799)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2799"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "\"Legge quadro per la salute e la sicurezza nelle piscine\" (2576)",
+      "stato": "Concluso l'esame da parte della Commissione. In stato di relazione",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2576"
+    },
+    {
+      "ramo": "Camera",
       "titolo": "CONSIGLIO REGIONALE DEL PIEMONTE: \"Disposizioni in materia di attività libero-professionale del personale delle professioni sanitarie\" (3187)",
       "stato": "Assegnato",
       "data": "2026-11-26",
@@ -316,6 +449,27 @@
       "stato": "Assegnato",
       "data": "2026-11-26",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3199"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "S. 2053. - \"Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell&rsquo;anno scolastico 2026/2027, per l&rsquo;accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell&rsquo;istruzione e del merito, per la promozione dell&rsquo;integrazione degli studenti stranieri nell&rsquo;ambito scolastico, nonché in materia di formazione superiore e ricerca\" &lt;i&gt;(approvato dal Senato) &lt;/i&gt;(3189)",
+      "stato": "Approvato definitivamente, non ancora pubblicato",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3189"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "L'ABBATE: \"Disposizioni per la salvaguardia, il recupero e la valorizzazione delle &lt;i&gt;cummerse&lt;/i&gt; di Locorotondo e delle analoghe tipologie architettoniche tradizionali della Valle d&rsquo;Itria\" (3200)",
+      "stato": "Da assegnare",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3200"
+    },
+    {
+      "ramo": "Camera",
+      "titolo": "CIOCCHETTI: \"Istituzione della Giornata nazionale per la donazione del midollo osseo e delle cellule staminali ematopoietiche\" (3202)",
+      "stato": "Da assegnare",
+      "data": "2026-11-26",
+      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3202"
     },
     {
       "ramo": "Senato",
@@ -526,160 +680,6 @@
       "stato": "Approvato. Trasmesso al Senato",
       "data": "2026-11-19",
       "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3133"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 2053. - \"Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell&rsquo;anno scolastico 2026/2027, per l&rsquo;accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell&rsquo;istruzione e del merito, per la promozione dell&rsquo;integrazione degli studenti stranieri nell&rsquo;ambito scolastico, nonché in materia di formazione superiore e ricerca\" &lt;i&gt;(approvato dal Senato) &lt;/i&gt;(3189)",
-      "stato": "Da assegnare",
-      "data": "2026-11-19",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3189"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 2053. - \"Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell&rsquo;anno scolastico 2026/2027, per l&rsquo;accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell&rsquo;istruzione e del merito, per la promozione dell&rsquo;integrazione degli studenti stranieri nell&rsquo;ambito scolastico, nonché in materia di formazione superiore e ricerca\" &lt;i&gt;(approvato dal Senato) &lt;/i&gt;(3189)",
-      "stato": "Assegnato",
-      "data": "2026-11-19",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3189"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "MONTEMAGNI ed altri: \"Introduzione dell&rsquo;articolo 219-&lt;i&gt;ter&lt;/i&gt; del decreto legislativo 3 aprile 2006, n. 152, e altre disposizioni concernenti il sistema nazionale di deposito cauzionale e restituzione degli imballaggi monouso per bevande, la tutela degli utilizzatori e la verifica indipendente dei dati\" (3167)",
-      "stato": "Assegnato",
-      "data": "2026-11-19",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3167"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "QUARTINI ed altri: \"Istituzione del servizio civile volontario delle persone anziane\" (3173)",
-      "stato": "Assegnato",
-      "data": "2026-11-19",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3173"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "EVI ed altri: \"Modifiche al codice dell&rsquo;ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, e al decreto legislativo 19 agosto 2016, n. 177, concernenti l&rsquo;organizzazione dell&rsquo;Arma dei carabinieri per la tutela forestale, ambientale e agroalimentare, i ruoli e il reclutamento del personale a essa destinato\" (3064)",
-      "stato": "Assegnato",
-      "data": "2026-11-19",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3064"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "DORI: \"Disposizioni concernenti l&rsquo;istituzione e la gestione di cimiteri per animali da compagnia nonché in materia di inumazione, tumulazione e cremazione dei medesimi animali\" (3126)",
-      "stato": "Assegnato",
-      "data": "2026-11-19",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3126"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BILLI: \"Modifica agli articoli 6-&lt;i&gt;ter&lt;/i&gt; del decreto-legge 27 giugno 2003, n. 151, convertito, con modificazioni, dalla legge 1° agosto 2003, n. 214, e 126-&lt;i&gt;bis&lt;/i&gt; del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, in materia di recupero dei punti della patente di guida rilasciata da uno Stato estero\" (3101)",
-      "stato": "Ritirato",
-      "data": "2026-11-19",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3101"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 2053. - \"Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell&rsquo;anno scolastico 2026/2027, per l&rsquo;accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell&rsquo;istruzione e del merito, per la promozione dell&rsquo;integrazione degli studenti stranieri nell&rsquo;ambito scolastico, nonché in materia di formazione superiore e ricerca\" &lt;i&gt;(approvato dal Senato) &lt;/i&gt;(3189)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-11-19",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3189"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "S. 483. - CANTU' ed altri: \"Disposizioni per la prevenzione e la cura delle patologie oculari cronico-degenerative, in particolare della maculopatia degenerativa miopica e senile\" &lt;i&gt;(approvata dal Senato)&lt;/i&gt;&nbsp;(3191)",
-      "stato": "Da assegnare",
-      "data": "2026-11-19",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3191"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "PROPOSTA DI LEGGE D'INIZIATIVA POPOLARE: \"Misure per la rigenerazione urbana del commercio e dei servizi di prossimità\" (3190)",
-      "stato": "Da assegnare",
-      "data": "2026-11-19",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3190"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 28 settembre 2026, n. 167, recante misure urgenti per la circolazione dei veicoli ad alimentazione &lt;i&gt;diesel&lt;/i&gt; appartenenti alla categoria ambientale &ldquo;EURO 5&rdquo;\" (3119)",
-      "stato": "Approvato definitivamente dal Senato. Legge",
-      "data": "2026-11-19",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3119"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Delega al Governo per la riforma della disciplina dell&rsquo;ordinamento della professione di dottore commercialista e di esperto contabile\" (2628)",
-      "stato": "Approvato definitivamente dal Senato. Legge",
-      "data": "2026-11-19",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2628"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BISA ed altri: \"Modifica all&rsquo;articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali\" (1232)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-11-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1232"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "VARCHI ed altri: \"Modifica all&rsquo;articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali\" (863)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-11-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_863"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO REGIONALE DELLE MARCHE: &quot;Modifica all&rsquo;articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione dei termini processuali nel periodo feriale&quot; (1824)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-11-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_1824"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "SOTTANELLI: &quot;Modifica all&rsquo;articolo 1 della legge 7 aprile 2014, n. 56, in materia di istituzione della citt&agrave; metropolitana di Pescara&quot; (2915)",
-      "stato": "Assegnato",
-      "data": "2026-11-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_2915"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "CONSIGLIO REGIONALE DEL VENETO: \"Modifica all&rsquo;articolo 1277 del codice civile in materia di tutela del diritto alla libertà di pagamento in contanti\" (3146)",
-      "stato": "Assegnato",
-      "data": "2026-11-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3146"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "BELLOMO ed altri: \"Modifica all&rsquo;articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali\" (3184)",
-      "stato": "Assegnato",
-      "data": "2026-11-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3184"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "D'ALESSIO: \"Modifica all&rsquo;articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali\" (3185)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-11-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3185"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "AURIEMMA e D'ORSO: \"Modifica all&rsquo;articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali\" (3186)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-11-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3186"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l&rsquo;economia circolare e le bonifiche\" (3133)",
-      "stato": "In discussione",
-      "data": "2026-11-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3133"
-    },
-    {
-      "ramo": "Camera",
-      "titolo": "\"Conversione in legge del decreto-legge 11 novembre 2026, n. 205, recante piano straordinario per i Campi Flegrei nonché ulteriori disposizioni urgenti di protezione civile\" (3181)",
-      "stato": "In corso di esame in Commissione",
-      "data": "2026-11-18",
-      "link": "http://dati.camera.it/ocd/attocamera.rdf/ac19_3181"
     }
   ]
 }
